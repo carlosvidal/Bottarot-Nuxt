@@ -36,7 +36,8 @@ watch(
     if (isFullyRegistered) {
       router.push('/chat')
     }
-  }
+  },
+  { immediate: true }
 )
 
 const handleGoogleLogin = async () => {
