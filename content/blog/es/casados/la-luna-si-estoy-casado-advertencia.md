@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta La Luna en el contexto del mat
 category: "casados"
 tags: ["La Luna tarot", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "interpretación tarot", "arcanos-mayores", "la-luna", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "es"
 readingTime: 7
 seo:

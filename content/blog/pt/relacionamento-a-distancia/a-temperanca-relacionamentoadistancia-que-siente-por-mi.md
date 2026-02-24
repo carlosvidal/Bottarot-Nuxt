@@ -4,7 +4,7 @@ description: "Descubra a mensagem da carta A Temperança para relacionamentos à
 category: "relacionamento-a-distancia"
 tags: ["a-temperanca-tarot", "relacionamento-a-distancia", "tarot-emocional", "arcanos-maiores", "a-temperanca", "relacionamento-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 5
 seo:

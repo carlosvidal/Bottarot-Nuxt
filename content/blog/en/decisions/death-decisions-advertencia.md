@@ -4,7 +4,7 @@ description: "Discover the warning message of the Death card (Arcana 13) in cruc
 category: "decisions"
 tags: ["death-tarot", "important-decisions-tarot", "major-arcana-13", "transformation-tarot", "tarot-warning", "major-arcana", "death-card", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Mundo en el contex
 category: "ex-pareja"
 tags: ["El Mundo tarot", "significado El Mundo", "tarot ex pareja", "ex pareja volverá mi ex", "arcanos mayores", "arcanos-mayores", "el-mundo", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

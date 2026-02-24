@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Carro en el amor. Una guía
 category: "amor"
 tags: ["El Carro tarot amor", "El Carro si o no", "significado El Carro en el amor", "tarot amor", "arcanos mayores", "lectura de tarot", "arcanos-mayores", "el-carro", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7
 seo:

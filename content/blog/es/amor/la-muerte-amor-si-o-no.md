@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Muerte en el tarot del amor
 category: "amor"
 tags: ["La Muerte tarot amor", "tarot amor", "significado La Muerte en el amor", "arcanos mayores", "arcanos-mayores", "la-muerte", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6
 seo:

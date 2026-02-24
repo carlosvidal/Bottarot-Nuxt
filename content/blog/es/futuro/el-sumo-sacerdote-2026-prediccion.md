@@ -4,7 +4,7 @@ description: "Descubre el significado de El Sumo Sacerdote para 2026. Una guía 
 category: "futuro"
 tags: ["El Sumo Sacerdote", "tarot 2026", "predicción tarot", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-sumo-sacerdote", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

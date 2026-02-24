@@ -4,7 +4,7 @@ description: "Scopri il messaggio di allerta de Gli Amanti nel contesto del 'se 
 category: "sposati"
 tags: ["gli-amanti", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "relazioni-tarot", "arcani-maggiori", "gli-amanti", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

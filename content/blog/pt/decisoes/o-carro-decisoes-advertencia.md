@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência de O Carro (Arcano 7) em decis
 category: "decisoes"
 tags: ["o-carro-tarot", "decisoes-importantes-tarot", "arcano-maior-7", "advertencia-tarot", "arcanos-maiores", "o-carro", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5
 seo:

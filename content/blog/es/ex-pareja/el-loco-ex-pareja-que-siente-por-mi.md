@@ -4,7 +4,7 @@ description: "Descubre el mensaje del Arcano Mayor El Loco sobre los sentimiento
 category: "ex-pareja"
 tags: ["El Loco tarot", "tarot ex pareja", "arcanos mayores", "lectura de tarot", "qué siente mi ex", "arcanos-mayores", "el-loco", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

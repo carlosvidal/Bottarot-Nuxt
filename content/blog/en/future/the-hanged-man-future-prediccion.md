@@ -4,7 +4,7 @@ description: "Discover The Hanged Man's message for 2026. A guide to its symboli
 category: "future"
 tags: ["the-hanged-man", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "the-hanged-man", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

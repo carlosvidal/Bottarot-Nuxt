@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Diable dans le contexte
 category: "mariage"
 tags: ["le-diable-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "relations-tarot", "arcanes-majeurs", "le-diable", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

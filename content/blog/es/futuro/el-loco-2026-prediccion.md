@@ -4,7 +4,7 @@ description: "Explora el significado de El Loco en 2026. Descubre cómo su energ
 category: "futuro"
 tags: ["El Loco tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "El Loco significado", "arcanos-mayores", "el-loco", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

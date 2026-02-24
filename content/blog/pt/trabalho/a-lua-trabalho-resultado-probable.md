@@ -4,7 +4,7 @@ description: "Descubra o significado de A Lua no tarô para o trabalho. Interpre
 category: "trabalho"
 tags: ["a-lua-tarot-trabalho", "a-lua-resultado-provavel", "significado-a-lua-no-trabalho", "tarot-trabalho", "arcanos-maiores", "a-lua", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

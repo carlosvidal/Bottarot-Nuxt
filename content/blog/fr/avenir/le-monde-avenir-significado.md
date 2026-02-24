@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Monde dans le 
 category: "avenir"
 tags: ["le-monde-tarot", "tarot-futur", "signification-le-monde", "arcanes-majeurs", "signification-tarot", "arcane-majeur", "le-monde", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

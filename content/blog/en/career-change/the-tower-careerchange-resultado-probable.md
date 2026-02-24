@@ -4,7 +4,7 @@ description: "Discover the meaning of The Tower tarot card in a career change. I
 category: "career-change"
 tags: ["the-tower-tarot", "career-change-tarot", "major-arcana", "professional-tarot", "major-arcana", "the-tower", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Papesse dans le contexte de l'ar
 category: "argent"
 tags: ["la-papesse-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "intuition-financiere", "arcanes-majeurs", "la-papesse", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

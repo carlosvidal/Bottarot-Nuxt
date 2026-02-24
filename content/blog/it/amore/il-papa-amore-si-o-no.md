@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Papa nell'amore. Una guida approfondit
 category: "amore"
 tags: ["il-papa-tarocchi-amore", "il-papa-si-o-no", "significato-il-papa-amore", "tarocchi-amore", "arcani-maggiori", "il-papa", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7
 seo:

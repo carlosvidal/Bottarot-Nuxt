@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Mort dans le t
 category: "relation-a-distance"
 tags: ["tarot-relation-a-distance", "la-mort-tarot", "que-ressent-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "la-mort", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

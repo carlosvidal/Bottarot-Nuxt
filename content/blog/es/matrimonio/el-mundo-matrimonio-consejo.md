@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Mundo en el contexto del ma
 category: "matrimonio"
 tags: ["El Mundo tarot", "tarot matrimonio", "arcanos mayores", "consejos tarot", "plenitud conyugal", "arcanos-mayores", "el-mundo", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7
 seo:

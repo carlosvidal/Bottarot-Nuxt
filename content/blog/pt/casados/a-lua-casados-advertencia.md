@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Lua no contexto do casamento. Um
 category: "casados"
 tags: ["a-lua-tarot", "tarot-se-estou-casado", "advertencia-tarot", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "a-lua", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

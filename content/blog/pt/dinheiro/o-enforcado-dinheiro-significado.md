@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Enforcado no contexto d
 category: "dinheiro"
 tags: ["o-enforcado", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-espirituais", "arcanos-maiores", "o-enforcado", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Bateleur dans 
 category: "avenir"
 tags: ["le-bateleur-tarot", "signification-le-bateleur", "tarot-futur", "arcanes-majeurs", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

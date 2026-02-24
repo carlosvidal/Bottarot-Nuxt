@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Giustizia in un cambio di lav
 category: "cambio-lavoro"
 tags: ["la-giustizia-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-lavoro", "arcani-maggiori", "la-giustizia", "cambio-di-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

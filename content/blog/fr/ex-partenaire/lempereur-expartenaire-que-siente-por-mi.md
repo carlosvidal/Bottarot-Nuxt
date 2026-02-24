@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Empereur dans le context
 category: "ex-partenaire"
 tags: ["l-empereur-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "que-ressent-mon-ex", "arcanes-majeurs", "l-empereur", "ex-partenaires"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

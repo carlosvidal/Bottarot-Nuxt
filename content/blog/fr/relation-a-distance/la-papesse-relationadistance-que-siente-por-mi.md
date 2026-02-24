@@ -4,7 +4,7 @@ description: "Découvrez le message de La Papesse dans votre relation à distanc
 category: "relation-a-distance"
 tags: ["la-papesse-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-amour", "arcanes-majeurs", "la-papesse"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

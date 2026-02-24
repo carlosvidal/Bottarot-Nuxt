@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Étoile (Arcane 17) dans votre changeme
 category: "changement-emploi"
 tags: ["l-etoile-tarot", "changement-d-emploi-tarot", "arcanes-majeurs", "tarot-professionnel", "resultat-probable-tarot", "arcanes-majeurs", "l-etoile", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7
 seo:

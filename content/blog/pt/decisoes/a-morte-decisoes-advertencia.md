@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta da carta A Morte (Arcano 13) em deci
 category: "decisoes"
 tags: ["a-morte-tarot", "decisoes-importantes-tarot", "arcano-maior-13", "transformacao-tarot", "alerta-tarot", "arcanos-maiores", "a-morte", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

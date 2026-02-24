@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Matto in amore. Un viaggio si
 category: "amore"
 tags: ["il-matto-tarot-amore", "il-matto-significato", "tarot-amore", "arcani-maggiori", "il-matto", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

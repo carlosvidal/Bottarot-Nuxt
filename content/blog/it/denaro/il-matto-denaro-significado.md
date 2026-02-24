@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Matto del tarot nel 
 category: "denaro"
 tags: ["il-matto-tarot", "tarot-denaro", "significato-il-matto", "arcani-maggiori", "finanze-tarot", "arcani-maggiori", "il-matto", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

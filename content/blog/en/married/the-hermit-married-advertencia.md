@@ -4,7 +4,7 @@ description: "Discover the warning message of The Hermit tarot card in the conte
 category: "married"
 tags: ["the-hermit", "tarot-am-i-married", "tarot-warning", "major-arcana", "tarot-interpretation", "major-arcana", "the-hermit", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

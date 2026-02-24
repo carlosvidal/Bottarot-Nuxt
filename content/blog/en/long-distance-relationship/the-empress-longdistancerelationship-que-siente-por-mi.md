@@ -4,7 +4,7 @@ description: "Discover the message of The Empress in your long-distance relation
 category: "long-distance-relationship"
 tags: ["the-empress-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana-cards", "the-empress", "long-distance-love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

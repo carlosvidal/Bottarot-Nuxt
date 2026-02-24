@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Luna en el contexto del din
 category: "dinero"
 tags: ["La Luna tarot", "tarot dinero", "significado La Luna", "arcanos mayores dinero", "finanzas y tarot", "arcanos-mayores", "la-luna", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__dinero-significado.webp"
 locale: "es"
 readingTime: 7
 seo:

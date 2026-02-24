@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Imperatrice nel tarocco quando
 category: "ex-partner"
 tags: ["l-imperatrice", "tarocco-ex-partner", "significato-tarocco", "arcani-maggiori", "riconciliazione", "arcani-maggiori", "l-imperatrice", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Giudizio nel futuro. Un'anali
 category: "futuro"
 tags: ["il-giudizio-tarocchi", "tarocchi-futuro", "significato-tarocchi", "arcani-maggiori", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

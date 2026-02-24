@@ -4,7 +4,7 @@ description: "Discover the warning message of The High Priestess in important de
 category: "decisions"
 tags: ["the-high-priestess-tarot", "tarot-important-decisions", "major-arcana", "tarot-intuition", "tarot-warning", "major-arcana", "the-high-priestess", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

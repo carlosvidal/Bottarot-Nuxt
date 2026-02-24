@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Maison Dieu da
 category: "travail"
 tags: ["la-maison-dieu-tarot-travail", "la-maison-dieu-signification", "tarot-travail", "arcanes-majeurs", "la-maison-dieu", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

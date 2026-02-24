@@ -4,7 +4,7 @@ description: "Découvrez la signification du Bateleur dans le contexte du mariag
 category: "maries"
 tags: ["le-bateleur-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseils-tarot", "arcanes-majeurs", "le-bateleur", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

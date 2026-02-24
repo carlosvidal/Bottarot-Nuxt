@@ -29,7 +29,7 @@
     <div class="blog-grid">
       <BlogCard
         v-for="post in filteredPosts"
-        :key="post._path"
+        :key="post.path"
         :post="post"
       />
     </div>
@@ -56,13 +56,15 @@ useSeoMeta({
   ogType: 'website',
 })
 
+const { locale } = useI18n()
+
 const selectedCategory = ref('')
 
-const { data: posts } = await useAsyncData('blog-posts', () =>
-  queryCollection('blog_en')
+const { data: posts } = await useAsyncData(`blog-posts-${locale.value}`, () =>
+  queryBlogCollection(locale.value)
     .order('publishedAt', 'DESC')
     .all()
-)
+, { watch: [locale] })
 
 const categories = computed(() => {
   if (!posts.value) return []

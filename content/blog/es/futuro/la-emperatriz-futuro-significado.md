@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Emperatriz en el futuro. Un
 category: "futuro"
 tags: ["La Emperatriz", "tarot futuro", "arcanos mayores", "significado tarot", "arcanos-mayores", "la-emperatriz", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__futuro-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

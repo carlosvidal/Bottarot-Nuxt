@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Sole (Arcano 19) in un cambio di lavoro.
 category: "cambio-lavoro"
 tags: ["il-sole-tarocchi", "cambio-lavoro", "tarocchi-lavoro", "arcani-maggiori", "il-sole", "cambiamento-professionale"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

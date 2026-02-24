@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Chariot for the future. Learn
 category: "future"
 tags: ["the-chariot-tarot", "tarot-meaning", "major-arcana", "future-tarot", "major-arcana", "the-chariot", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

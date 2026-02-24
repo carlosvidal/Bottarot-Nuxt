@@ -4,7 +4,7 @@ description: "Discover the message of The Star (Major Arcana 17) in your career 
 category: "career-change"
 tags: ["the-star-tarot", "career-change-tarot", "major-arcana", "professional-tarot", "probable-outcome-tarot", "major-arcana", "the-star", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

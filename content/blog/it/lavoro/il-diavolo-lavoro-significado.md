@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Diavolo nel contesto
 category: "lavoro"
 tags: ["il-diavolo-tarocchi", "tarocchi-lavoro", "significato-tarocchi", "arcani-maggiori", "tarocchi-professionale", "arcani-maggiori", "il-diavolo", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il significato de La Giustizia dei tarocchi nell'ambito lav
 category: "lavoro"
 tags: ["la-giustizia-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "equilibrio-lavorativo", "etica-professionale", "arcani-maggiori", "la-giustizia", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

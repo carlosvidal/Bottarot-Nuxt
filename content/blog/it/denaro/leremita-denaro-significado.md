@@ -4,7 +4,7 @@ description: "Scopri il significato della carta L'Eremita nel contesto del denar
 category: "denaro"
 tags: ["l-eremita-tarot-denaro", "l-eremita-significato", "tarot-denaro", "arcani-maggiori-denaro", "arcani-maggiori", "l-eremita", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

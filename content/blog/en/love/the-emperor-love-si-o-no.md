@@ -4,7 +4,7 @@ description: "Discover the meaning of The Emperor tarot card in love. Is it a ye
 category: "love"
 tags: ["the-emperor-tarot-love", "the-emperor-yes-or-no", "meaning-the-emperor-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-emperor", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "en"
 readingTime: 5
 seo:

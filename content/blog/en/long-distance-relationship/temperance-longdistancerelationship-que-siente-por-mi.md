@@ -4,7 +4,7 @@ description: "Discover the message of the Temperance card in long-distance relat
 category: "long-distance-relationship"
 tags: ["temperance-tarot", "long-distance-relationship", "emotional-tarot", "major-arcana", "temperance", "long-distance-love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

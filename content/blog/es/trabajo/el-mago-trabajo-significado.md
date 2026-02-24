@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta de El Mago en el cont
 category: "trabajo"
 tags: ["El Mago tarot trabajo", "El Mago significado", "tarot trabajo", "Arcanos Mayores", "arcanos-mayores", "el-mago", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the meaning of the Judgement card in the context of marri
 category: "married"
 tags: ["judgement-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "tarot-interpretation", "major-arcana", "judgement", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

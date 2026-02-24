@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Juicio en el conte
 category: "trabajo"
 tags: ["El Juicio tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "tarot profesional", "arcanos-mayores", "el-juicio", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__trabajo-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

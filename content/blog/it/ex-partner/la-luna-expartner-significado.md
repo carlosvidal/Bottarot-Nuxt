@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Luna nel tarocco quando ti ch
 category: "ex-partner"
 tags: ["la-luna-tarocco", "ex-partner-tornera", "significato-la-luna", "tarocco-ex-partner", "arcani-maggiori", "arcano-maggiore", "la-luna", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

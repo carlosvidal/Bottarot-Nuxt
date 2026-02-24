@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Star card in the context of m
 category: "money"
 tags: ["the-star-tarot", "tarot-money", "the-star-meaning", "major-arcana", "abundance", "major-arcana", "the-star", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Tempérance dans le con
 category: "travail"
 tags: ["la-temperance-tarot-travail", "la-temperance-resultat-probable", "signification-la-temperance-travail", "tarot-travail", "arcanes-majeurs", "equilibre-professionnel", "arcanes-majeurs", "la-temperance", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

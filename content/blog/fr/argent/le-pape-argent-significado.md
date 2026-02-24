@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Pape dans le c
 category: "argent"
 tags: ["le-pape-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-pape", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

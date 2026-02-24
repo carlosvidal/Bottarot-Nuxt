@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta de O Mago no contexto pro
 category: "trabalho"
 tags: ["o-mago-tarot-trabalho", "o-mago-significado", "tarot-trabalho", "arcanos-maiores", "o-mago", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

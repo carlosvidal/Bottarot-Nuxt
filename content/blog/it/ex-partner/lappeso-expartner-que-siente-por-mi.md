@@ -4,7 +4,7 @@ description: "Decifra il messaggio de L'Appeso nel contesto di un ex partner. Sc
 category: "ex-partner"
 tags: ["l-appeso-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "l-appeso", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

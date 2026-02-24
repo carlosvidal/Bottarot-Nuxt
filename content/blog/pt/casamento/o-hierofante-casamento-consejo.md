@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Hierofante no contexto do cas
 category: "casamento"
 tags: ["o-hierofante", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "espiritualidade-casal", "arcanos-maiores", "o-hierofante", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

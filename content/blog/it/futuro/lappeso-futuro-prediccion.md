@@ -4,7 +4,7 @@ description: "Scopri il messaggio de L'Appeso per il 2026. Una guida sul suo sim
 category: "futuro"
 tags: ["l-appeso", "tarocchi-2026", "previsione-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "l-appeso", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "it"
 readingTime: 5
 seo:

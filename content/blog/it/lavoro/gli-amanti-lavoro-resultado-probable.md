@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Gli Amanti nel contesto lavorati
 category: "lavoro"
 tags: ["gli-amanti-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot-lavoro", "arcani-maggiori", "gli-amanti", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

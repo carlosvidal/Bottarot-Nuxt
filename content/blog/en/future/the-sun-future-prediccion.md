@@ -4,7 +4,7 @@ description: "Discover the meaning of The Sun card for 2026. Explore its energy 
 category: "future"
 tags: ["the-sun-tarot", "tarot-2026", "major-arcana", "tarot-prediction", "major-arcana", "the-sun", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "en"
 readingTime: 6
 seo:

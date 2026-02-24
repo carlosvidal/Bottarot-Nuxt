@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta de A Imperatriz em decisões cruciai
 category: "decisoes"
 tags: ["a-imperatriz", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "simbolismo-tarot", "arcanos-maiores", "a-imperatriz", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

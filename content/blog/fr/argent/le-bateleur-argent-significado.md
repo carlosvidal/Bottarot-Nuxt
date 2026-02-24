@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Bateleur dans 
 category: "argent"
 tags: ["le-bateleur-tarot", "tarot-argent", "signification-bateleur", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-bateleur", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

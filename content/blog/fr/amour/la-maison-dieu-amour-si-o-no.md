@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Maison Dieu en amour. E
 category: "amour"
 tags: ["la-maison-dieu tarot amour", "la-maison-dieu oui ou non", "signification la-maison-dieu en amour", "tarot amour", "arcanes-majeurs", "la-maison-dieu", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta de O Eremita no contexto do 'se esto
 category: "casados"
 tags: ["o-eremita", "tarot-se-estou-casado", "alerta-tarot", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "o-eremita", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

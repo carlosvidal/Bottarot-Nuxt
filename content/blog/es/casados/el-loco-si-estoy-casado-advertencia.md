@@ -4,7 +4,7 @@ description: "Descubre el significado de El Loco en el contexto del matrimonio. 
 category: "casados"
 tags: ["El Loco tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "consejo matrimonial", "arcanos-mayores", "el-loco", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Sol en el tarot pa
 category: "dinero"
 tags: ["El Sol tarot", "tarot dinero", "significado El Sol", "arcanos mayores", "abundancia tarot", "arcanos-mayores", "el-sol", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

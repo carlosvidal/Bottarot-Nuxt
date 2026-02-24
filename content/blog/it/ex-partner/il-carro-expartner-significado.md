@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Carro nel contesto d
 category: "ex-partner"
 tags: ["il-carro-tarot", "significato-il-carro", "tarot-ex-partner", "ex-tornera", "arcano-maggiore-7", "arcani-maggiori", "il-carro", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Jugement en amour. Un g
 category: "amour"
 tags: ["le-jugement-tarot-amour", "le-jugement-oui-ou-non", "signification-le-jugement-en-amour", "tarot-amour", "arcanes-majeurs", "renaissance-amoureuse", "arcanes-majeurs", "le-jugement", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o significado de A Temperança em uma mudança profission
 category: "mudanca-de-emprego"
 tags: ["a-temperanca-tarot", "mudanca-de-emprego", "tarot-profissional", "arcanos-maiores", "a-temperanca", "mudanca-de-carreira"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

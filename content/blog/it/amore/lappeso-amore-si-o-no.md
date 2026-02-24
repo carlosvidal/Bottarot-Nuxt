@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Appeso in amore. Impara a inte
 category: "amore"
 tags: ["l-appeso-tarot-amore", "l-appeso-si-o-no", "significato-l-appeso-in-amore", "tarot-amore", "arcani-maggiori", "lettura-tarot", "arcani-maggiori", "l-appeso", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

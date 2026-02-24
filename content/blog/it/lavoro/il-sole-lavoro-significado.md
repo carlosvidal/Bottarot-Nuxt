@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Sole nel contesto lavorativo.
 category: "lavoro"
 tags: ["il-sole-tarocchi", "tarocchi-lavoro", "significato-il-sole", "arcani-maggiori", "successo-professionale", "arcani-maggiori", "il-sole", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message de La Lune (Arcane 18) dans un changement pr
 category: "changement-emploi"
 tags: ["la-lune-tarot", "changement-de-travail-tarot", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-lune", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

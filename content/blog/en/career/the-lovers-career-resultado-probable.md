@@ -4,7 +4,7 @@ description: "Discover the meaning of The Lovers card in a career context. Inter
 category: "career"
 tags: ["the-lovers-tarot", "tarot-career", "major-arcana", "tarot-career-meaning", "major-arcana", "the-lovers", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

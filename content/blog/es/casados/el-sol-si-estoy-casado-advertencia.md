@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Sol en el contexto del matr
 category: "casados"
 tags: ["El Sol tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "matrimonio tarot", "arcanos-mayores", "el-sol", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

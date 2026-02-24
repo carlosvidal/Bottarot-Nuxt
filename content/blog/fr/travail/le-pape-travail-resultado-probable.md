@@ -4,7 +4,7 @@ description: "Découvrez le message du Pape (Arcane 5) dans votre vie profession
 category: "travail"
 tags: ["le-pape-tarot-travail", "tarot-travail", "signification-le-pape-en-travail", "arcanes-majeurs", "le-pape", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

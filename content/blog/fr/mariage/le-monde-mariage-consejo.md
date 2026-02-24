@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Monde dans le contexte 
 category: "mariage"
 tags: ["le-monde-tarot", "tarot-mariage", "arcanes-majeurs", "conseils-tarot", "plenitude-conjugale", "arcanes-majeurs", "le-monde", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

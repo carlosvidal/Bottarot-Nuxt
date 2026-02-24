@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Diavolo nel contesto di un ex
 category: "ex-partner"
 tags: ["il-diavolo-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "amore-e-tarocchi", "interpretazione-tarocchi", "arcani-maggiori", "il-diavolo", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 7
 seo:

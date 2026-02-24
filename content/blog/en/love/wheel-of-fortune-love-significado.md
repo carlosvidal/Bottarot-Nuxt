@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Wheel of Fortune in love. Lea
 category: "love"
 tags: ["wheel-of-fortune", "love-tarot", "major-arcana", "tarot-meaning", "love-cycles", "major-arcana", "wheel-of-fortune", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

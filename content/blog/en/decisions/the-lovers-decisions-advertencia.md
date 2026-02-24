@@ -4,7 +4,7 @@ description: "Discover the meaning of The Lovers card in crucial decisions. A gu
 category: "decisions"
 tags: ["the-lovers-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-interpretation", "major-arcana", "the-lovers", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

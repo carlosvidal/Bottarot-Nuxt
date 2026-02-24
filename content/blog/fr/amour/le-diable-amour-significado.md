@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Diable en amou
 category: "amour"
 tags: ["le-diable-tarot-amour", "le-diable-signification", "tarot-amour", "arcanes-majeurs", "le-diable", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

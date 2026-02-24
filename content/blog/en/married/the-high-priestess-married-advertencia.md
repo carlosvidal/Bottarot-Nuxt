@@ -4,7 +4,7 @@ description: "Discover the warning message of The High Priestess in the context 
 category: "married"
 tags: ["the-high-priestess", "tarot-if-i-am-married", "tarot-warning", "major-arcana", "intuition-in-marriage", "major-arcana", "the-high-priestess", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

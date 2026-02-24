@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Torre in amore. Non è solo d
 category: "amore"
 tags: ["la-torre-tarocchi-amore", "significato-la-torre", "la-torre-in-amore", "tarocchi-amore", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "la-torre", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

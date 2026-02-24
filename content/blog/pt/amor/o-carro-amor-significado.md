@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Carro no amor. Aprenda sobre 
 category: "amor"
 tags: ["o-carro-tarot-amor", "o-carro-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-carro", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__amor-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

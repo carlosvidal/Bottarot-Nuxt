@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Juicio en el conte
 category: "ex-pareja"
 tags: ["El Juicio tarot", "significado El Juicio", "tarot ex pareja", "arcanos mayores", "renacimiento emocional", "arcanos-mayores", "el-juicio", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

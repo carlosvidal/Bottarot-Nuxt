@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Strength card in love. A guid
 category: "love"
 tags: ["strength-tarot", "love-tarot", "major-arcana", "love-and-relationships", "tarot-yes-or-no", "major-arcana", "strength", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7
 seo:

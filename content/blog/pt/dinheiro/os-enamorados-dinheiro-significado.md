@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta Os Enamorados no contexto
 category: "dinheiro"
 tags: ["os-enamorados-tarot", "tarot-dinheiro", "significado-os-enamorados", "arcanos-maiores-dinheiro", "tarot-financeiro", "arcanos-maiores", "os-enamorados", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

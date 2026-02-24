@@ -4,7 +4,7 @@ description: "Scopri il messaggio dell'Arcano Maggiore La Forza per il 2026. Esp
 category: "futuro"
 tags: ["la-forza-tarocco", "tarocco-2026", "predizione-tarocco", "arcani-maggiori", "significato-tarocco", "arcani-maggiori", "la-forza", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__2026-prediccion.webp"
 locale: "it"
 readingTime: 5
 seo:

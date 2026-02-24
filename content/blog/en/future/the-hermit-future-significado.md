@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hermit in the future. Learn h
 category: "future"
 tags: ["the-hermit-tarot", "tarot-future", "the-hermit-meaning", "major-arcana", "tarot-guide", "major-arcana", "the-hermit", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

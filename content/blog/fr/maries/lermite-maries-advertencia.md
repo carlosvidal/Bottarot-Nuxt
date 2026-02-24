@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de L'Ermite dans le contexte
 category: "maries"
 tags: ["l-ermite", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "l-ermite", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

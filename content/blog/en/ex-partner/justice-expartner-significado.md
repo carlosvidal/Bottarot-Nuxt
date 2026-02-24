@@ -4,7 +4,7 @@ description: "Discover the deep meaning of Justice (Arcana 11) in the context of
 category: "ex-partner"
 tags: ["justice-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "tarot-relationships", "major-arcana", "justice", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

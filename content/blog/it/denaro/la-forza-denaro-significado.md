@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Forza nel contesto d
 category: "denaro"
 tags: ["la-forza-tarocchi", "tarocchi-denaro", "significato-la-forza", "arcani-maggiori-denaro", "abbondanza-tarocchi", "arcani-maggiori", "la-forza", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

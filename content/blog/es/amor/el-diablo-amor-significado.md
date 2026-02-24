@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Diablo en el amor.
 category: "amor"
 tags: ["El Diablo tarot amor", "El Diablo significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-diablo", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

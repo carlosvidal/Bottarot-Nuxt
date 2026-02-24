@@ -4,7 +4,7 @@ description: "Scopri il messaggio di allerta della Ruota della Fortuna nelle dec
 category: "decisioni"
 tags: ["la-ruota-della-fortuna", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "cicli-del-destino", "arcani-maggiori", "la-ruota-della-fortuna", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Loco del tarot en 
 category: "trabajo"
 tags: ["El Loco tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "nuevos comienzos", "arcanos-mayores", "el-loco", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

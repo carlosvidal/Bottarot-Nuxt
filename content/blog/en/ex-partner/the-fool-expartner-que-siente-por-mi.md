@@ -4,7 +4,7 @@ description: "Discover the message of the Major Arcana The Fool about your ex-pa
 category: "ex-partner"
 tags: ["the-fool-tarot", "tarot-ex-partner", "major-arcana", "tarot-reading", "what-does-my-ex-feel", "major-arcana", "the-fool", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Monde dans le 
 category: "ex-partenaire"
 tags: ["le-monde-tarot", "signification-le-monde", "tarot-ex-partenaires", "ex-partenaires-reviendra", "arcanes-majeurs", "le-monde", "ex-partenaires"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

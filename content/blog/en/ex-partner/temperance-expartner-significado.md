@@ -4,7 +4,7 @@ description: "Discover the deep meaning of the Temperance card when asking 'will
 category: "ex-partner"
 tags: ["temperance-tarot", "ex-partner-return", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana", "temperance", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

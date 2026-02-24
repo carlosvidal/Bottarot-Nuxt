@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Pape dans le contexte du m
 category: "mariage"
 tags: ["le-pape", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "spiritualite-couple", "arcanes-majeurs", "le-pape", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

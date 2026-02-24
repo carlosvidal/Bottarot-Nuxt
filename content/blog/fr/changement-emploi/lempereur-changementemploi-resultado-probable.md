@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Empereur dans un changement profe
 category: "changement-emploi"
 tags: ["l-empereur-tarot", "changement-d-emploi", "resultat-probable-tarot", "arcanes-majeurs", "tarot-carriere-professionnelle", "arcanes-majeurs", "l-empereur", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

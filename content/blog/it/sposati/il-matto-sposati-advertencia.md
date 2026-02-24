@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Matto nel contesto del matrimonio. Una
 category: "sposati"
 tags: ["il-matto-tarot", "tarot-matrimonio", "arcani-maggiori", "avvertimento-tarot", "consiglio-matrimoniale", "arcani-maggiori", "il-matto", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

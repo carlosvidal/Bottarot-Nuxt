@@ -4,7 +4,7 @@ description: "Découvrez le message de l'Arcane Majeur Le Mat sur les sentiments
 category: "ex-partenaire"
 tags: ["le-mat-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "que-ressent-mon-ex", "arcanes-majeurs", "le-mat", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

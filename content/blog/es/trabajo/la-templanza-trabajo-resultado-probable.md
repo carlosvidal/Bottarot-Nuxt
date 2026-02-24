@@ -4,7 +4,7 @@ description: "Descubre el significado de La Templanza en el contexto laboral. In
 category: "trabajo"
 tags: ["La Templanza tarot trabajo", "La Templanza resultado probable", "significado La Templanza en el trabajo", "tarot trabajo", "arcanos mayores", "equilibrio laboral", "arcanos-mayores", "la-templanza", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

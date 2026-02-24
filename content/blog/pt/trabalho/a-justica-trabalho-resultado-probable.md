@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Justiça (Arcano 11) na sua vida profissi
 category: "trabalho"
 tags: ["a-justica-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "a-justica", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

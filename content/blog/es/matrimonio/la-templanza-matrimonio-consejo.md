@@ -4,7 +4,7 @@ description: "Descubre el significado de La Templanza en el matrimonio. Consejos
 category: "matrimonio"
 tags: ["La Templanza tarot matrimonio", "La Templanza consejo", "significado La Templanza en el matrimonio", "tarot matrimonio", "arcanos-mayores", "la-templanza", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7
 seo:

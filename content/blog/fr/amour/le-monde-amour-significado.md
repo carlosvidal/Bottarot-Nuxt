@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Monde en amour
 category: "amour"
 tags: ["le-monde-tarot-amour", "le-monde-signification", "tarot-amour", "arcanes-majeurs", "le-monde", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

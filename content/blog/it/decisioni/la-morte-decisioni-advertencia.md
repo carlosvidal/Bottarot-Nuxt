@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Morte (Arcano 13) nelle 
 category: "decisioni"
 tags: ["la-morte-tarocchi", "decisioni-importanti-tarocchi", "arcano-maggiore-13", "trasformazione-tarocchi", "avvertimento-tarocchi", "arcani-maggiori", "la-morte", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

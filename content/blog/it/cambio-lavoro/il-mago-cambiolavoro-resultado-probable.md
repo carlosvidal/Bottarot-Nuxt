@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Mago in un cambio di lavoro. Analizzia
 category: "cambio-lavoro"
 tags: ["il-mago-tarocchi", "cambio-lavoro-tarocchi", "arcani-maggiori", "risultato-probabile-tarocchi", "arcani-maggiori", "il-mago", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Morte per il 2026. Un'analisi
 category: "futuro"
 tags: ["la-morte-tarocco", "tarocco-2026", "previsione-tarocco", "arcani-maggiori", "trasformazione", "arcani-maggiori", "la-morte", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__2026-prediccion.webp"
 locale: "it"
 readingTime: 5
 seo:

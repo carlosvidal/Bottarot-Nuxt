@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la Roue de Fortune en amou
 category: "amour"
 tags: ["la-roue-de-fortune", "tarot-amour", "arcanes-majeurs", "signification-tarot", "cycles-amoureux", "arcanes-majeurs", "la-roue-de-fortune", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

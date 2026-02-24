@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Sol para 2026. Explora su e
 category: "futuro"
 tags: ["El Sol tarot", "tarot 2026", "Arcanos Mayores", "predicción tarot", "arcanos-mayores", "el-sol", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

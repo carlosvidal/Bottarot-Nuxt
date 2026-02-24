@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Sol en el amor. Ap
 category: "amor"
 tags: ["El Sol tarot", "tarot amor", "arcanos mayores", "significado tarot", "El Sol si o no", "arcanos-mayores", "el-sol", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6
 seo:

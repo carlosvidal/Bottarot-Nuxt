@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta de La Fuerza en el co
 category: "trabajo"
 tags: ["La Fuerza tarot", "tarot trabajo", "significado La Fuerza", "Arcanos Mayores", "tarot profesional", "arcanos-mayores", "la-fuerza", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

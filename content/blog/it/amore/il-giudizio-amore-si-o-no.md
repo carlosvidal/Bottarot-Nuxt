@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Giudizio in amore. Una guida 
 category: "amore"
 tags: ["il-giudizio-tarot-amore", "il-giudizio-si-o-no", "significato-il-giudizio-in-amore", "tarot-amore", "arcani-maggiori", "rinascita-amorosa", "arcani-maggiori", "il-giudizio", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

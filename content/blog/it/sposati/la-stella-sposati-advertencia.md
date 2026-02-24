@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Stella nel tarocco se se
 category: "sposati"
 tags: ["la-stella-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "protezione-energetica", "arcani-maggiori", "la-stella", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

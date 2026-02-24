@@ -4,7 +4,7 @@ description: "Scopri il messaggio della Ruota della Fortuna sui sentimenti in un
 category: "relazione-a-distanza"
 tags: ["la-ruota-della-fortuna", "tarot-relazione-a-distanza", "cosa-prova-per-me", "arcani-maggiori", "amore-a-distanza", "arcani-maggiori", "la-ruota-della-fortuna", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

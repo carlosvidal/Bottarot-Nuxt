@@ -15,6 +15,10 @@ const blogSchema = z.object({
     description: z.string().optional(),
     ogImage: z.string().optional(),
   }).optional(),
+  sitemap: z.object({
+    loc: z.string().optional(),
+    lastmod: z.string().optional(),
+  }).optional(),
 })
 
 export default defineContentConfig({

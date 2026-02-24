@@ -4,7 +4,7 @@ description: "Descubre el significado de El Emperador en el matrimonio. Consejos
 category: "matrimonio"
 tags: ["El Emperador", "tarot matrimonio", "consejo tarot", "arcanos mayores", "relaciones", "arcanos-mayores", "el-emperador", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6
 seo:

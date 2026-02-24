@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Luna (Arcano 18) en un cambio laboral. A
 category: "cambio-de-trabajo"
 tags: ["La Luna tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot laboral", "arcanos-mayores", "la-luna", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

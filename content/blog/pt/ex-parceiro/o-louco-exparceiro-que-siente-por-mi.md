@@ -4,7 +4,7 @@ description: "Descubra a mensagem do Arcano Maior O Louco sobre os sentimentos d
 category: "ex-parceiro"
 tags: ["o-louco-tarot", "tarot-ex-parceiro", "arcanos-maiores", "leitura-de-tarot", "o-que-sente-meu-ex", "arcanos-maiores", "o-louco", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

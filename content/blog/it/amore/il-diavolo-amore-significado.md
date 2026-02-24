@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Diavolo in amore. Im
 category: "amore"
 tags: ["il-diavolo-tarocchi-amore", "il-diavolo-significato", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "il-diavolo", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

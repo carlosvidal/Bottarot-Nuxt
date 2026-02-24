@@ -4,7 +4,7 @@ description: "Descubre el significado de El Colgado en el tarot para relaciones 
 category: "relacion-a-distancia"
 tags: ["El Colgado tarot", "relación a distancia", "qué siente por mí", "tarot emocional", "Arcanos Mayores", "arcanos-mayores", "el-colgado", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

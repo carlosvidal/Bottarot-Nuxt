@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Torre nel futuro. Non è dist
 category: "futuro"
 tags: ["la-torre-tarocchi", "tarocchi-futuro", "significato-la-torre", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "la-torre", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

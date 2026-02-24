@@ -4,7 +4,7 @@ description: "Discover the meaning of the Justice tarot card in your career. Lea
 category: "career"
 tags: ["justice-tarot", "tarot-career", "major-arcana", "work-balance", "professional-ethics", "major-arcana", "justice", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

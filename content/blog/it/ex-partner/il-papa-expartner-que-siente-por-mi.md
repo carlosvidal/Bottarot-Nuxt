@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Papa nel contesto di un ex partner. Un
 category: "ex-partner"
 tags: ["il-papa-tarot-ex", "il-papa-cosa-sente", "significato-il-papa-ex", "tarot-ex-partner", "arcani-maggiori", "lettura-tarot", "arcani-maggiori", "il-papa", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

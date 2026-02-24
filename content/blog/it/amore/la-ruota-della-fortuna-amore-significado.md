@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Ruota della Fortuna in amore.
 category: "amore"
 tags: ["la-ruota-della-fortuna", "tarot-amore", "arcani-maggiori", "significato-tarot", "cicli-amorosi", "arcani-maggiori", "la-ruota-della-fortuna", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

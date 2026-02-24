@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Amoureux dans le context
 category: "amour"
 tags: ["l-amoureux-tarot", "tarot-amour", "signification-tarot", "arcanes-majeurs", "relations-tarot", "arcanes-majeurs", "l-amoureux", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

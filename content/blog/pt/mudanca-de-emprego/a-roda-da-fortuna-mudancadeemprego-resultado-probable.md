@@ -4,7 +4,7 @@ description: "Descubra o significado de A Roda da Fortuna em uma mudança profis
 category: "mudanca-de-emprego"
 tags: ["a-roda-da-fortuna", "tarot-mudanca-de-emprego", "arcanos-maiores", "resultado-provavel-tarot", "tarot-laboral", "arcanos-maiores", "a-roda-da-fortuna", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

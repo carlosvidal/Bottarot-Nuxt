@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hierophant card in the contex
 category: "money"
 tags: ["the-hierophant-tarot", "tarot-money", "tarot-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-hierophant", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

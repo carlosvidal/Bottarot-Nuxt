@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Luna nei tarocchi in amore. U
 category: "amore"
 tags: ["la-luna-tarocchi-amore", "tarocchi-amore", "arcani-maggiori", "tarocchi-si-o-no", "significato-la-luna", "arcani-maggiori", "la-luna", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

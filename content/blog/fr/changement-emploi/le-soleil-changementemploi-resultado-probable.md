@@ -4,7 +4,7 @@ description: "Découvrez le message du Soleil (Arcane 19) dans un changement pro
 category: "changement-emploi"
 tags: ["le-soleil-tarot", "changement-d-emploi", "tarot-professionnel", "arcanes-majeurs", "arcane-19", "consultation-tarot"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

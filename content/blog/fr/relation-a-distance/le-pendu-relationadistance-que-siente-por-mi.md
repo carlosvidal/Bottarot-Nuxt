@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pendu dans le tarot pour les relati
 category: "relation-a-distance"
 tags: ["le-pendu-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-emotionnel", "arcanes-majeurs", "le-pendu", "sentiments-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Hierofante no contexto profis
 category: "trabalho"
 tags: ["o-hierofante", "tarô-trabalho", "arcanos-maiores", "significado-tarô", "tarô-profissional", "arcanos-maiores", "o-hierofante", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

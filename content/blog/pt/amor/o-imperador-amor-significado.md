@@ -4,7 +4,7 @@ description: "Descubra o significado de O Imperador no amor. Um guia profundo so
 category: "amor"
 tags: ["o-imperador-tarot", "tarot-amor", "significado-tarot", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "o-imperador", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__amor-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

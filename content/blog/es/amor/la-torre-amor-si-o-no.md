@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Torre en el amor. ¿Es un s
 category: "amor"
 tags: ["La Torre tarot amor", "La Torre si o no", "significado La Torre en el amor", "tarot amor", "arcanos-mayores", "la-torre", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-si-o-no.webp"
 locale: "es"
 readingTime: 5
 seo:

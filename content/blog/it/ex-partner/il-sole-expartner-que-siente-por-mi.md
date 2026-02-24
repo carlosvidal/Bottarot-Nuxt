@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Sole nel tarocco riguardo al tuo ex part
 category: "ex-partner"
 tags: ["il-sole-tarocco", "tarocco-ex-partner", "arcani-maggiori", "interpretazione-tarocco", "cosa-sente-ex-partner", "arcani-maggiori", "il-sole", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

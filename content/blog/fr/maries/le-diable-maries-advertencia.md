@@ -4,7 +4,7 @@ description: "Découvrez la signification du Diable dans le contexte du mariage.
 category: "maries"
 tags: ["le-diable-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "signification-le-diable", "arcanes-majeurs", "le-diable", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

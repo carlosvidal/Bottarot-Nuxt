@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mago per il 2026. Esplora la 
 category: "futuro"
 tags: ["il-mago-tarocchi", "tarocchi-2026", "predizione-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-mago", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

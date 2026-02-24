@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Diabo no amor. Um guia 
 category: "amor"
 tags: ["o-diabo-tarot-amor", "o-diabo-sim-ou-nao", "significado-o-diabo-no-amor", "tarot-amor", "arcanos-maiores", "leitura-de-tarot", "arcanos-maiores", "o-diabo", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7
 seo:

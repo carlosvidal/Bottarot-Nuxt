@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Louco do tarô no conte
 category: "dinheiro"
 tags: ["o-louco-tarot", "tarot-dinheiro", "significado-o-louco", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-louco", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

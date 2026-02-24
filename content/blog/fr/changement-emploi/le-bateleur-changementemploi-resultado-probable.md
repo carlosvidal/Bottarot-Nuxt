@@ -4,7 +4,7 @@ description: "Découvrez la signification du Bateleur dans un changement profess
 category: "changement-emploi"
 tags: ["le-bateleur-tarot", "changement-de-travail-tarot", "arcanes-majeurs", "resultat-probable-tarot", "arcanes-majeurs", "le-bateleur", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

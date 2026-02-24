@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta Los Enamorados en un cambio la
 category: "cambio-de-trabajo"
 tags: ["Los Enamorados", "tarot cambio de trabajo", "resultado probable tarot", "arcano mayor 6", "tarot carrera profesional", "arcanos-mayores", "los-enamorados", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

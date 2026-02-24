@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Justice card in the future. L
 category: "future"
 tags: ["justice-tarot", "future-tarot", "tarot-meaning", "major-arcana", "karmic-balance", "major-arcana", "justice", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

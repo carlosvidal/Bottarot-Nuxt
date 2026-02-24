@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Morte no contexto de ex
 category: "ex-parceiro"
 tags: ["a-morte-tarot", "ex-parceiro-tarot", "arcano-maior-13", "transformacao-emocional", "arcanos-maiores", "a-morte", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

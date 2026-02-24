@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Louco no amor. Uma jornada si
 category: "amor"
 tags: ["o-louco-tarot-amor", "o-louco-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-louco", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

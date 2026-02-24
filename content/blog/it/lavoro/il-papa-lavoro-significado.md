@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Papa nel contesto lavorativo.
 category: "lavoro"
 tags: ["il-papa", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "tarot-professionale", "arcani-maggiori", "il-papa", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

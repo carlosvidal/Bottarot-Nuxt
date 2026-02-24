@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Force (Arcane 8) dans l
 category: "avenir"
 tags: ["la-force-tarot", "signification-tarot", "arcanes-majeurs", "avenir-tarot", "arcanes-majeurs", "la-force", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

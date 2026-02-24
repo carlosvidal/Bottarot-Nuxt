@@ -4,7 +4,7 @@ description: "Discover the meaning of the Wheel of Fortune in love. A deep guide
 category: "love"
 tags: ["wheel-of-fortune", "love-tarot", "major-arcana", "tarot-yes-or-no", "love-and-destiny", "major-arcana", "wheel-of-fortune-tarot", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7
 seo:

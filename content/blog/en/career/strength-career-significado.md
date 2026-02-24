@@ -4,7 +4,7 @@ description: "Discover the deep meaning of the Strength tarot card in a career c
 category: "career"
 tags: ["strength-tarot", "career-tarot", "strength-meaning", "major-arcana", "professional-tarot", "major-arcana", "strength", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

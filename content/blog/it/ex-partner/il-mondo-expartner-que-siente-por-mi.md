@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mondo nel contesto di un ex p
 category: "ex-partner"
 tags: ["il-mondo-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "cosa-sente-ex-partner", "arcani-maggiori", "il-mondo", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

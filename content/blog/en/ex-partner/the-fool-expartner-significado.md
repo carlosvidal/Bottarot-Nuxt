@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Fool in tarot when the question '
 category: "ex-partner"
 tags: ["the-fool", "tarot-ex-partner", "tarot-meaning", "major-arcana", "reconciliation", "major-arcana", "the-fool", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

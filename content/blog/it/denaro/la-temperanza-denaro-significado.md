@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Temperanza nel denaro. Impara
 category: "denaro"
 tags: ["la-temperanza-tarocchi-denaro", "la-temperanza-significato", "tarocchi-denaro", "arcani-maggiori-denaro", "arcani-maggiori", "la-temperanza", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

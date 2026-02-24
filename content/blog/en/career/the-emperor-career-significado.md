@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Emperor card in a career cont
 category: "career"
 tags: ["the-emperor", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana-cards", "the-emperor-tarot", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

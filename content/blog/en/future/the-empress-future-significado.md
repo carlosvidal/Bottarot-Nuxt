@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Empress in the future. An ana
 category: "future"
 tags: ["the-empress", "future-tarot", "major-arcana", "tarot-meaning", "major-arcana-cards", "empress", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__futuro-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

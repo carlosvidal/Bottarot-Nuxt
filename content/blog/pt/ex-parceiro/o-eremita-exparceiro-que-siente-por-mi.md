@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Eremita no contexto de um ex-par
 category: "ex-parceiro"
 tags: ["o-eremita-tarot-ex-parceiro", "o-eremita-o-que-sente-por-mim", "significado-o-eremita-no-ex-parceiro", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "o-eremita", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 5
 seo:

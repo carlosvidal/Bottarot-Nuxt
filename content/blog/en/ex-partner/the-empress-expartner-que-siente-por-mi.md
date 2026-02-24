@@ -4,7 +4,7 @@ description: "Discover the message of The Empress in the context of an ex-partne
 category: "ex-partner"
 tags: ["the-empress-tarot", "tarot-ex-partner", "tarot-interpretation", "major-arcana", "what-ex-feels", "major-arcana", "the-empress", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

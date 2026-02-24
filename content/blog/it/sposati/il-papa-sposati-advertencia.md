@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de Il Papa (Arcano 5) nel cont
 category: "sposati"
 tags: ["il-papa", "tarot-si-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consiglio-tarot", "arcani-maggiori", "il-papa", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

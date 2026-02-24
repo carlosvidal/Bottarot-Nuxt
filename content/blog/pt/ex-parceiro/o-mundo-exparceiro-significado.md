@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Mundo no contexto de 'e
 category: "ex-parceiro"
 tags: ["o-mundo-tarot", "significado-o-mundo", "tarot-ex-parceiro", "ex-parceiro-voltara", "arcanos-maiores", "arcanos-maiores", "o-mundo", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

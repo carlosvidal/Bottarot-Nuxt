@@ -4,7 +4,7 @@ description: "Descubre el mensaje de alerta de La Emperatriz en decisiones cruci
 category: "decisiones"
 tags: ["La Emperatriz", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "simbolismo tarot", "arcanos-mayores", "la-emperatriz", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

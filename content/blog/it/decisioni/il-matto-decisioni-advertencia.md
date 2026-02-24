@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Matto nelle decisioni cruciali. Una gu
 category: "decisioni"
 tags: ["il-matto-tarot", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "nuovi-inizi", "arcani-maggiori", "il-matto", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

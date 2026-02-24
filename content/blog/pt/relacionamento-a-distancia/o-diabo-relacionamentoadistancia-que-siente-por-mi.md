@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Diabo em um relacionamento à di
 category: "relacionamento-a-distancia"
 tags: ["o-diabo-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "arcanos-maiores", "o-diabo", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

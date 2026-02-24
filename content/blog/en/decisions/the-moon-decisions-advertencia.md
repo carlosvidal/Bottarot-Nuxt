@@ -4,7 +4,7 @@ description: "Discover the warning message of The Moon (Major Arcana 18) in cruc
 category: "decisions"
 tags: ["the-moon-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "major-arcana", "the-moon", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

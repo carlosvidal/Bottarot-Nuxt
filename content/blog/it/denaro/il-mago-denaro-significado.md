@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mago nel contesto de
 category: "denaro"
 tags: ["il-mago-tarocco", "tarocco-denaro", "significato-il-mago", "arcani-maggiori", "finanze-tarocco", "arcani-maggiori", "il-mago", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

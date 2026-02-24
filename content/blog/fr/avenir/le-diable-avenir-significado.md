@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Diable (Arcane 15) dans le
 category: "avenir"
 tags: ["le-diable-tarot", "arcanes-majeurs", "signification-tarot", "tarot-futur", "cartes-de-tarot", "arcanes-majeurs", "le-diable", "futur"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

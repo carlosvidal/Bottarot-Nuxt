@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte de La Tempérance
 category: "amour"
 tags: ["la-temperance-tarot-amour", "la-temperance-signification", "tarot-amour", "arcanes-majeurs", "la-temperance", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

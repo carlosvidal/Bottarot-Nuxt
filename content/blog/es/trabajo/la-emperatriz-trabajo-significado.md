@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Emperatriz en el contexto l
 category: "trabajo"
 tags: ["La Emperatriz", "tarot trabajo", "arcanos mayores", "significado tarot", "creatividad laboral", "arcanos-mayores", "la-emperatriz", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

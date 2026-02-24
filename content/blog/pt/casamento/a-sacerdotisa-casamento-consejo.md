@@ -4,7 +4,7 @@ description: "Descubra o conselho de A Sacerdotisa para seu casamento. Aprenda a
 category: "casamento"
 tags: ["a-sacerdotisa", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "intuição-casal", "arcanos-maiores", "a-sacerdotisa", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

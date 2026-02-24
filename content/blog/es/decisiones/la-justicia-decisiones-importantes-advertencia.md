@@ -4,7 +4,7 @@ description: "Descubre el mensaje de alerta de La Justicia (Arcano 11) en decisi
 category: "decisiones"
 tags: ["la justicia tarot", "decisiones importantes tarot", "arcano mayor 11", "tarot advertencia", "arcanos-mayores", "la-justicia", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 7
 seo:

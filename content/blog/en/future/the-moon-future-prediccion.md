@@ -4,7 +4,7 @@ description: "Discover the message of The Moon (Arcana 18) for 2026. Explore its
 category: "future"
 tags: ["the-moon-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "the-moon-meaning", "major-arcana", "the-moon", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

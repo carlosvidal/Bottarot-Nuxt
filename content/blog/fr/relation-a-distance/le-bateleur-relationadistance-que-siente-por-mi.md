@@ -4,7 +4,7 @@ description: "Décryptez le message du Bateleur dans votre relation à distance.
 category: "relation-a-distance"
 tags: ["le-bateleur-tarot", "relation-a-distance", "ce-qu-il-ressent", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "le-bateleur", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 5
 seo:

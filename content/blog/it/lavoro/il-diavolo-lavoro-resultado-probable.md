@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Diavolo nel contesto lavorati
 category: "lavoro"
 tags: ["il-diavolo-tarot-lavoro", "il-diavolo-risultato-probabile", "significato-il-diavolo-lavoro", "tarot-lavoro", "arcani-maggiori", "tarot-professionale", "arcani-maggiori", "il-diavolo", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

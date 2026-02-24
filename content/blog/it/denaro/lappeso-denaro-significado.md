@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta de L'Appeso nel contest
 category: "denaro"
 tags: ["l-appeso", "tarot-denaro", "significato-tarot", "arcani-maggiori", "finanza-spirituale", "arcani-maggiori", "l-appeso", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

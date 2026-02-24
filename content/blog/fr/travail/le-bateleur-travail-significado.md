@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Bateleur dans 
 category: "travail"
 tags: ["le-bateleur-tarot-travail", "le-bateleur-signification", "tarot-travail", "arcanes-majeurs", "le-bateleur", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

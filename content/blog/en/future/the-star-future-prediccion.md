@@ -4,7 +4,7 @@ description: "Discover The Star's message for 2026: hope, inspiration, and spiri
 category: "future"
 tags: ["the-star-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "spirituality", "major-arcana", "the-star", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "en"
 readingTime: 6
 seo:

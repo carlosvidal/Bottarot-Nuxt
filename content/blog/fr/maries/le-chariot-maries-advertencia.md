@@ -4,7 +4,7 @@ description: "Découvrez la signification du Chariot dans le 'suis-je marié' co
 category: "maries"
 tags: ["le-chariot-tarot", "suis-je-marie", "avertissement-tarot", "arcanes-majeurs", "tarot-relation", "arcanes-majeurs", "le-chariot", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "fr"
 readingTime: 5
 seo:

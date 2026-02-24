@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Julgamento no amor. Um 
 category: "amor"
 tags: ["o-julgamento-tarot", "tarot-amor", "arcanos-maiores", "significado-tarot", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

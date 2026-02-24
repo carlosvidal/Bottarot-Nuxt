@@ -4,7 +4,7 @@ description: "Descubre el lado menos conocido de El Sol en el tarot. Una guía s
 category: "decisiones"
 tags: ["El Sol tarot", "decisiones importantes tarot", "Arcanos Mayores", "advertencia tarot", "arcanos-mayores", "el-sol", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Amoureux dans un changem
 category: "changement-emploi"
 tags: ["l-amoureux", "tarot-changement-emploi", "resultat-probable-tarot", "arcane-majeur-6", "tarot-carriere-professionnelle", "arcanes-majeurs", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

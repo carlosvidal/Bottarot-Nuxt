@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Juicio en tarot sobre tu ex
 category: "ex-pareja"
 tags: ["El Juicio tarot", "tarot ex pareja", "qué siente ex pareja", "Arcanos Mayores", "renacimiento emocional", "arcanos-mayores", "el-juicio", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

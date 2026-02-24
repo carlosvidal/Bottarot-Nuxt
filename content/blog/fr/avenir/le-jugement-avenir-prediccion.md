@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Jugement pour 2026. Une
 category: "avenir"
 tags: ["le-jugement-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "renaissance-spirituelle", "arcanes-majeurs", "le-jugement", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

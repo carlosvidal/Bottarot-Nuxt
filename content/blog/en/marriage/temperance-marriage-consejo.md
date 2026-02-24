@@ -4,7 +4,7 @@ description: "Discover the meaning of the Temperance tarot card in marriage. Fin
 category: "marriage"
 tags: ["temperance-tarot-marriage", "temperance-advice", "temperance-meaning-marriage", "marriage-tarot", "major-arcana", "temperance", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 7
 seo:

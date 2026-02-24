@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Mort dans le contexte d
 category: "mariage"
 tags: ["la-mort-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "transformation"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

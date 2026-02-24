@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Appeso nel contesto lavorativo. Una gui
 category: "lavoro"
 tags: ["l-appeso-tarot-lavoro", "l-appeso-significato", "tarot-lavoro", "arcani-maggiori", "arcani-maggiori", "l-appeso", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

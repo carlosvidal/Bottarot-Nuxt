@@ -4,7 +4,7 @@ description: "Découvrez la signification du Mat dans le tarot pour les relation
 category: "relation-a-distance"
 tags: ["le-mat-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

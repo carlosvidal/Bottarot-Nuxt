@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência da carta A Força em decisões
 category: "decisoes"
 tags: ["a-forca-tarot", "tarot-decisoes-importantes", "arcano-maior-8", "advertencia-tarot", "forca-interior", "arcanos-maiores", "a-forca", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

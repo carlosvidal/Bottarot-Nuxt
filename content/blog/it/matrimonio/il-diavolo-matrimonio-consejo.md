@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Diavolo nel contesto del matr
 category: "matrimonio"
 tags: ["il-diavolo-tarot", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "relazioni-tarot", "arcani-maggiori", "il-diavolo", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

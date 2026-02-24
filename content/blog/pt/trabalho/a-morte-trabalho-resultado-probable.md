@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Morte no contexto profissional. 
 category: "trabalho"
 tags: ["a-morte-tarot", "tarot-trabalho", "arcanos-maiores", "transformacao-profissional", "resultado-provavel-tarot", "arcanos-maiores", "a-morte", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 7
 seo:

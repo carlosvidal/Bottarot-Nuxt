@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Emperador en decisiones c
 category: "decisiones"
 tags: ["El Emperador tarot", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "significado tarot", "arcanos-mayores", "el-emperador", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

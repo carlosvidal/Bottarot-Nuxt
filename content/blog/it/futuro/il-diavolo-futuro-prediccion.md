@@ -4,7 +4,7 @@ description: "Esplora il significato della carta Il Diavolo nei tarocchi per il 
 category: "futuro"
 tags: ["il-diavolo-tarocchi", "tarocchi-2026", "previsione-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-diavolo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "it"
 readingTime: 5
 seo:

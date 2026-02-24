@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mago nel contesto de
 category: "futuro"
 tags: ["il-mago-tarocchi", "significato-il-mago", "tarocchi-futuro", "arcani-maggiori", "il-mago", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__futuro-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

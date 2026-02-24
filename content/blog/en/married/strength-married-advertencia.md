@@ -4,7 +4,7 @@ description: "Discover the warning message of the Strength card in the context o
 category: "married"
 tags: ["strength-tarot", "tarot-marriage", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "strength", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

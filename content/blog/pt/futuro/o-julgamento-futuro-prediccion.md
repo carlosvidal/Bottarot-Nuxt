@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Julgamento para 2026. Uma análi
 category: "futuro"
 tags: ["o-julgamento-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5
 seo:

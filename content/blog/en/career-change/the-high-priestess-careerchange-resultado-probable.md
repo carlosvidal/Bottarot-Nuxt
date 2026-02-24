@@ -4,7 +4,7 @@ description: "Discover the message of The High Priestess in a job change. Interp
 category: "career-change"
 tags: ["the-high-priestess", "tarot-career-change", "major-arcana", "professional-intuition", "major-arcana", "the-high-priestess", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

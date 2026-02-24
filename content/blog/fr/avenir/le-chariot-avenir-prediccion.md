@@ -4,7 +4,7 @@ description: "Découvrez le message de l'Arcane Majeur Le Chariot pour 2026. Exp
 category: "avenir"
 tags: ["le-chariot-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-le-chariot", "arcanes-majeurs", "le-chariot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5
 seo:

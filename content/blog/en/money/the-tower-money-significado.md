@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Tower card in the context of 
 category: "money"
 tags: ["the-tower-tarot", "tarot-money", "the-tower-meaning", "major-arcana", "financial-tarot", "major-arcana", "the-tower", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

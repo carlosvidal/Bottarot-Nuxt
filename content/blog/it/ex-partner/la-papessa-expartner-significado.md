@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Papessa nel contesto di 'ex t
 category: "ex-partner"
 tags: ["la-papessa", "tarot-ex", "significato-tarot", "arcani-maggiori", "intuizione", "ex-coppia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

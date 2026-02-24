@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Enforcado para 2026. Um guia sobre seu si
 category: "futuro"
 tags: ["o-enforcado", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-enforcado", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5
 seo:

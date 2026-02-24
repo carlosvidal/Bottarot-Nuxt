@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Sumo Sacerdote (Arcano 5)
 category: "casados"
 tags: ["El Sumo Sacerdote", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "consejo tarot", "arcanos-mayores", "el-sumo-sacerdote", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

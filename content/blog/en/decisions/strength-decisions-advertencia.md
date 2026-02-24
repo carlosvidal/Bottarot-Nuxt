@@ -4,7 +4,7 @@ description: "Discover the warning message of the Strength card in crucial decis
 category: "decisions"
 tags: ["strength-tarot", "tarot-important-decisions", "major-arcana-8", "tarot-warning", "inner-strength", "major-arcana", "strength", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

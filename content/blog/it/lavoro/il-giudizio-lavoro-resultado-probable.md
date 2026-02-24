@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Giudizio nel contesto lavorat
 category: "lavoro"
 tags: ["il-giudizio-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "significato-tarocchi", "tarocchi-professionale", "arcani-maggiori", "il-giudizio", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

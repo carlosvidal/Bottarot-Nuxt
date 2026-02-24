@@ -4,7 +4,7 @@ description: "Discover the meaning of The Devil card in the context of marriage.
 category: "marriage"
 tags: ["the-devil-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "relationship-tarot", "major-arcana", "the-devil", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

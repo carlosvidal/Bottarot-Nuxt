@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Emperador en el contexto de
 category: "ex-pareja"
 tags: ["El Emperador tarot", "tarot ex pareja", "arcanos mayores", "lectura de tarot", "qué siente mi ex", "arcanos-mayores", "el-emperador", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

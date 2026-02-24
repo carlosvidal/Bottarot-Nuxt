@@ -4,7 +4,7 @@ description: "Discover the warning message of The Emperor in your marriage. Lear
 category: "married"
 tags: ["the-emperor-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "marriage-advice-tarot", "major-arcana", "the-emperor", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

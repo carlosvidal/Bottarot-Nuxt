@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Papesse en amour. Un guide profo
 category: "amour"
 tags: ["la-papesse-tarot-amour", "la-papesse-oui-ou-non", "signification-la-papesse-en-amour", "tarot-amour", "arcanes-majeurs", "intuition-amoureuse", "arcanes-majeurs", "la-papesse", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7
 seo:

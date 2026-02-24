@@ -4,7 +4,7 @@ description: "Discover the meaning of the Judgement card for 2026. A symbolic an
 category: "future"
 tags: ["judgement-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "spiritual-rebirth", "major-arcana", "judgement", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

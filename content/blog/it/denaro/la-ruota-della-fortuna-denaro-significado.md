@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Ruota della Fortuna nel conte
 category: "denaro"
 tags: ["la-ruota-della-fortuna", "tarocchi-denaro", "arcani-maggiori", "significato-tarocchi", "fortuna-finanziaria", "arcani-maggiori", "la-ruota-della-fortuna", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

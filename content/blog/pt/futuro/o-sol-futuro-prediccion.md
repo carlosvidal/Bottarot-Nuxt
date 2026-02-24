@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Sol para 2026. Explore sua energ
 category: "futuro"
 tags: ["o-sol-tarot", "tarot-2026", "arcanos-maiores", "previsao-tarot", "arcanos-maiores", "o-sol", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6
 seo:

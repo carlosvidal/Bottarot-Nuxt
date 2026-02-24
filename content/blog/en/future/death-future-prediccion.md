@@ -4,7 +4,7 @@ description: "Discover the meaning of the Death card for 2026. A symbolic analys
 category: "future"
 tags: ["death-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "transformation", "major-arcana", "death", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

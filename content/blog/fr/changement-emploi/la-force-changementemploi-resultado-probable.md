@@ -4,7 +4,7 @@ description: "Découvrez le message de La Force (Arcane 8) dans un changement pr
 category: "changement-emploi"
 tags: ["la-force-tarot", "changement-de-travail-tarot", "arcanes-majeurs", "tarot-professionnel", "resultat-probable-tarot", "arcanes-majeurs", "la-force", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

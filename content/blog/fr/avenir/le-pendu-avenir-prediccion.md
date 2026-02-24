@@ -4,7 +4,7 @@ description: "Découvrez le message du Pendu pour 2026. Un guide sur son symboli
 category: "avenir"
 tags: ["le-pendu", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5
 seo:

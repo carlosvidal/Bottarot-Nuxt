@@ -4,7 +4,7 @@ description: "Découvrez le message de l'arcane L'Amoureux pour 2026. Un guide s
 category: "avenir"
 tags: ["l-amoureux", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "amour-et-relations", "arcanes-majeurs", "l-amoureux", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

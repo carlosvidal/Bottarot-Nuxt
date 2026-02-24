@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The High Priestess in love. A gui
 category: "love"
 tags: ["the-high-priestess", "love-tarot", "major-arcana", "intuition", "major-arcana-cards", "high-priestess", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

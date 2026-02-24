@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Eremita no contexto do casamento
 category: "casamento"
 tags: ["o-eremita-tarot-casamento", "o-eremita-conselho", "significado-o-eremita-no-casamento", "tarot-casamento", "arcanos-maiores", "o-eremita", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 5
 seo:

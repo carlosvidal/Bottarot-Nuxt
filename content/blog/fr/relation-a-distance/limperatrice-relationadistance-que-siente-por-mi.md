@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Impératrice dans votre relation à dis
 category: "relation-a-distance"
 tags: ["l-imperatrice-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "tarot-amour", "arcanes-majeurs", "arcanes-majeurs", "l-imperatrice", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

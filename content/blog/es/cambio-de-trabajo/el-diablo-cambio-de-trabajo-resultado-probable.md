@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Diablo (Arcano 15) en un cambio laboral.
 category: "cambio-de-trabajo"
 tags: ["El Diablo tarot", "cambio de trabajo", "Arcanos Mayores", "tarot laboral", "arcanos-mayores", "el-diablo", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

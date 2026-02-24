@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Fool tarot card in a career conte
 category: "career"
 tags: ["the-fool-tarot", "tarot-career", "tarot-meaning", "major-arcana", "new-beginnings", "major-arcana", "the-fool", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

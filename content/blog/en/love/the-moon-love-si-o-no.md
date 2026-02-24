@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Moon tarot card in love. A gu
 category: "love"
 tags: ["the-moon-tarot-love", "love-tarot", "major-arcana", "tarot-yes-or-no", "the-moon-meaning", "major-arcana", "the-moon", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Carro nel contesto del matrimonio. Con
 category: "matrimonio"
 tags: ["il-carro-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "relazioni", "arcani-maggiori", "il-carro", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 7
 seo:

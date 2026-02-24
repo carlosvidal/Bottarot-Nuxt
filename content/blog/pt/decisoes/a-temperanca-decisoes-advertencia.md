@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência de A Temperança em decisões 
 category: "decisoes"
 tags: ["a-temperanca-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "equilibrio-espiritual", "advertencia-tarot", "arcanos-maiores", "a-temperanca", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5
 seo:

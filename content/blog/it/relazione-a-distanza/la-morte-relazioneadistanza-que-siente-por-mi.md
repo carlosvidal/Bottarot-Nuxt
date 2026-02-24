@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Morte nei tarocchi p
 category: "relazione-a-distanza"
 tags: ["tarocchi-relazione-a-distanza", "la-morte-tarocchi", "cosa-prova-per-me", "arcani-maggiori", "tarocchi-emotivi", "arcani-maggiori", "la-morte", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

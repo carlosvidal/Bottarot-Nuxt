@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Diablo en el tarot
 category: "dinero"
 tags: ["El Diablo tarot", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-diablo", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

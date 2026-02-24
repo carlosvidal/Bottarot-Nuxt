@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Diabo no contexto do casamento. 
 category: "casamento"
 tags: ["o-diabo-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "relacionamentos-tarot", "arcanos-maiores", "o-diabo", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

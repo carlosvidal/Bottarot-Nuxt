@@ -4,7 +4,7 @@ description: "Scopri il significato de Gli Amanti nelle decisioni cruciali. Una 
 category: "decisioni"
 tags: ["gli-amanti-tarot", "tarot-decisioni-importanti", "arcano-maggiore", "avvertimento-tarot", "interpretazione-tarot", "arcani-maggiori", "gli-amanti", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

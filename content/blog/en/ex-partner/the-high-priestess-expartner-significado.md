@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The High Priestess in the context of 
 category: "ex-partner"
 tags: ["the-high-priestess", "tarot-ex-relationship", "tarot-meaning", "major-arcana", "intuition", "major-arcana-cards", "high-priestess", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

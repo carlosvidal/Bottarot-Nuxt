@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death tarot card for long-dis
 category: "long-distance-relationship"
 tags: ["long-distance-relationship-tarot", "death-tarot-card", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "death", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

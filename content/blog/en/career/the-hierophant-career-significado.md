@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hierophant in a work context.
 category: "career"
 tags: ["the-hierophant", "career-tarot", "major-arcana", "tarot-meaning", "professional-tarot", "major-arcana", "the-hierophant", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

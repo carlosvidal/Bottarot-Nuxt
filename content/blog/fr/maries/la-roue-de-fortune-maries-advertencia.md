@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de la Roue de la Fortune dan
 category: "maries"
 tags: ["la-roue-de-la-fortune", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "changement-mariage", "arcanes-majeurs", "la-roue-de-la-fortune", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

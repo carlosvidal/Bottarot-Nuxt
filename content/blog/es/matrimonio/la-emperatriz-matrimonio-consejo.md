@@ -4,7 +4,7 @@ description: "Descubre el consejo de La Emperatriz para tu matrimonio. Aprende a
 category: "matrimonio"
 tags: ["La Emperatriz", "tarot matrimonio", "consejo tarot", "arcanos mayores", "creatividad en pareja", "arcanos-mayores", "la-emperatriz", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6
 seo:

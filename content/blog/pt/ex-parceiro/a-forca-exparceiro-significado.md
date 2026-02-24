@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Força no contexto de '
 category: "ex-parceiro"
 tags: ["a-forca-tarot", "ex-vai-voltar", "significado-tarot", "arcano-maior", "tarot-relacionamentos", "arcanos-maiores", "a-forca", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

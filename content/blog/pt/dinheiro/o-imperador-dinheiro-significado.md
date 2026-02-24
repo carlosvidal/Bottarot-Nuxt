@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Imperador no contexto d
 category: "dinheiro"
 tags: ["o-imperador-tarot", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-imperador", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

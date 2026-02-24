@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Bateleur pour 2026. Exp
 category: "avenir"
 tags: ["le-bateleur-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir", "manifestation"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

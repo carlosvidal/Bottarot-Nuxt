@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Torre no futuro. Não é dest
 category: "futuro"
 tags: ["a-torre-tarot", "tarot-futuro", "significado-a-torre", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "a-torre", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

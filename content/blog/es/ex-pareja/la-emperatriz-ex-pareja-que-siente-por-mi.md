@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Emperatriz en el contexto de una ex pare
 category: "ex-pareja"
 tags: ["La Emperatriz tarot", "tarot ex pareja", "interpretación tarot", "arcanos mayores", "qué siente ex pareja", "arcanos-mayores", "la-emperatriz", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

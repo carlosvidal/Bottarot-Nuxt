@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Wheel of Fortune in a career 
 category: "career"
 tags: ["tarot-career", "wheel-of-fortune", "major-arcana", "tarot-meaning", "career-change", "major-arcana", "wheel-of-fortune", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "en"
 readingTime: 7
 seo:

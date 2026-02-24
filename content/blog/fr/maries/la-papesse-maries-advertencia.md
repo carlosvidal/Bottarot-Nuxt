@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Papesse dans le contex
 category: "maries"
 tags: ["la-papesse", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "intuition-dans-le-mariage", "arcanes-majeurs", "la-papesse", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

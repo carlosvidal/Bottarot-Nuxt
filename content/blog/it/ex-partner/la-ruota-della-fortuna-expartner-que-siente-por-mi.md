@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Ruota della Fortuna nel conte
 category: "ex-partner"
 tags: ["la-ruota-della-fortuna", "tarot-ex-partner", "arcani-maggiori", "interpretazione-tarot", "cosa-sente-ex", "arcani-maggiori", "la-ruota-della-fortuna", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

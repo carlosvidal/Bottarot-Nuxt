@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Mago no contexto do din
 category: "dinheiro"
 tags: ["o-mago-tarot", "tarot-dinheiro", "significado-o-mago", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-mago", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

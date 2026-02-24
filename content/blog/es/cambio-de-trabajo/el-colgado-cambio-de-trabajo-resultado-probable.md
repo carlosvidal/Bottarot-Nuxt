@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Colgado en un cambio laboral. Aprende su
 category: "cambio-de-trabajo"
 tags: ["El Colgado tarot", "cambio de trabajo", "Arcanos Mayores", "tarot laboral", "resultado probable", "arcanos-mayores", "el-colgado", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

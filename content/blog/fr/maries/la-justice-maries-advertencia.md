@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Justice (Arcane 11) da
 category: "maries"
 tags: ["la-justice-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "mariage-tarot", "arcanes-majeurs", "la-justice", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

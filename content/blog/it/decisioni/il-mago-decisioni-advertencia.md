@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de Il Mago nelle decisioni cru
 category: "decisioni"
 tags: ["il-mago-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "avvertimento-tarocchi", "potere-personale", "arcani-maggiori", "il-mago", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

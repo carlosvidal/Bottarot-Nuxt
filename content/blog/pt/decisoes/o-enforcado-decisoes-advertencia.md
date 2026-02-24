@@ -4,7 +4,7 @@ description: "Entenda a mensagem de alerta do arcano O Enforcado em decisões cr
 category: "decisoes"
 tags: ["o-enforcado-tarot", "decisoes-importantes-tarot", "advertencia-tarot", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5
 seo:

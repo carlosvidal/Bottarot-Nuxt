@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Colgado en el cont
 category: "dinero"
 tags: ["El Colgado", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas espirituales", "arcanos-mayores", "el-colgado", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

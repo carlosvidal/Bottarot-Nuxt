@@ -4,7 +4,7 @@ description: "Descubre el significado de La Sacerdotisa en el contexto del diner
 category: "dinero"
 tags: ["La Sacerdotisa tarot", "tarot dinero", "significado tarot", "arcanos mayores", "intuición financiera", "arcanos-mayores", "la-sacerdotisa", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

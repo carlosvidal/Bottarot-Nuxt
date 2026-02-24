@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta da Roda da Fortuna em decisões cruc
 category: "decisoes"
 tags: ["a-roda-da-fortuna", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "ciclos-do-destino", "arcanos-maiores", "a-roda-da-fortuna", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il messaggio della carta Il Mondo in un cambio lavorativo. 
 category: "cambio-lavoro"
 tags: ["il-mondo-tarot", "cambio-di-lavoro", "tarot-carriera", "arcani-maggiori", "risultato-probabile-tarot", "arcani-maggiori", "il-mondo", "cambio-di-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

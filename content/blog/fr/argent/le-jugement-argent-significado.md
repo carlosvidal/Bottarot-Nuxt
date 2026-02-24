@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Jugement dans 
 category: "argent"
 tags: ["le-jugement-tarot", "tarot-argent", "signification-le-jugement", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-jugement", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta de O Mago em decisões cruciais. Apr
 category: "decisoes"
 tags: ["o-mago-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "poder-pessoal", "arcanos-maiores", "o-mago", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

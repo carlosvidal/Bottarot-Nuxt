@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Stella (Arcano 17) sui sentimenti del tu
 category: "ex-partner"
 tags: ["la-stella-tarot", "tarot-ex", "arcani-maggiori", "interpretazione-tarot", "guarigione-emotiva", "arcani-maggiori", "la-stella", "ex"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

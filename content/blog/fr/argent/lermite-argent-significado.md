@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Ermite dans le contexte 
 category: "argent"
 tags: ["l-ermite-tarot-argent", "l-ermite-signification", "tarot-argent", "arcanes-majeurs-argent", "arcanes-majeurs", "l-ermite", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

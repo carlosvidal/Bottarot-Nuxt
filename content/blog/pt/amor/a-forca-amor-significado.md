@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Força no amor. Aprenda
 category: "amor"
 tags: ["a-forca-tarot", "tarot-amor", "significado-a-forca", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-forca", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__amor-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

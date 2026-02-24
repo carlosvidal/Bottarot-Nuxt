@@ -4,7 +4,7 @@ description: "Discover the message of The Magician in a career reading. Learn ab
 category: "career"
 tags: ["the-magician-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana", "the-magician", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

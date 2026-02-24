@@ -4,7 +4,7 @@ description: "Discover the meaning of The Hierophant in a career change. We anal
 category: "career-change"
 tags: ["the-hierophant", "tarot-career-change", "major-arcana-5", "probable-outcome-tarot", "major-arcana", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

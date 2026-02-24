@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement du Pape face à un choix cru
 category: "decisions"
 tags: ["le-pape", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "conseil-spirituel", "arcanes-majeurs", "le-pape", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 5
 seo:

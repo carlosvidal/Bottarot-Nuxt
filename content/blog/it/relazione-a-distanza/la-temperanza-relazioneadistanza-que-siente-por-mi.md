@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Temperanza nelle relazioni a distanza. I
 category: "relazione-a-distanza"
 tags: ["la-temperanza-tarocchi", "relazione-a-distanza", "tarocchi-emotivo", "arcani-maggiori", "arcani-maggiori", "la-temperanza", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

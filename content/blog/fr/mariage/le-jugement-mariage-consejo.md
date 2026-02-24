@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Jugement dans le contex
 category: "mariage"
 tags: ["le-jugement-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "renaissance-spirituelle", "arcanes-majeurs", "le-jugement", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the message of The Star (Arcana 17) about feelings, hope,
 category: "long-distance-relationship"
 tags: ["the-star-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-star", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Justice au tarot pour u
 category: "ex-partenaire"
 tags: ["la-justice-tarot", "tarot-ex-partenaire", "sentiments-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-justice", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il messaggio de L'Imperatrice nel contesto di un ex partner
 category: "ex-partner"
 tags: ["l-imperatrice-tarocchi", "tarocchi-ex-partner", "interpretazione-tarocchi", "arcani-maggiori", "cosa-sente-ex", "arcani-maggiori", "l-imperatrice", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

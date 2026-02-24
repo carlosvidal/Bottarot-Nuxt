@@ -4,7 +4,7 @@ description: "Descubra o significado de A Sacerdotisa no âmbito profissional. A
 category: "trabalho"
 tags: ["a-sacerdotisa", "tarot-trabalho", "arcanos-maiores", "intuição-profissional", "arcanos-maiores", "a-sacerdotisa", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message de la Tempérance dans le contexte d'un ex-p
 category: "ex-partenaire"
 tags: ["la-temperance-tarot", "tarot-ex-partenaire", "que-ressent-mon-ex", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "la-temperance", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

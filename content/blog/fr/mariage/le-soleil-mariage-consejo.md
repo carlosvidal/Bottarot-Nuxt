@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Soleil en tarot pour le
 category: "mariage"
 tags: ["le-soleil-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "amour-tarot", "arcanes-majeurs", "le-soleil", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta La Rueda de la Fortuna en el c
 category: "ex-pareja"
 tags: ["La Rueda de la Fortuna", "tarot ex pareja", "arcanos mayores", "interpretación tarot", "qué siente ex pareja", "arcanos-mayores", "la-rueda-de-la-fortuna", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

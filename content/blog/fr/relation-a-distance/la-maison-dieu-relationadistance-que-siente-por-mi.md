@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Maison Dieu (L
 category: "relation-a-distance"
 tags: ["la-maison-dieu-tarot", "relation-a-distance", "ce-quil-ressent", "arcanes-majeurs", "tarot-emotionnel"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

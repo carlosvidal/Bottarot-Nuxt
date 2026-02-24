@@ -4,7 +4,7 @@ description: "Scopri il significato della carta L'Imperatore nel contesto di un 
 category: "ex-partner"
 tags: ["l-imperatore-tarot", "tarot-ex-partner", "arcani-maggiori", "lettura-tarot", "cosa-sente-il-mio-ex", "arcani-maggiori", "l-imperatore", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta da Lua (Arcano 18) em decisões cruc
 category: "decisoes"
 tags: ["a-lua-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "arcanos-maiores", "a-lua", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

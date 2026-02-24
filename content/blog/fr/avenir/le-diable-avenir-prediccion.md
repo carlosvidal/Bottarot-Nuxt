@@ -4,7 +4,7 @@ description: "Explorez la signification de la carte Le Diable dans le tarot pour
 category: "avenir"
 tags: ["le-diable-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir", "liberation"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

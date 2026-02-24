@@ -3,10 +3,10 @@
     <article v-if="post" class="blog-content">
       <!-- Breadcrumb -->
       <nav class="blog-breadcrumb">
-        <NuxtLink to="/blog">Blog</NuxtLink>
+        <NuxtLink :to="localePath('/blog')">Blog</NuxtLink>
         <span>/</span>
         <span v-if="post.category">
-          <NuxtLink :to="`/blog/category/${post.category}`">{{ formatCategory(post.category) }}</NuxtLink>
+          <NuxtLink :to="localePath(`/blog/category/${post.category}`)">{{ formatCategory(post.category) }}</NuxtLink>
           <span>/</span>
         </span>
         <span class="current">{{ post.title }}</span>
@@ -55,7 +55,7 @@
     <div v-else class="blog-not-found">
       <h2>Article not found</h2>
       <p>The article you're looking for doesn't exist.</p>
-      <NuxtLink to="/blog" class="back-link">Back to Blog</NuxtLink>
+      <NuxtLink :to="localePath('/blog')" class="back-link">Back to Blog</NuxtLink>
     </div>
   </div>
 </template>
@@ -67,12 +67,14 @@ definePageMeta({
 
 const route = useRoute()
 const slug = route.params.slug
+const { locale } = useI18n()
+const localePath = useLocalePath()
 
-const { data: post } = await useAsyncData(`blog-${slug}`, () =>
-  queryCollection('blog_en')
+const { data: post } = await useAsyncData(`blog-${locale.value}-${slug}`, () =>
+  queryBlogCollection(locale.value)
     .where('stem', 'LIKE', `%${slug}%`)
     .first()
-)
+, { watch: [locale] })
 
 // SEO meta
 if (post.value) {
@@ -104,21 +106,22 @@ if (post.value) {
 }
 
 // Related posts
-const { data: relatedPosts } = await useAsyncData(`related-${slug}`, () => {
+const { data: relatedPosts } = await useAsyncData(`related-${locale.value}-${slug}`, () => {
   if (!post.value?.category) return Promise.resolve([])
-  return queryCollection('blog_en')
+  return queryBlogCollection(locale.value)
     .where('category', '=', post.value.category)
     .where('stem', 'NOT LIKE', `%${slug}%`)
     .limit(3)
     .all()
-})
+}, { watch: [locale] })
 
 const formatCategory = (cat) => {
   return cat.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
 }
 
 const formatDate = (date) => {
-  return new Date(date).toLocaleDateString('en-US', {
+  const localeMap = { en: 'en-US', es: 'es-ES', it: 'it-IT', pt: 'pt-BR', fr: 'fr-FR' }
+  return new Date(date).toLocaleDateString(localeMap[locale.value] || 'en-US', {
     year: 'numeric',
     month: 'long',
     day: 'numeric',

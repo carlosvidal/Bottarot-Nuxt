@@ -4,7 +4,7 @@ description: "Découvrez la signification du Chariot dans le contexte profession
 category: "travail"
 tags: ["le-chariot-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "cartes-de-tarot", "arcanes-majeurs", "le-chariot", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

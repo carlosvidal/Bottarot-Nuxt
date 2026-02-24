@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Chariot dans le futur. App
 category: "avenir"
 tags: ["le-chariot-tarot", "signification-tarot", "arcanes-majeurs", "futur-tarot", "arcanes-majeurs", "le-chariot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Tower tarot card for long-dis
 category: "long-distance-relationship"
 tags: ["the-tower-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-tower", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

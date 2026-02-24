@@ -4,7 +4,7 @@ description: "Découvrez le message du Mat (Arcane 0) pour un changement profess
 category: "changement-emploi"
 tags: ["le-mat-tarot", "changement-d-emploi", "arcanes-majeurs", "tarot-professionnel", "nouveaux-departs", "arcanes-majeurs", "le-mat", "changement-de-travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5
 seo:

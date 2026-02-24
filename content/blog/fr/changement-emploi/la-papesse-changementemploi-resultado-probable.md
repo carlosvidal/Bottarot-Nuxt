@@ -4,7 +4,7 @@ description: "Découvrez le message de La Papesse dans un changement professionn
 category: "changement-emploi"
 tags: ["la-papesse", "tarot-changement-emploi", "arcanes-majeurs", "intuition-professionnelle", "arcanes-majeurs", "la-papesse", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

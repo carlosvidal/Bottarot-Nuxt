@@ -4,7 +4,7 @@ description: "Discover the lesser-known side of The Sun tarot card. A guide on t
 category: "decisions"
 tags: ["the-sun-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "major-arcana", "the-sun", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Chariot dans l
 category: "ex-partenaire"
 tags: ["le-chariot-tarot", "signification-le-chariot", "tarot-ex-partenaire", "ex-partenaire-reviendra", "arcane-majeur-7", "arcanes-majeurs", "le-chariot", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

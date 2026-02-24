@@ -4,7 +4,7 @@ description: "Descubra a mensagem do arcano Os Enamorados para 2026. Um guia sob
 category: "futuro"
 tags: ["os-enamorados", "tarot-2026", "previsao-tarot", "arcanos-maiores", "amor-e-relacoes", "arcanos-maiores", "os-enamorados", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6
 seo:

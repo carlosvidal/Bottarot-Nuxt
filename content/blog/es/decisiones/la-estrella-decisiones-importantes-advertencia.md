@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Estrella en decisiones cr
 category: "decisiones"
 tags: ["La Estrella tarot", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "espiritualidad tarot", "arcanos-mayores", "la-estrella", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

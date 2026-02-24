@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Carro en el contex
 category: "trabajo"
 tags: ["El Carro tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "cartas de tarot", "arcanos-mayores", "el-carro", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

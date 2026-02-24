@@ -4,7 +4,7 @@ description: "Descubre el mensaje de alerta de El Ermitaño en decisiones crucia
 category: "decisiones"
 tags: ["El Ermitaño", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "consejo espiritual", "arcanos-mayores", "el-ermitano", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

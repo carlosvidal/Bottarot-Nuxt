@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Sumo Sacerdote en el contex
 category: "ex-pareja"
 tags: ["El Sumo Sacerdote", "tarot ex pareja", "significado tarot", "arcanos mayores", "reconciliación", "arcanos-mayores", "el-sumo-sacerdote", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

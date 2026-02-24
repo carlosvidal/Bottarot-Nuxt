@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Hanged Man card in the context of
 category: "money"
 tags: ["the-hanged-man", "tarot-money", "tarot-meaning", "major-arcana", "spiritual-finances", "major-arcana", "the-hanged-man", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

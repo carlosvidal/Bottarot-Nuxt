@@ -4,7 +4,7 @@ description: "Scopri il significato de La Giustizia nei tarocchi per un ex partn
 category: "ex-partner"
 tags: ["la-giustizia-tarocchi", "tarocchi-ex-partner", "cosa-sente-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "la-giustizia", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

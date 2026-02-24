@@ -4,7 +4,7 @@ description: "Découvrez le message profond de la carte L'Amoureux pour votre ma
 category: "mariage"
 tags: ["l-amoureux", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "amour-et-relations", "arcanes-majeurs", "l-amoureux", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

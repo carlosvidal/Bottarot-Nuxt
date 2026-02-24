@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Soleil dans le tarot po
 category: "relation-a-distance"
 tags: ["le-soleil-tarot", "relation-a-distance", "que-sent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

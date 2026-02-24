@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Tempérance en matière
 category: "argent"
 tags: ["la-temperance-tarot-argent", "la-temperance-signification", "tarot-argent", "arcanes-majeurs-argent", "arcanes-majeurs", "la-temperance", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

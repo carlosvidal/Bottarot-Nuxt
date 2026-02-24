@@ -4,7 +4,7 @@ description: "Découvrez le message du Chariot (Arcane 7) dans un changement pro
 category: "changement-emploi"
 tags: ["le-chariot-tarot", "changement-d-emploi", "arcanes-majeurs", "resultat-probable-tarot", "arcanes-majeurs", "le-chariot", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

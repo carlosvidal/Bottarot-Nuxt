@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Ermitaño en el contexto de
 category: "ex-pareja"
 tags: ["El Ermitaño", "tarot ex pareja", "significado tarot", "arcanos mayores", "introspección", "arcanos-mayores", "el-ermitano", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

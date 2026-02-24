@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Estrela (Arcano 17) na sua mudança profi
 category: "mudanca-de-emprego"
 tags: ["a-estrela-tarot", "mudanca-de-emprego-tarot", "arcanos-maiores", "tarot-profissional", "resultado-provavel-tarot", "arcanos-maiores", "a-estrela", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 7
 seo:

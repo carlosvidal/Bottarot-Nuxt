@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Papa nel futuro. Impara come 
 category: "futuro"
 tags: ["il-papa", "tarocchi-futuro", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-papa", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Étoile (Arcane 17) sur les sentiments 
 category: "ex-partenaire"
 tags: ["l-etoile-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "guerison-emotionnelle", "arcanes-majeurs", "l-etoile", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

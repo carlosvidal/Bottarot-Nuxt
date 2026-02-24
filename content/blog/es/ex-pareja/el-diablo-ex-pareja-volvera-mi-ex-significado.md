@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Diablo en tarot cuando surg
 category: "ex-pareja"
 tags: ["El Diablo tarot", "ex pareja volverá mi ex", "significado tarot", "arcanos mayores", "tarot relaciones", "arcanos-mayores", "el-diablo", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

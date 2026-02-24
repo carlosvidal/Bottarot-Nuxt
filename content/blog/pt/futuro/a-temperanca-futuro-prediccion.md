@@ -4,7 +4,7 @@ description: "Descubra a mensagem do Arcano Maior A Temperança para 2026. Um gu
 category: "futuro"
 tags: ["a-temperanca", "tarot-2026", "previsao-tarot", "arcanos-maiores", "equilibrio", "arcanos-maiores", "a-temperanca", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5
 seo:

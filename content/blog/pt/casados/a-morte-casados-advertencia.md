@@ -4,7 +4,7 @@ description: "Descubra o significado de A Morte no contexto do si estou casado. 
 category: "casados"
 tags: ["a-morte-tarot", "si-estou-casado", "advertencia-tarot", "arcanos-maiores", "transformacao-casal", "arcanos-maiores", "a-morte", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

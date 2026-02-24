@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Fool tarot card in the context of
 category: "money"
 tags: ["the-fool-tarot", "tarot-money", "the-fool-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-fool", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

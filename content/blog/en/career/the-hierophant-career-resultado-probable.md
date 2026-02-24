@@ -4,7 +4,7 @@ description: "Discover the message of The Hierophant (Major Arcana 5) in your ca
 category: "career"
 tags: ["the-hierophant-tarot-work", "tarot-career", "the-hierophant-meaning-work", "major-arcana", "major-arcana", "the-hierophant", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

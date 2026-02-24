@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Star tarot card in love. A me
 category: "love"
 tags: ["the-star-tarot", "tarot-love", "major-arcana", "tarot-meaning", "love-and-spirituality", "major-arcana", "the-star", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

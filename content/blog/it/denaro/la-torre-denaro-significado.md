@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Torre nel contesto d
 category: "denaro"
 tags: ["la-torre-tarocchi", "tarocchi-denaro", "significato-la-torre", "arcani-maggiori", "tarocchi-finanziari", "arcani-maggiori", "la-torre", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

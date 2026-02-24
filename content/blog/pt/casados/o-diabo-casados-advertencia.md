@@ -4,7 +4,7 @@ description: "Descubra o significado de O Diabo no contexto do 'se estou casado'
 category: "casados"
 tags: ["o-diabo-tarot", "tarot-se-estou-casado", "arcanos-maiores", "advertencia-tarot", "significado-o-diabo", "arcanos-maiores", "o-diabo", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

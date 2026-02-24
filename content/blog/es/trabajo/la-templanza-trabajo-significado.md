@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Templanza en el co
 category: "trabajo"
 tags: ["La Templanza tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "equilibrio laboral", "arcanos-mayores", "la-templanza", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

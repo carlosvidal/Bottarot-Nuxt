@@ -4,7 +4,7 @@ description: "Discover the message of The Hanged Man in the workplace. Learn abo
 category: "career"
 tags: ["the-hanged-man-tarot-work", "the-hanged-man-probable-outcome", "meaning-the-hanged-man-at-work", "tarot-work", "major-arcana", "career-tarot", "major-arcana", "the-hanged-man", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

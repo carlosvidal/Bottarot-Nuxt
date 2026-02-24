@@ -4,7 +4,7 @@ description: "Descubre el significado de El Carro en el contexto de una ex parej
 category: "ex-pareja"
 tags: ["El Carro tarot", "tarot ex pareja", "Arcanos Mayores", "interpretación tarot", "arcanos-mayores", "el-carro", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 7
 seo:

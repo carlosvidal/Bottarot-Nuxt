@@ -4,7 +4,7 @@ description: "Scopri il significato de La Temperanza nel matrimonio. Consigli pr
 category: "matrimonio"
 tags: ["la-temperanza-tarocchi-matrimonio", "la-temperanza-consiglio", "significato-temperanza-matrimonio", "tarocchi-matrimonio", "arcani-maggiori", "la-temperanza", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 7
 seo:

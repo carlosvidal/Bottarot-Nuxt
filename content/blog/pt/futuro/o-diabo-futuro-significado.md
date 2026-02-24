@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Diabo (Arcano 15) no contexto
 category: "futuro"
 tags: ["o-diabo-tarot", "arcanos-maiores", "significado-tarot", "tarot-futuro", "cartas-de-tarot", "arcanos-maiores", "o-diabo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

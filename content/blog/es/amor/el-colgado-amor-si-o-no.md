@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Colgado en el amor. Aprende
 category: "amor"
 tags: ["El Colgado tarot amor", "El Colgado si o no", "significado El Colgado en el amor", "tarot amor", "arcanos mayores", "tarot lectura", "arcanos-mayores", "el-colgado", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7
 seo:

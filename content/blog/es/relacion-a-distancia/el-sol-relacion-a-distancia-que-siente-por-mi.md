@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Sol en el tarot para relaci
 category: "relacion-a-distancia"
 tags: ["El Sol tarot", "relación a distancia", "qué siente por mí", "arcanos mayores", "tarot emocional", "arcanos-mayores", "el-sol", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

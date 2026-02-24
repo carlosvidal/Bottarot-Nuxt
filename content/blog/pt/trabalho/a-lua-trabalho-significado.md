@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Lua no contexto profiss
 category: "trabalho"
 tags: ["a-lua-tarot", "tarot-trabalho", "significado-a-lua", "arcanos-maiores", "tarot-carreira", "arcanos-maiores", "a-lua", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

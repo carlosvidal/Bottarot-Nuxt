@@ -4,7 +4,7 @@ description: "Descubre el significado de El Mago en el contexto del matrimonio. 
 category: "casados"
 tags: ["El Mago tarot", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "consejos tarot", "arcanos-mayores", "el-mago", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

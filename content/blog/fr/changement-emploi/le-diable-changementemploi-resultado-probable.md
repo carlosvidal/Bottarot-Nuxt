@@ -4,7 +4,7 @@ description: "Découvrez le message du Diable (Arcane 15) dans un changement pro
 category: "changement-emploi"
 tags: ["le-diable-tarot", "changement-d-emploi", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-diable", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7
 seo:

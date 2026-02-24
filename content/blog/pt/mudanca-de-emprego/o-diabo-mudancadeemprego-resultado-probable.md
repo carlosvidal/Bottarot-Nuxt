@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Diabo (Arcano 15) em uma mudança de trab
 category: "mudanca-de-emprego"
 tags: ["o-diabo-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "o-diabo", "mudanca-de-trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

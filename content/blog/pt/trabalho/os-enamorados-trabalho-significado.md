@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta Os Enamorados no contexto
 category: "trabalho"
 tags: ["os-enamorados-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "harmonia-profissional", "arcanos-maiores", "os-enamorados", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

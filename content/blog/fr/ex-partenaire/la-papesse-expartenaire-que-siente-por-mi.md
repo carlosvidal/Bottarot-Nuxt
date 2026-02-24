@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Papesse dans le contexte d'une e
 category: "ex-partenaire"
 tags: ["la-papesse-tarot", "tarot-ex-partenaire", "signification-la-papesse", "que-ressent-mon-ex", "arcanes-majeurs", "la-papesse", "ex-relation"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the meaning of The Tower in a career context. Learn the p
 category: "career"
 tags: ["the-tower-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana", "the-tower", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

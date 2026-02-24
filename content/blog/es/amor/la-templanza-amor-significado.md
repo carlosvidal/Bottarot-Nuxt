@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta de La Templanza en el
 category: "amor"
 tags: ["La Templanza tarot amor", "La Templanza significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "la-templanza", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

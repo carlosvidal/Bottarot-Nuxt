@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Templanza en el dinero. Apr
 category: "dinero"
 tags: ["La Templanza tarot dinero", "La Templanza significado", "tarot dinero", "arcanos mayores dinero", "arcanos-mayores", "la-templanza", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

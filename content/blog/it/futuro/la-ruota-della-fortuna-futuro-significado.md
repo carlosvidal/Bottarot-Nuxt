@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della Ruota della Fortuna nel futur
 category: "futuro"
 tags: ["la-ruota-della-fortuna", "tarocchi-futuro", "arcani-maggiori", "significato-tarocchi", "cicli-della-vita", "arcani-maggiori", "la-ruota-della-fortuna", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

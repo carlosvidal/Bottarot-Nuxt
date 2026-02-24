@@ -4,7 +4,7 @@ description: "Discover The Star's (Arcana 17) message about your ex's feelings. 
 category: "ex-partner"
 tags: ["the-star-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "emotional-healing", "major-arcana", "the-star", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

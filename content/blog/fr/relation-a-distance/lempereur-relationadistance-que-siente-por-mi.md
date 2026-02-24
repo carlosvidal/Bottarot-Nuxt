@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Empereur dans une relati
 category: "relation-a-distance"
 tags: ["l-empereur-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-amour", "arcanes-majeurs"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

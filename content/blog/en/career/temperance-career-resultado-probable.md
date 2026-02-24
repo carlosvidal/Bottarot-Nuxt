@@ -4,7 +4,7 @@ description: "Discover the meaning of the Temperance card in a career context. U
 category: "career"
 tags: ["temperance-tarot-work", "temperance-likely-outcome", "temperance-meaning-work", "tarot-career", "major-arcana", "work-balance", "major-arcana", "temperance", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

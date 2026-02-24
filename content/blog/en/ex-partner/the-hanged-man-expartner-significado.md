@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Hanged Man in tarot when asking i
 category: "ex-partner"
 tags: ["the-hanged-man-tarot", "ex-will-they-return", "tarot-meaning", "major-arcana", "tarot-love", "major-arcana", "the-hanged-man", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

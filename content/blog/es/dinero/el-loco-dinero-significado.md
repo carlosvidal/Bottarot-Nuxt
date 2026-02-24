@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Loco del tarot en 
 category: "dinero"
 tags: ["El Loco tarot", "tarot dinero", "significado El Loco", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-loco", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

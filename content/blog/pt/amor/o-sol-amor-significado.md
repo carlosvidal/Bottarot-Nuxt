@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Sol no amor. Um guia so
 category: "amor"
 tags: ["o-sol-tarot", "tarot-amor", "arcanos-maiores", "significado-tarot", "amor-e-tarot", "arcanos-maiores", "o-sol", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__amor-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

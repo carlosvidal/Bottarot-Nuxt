@@ -4,7 +4,7 @@ description: "Discover the meaning of The Empress in a job change. Upright and r
 category: "career-change"
 tags: ["the-empress", "tarot-career-change", "probable-outcome-tarot", "major-arcana", "tarot-career-meaning", "major-arcana", "the-empress", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the warning message of The Empress in crucial decisions. 
 category: "decisions"
 tags: ["the-empress", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-symbolism", "major-arcana", "the-empress", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

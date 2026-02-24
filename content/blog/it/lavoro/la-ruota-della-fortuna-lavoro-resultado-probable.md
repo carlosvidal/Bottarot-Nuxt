@@ -4,7 +4,7 @@ description: "Scopri il significato de La Ruota della Fortuna nel contesto lavor
 category: "lavoro"
 tags: ["la-ruota-della-fortuna", "tarot-lavoro", "arcani-maggiori", "risultato-probabile-tarot", "cambiamento-lavorativo", "arcani-maggiori", "la-ruota-della-fortuna", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

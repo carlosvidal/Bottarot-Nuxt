@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte de L'Étoile du tarot dans
 category: "mariage"
 tags: ["l-etoile-tarot", "tarot-mariage", "conseils-tarot", "arcanes-majeurs", "spiritualite-en-couple", "arcanes-majeurs", "l-etoile", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Enforcado no âmbito profissional. Aprend
 category: "trabalho"
 tags: ["o-enforcado-tarot-trabalho", "o-enforcado-resultado-proval", "significado-o-enforcado-no-trabalho", "tarot-trabalho", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "o-enforcado", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

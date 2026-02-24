@@ -4,7 +4,7 @@ description: "Descubre el significado de El Diablo en decisiones cruciales. Una 
 category: "decisiones"
 tags: ["El Diablo tarot", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "significado El Diablo", "arcanos-mayores", "el-diablo", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

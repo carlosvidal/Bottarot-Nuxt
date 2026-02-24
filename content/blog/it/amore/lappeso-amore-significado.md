@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Appeso in amore. Una carta di sospensio
 category: "amore"
 tags: ["l-appeso-tarot-amore", "l-appeso-significato", "tarot-amore", "arcani-maggiori", "arcani-maggiori", "l-appeso", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

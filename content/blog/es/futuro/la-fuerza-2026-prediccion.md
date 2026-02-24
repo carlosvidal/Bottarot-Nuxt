@@ -4,7 +4,7 @@ description: "Descubre el mensaje del Arcano Mayor La Fuerza para 2026. Exploram
 category: "futuro"
 tags: ["La Fuerza tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "la-fuerza", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

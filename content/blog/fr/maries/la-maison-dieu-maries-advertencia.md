@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Maison Dieu dans le con
 category: "maries"
 tags: ["la-maison-dieu-tarot", "si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "tarot-relationnel", "arcanes-majeurs", "la-maison-dieu", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

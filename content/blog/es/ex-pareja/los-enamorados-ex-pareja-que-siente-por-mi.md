@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta Los Enamorados en el 
 category: "ex-pareja"
 tags: ["Los Enamorados tarot", "tarot ex pareja", "interpretación tarot", "arcanos mayores", "amor y relaciones", "arcanos-mayores", "los-enamorados", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 5
 seo:

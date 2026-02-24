@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Mat dans le tarot face à 
 category: "ex-partenaire"
 tags: ["le-mat", "tarot-ex", "signification-tarot", "arcanes-majeurs", "reconciliation", "arcanes-majeurs", "le-mat", "ex-partenaires"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 5
 seo:

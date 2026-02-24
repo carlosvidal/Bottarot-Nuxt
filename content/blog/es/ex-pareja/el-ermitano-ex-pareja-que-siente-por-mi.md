@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Ermitaño en el contexto de
 category: "ex-pareja"
 tags: ["El Ermitaño tarot ex pareja", "El Ermitaño qué siente por mí", "significado El Ermitaño en el ex pareja", "tarot ex pareja", "arcanos mayores", "interpretación tarot", "arcanos-mayores", "el-ermitano", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 5
 seo:

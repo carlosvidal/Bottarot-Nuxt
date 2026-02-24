@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Appeso nel tarot per le relazioni a dis
 category: "relazione-a-distanza"
 tags: ["l-appeso-tarot", "relazione-a-distanza", "cosa-prova-per-me", "tarot-emozionale", "arcani-maggiori", "arcani-maggiori", "l-appeso", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

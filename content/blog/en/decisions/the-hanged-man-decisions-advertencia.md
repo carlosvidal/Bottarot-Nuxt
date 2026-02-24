@@ -4,7 +4,7 @@ description: "Discover The Hanged Man's warning message in crucial decisions. Le
 category: "decisions"
 tags: ["the-hanged-man-tarot", "important-decisions-tarot", "tarot-warning", "major-arcana", "major-arcana-cards", "the-hanged-man", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

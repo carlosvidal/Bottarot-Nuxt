@@ -4,7 +4,7 @@ description: "Descubre el significado de La Estrella del tarot en el matrimonio.
 category: "matrimonio"
 tags: ["La Estrella tarot", "tarot matrimonio", "consejos tarot", "arcanos mayores", "espiritualidad en pareja", "arcanos-mayores", "la-estrella", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6
 seo:

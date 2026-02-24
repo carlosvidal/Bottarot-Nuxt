@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mondo nel contesto del matrim
 category: "sposati"
 tags: ["il-mondo-tarot", "tarot-se-sono-sposato", "arcani-maggiori", "avvertimento-tarot", "matrimonio-tarot", "arcani-maggiori", "il-mondo", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

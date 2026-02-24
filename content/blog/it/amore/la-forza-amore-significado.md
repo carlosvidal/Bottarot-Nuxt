@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Forza in amore. Impa
 category: "amore"
 tags: ["la-forza-tarocchi", "tarocchi-amore", "significato-la-forza", "arcani-maggiori", "amore-e-tarocchi", "arcani-maggiori", "la-forza", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__amor-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

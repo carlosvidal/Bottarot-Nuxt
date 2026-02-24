@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Tempérance (Arcane 14)
 category: "avenir"
 tags: ["la-temperance-tarot", "tarot-avenir", "arcanes-majeurs", "equilibre-tarot", "signification-tarot", "arcanes-majeurs", "la-temperance", "futur"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

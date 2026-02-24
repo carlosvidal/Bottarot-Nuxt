@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Temperance tarot card in a ca
 category: "career"
 tags: ["temperance-tarot", "tarot-career", "tarot-meaning", "major-arcana", "work-balance", "major-arcana", "temperance", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

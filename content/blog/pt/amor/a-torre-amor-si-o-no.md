@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Torre no amor. É um sim ou u
 category: "amor"
 tags: ["a-torre-tarot-amor", "a-torre-sim-ou-nao", "significado-a-torre-no-amor", "tarot-amor", "arcanos-maiores", "a-torre", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 5
 seo:

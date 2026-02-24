@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Sumo Sacerdote (Arcano 5) en tu vida lab
 category: "trabajo"
 tags: ["El Sumo Sacerdote tarot trabajo", "tarot trabajo", "significado El Sumo Sacerdote en el trabajo", "Arcanos Mayores", "arcanos-mayores", "el-sumo-sacerdote", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

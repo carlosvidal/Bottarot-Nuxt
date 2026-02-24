@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Force dans le 
 category: "argent"
 tags: ["la-force-tarot", "tarot-argent", "signification-la-force", "arcanes-majeurs-argent", "abondance-tarot", "arcanes-majeurs", "la-force", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "fr"
 readingTime: 7
 seo:

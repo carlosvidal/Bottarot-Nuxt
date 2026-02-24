@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mondo nelle decisioni crucial
 category: "decisioni"
 tags: ["il-mondo-tarocchi", "decisioni-importanti-tarocchi", "arcani-maggiori", "avvertimento-tarocchi", "arcani-maggiori", "il-mondo", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

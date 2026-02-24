@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Sacerdotisa en el context
 category: "casados"
 tags: ["La Sacerdotisa", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "intuición en el matrimonio", "arcanos-mayores", "la-sacerdotisa", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

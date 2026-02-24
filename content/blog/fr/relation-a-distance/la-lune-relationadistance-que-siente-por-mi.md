@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Lune dans le tarot pour les rela
 category: "relation-a-distance"
 tags: ["la-lune-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-emotionnel", "arcanes-majeurs", "la-lune", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death card in the context of 
 category: "ex-partner"
 tags: ["death-tarot", "ex-partner-tarot", "tarot-meaning", "major-arcana", "major-arcana-cards", "death-card", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

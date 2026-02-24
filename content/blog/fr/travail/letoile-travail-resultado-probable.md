@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Étoile dans le domaine professionnel. 
 category: "travail"
 tags: ["l-etoile-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-carriere", "arcanes-majeurs", "l-etoile", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7
 seo:

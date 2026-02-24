@@ -4,7 +4,7 @@ description: "Discover the meaning of The Devil card in the context of an ex-par
 category: "ex-partner"
 tags: ["the-devil-tarot", "tarot-ex-partner", "major-arcana", "love-and-tarot", "tarot-interpretation", "major-arcana", "the-devil", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 7
 seo:

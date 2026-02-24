@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Sun card in love. Learn its m
 category: "love"
 tags: ["the-sun-tarot", "love-tarot", "major-arcana", "tarot-meaning", "the-sun-yes-or-no", "major-arcana", "the-sun", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

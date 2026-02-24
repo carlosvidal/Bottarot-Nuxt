@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Devil card in love. Learn abo
 category: "love"
 tags: ["the-devil-tarot-love", "the-devil-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-devil", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pendu en amour. Une carte de suspen
 category: "amour"
 tags: ["le-pendu tarot amour", "le-pendu signification", "tarot amour", "arcanes majeurs", "arcanes-majeurs", "le-pendu", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

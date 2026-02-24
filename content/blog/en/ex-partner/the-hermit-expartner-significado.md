@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hermit in the context of 'wil
 category: "ex-partner"
 tags: ["the-hermit", "tarot-ex-partner", "tarot-meaning", "major-arcana", "introspection", "major-arcana-cards", "hermit-card", "ex-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

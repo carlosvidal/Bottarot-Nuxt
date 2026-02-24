@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Empereur dans le context
 category: "ex-partenaire"
 tags: ["l-empereur-tarot", "signification-tarot-ex", "tarot-ex-partenaire-reviendra", "arcane-majeur-4", "arcanes-majeurs", "l-empereur", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 5
 seo:

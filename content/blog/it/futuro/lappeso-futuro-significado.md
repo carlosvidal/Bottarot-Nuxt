@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Appeso nel futuro. Impara come
 category: "futuro"
 tags: ["l-appeso", "tarocchi-futuro", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "l-appeso", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

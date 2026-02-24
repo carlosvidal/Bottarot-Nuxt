@@ -4,7 +4,7 @@ description: "Discover The Magician's warning message in crucial decisions. Lear
 category: "decisions"
 tags: ["the-magician-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "personal-power", "major-arcana", "the-magician", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

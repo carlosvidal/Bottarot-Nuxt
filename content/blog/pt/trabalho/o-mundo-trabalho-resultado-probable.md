@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Mundo no contexto profissional. 
 category: "trabalho"
 tags: ["o-mundo-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "cartas-de-tarot", "arcanos-maiores", "o-mundo", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

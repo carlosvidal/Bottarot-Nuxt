@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Imperatore in un cambio di lavoro. Inte
 category: "cambio-lavoro"
 tags: ["l-imperatore-tarocchi", "cambio-lavoro", "risultato-probabile-tarocchi", "arcani-maggiori", "tarocchi-carriera-professionale", "arcani-maggiori", "l-imperatore", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

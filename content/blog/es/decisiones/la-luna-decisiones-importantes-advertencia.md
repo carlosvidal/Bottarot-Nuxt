@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Luna (Arcano 18) en decis
 category: "decisiones"
 tags: ["La Luna tarot", "tarot decisiones importantes", "Arcanos Mayores", "advertencia tarot", "arcanos-mayores", "la-luna", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

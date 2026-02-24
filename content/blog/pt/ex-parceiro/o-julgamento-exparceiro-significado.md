@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Julgamento no contexto 
 category: "ex-parceiro"
 tags: ["o-julgamento-tarot", "significado-o-julgamento", "tarot-ex-parceiro", "arcanos-maiores", "renascimento-emocional", "arcanos-maiores", "o-julgamento", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

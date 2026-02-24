@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Luna nel contesto del matrimo
 category: "sposati"
 tags: ["la-luna-tarot", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "interpretazione-tarot", "arcani-maggiori", "la-luna", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

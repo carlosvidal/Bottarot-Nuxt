@@ -4,7 +4,7 @@ description: "Découvrez le message du Jugement (Arcane 20) dans un changement p
 category: "changement-emploi"
 tags: ["le-jugement-tarot", "changement-de-travail", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-jugement", "changement-de-travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Papesse pour 2026. Explorez comm
 category: "avenir"
 tags: ["la-papesse", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "intuition", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5
 seo:

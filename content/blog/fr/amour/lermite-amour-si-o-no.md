@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte L'Ermite en amour
 category: "amour"
 tags: ["l-ermite-tarot-amour", "l-ermite-oui-ou-non", "signification-l-ermite-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-tarot", "arcanes-majeurs", "l-ermite", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 5
 seo:

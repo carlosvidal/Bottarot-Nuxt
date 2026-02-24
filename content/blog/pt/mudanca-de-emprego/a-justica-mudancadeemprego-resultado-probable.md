@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Justiça em uma mudança de trab
 category: "mudanca-de-emprego"
 tags: ["a-justica-tarot", "mudanca-de-trabalho", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "a-justica", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Pape dans le futur. Appren
 category: "avenir"
 tags: ["le-pape", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir-tarot", "arcane-v"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

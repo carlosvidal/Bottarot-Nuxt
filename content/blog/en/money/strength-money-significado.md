@@ -4,7 +4,7 @@ description: "Discover the deep meaning of the Strength card in a money context.
 category: "money"
 tags: ["strength-tarot", "tarot-money", "strength-meaning", "major-arcana-money", "abundance-tarot", "major-arcana", "strength", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

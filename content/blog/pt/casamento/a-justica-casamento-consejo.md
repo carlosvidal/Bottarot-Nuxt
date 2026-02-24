@@ -4,7 +4,7 @@ description: "Descubra o profundo conselho da carta A Justiça para seu casament
 category: "casamento"
 tags: ["a-justica-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "equilibrio-relacao", "arcanos-maiores", "a-justica", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

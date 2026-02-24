@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Muerte (Arcano 13) en dec
 category: "decisiones"
 tags: ["la muerte tarot", "decisiones importantes tarot", "arcano mayor 13", "transformación tarot", "advertencia tarot", "arcanos-mayores", "la-muerte", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the cautionary message of The Hierophant (Arcana 5) in th
 category: "married"
 tags: ["the-hierophant", "tarot-marriage", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "the-hierophant", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

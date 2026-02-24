@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Hierofante (Arcano 5) na sua vida profiss
 category: "trabalho"
 tags: ["o-hierofante-tarot-trabalho", "tarot-trabalho", "significado-o-hierofante-no-trabalho", "arcanos-maiores", "arcanos-majores", "o-hierofante", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta L'Eremita nel contesto 
 category: "lavoro"
 tags: ["l-eremita-tarocchi", "tarocchi-lavoro", "significato-l-eremita", "arcani-maggiori", "introspezione-lavorativa", "arcani-maggiori", "l-eremita", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement du Pendu dans les décisions
 category: "decisions"
 tags: ["le-pendu-tarot", "decisions-importantes-tarot", "avertissement-tarot", "arcanes-majeurs", "le-pendu", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

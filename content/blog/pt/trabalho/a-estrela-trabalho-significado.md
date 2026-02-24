@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Estrela (Arcano 17) no contex
 category: "trabalho"
 tags: ["a-estrela-tarot", "tarot-trabalho", "significado-a-estrela", "arcanos-maiores", "guia-profissional-tarot", "arcanos-maiores", "a-estrela", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

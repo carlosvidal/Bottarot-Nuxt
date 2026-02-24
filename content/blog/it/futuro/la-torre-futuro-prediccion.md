@@ -4,7 +4,7 @@ description: "Esplora il significato de La Torre nel tarocchi per il 2026. Scopr
 category: "futuro"
 tags: ["la-torre-tarocchi", "tarocchi-2026", "previsione-tarocchi", "arcani-maggiori", "cambiamento-tarocchi", "arcani-maggiori", "la-torre", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__2026-prediccion.webp"
 locale: "it"
 readingTime: 5
 seo:

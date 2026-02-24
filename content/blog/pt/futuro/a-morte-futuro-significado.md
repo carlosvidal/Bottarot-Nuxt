@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Morte no futuro. Ela n√
 category: "futuro"
 tags: ["a-morte-tarot", "tarot-futuro", "arcano-maior", "transformacao-tarot", "significado-tarot", "arcanos-maiores", "a-morte", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

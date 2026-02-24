@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Amoureux dans le futur. 
 category: "avenir"
 tags: ["l-amoureux", "tarot-futur", "signification-tarot", "arcanes-majeurs", "amour-tarot", "arcanes-majeurs", "l-amoureux", "futur"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

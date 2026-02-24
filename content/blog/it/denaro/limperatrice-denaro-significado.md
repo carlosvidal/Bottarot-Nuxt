@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Imperatrice dei tarocchi nel c
 category: "denaro"
 tags: ["l-imperatrice", "tarocchi-denaro", "significato-tarocchi", "arcani-maggiori", "abbondanza", "arcani-maggiori", "l-imperatrice", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Rueda de la Fortuna sobre los sentimient
 category: "relacion-a-distancia"
 tags: ["La Rueda de la Fortuna", "tarot relación a distancia", "qué siente por mí", "arcanos mayores", "amor a distancia", "arcanos-mayores", "la-rueda-de-la-fortuna", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

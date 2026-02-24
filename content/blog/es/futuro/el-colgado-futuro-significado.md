@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Colgado en el futuro. Apren
 category: "futuro"
 tags: ["El Colgado", "tarot futuro", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-colgado", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o significado de O Louco no contexto profissional. Interp
 category: "trabalho"
 tags: ["o-louco-tarot-trabalho", "o-louco-resultado-provavel", "significado-o-louco-no-trabalho", "tarot-trabalho", "arcanos-maiores", "tarot-carreira", "arcanos-maiores", "o-louco", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

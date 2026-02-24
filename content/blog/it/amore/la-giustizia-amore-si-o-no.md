@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Giustizia in amore. Impara il
 category: "amore"
 tags: ["la-giustizia-tarot-amore", "tarot-amore", "significato-la-giustizia-amore", "arcani-maggiori", "la-giustizia", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

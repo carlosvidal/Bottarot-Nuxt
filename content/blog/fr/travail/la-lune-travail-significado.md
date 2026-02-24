@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte de La Lune dans l
 category: "travail"
 tags: ["la-lune-tarot", "tarot-travail", "signification-la-lune", "arcanes-majeurs", "tarot-carriere", "arcanes-majeurs", "la-lune", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

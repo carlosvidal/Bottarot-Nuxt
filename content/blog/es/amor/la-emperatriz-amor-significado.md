@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Emperatriz en el amor. Un a
 category: "amor"
 tags: ["La Emperatriz tarot", "tarot amor", "arcanos mayores", "significado tarot", "amor y tarot", "arcanos-mayores", "la-emperatriz", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

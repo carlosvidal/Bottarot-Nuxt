@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Imperatriz do tarô no contex
 category: "dinheiro"
 tags: ["a-imperatriz", "tarô-dinheiro", "significado-tarô", "arcanos-maiores", "abundância", "arcanos-maiores", "a-imperatriz", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

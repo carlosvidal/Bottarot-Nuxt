@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Mundo no contexto do casamento. 
 category: "casamento"
 tags: ["o-mundo-tarot", "tarot-casamento", "arcanos-maiores", "conselhos-tarot", "plenitude-conjugal", "arcanos-maiores", "o-mundo", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7
 seo:

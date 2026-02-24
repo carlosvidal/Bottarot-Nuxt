@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Lua (Arcano 18) para 2026. Explore seu si
 category: "futuro"
 tags: ["a-lua-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-a-lua", "arcanos-maiores", "a-lua", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5
 seo:

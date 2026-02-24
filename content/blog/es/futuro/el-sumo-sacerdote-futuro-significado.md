@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Sumo Sacerdote en el futuro
 category: "futuro"
 tags: ["El Sumo Sacerdote", "tarot futuro", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-sumo-sacerdote", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

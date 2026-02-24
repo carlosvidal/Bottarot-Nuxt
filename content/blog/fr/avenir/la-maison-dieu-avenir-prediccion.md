@@ -4,7 +4,7 @@ description: "Explorez la signification de La Maison Dieu (La Tour) dans le taro
 category: "avenir"
 tags: ["la-maison-dieu-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "changement-tarot", "arcanes-majeurs", "la-maison-dieu", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

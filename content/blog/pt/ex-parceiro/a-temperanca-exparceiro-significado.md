@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Temperança no tarot quando s
 category: "ex-parceiro"
 tags: ["a-temperanca-tarot", "ex-voltara", "significado-tarot", "arcanos-maiores", "tarot-amor", "arcanos-maiores", "a-temperanca", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

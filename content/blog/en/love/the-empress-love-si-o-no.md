@@ -4,7 +4,7 @@ description: "Discover the meaning of The Empress in love. A deep guide on her f
 category: "love"
 tags: ["the-empress-tarot-love", "the-empress-yes-or-no", "meaning-the-empress-in-love", "tarot-love", "major-arcana", "love-and-tarot", "major-arcana", "the-empress", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Ermitaño en el contexto 
 category: "casados"
 tags: ["El Ermitaño", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "interpretación tarot", "arcanos-mayores", "el-ermitano", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta La Fuerza en el contexto del m
 category: "matrimonio"
 tags: ["La Fuerza tarot", "tarot matrimonio", "consejos tarot", "arcanos mayores", "amor y tarot", "arcanos-mayores", "la-fuerza", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7
 seo:

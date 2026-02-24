@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Torre en el contex
 category: "trabajo"
 tags: ["La Torre tarot trabajo", "La Torre significado", "tarot trabajo", "arcanos mayores", "arcanos-mayores", "la-torre", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

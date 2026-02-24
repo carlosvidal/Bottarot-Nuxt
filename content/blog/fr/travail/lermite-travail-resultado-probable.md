@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Ermite (Arcane 9) dans votre vie profes
 category: "travail"
 tags: ["l-ermite-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "l-ermite", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Eremita no contexto de 'ex va
 category: "ex-parceiro"
 tags: ["o-eremita", "tarot-ex", "significado-tarot", "arcanos-maiores", "introspeccao", "arcanos-maiores", "o-eremita", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

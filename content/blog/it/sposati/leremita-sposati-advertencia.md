@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de L'Eremita nel contesto del 
 category: "sposati"
 tags: ["l-eremita", "tarocco-se-sono-sposato", "avvertimento-tarocco", "arcani-maggiori", "interpretazione-tarocco", "arcani-maggiori", "l-eremita", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

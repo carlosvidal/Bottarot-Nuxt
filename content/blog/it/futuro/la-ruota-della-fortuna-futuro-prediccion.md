@@ -4,7 +4,7 @@ description: "Scopri il significato de La Ruota della Fortuna per il 2026. Esplo
 category: "futuro"
 tags: ["la-ruota-della-fortuna", "tarocchi-2026", "previsioni-tarocchi", "arcani-maggiori", "cicli-del-destino", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

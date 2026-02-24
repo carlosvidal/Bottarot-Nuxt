@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Colgado en el ámbito laboral. Aprende s
 category: "trabajo"
 tags: ["El Colgado tarot trabajo", "El Colgado resultado probable", "significado El Colgado en el trabajo", "tarot trabajo", "arcanos mayores", "tarot laboral", "arcanos-mayores", "el-colgado", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

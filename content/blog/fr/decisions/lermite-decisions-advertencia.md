@@ -4,7 +4,7 @@ description: "Découvrez le message d'alerte de L'Ermite dans les décisions cru
 category: "decisions"
 tags: ["l-ermite", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "conseil-spirituel", "arcanes-majeurs", "l-ermite", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta Los Enamorados en el contexto 
 category: "amor"
 tags: ["Los Enamorados tarot", "tarot amor", "significado tarot", "arcanos mayores", "relaciones tarot", "arcanos-mayores", "los-enamorados", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

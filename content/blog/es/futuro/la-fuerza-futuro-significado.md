@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Fuerza (Arcano 8) en lectur
 category: "futuro"
 tags: ["La Fuerza tarot", "significado tarot", "arcanos mayores", "futuro tarot", "arcanos-mayores", "la-fuerza", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

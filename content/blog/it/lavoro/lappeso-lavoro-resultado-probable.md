@@ -4,7 +4,7 @@ description: "Scopri il messaggio de L'Appeso nell'ambito lavorativo. Impara il 
 category: "lavoro"
 tags: ["l-appeso-tarocchi-lavoro", "l-appeso-risultato-probabile", "significato-l-appeso-nel-lavoro", "tarocchi-lavoro", "arcani-maggiori", "tarocchi-lavorativo", "arcani-maggiori", "l-appeso", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

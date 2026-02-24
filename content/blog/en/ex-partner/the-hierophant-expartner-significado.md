@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hierophant in the context of 
 category: "ex-partner"
 tags: ["the-hierophant", "tarot-ex-partner", "tarot-meaning", "major-arcana", "reconciliation", "major-arcana-cards", "ex-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

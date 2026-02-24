@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Lua no futuro. Um guia sobre 
 category: "futuro"
 tags: ["a-lua-tarot", "tarot-futuro", "significado-a-lua", "arcanos-maiores", "tarot", "arcanos-maiores", "a-lua", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Moon in the context of money.
 category: "money"
 tags: ["the-moon-tarot", "tarot-money", "the-moon-meaning", "major-arcana-money", "finances-and-tarot", "major-arcana", "the-moon", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

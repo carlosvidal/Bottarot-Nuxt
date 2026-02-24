@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Torre en el amor. No es sol
 category: "amor"
 tags: ["La Torre tarot amor", "La Torre significado", "significado La Torre en el amor", "tarot amor", "arcanos mayores", "tarot relaciones", "arcanos-mayores", "la-torre", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

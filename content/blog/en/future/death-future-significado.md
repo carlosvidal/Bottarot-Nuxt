@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death card in the future. It 
 category: "future"
 tags: ["death-tarot", "future-tarot", "major-arcana", "tarot-transformation", "tarot-meaning", "major-arcana-cards", "death", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

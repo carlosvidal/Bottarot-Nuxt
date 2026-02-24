@@ -4,7 +4,7 @@ description: "Discover the meaning of The Fool tarot card for long-distance rela
 category: "long-distance-relationship"
 tags: ["the-fool-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-fool", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

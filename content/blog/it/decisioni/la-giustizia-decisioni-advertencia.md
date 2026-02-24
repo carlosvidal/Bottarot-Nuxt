@@ -4,7 +4,7 @@ description: "Scopri il messaggio di allerta de La Giustizia (Arcano 11) nelle d
 category: "decisioni"
 tags: ["la-giustizia-tarocchi", "decisioni-importanti-tarocchi", "arcano-maggiore-11", "tarocchi-avvertimento", "arcani-maggiori", "la-giustizia", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 7
 seo:

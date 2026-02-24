@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Estrella para 2026: esperanza, inspiraci
 category: "futuro"
 tags: ["La Estrella tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "espiritualidad", "arcanos-mayores", "la-estrella", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

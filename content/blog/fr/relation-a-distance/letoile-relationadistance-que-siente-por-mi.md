@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Étoile (Arcane 17) sur les sentiments,
 category: "relation-a-distance"
 tags: ["l-etoile-tarot", "tarot-relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "l-etoile", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

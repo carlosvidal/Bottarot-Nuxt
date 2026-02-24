@@ -4,7 +4,7 @@ description: "Discover the warning message of The Hierophant in crucial decision
 category: "decisions"
 tags: ["the-hierophant", "important-decisions-tarot", "major-arcana", "tarot-warning", "spiritual-guidance", "major-arcana", "the-hierophant", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

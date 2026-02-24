@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Stella nelle decisioni c
 category: "decisioni"
 tags: ["la-stella-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "avvertimento-tarocchi", "spiritualita-tarocchi", "arcani-maggiori", "la-stella", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

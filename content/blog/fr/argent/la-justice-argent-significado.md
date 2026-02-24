@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Justice dans l
 category: "argent"
 tags: ["la-justice-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "la-justice", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

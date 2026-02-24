@@ -4,7 +4,7 @@ description: "Descubra o significado de O Imperador em uma mudança de trabalho.
 category: "mudanca-de-emprego"
 tags: ["o-imperador-tarot", "mudanca-de-emprego", "resultado-provavel-tarot", "arcanos-maiores", "tarot-carreira-profissional", "arcanos-maiores", "o-imperador", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

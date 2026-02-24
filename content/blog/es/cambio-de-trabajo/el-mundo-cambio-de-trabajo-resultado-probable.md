@@ -4,7 +4,7 @@ description: "Descubre el mensaje de la carta El Mundo en un cambio laboral. Apr
 category: "cambio-de-trabajo"
 tags: ["El Mundo tarot", "cambio de trabajo", "tarot carrera", "Arcanos Mayores", "resultado probable tarot", "arcanos-mayores", "el-mundo", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

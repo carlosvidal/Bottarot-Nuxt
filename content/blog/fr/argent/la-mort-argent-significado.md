@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Mort dans le c
 category: "argent"
 tags: ["la-mort-tarot-argent", "signification-la-mort", "tarot-argent", "arcanes-majeurs", "transformation-financiere", "arcane-majeur", "la-mort", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

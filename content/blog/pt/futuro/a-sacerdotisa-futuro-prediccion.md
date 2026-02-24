@@ -4,7 +4,7 @@ description: "Descubra o significado de A Sacerdotisa para 2026. Explore como su
 category: "futuro"
 tags: ["a-sacerdotisa", "tarot-2026", "previsao-tarot", "arcanos-maiores", "intuicao", "arcanos-maiores", "a-sacerdotisa", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5
 seo:

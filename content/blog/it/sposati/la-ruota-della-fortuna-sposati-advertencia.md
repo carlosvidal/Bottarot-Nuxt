@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento della Ruota della Fortuna nel 
 category: "sposati"
 tags: ["la-ruota-della-fortuna", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "cambiamento-matrimonio", "arcani-maggiori", "la-ruota-della-fortuna", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

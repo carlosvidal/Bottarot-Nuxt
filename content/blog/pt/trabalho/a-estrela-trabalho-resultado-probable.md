@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Estrela no âmbito profissional. Um guia 
 category: "trabalho"
 tags: ["a-estrela-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "tarot-carreira", "arcanos-maiores", "a-estrela", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

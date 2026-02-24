@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Temperance card in money read
 category: "money"
 tags: ["temperance-tarot-money", "temperance-meaning", "tarot-money", "major-arcana-money", "major-arcana", "temperance", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

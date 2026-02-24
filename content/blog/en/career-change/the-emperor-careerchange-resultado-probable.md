@@ -4,7 +4,7 @@ description: "Discover the meaning of The Emperor in a job change. Interpretatio
 category: "career-change"
 tags: ["the-emperor-tarot", "career-change", "likely-outcome-tarot", "major-arcana", "professional-career-tarot", "major-arcana", "the-emperor", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

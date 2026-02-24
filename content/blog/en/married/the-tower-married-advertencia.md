@@ -4,7 +4,7 @@ description: "Discover the meaning of The Tower card in the context of marriage.
 category: "married"
 tags: ["the-tower-tarot", "marriage", "tarot-warning", "major-arcana", "relationship-tarot", "major-arcana", "the-tower", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

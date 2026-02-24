@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Mundo no tarot para rel
 category: "relacionamento-a-distancia"
 tags: ["o-mundo-tarot", "relacionamento-a-distancia-tarot", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-mundo", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Moon in the future. A guide o
 category: "future"
 tags: ["the-moon-tarot", "future-tarot", "the-moon-meaning", "major-arcana", "tarot", "major-arcana", "the-moon", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

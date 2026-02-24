@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Julgamento no futuro. U
 category: "futuro"
 tags: ["o-julgamento-tarot", "tarot-futuro", "significado-tarot", "arcanos-maiores", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

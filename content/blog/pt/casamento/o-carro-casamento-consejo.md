@@ -4,7 +4,7 @@ description: "Descubra o significado de O Carro do tarot no contexto do casament
 category: "casamento"
 tags: ["o-carro-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "relacoes", "arcanos-maiores", "o-carro", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7
 seo:

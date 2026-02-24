@@ -4,7 +4,7 @@ description: "Descubre el significado de El Ermitaño en un cambio de trabajo. I
 category: "cambio-de-trabajo"
 tags: ["El Ermitaño tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot profesional", "resultado probable tarot", "arcanos-mayores", "el-ermitano", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Mort dans le f
 category: "avenir"
 tags: ["la-mort-tarot", "tarot-futur", "arcane-majeur", "transformation-tarot", "signification-tarot", "arcanes-majeurs", "la-mort", "futur"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

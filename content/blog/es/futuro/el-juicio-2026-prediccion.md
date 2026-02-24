@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Juicio para 2026. Un análi
 category: "futuro"
 tags: ["El Juicio tarot", "tarot 2026", "predicción tarot", "arcanos mayores", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Mundo no contexto do fu
 category: "futuro"
 tags: ["o-mundo-tarot", "tarot-futuro", "significado-o-mundo", "arcanos-maiores", "tarot-significado", "arcanos-maiores", "o-mundo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

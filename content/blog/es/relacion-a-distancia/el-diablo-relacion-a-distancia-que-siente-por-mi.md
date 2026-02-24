@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Diablo en una relación a d
 category: "relacion-a-distancia"
 tags: ["El Diablo tarot", "relación a distancia", "qué siente por mí", "Arcanos Mayores", "arcanos-mayores", "el-diablo", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

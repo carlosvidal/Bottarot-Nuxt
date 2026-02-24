@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Giudizio nel contest
 category: "lavoro"
 tags: ["il-giudizio-tarot", "tarot-lavoro", "significato-tarot", "arcani-maggiori", "tarot-professionale", "arcani-maggiori", "il-giudizio", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__trabajo-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

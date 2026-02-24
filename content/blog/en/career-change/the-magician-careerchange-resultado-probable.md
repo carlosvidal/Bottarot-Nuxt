@@ -4,7 +4,7 @@ description: "Discover the meaning of The Magician in a job change. We analyze i
 category: "career-change"
 tags: ["the-magician-tarot", "career-change-tarot", "major-arcana", "probable-outcome-tarot", "major-arcana", "the-magician", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

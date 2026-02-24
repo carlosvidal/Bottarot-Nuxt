@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Empress tarot card in the context
 category: "money"
 tags: ["the-empress", "tarot-money", "tarot-meaning", "major-arcana", "abundance", "major-arcana", "the-empress", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

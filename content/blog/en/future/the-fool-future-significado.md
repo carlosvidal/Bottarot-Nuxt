@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Fool in the future. A guide o
 category: "future"
 tags: ["the-fool-tarot", "tarot-meaning", "major-arcana", "future-tarot", "major-arcana", "the-fool", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

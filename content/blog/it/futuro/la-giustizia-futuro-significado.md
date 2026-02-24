@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta de La Giustizia nel fut
 category: "futuro"
 tags: ["la-giustizia-tarocchi", "tarocchi-futuro", "significato-tarocchi", "arcani-maggiori", "equilibrio-karma", "arcani-maggiori", "la-giustizia", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

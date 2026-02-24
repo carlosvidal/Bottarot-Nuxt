@@ -4,7 +4,7 @@ description: "Discover the meaning of The Emperor in marriage. Practical advice 
 category: "marriage"
 tags: ["the-emperor", "marriage-tarot", "tarot-advice", "major-arcana", "relationships", "major-arcana", "the-emperor", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

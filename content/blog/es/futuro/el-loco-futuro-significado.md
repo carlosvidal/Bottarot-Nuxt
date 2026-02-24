@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Loco en el futuro. Una guí
 category: "futuro"
 tags: ["El Loco tarot", "significado tarot", "arcanos mayores", "futuro tarot", "arcanos-mayores", "el-loco", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Sol (Arcano 19) em uma mudança profissio
 category: "mudanca-de-emprego"
 tags: ["o-sol-tarot", "mudanca-de-emprego", "tarot-profissional", "arcanos-maiores", "arcanos-maiores", "o-sol", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

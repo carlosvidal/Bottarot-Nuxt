@@ -1,14 +1,14 @@
 <template>
   <div class="blog-page">
     <div class="blog-hero">
-      <NuxtLink to="/blog" class="back-link">&larr; All Articles</NuxtLink>
+      <NuxtLink :to="localePath('/blog')" class="back-link">&larr; All Articles</NuxtLink>
       <h1 class="blog-hero-title">#{{ tag }}</h1>
     </div>
 
     <div class="blog-grid">
       <BlogCard
         v-for="post in posts"
-        :key="post._path"
+        :key="post.path"
         :post="post"
       />
     </div>
@@ -28,18 +28,20 @@ definePageMeta({
 
 const route = useRoute()
 const tag = route.params.tag
+const { locale } = useI18n()
+const localePath = useLocalePath()
 
 useSeoMeta({
   title: `#${tag} - Tarot Blog | Free Tarot Fun`,
   description: `Read all articles tagged "${tag}" on Free Tarot Fun.`,
 })
 
-const { data: posts } = await useAsyncData(`blog-tag-${tag}`, () =>
-  queryCollection('blog_en')
+const { data: posts } = await useAsyncData(`blog-tag-${locale.value}-${tag}`, () =>
+  queryBlogCollection(locale.value)
     .where('tags', 'LIKE', `%${tag}%`)
     .order('publishedAt', 'DESC')
     .all()
-)
+, { watch: [locale] })
 </script>
 
 <style scoped>

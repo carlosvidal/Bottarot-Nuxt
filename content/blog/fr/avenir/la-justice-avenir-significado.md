@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte de La Justice dan
 category: "avenir"
 tags: ["la-justice-tarot", "tarot-futur", "signification-tarot", "arcanes-majeurs", "equilibre-karma", "arcanes-majeurs", "la-justice", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

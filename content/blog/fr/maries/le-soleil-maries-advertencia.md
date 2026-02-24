@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Soleil dans le contexte
 category: "maries"
 tags: ["le-soleil-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "mariage-tarot", "arcanes-majeurs", "le-soleil", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

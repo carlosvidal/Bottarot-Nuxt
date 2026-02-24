@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The World card in the context of 
 category: "money"
 tags: ["the-world-tarot", "tarot-money", "the-world-meaning", "major-arcana-money", "tarot-abundance", "major-arcana", "the-world", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

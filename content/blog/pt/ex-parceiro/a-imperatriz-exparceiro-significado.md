@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Imperatriz no tarot quando su
 category: "ex-parceiro"
 tags: ["a-imperatriz", "tarot-ex", "significado-tarot", "arcanos-maiores", "reconciliacao", "arcanos-maiores", "a-imperatriz", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

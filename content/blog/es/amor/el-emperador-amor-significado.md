@@ -4,7 +4,7 @@ description: "Descubre el significado de El Emperador en el amor. Una guía prof
 category: "amor"
 tags: ["El Emperador tarot", "tarot amor", "significado tarot", "arcanos mayores", "amor y tarot", "arcanos-mayores", "el-emperador", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__amor-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

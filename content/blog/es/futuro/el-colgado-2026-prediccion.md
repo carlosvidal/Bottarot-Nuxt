@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Colgado para 2026. Una guía sobre su si
 category: "futuro"
 tags: ["El Colgado", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-colgado", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o significado de Os Enamorados em decisões cruciais. Um 
 category: "decisoes"
 tags: ["os-enamorados-tarot", "tarot-decisoes-importantes", "arcano-maior", "advertencia-tarot", "interpretacao-tarot", "arcanos-maiores", "os-enamorados", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

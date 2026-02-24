@@ -4,7 +4,7 @@ description: "Descubra o significado de O Eremita em uma mudança de trabalho. I
 category: "mudanca-de-emprego"
 tags: ["o-eremita-tarot", "mudanca-de-emprego-tarot", "arcanos-maiores", "tarot-profissional", "resultado-provavel-tarot", "arcanos-maiores", "o-eremita", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

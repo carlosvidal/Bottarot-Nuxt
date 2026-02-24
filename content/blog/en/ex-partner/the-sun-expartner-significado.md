@@ -4,7 +4,7 @@ description: "Discover the meaning of The Sun card in the context of 'will my ex
 category: "ex-partner"
 tags: ["the-sun-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana", "the-sun", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

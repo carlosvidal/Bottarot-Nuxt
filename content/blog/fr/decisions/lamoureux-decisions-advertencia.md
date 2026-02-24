@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Amoureux dans les décisions cruc
 category: "decisions"
 tags: ["l-amoureux-tarot", "tarot-decisions-importantes", "arcane-majeur", "avertissement-tarot", "interpretation-tarot", "arcanes-majeurs", "l-amoureux", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

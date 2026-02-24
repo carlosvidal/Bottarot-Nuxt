@@ -4,7 +4,7 @@ description: "Descubra o significado da Roda da Fortuna no amor. Um guia profund
 category: "amor"
 tags: ["a-roda-da-fortuna", "tarot-amor", "arcanos-maiores", "tarot-sim-ou-nao", "amor-e-destino", "arcanos-maiores", "a-roda-da-fortuna", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6
 seo:

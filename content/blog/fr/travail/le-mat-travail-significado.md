@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Mat du tarot d
 category: "travail"
 tags: ["le-mat-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "nouveaux-commencements", "arcanes-majeurs", "le-mat", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

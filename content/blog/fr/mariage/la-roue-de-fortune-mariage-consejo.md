@@ -4,7 +4,7 @@ description: "Découvrez la signification de la Roue de la Fortune dans le maria
 category: "mariage"
 tags: ["la-roue-de-la-fortune", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "cycles-amour", "arcanes-majeurs", "la-roue-de-la-fortune", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

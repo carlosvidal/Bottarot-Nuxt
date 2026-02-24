@@ -4,7 +4,7 @@ description: "Discover the message of Temperance in love. Is it a yes or a no? L
 category: "love"
 tags: ["temperance-tarot-love", "temperance-yes-or-no", "temperance-meaning-love", "love-tarot", "major-arcana", "tarot-reading", "major-arcana-cards", "temperance", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__amor-si-o-no.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Emperor card in the context of mo
 category: "money"
 tags: ["the-emperor-tarot", "tarot-money", "tarot-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-emperor", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

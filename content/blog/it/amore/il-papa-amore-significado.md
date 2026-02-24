@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Papa nell'amore. Tradizione, 
 category: "amore"
 tags: ["il-papa-tarocchi-amore", "il-papa-significato", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori-amore", "il-papa", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

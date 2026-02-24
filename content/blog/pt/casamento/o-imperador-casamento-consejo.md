@@ -4,7 +4,7 @@ description: "Descubra o significado de O Imperador no casamento. Conselhos prá
 category: "casamento"
 tags: ["o-imperador", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "relacionamentos", "arcanos-maiores", "o-imperador", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

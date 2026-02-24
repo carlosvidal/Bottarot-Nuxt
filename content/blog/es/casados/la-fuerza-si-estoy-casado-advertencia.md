@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Fuerza en el contexto del
 category: "casados"
 tags: ["La Fuerza tarot", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "consejo tarot", "arcanos-mayores", "la-fuerza", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

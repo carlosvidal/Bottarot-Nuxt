@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Devil card in a career contex
 category: "career"
 tags: ["the-devil-tarot", "career-tarot", "tarot-meaning", "major-arcana", "professional-tarot", "major-arcana", "the-devil", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

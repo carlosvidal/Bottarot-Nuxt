@@ -4,7 +4,7 @@ description: "Decode The Hanged Man's message regarding an ex-partner. Learn wha
 category: "ex-partner"
 tags: ["the-hanged-man-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "major-arcana-cards", "the-hanged-man", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

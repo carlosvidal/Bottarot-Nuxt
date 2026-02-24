@@ -4,7 +4,7 @@ description: "Descubra o significado de O Mago em uma mudança de trabalho. Anal
 category: "mudanca-de-emprego"
 tags: ["o-mago-tarot", "mudanca-de-trabalho-tarot", "arcanos-maiores", "resultado-provavel-tarot", "arcanos-maiores", "o-mago", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

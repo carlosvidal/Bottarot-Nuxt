@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Força (Arcano 8) sobre sentimentos, paci
 category: "relacionamento-a-distancia"
 tags: ["a-forca-tarot", "relacao-a-distancia-tarot", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-forca", "relacao-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

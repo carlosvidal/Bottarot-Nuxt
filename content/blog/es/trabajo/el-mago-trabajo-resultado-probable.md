@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Mago en una lectura laboral. Aprende sob
 category: "trabajo"
 tags: ["El Mago tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-mago", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

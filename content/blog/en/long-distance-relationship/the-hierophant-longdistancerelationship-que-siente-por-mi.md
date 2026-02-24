@@ -4,7 +4,7 @@ description: "Discover the message of The Hierophant in your long-distance relat
 category: "long-distance-relationship"
 tags: ["the-hierophant-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me-tarot", "major-arcana", "major-arcana-cards", "the-hierophant", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

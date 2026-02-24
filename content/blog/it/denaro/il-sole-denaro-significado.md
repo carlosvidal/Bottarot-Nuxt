@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Sole nel tarot per i
 category: "denaro"
 tags: ["il-sole-tarot", "tarot-denaro", "significato-il-sole", "arcani-maggiori", "abbondanza-tarot", "arcani-maggiori", "il-sole", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

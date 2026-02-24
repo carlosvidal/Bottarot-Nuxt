@@ -4,7 +4,7 @@ description: "Descubra a mensagem da carta O Mundo em uma mudança profissional.
 category: "mudanca-de-emprego"
 tags: ["o-mundo-tarot", "mudanca-de-emprego", "tarot-carreira", "arcanos-maiores", "resultado-provavel-tarot", "arcanos-maiores", "o-mundo", "mudanca-de-trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

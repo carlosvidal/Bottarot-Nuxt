@@ -4,7 +4,7 @@ description: "Explore the meaning of The Devil tarot card for 2026. Discover its
 category: "future"
 tags: ["the-devil-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "the-devil", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

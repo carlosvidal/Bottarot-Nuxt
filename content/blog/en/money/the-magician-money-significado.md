@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Magician card in the context of m
 category: "money"
 tags: ["the-magician-tarot", "tarot-money", "the-magician-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-magician", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

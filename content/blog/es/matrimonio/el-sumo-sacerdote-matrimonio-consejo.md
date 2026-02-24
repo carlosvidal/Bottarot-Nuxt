@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Sumo Sacerdote en el contex
 category: "matrimonio"
 tags: ["El Sumo Sacerdote", "tarot matrimonio", "consejo tarot", "arcanos mayores", "espiritualidad pareja", "arcanos-mayores", "el-sumo-sacerdote", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6
 seo:

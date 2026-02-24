@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Lune dans le mariage. Des consei
 category: "mariage"
 tags: ["la-lune-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "la-lune", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

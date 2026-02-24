@@ -4,7 +4,7 @@ description: "Descubre el significado de La Torre en decisiones cruciales. Una g
 category: "decisiones"
 tags: ["la torre tarot", "decisiones importantes tarot", "arcanos mayores", "advertencia tarot", "tarot guía espiritual", "arcanos-mayores", "la-torre", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

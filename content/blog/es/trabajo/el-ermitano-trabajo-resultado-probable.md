@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Ermitaño (Arcano 9) en tu vida laboral.
 category: "trabajo"
 tags: ["El Ermitaño tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-ermitano", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

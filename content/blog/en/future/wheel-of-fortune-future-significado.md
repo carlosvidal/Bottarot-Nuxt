@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Wheel of Fortune for the futu
 category: "future"
 tags: ["wheel-of-fortune", "future-tarot", "major-arcana", "tarot-meaning", "life-cycles", "major-arcana", "wheel-of-fortune-tarot", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

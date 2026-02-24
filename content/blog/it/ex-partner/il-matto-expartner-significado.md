@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Matto nei tarocchi quando sor
 category: "ex-partner"
 tags: ["il-matto", "tarocchi-ex", "significato-tarocchi", "arcani-maggiori", "riconciliazione", "arcani-maggiori", "il-matto", "ex"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

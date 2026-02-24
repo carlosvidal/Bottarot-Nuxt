@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Morte nel tarocco dell'amore.
 category: "amore"
 tags: ["la-morte-tarocco-amore", "tarocco-amore", "significato-la-morte-amore", "arcani-maggiori", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "it"
 readingTime: 5
 seo:

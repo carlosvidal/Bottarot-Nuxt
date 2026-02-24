@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Estrella (Arcano 17) en tu cambio labora
 category: "cambio-de-trabajo"
 tags: ["La Estrella tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot profesional", "resultado probable tarot", "arcanos-mayores", "la-estrella", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Monde dans le 
 category: "argent"
 tags: ["le-monde-tarot", "tarot-argent", "signification-le-monde", "arcanes-majeurs-argent", "tarot-abondance", "arcanes-majeurs", "le-monde", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

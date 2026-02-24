@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Papessa in amore. Una guida s
 category: "amore"
 tags: ["la-papessa", "tarocchi-amore", "arcani-maggiori", "intuizione", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

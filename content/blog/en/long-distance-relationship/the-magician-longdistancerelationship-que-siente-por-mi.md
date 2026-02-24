@@ -4,7 +4,7 @@ description: "Discover The Magician's message for your long-distance relationshi
 category: "long-distance-relationship"
 tags: ["the-magician-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-magician", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

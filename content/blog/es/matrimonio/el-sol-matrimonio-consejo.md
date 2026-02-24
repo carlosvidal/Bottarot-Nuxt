@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Sol en el tarot para el mat
 category: "matrimonio"
 tags: ["El Sol tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "amor tarot", "arcanos-mayores", "el-sol", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7
 seo:

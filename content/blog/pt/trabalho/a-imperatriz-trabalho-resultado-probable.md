@@ -4,7 +4,7 @@ description: "Descubra o significado de A Imperatriz no âmbito profissional. In
 category: "trabalho"
 tags: ["a-imperatriz-tarot-trabalho", "tarot-trabalho", "significado-a-imperatriz-no-trabalho", "arcanos-maiores", "arcanos-maiores", "a-imperatriz", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

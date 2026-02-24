@@ -4,7 +4,7 @@ description: "Descubra o significado de A Sacerdotisa no contexto do dinheiro. A
 category: "dinheiro"
 tags: ["a-sacerdotisa-tarot", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "intuicao-financeira", "arcanos-maiores", "a-sacerdotisa", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

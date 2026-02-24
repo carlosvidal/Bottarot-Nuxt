@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Wheel of Fortune in the conte
 category: "money"
 tags: ["wheel-of-fortune", "tarot-money", "major-arcana", "tarot-meaning", "financial-fortune", "major-arcana", "wheel-of-fortune", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

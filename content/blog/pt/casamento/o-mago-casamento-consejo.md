@@ -4,7 +4,7 @@ description: "Descubra o significado de O Mago no contexto do casamento. Dicas p
 category: "casamento"
 tags: ["o-mago", "tarot-casamento", "arcanos-maiores", "conselho-tarot", "poder-pessoal", "arcanos-maiores", "o-mago", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7
 seo:

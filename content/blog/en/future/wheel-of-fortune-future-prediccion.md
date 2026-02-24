@@ -4,7 +4,7 @@ description: "Discover the meaning of the Wheel of Fortune for 2026. Explore the
 category: "future"
 tags: ["wheel-of-fortune", "tarot-2026", "tarot-prediction", "major-arcana", "destiny-cycles", "major-arcana", "wheel-of-fortune-tarot", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__2026-prediccion.webp"
 locale: "en"
 readingTime: 6
 seo:

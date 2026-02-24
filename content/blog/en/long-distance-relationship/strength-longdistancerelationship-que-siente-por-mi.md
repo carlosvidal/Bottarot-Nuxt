@@ -4,7 +4,7 @@ description: "Discover the message of the Strength card (Major Arcana 8) about f
 category: "long-distance-relationship"
 tags: ["strength-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "strength", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

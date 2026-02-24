@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Mundo no amor. Ela anuncia um si
 category: "amor"
 tags: ["o-mundo-tarot", "tarot-amor", "arcanos-maiores", "significado-tarot", "amor-e-tarot", "arcanos-maiores", "o-mundo", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6
 seo:

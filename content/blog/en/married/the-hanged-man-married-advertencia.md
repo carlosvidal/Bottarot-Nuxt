@@ -4,7 +4,7 @@ description: "Discover the warning message of The Hanged Man in the context of m
 category: "married"
 tags: ["the-hanged-man", "tarot-marriage", "tarot-warning", "major-arcana", "sacrifice-in-relationships", "major-arcana", "the-hanged-man", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

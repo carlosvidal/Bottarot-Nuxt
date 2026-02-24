@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Ruota della Fortuna nel conte
 category: "lavoro"
 tags: ["tarocchi-lavoro", "la-ruota-della-fortuna", "arcani-maggiori", "significato-tarocchi", "cambio-professionale", "arcani-maggiori", "la-ruota-della-fortuna", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "it"
 readingTime: 7
 seo:

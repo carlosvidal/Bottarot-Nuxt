@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Diabo no tarot quando surge a
 category: "ex-parceiro"
 tags: ["o-diabo-tarot", "ex-vai-voltar", "significado-tarot", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "o-diabo", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5
 seo:

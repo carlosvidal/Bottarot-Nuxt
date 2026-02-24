@@ -4,7 +4,7 @@ description: "Descubra o significado de A Lua no casamento. Conselhos práticos 
 category: "casamento"
 tags: ["a-lua-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "a-lua", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

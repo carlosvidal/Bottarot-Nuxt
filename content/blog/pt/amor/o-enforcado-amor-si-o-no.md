@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Enforcado no amor. Aprenda a 
 category: "amor"
 tags: ["o-enforcado-tarot-amor", "o-enforcado-sim-ou-nao", "significado-o-enforcado-no-amor", "tarot-amor", "arcanos-maiores", "leitura-de-tarot", "arcanos-maiores", "o-enforcado", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6
 seo:

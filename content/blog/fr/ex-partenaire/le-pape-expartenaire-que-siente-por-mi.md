@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pape dans le contexte d'un ex-parte
 category: "ex-partenaire"
 tags: ["le-pape-tarot-ex-partenaire", "le-pape-que-ressent-pour-moi", "signification-le-pape-ex-partenaire", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "arcanes-majeurs", "le-pape", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

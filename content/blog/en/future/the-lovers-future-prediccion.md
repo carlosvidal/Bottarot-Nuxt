@@ -4,7 +4,7 @@ description: "Discover the message of The Lovers tarot card for 2026. A guide to
 category: "future"
 tags: ["the-lovers", "tarot-2026", "tarot-prediction", "major-arcana", "love-and-relationships", "major-arcana", "the-lovers", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message de La Lune (Arcane 18) pour 2026. Explorez s
 category: "avenir"
 tags: ["la-lune-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-la-lune", "arcanes-majeurs", "la-lune", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5
 seo:

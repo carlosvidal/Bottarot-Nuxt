@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta de La Forza nel contest
 category: "lavoro"
 tags: ["la-forza-tarot", "tarot-lavoro", "significato-la-forza", "arcani-maggiori", "tarot-professionale", "arcani-maggiori", "la-forza", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

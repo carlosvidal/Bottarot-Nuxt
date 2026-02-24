@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Temperanza (Arcano 14) n
 category: "sposati"
 tags: ["la-temperanza-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi-matrimonio", "equilibrio-coniugale", "arcani-maggiori", "arcani-maggiori", "la-temperanza", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

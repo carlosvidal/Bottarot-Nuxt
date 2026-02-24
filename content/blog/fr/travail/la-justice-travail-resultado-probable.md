@@ -4,7 +4,7 @@ description: "Découvrez le message de La Justice (Arcane 11) dans votre vie pro
 category: "travail"
 tags: ["la-justice-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "la-justice", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

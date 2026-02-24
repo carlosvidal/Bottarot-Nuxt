@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Eremita nel futuro. Impara com
 category: "futuro"
 tags: ["l-eremita-tarocchi", "tarocchi-futuro", "significato-l-eremita", "arcani-maggiori", "guida-tarocchi", "arcani-maggiori", "l-eremita", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

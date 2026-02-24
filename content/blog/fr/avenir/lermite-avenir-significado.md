@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Ermite dans le futur. Ap
 category: "avenir"
 tags: ["l-ermite-tarot", "tarot-futur", "signification-l-ermite", "arcanes-majeurs", "guide-tarot", "avenir", "introspection"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

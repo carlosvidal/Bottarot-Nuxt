@@ -4,7 +4,7 @@ description: "Discover the meaning of the Strength card (Major Arcana 8) in your
 category: "career"
 tags: ["strength-tarot", "tarot-career", "major-arcana", "tarot-career-meaning", "major-arcana", "strength", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

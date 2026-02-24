@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Papa nella tua relazione a distanza. Una
 category: "relazione-a-distanza"
 tags: ["il-papa-tarocchi", "relazione-a-distanza-tarocchi", "cosa-sente-per-me-tarocchi", "arcani-maggiori", "arcani-maggiori", "il-papa", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

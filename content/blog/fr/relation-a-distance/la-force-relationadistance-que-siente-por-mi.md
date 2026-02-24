@@ -4,7 +4,7 @@ description: "Découvrez le message de La Force (Arcane 8) sur les sentiments, l
 category: "relation-a-distance"
 tags: ["la-force-tarot", "relation-a-distance-tarot", "que-ressent-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "la-force", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

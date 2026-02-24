@@ -4,7 +4,7 @@ description: "Discover the meaning of The Fool card in the context of marriage. 
 category: "married"
 tags: ["the-fool-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "marriage-advice", "major-arcana", "the-fool", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

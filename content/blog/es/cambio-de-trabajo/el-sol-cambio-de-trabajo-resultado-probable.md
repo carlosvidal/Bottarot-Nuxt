@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Sol (Arcano 19) en un cambio laboral. In
 category: "cambio-de-trabajo"
 tags: ["El Sol tarot", "cambio de trabajo", "tarot laboral", "Arcanos Mayores", "arcanos-mayores", "el-sol", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

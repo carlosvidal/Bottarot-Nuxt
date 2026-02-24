@@ -4,7 +4,7 @@ description: "Scopri il significato de La Morte nel contesto del 'se sono sposat
 category: "sposati"
 tags: ["la-morte-tarot", "se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "trasformazione-coppia", "arcani-maggiori", "la-morte", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

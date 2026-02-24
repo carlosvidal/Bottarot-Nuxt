@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Emperor in the context of 'will m
 category: "ex-partner"
 tags: ["the-emperor-tarot", "tarot-meaning-ex-partner", "will-my-ex-come-back-tarot", "major-arcana-4", "major-arcana", "the-emperor", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Magician card in love. Learn how 
 category: "love"
 tags: ["the-magician-tarot-love", "the-magician-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-magician", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Papesse dans le context
 category: "avenir"
 tags: ["la-papesse", "tarot-avenir", "arcanes-majeurs", "intuition", "signification-tarot", "arcanes-majeurs", "la-papesse", "futur"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

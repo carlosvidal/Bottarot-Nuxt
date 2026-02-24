@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Sole per il 2026. Esplora la 
 category: "futuro"
 tags: ["il-sole-tarocchi", "tarocchi-2026", "arcani-maggiori", "previsioni-tarocchi", "arcani-maggiori", "il-sole", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o significado de A Justiça do tarô no âmbito profissio
 category: "trabalho"
 tags: ["a-justica-tarot", "tarot-trabalho", "arcanos-maiores", "equilibrio-profissional", "etica-profissional", "arcanos-maiores", "a-justica", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

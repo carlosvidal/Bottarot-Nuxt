@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta Os Enamorados em consulta
 category: "amor"
 tags: ["os-enamorados-tarot-amor", "tarot-amor", "significado-os-enamorados-no-amor", "os-enamorados-sim-ou-nao", "arcanos-maiores", "os-enamorados", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7
 seo:

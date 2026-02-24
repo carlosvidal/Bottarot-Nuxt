@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Giudizio nel tarocco
 category: "denaro"
 tags: ["il-giudizio-tarocchi", "tarocchi-denaro", "significato-il-giudizio", "arcani-maggiori", "finanze-tarocchi", "arcani-maggiori", "il-giudizio", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

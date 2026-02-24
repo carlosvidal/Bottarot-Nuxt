@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Tempérance dans un cha
 category: "changement-emploi"
 tags: ["la-temperance-tarot", "changement-d-emploi", "tarot-professionnel", "arcanes-majeurs", "la-temperance", "changement-de-travail", "resultat-probable"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7
 seo:

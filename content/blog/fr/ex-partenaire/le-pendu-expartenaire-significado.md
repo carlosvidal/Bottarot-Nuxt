@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Pendu au tarot lorsque vou
 category: "ex-partenaire"
 tags: ["le-pendu-tarot", "ex-partenaire-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-amour", "arcanes-majeurs", "le-pendu", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 5
 seo:

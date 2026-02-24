@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Lovers card in love readings. A g
 category: "love"
 tags: ["the-lovers-tarot-love", "tarot-love", "the-lovers-meaning-love", "the-lovers-yes-or-no", "major-arcana", "the-lovers", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

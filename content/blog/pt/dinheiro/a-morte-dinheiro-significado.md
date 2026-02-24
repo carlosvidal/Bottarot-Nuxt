@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Morte no contexto do di
 category: "dinheiro"
 tags: ["a-morte-tarot-dinheiro", "significado-a-morte", "tarot-dinheiro", "arcanos-maiores", "transformacao-financeira", "arcanos-maiores", "a-morte", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

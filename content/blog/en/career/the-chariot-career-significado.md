@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Chariot card in a work context. L
 category: "career"
 tags: ["the-chariot-tarot", "tarot-career", "tarot-meaning", "major-arcana", "tarot-cards", "major-arcana", "the-chariot", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

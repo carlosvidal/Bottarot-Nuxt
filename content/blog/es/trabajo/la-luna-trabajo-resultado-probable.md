@@ -4,7 +4,7 @@ description: "Descubre el significado de La Luna en el tarot para el trabajo. In
 category: "trabajo"
 tags: ["La Luna tarot trabajo", "La Luna resultado probable", "significado La Luna en el trabajo", "tarot trabajo", "arcanos-mayores", "la-luna", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

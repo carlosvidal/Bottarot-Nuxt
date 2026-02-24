@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pape en amour. Un guide complet sur
 category: "amour"
 tags: ["le-pape-tarot-amour", "le-pape-oui-ou-non", "signification-le-pape-en-amour", "tarot-amour", "arcanes-majeurs", "le-pape", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Bateleur en am
 category: "amour"
 tags: ["le-bateleur-tarot-amour", "le-bateleur-signification", "tarot-amour", "arcanes-majeurs", "le-bateleur", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

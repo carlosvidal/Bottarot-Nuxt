@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Morte no tarot para rel
 category: "relacionamento-a-distancia"
 tags: ["tarot-relacao-a-distancia", "a-morte-tarot", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-morte", "relacao-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

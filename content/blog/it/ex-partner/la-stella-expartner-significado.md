@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Stella nel contesto di un ex 
 category: "ex-partner"
 tags: ["la-stella-tarot", "ex-tornera", "significato-tarot", "arcani-maggiori", "tarot-amore", "arcani-maggiori", "la-stella", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

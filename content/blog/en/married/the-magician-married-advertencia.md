@@ -4,7 +4,7 @@ description: "Discover the meaning of The Magician tarot card in the context of 
 category: "married"
 tags: ["the-magician-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "the-magician", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

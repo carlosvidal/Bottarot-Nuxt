@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Lune dans le tarot lors
 category: "ex-partenaire"
 tags: ["la-lune-tarot", "ex-partenaire-reviendra", "signification-la-lune", "tarot-ex-partenaire", "arcane-majeur", "arcanes-majeurs", "la-lune", "ex-partenaires"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

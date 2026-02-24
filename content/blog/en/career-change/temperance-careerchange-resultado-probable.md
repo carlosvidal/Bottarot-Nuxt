@@ -4,7 +4,7 @@ description: "Discover the meaning of the Temperance card in a job change. Uprig
 category: "career-change"
 tags: ["temperance-tarot", "career-change", "tarot-career", "major-arcana", "major-arcana", "temperance", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

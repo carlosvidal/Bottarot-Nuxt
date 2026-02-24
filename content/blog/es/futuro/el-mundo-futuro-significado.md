@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Mundo en el contex
 category: "futuro"
 tags: ["El Mundo tarot", "tarot futuro", "significado El Mundo", "arcanos mayores", "tarot significado", "arcanos-mayores", "el-mundo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

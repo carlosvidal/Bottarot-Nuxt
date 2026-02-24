@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Mago nella tua relazione a distanza. Int
 category: "relazione-a-distanza"
 tags: ["il-mago-tarot", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarot-emozionale", "arcani-maggiori", "il-mago", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

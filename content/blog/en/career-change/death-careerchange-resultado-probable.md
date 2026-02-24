@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death card in a career change
 category: "career-change"
 tags: ["death-tarot", "career-change", "professional-tarot", "work-transformation", "major-arcana", "major-arcana-cards", "death", "job-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

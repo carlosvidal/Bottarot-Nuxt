@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Mago para 2026. Explore sua ener
 category: "futuro"
 tags: ["o-mago-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-mago", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6
 seo:

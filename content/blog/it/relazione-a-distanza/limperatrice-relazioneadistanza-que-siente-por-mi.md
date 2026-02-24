@@ -4,7 +4,7 @@ description: "Scopri il messaggio de L'Imperatrice nella tua relazione a distanz
 category: "relazione-a-distanza"
 tags: ["l-imperatrice-tarocchi", "relazione-a-distanza", "cosa-prova-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "l-imperatrice", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

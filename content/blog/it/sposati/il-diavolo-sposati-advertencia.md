@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Diavolo nel contesto del se sposato. U
 category: "sposati"
 tags: ["il-diavolo-tarot", "tarot-se-sposato", "arcani-maggiori", "avvertimento-tarot", "significato-il-diavolo", "arcani-maggiori", "il-diavolo", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

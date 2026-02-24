@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Tower in the future. It's not
 category: "future"
 tags: ["the-tower-tarot", "future-tarot", "the-tower-meaning", "major-arcana", "tarot-interpretation", "major-arcana", "the-tower", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

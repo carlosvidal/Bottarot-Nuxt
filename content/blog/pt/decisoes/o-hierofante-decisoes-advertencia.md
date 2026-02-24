@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência de O Hierofante em decisões c
 category: "decisoes"
 tags: ["o-hierofante", "tarot-decisoes-importantes", "arcanos-maiores", "advertencia-tarot", "conselho-espiritual", "arcanos-maiores", "o-hierofante", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5
 seo:

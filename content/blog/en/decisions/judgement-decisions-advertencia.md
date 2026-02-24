@@ -4,7 +4,7 @@ description: "Discover the alert message of the Judgement card (Major Arcana 20)
 category: "decisions"
 tags: ["judgement-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "spiritual-rebirth", "major-arcana", "judgement", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

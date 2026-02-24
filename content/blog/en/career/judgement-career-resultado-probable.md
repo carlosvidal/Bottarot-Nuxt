@@ -4,7 +4,7 @@ description: "Discover the meaning of the Judgement card in a career context. Le
 category: "career"
 tags: ["judgement-tarot", "tarot-career", "major-arcana", "tarot-meaning", "professional-tarot", "major-arcana", "judgement", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

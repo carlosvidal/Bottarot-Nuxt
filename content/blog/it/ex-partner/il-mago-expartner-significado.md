@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Mago nel contesto 'ex torner√
 category: "ex-partner"
 tags: ["il-mago-tarocchi", "ex-tornera", "significato-il-mago", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "il-mago", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

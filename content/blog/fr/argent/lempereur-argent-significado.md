@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte L'Empereur dans l
 category: "argent"
 tags: ["l-empereur-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "l-empereur", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

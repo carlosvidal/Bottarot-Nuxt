@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Lune dans le tarot concernant un
 category: "ex-partenaire"
 tags: ["la-lune-tarot", "tarot-ex-partenaire", "que-ressent-mon-ex", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-lune", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Sol en el futuro. 
 category: "futuro"
 tags: ["El Sol tarot", "significado tarot", "futuro tarot", "Arcanos Mayores", "arcanos-mayores", "el-sol", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__futuro-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

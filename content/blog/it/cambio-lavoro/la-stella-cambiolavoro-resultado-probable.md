@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Stella (Arcano 17) nel tuo cambio lavora
 category: "cambio-lavoro"
 tags: ["la-stella-tarocchi", "cambio-lavoro-tarocchi", "arcani-maggiori", "tarocchi-professionali", "risultato-probabile-tarocchi", "arcani-maggiori", "la-stella", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 7
 seo:

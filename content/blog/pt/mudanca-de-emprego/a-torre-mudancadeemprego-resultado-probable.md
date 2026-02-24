@@ -4,7 +4,7 @@ description: "Descubra o significado de A Torre do tarot em uma mudança de empr
 category: "mudanca-de-emprego"
 tags: ["a-torre-tarot", "mudanca-de-emprego-tarot", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "a-torre", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

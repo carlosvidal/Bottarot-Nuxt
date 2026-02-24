@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Giudizio nel contest
 category: "ex-partner"
 tags: ["il-giudizio-tarocchi", "significato-il-giudizio", "tarocchi-ex-partner", "arcani-maggiori", "rinascita-emotiva", "arcani-maggiori", "il-giudizio", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

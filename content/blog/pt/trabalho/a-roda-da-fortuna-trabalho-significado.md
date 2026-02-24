@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Roda da Fortuna no contexto p
 category: "trabalho"
 tags: ["tarot-trabalho", "a-roda-da-fortuna", "arcanos-maiores", "significado-tarot", "mudanca-profissional", "arcanos-maiores", "a-roda-da-fortuna", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "pt"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta de La Temperanza in amo
 category: "amore"
 tags: ["la-temperanza-tarocchi-amore", "la-temperanza-significato", "tarocchi-amore", "arcani-maggiori", "la-temperanza", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

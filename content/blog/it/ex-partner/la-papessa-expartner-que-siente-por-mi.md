@@ -4,7 +4,7 @@ description: "Scopri il significato de La Papessa nel contesto di un ex partner.
 category: "ex-partner"
 tags: ["la-papessa-tarot", "tarot-ex-partner", "significato-la-papessa", "cosa-sente-il-mio-ex", "arcani-maggiori", "arcani-maggiori", "la-papessa", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

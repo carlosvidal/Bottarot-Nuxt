@@ -4,7 +4,7 @@ description: "Descifra el mensaje de El Colgado en el contexto de una ex pareja.
 category: "ex-pareja"
 tags: ["El Colgado tarot", "tarot ex pareja", "Arcanos Mayores", "interpretación tarot", "arcanos-mayores", "el-colgado", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

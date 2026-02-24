@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Diavolo in una relazione a di
 category: "relazione-a-distanza"
 tags: ["il-diavolo-tarot", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "arcani-maggiori", "il-diavolo", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

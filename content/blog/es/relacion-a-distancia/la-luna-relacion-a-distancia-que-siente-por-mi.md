@@ -4,7 +4,7 @@ description: "Descubre el significado de La Luna en el tarot para relaciones a d
 category: "relacion-a-distancia"
 tags: ["La Luna tarot", "relación a distancia", "qué siente por mí", "tarot emocional", "Arcanos Mayores", "arcanos-mayores", "la-luna", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Mundo em decisões cruciais. Um 
 category: "decisoes"
 tags: ["o-mundo-tarot", "decisoes-importantes-tarot", "arcanos-maiores", "advertencia-tarot", "arcanos-maiores", "o-mundo", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Empereur en amour. Est-c
 category: "amour"
 tags: ["l-empereur-tarot-amour", "l-empereur-oui-ou-non", "signification-l-empereur-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-tarot", "arcanes-majeurs", "l-empereur", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6
 seo:

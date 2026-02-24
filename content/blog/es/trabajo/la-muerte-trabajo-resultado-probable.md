@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta La Muerte en el contexto labor
 category: "trabajo"
 tags: ["La Muerte tarot", "tarot trabajo", "arcanos mayores", "transformación laboral", "resultado probable tarot", "arcanos-mayores", "la-muerte", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__trabajo-resultado.webp"
 locale: "es"
 readingTime: 7
 seo:

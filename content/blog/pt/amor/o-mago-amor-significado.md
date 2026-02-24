@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Mago no amor. Aprenda c
 category: "amor"
 tags: ["o-mago-tarot-amor", "o-mago-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-mago", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

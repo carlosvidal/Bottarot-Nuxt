@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta de O Eremita em decisões cruciais. 
 category: "decisoes"
 tags: ["o-eremita", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "conselho-espiritual", "arcanos-maiores", "o-eremita", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

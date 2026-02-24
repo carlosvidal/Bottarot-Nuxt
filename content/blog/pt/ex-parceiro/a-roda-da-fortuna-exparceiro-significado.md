@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Roda da Fortuna no contexto d
 category: "ex-parceiro"
 tags: ["a-roda-da-fortuna", "tarot-ex-parceiro", "significado-tarot", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-roda-da-fortuna", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

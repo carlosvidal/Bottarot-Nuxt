@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Sole nei tarocchi per il matrimonio. C
 category: "matrimonio"
 tags: ["il-sole-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "amore-tarocchi", "arcani-maggiori", "il-sole", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

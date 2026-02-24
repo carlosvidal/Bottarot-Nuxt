@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Colgado en el contexto de
 category: "casados"
 tags: ["El Colgado", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "sacrificio en relaciones", "arcanos-mayores", "el-colgado", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "es"
 readingTime: 7
 seo:

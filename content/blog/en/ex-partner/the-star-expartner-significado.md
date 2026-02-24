@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Star tarot card in the contex
 category: "ex-partner"
 tags: ["the-star-tarot", "ex-partner-return", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana-cards", "the-star", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

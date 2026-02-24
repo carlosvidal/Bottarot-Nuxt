@@ -4,7 +4,7 @@ description: "Explorez la signification du Mat en 2026. DÃ©couvrez comment son Ã
 category: "avenir"
 tags: ["le-mat-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-le-mat", "arcanes-majeurs", "le-mat", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

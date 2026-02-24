@@ -4,7 +4,7 @@ description: "Descubra o significado de O Imperador no tarot do amor. É um sim 
 category: "amor"
 tags: ["o-imperador-tarot-amor", "o-imperador-sim-ou-nao", "significado-o-imperador-no-amor", "tarot-amor", "arcanos-maiores", "tarot-leitura", "arcanos-maiores", "o-imperador", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 5
 seo:

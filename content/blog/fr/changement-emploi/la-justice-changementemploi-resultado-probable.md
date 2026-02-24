@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Justice dans un changem
 category: "changement-emploi"
 tags: ["la-justice-tarot", "changement-de-travail", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-justice", "changement-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

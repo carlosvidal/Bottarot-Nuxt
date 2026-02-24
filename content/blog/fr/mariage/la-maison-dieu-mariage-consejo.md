@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Maison Dieu (La Tour) d
 category: "mariage"
 tags: ["la-maison-dieu-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "crise-conjugale", "arcanes-majeurs", "la-maison-dieu", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

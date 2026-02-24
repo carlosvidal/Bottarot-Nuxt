@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Sol no tarot para o casamento. C
 category: "casamento"
 tags: ["o-sol-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "amor-tarot", "arcanos-maiores", "o-sol", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

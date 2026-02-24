@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Roda da Fortuna no futuro. Ap
 category: "futuro"
 tags: ["a-roda-da-fortuna", "tarot-futuro", "arcanos-maiores", "significado-tarot", "ciclos-da-vida", "arcanos-maiores", "a-roda-da-fortuna", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

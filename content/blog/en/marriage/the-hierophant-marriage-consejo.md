@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hierophant tarot card in the 
 category: "marriage"
 tags: ["the-hierophant", "marriage-tarot", "tarot-advice", "major-arcana", "couple-spirituality", "major-arcana", "the-hierophant", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Star (Major Arcana 17) in a c
 category: "career"
 tags: ["the-star-tarot", "tarot-career", "the-star-meaning", "major-arcana", "tarot-career-guidance", "major-arcana", "the-star", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

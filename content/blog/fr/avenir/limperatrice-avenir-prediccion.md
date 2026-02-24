@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Impératrice pour 2026. Explorez 
 category: "avenir"
 tags: ["l-imperatrice", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "abondance", "avenir", "creativite"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

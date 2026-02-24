@@ -4,7 +4,7 @@ description: "Discover the warning message of The Star in crucial decisions. Lea
 category: "decisions"
 tags: ["the-star-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-spirituality", "major-arcana", "the-star", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

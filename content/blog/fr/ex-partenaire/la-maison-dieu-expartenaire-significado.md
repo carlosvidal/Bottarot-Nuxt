@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Maison Dieu dans le con
 category: "ex-partenaire"
 tags: ["la-maison-dieu-tarot", "ex-partenaire-retour", "signification-la-maison-dieu", "tarot-ex-partenaire", "arcanes-majeurs", "arcanes-majeurs", "la-maison-dieu", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

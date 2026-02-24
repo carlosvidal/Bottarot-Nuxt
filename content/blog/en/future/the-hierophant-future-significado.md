@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hierophant in the future. Lea
 category: "future"
 tags: ["the-hierophant", "future-tarot", "major-arcana", "tarot-meaning", "major-arcana", "the-hierophant", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

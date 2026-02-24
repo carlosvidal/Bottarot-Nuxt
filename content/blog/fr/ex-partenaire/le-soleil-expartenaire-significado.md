@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Soleil dans le contexte
 category: "ex-partenaire"
 tags: ["le-soleil-tarot", "ex-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-amour", "arcanes-majeurs", "le-soleil", "ex-partenaires"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 7
 seo:

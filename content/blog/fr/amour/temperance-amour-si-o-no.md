@@ -4,7 +4,7 @@ description: "Découvrez le message de La Tempérance en amour. Est-ce un oui ou
 category: "amour"
 tags: ["la-temperance-tarot-amour", "la-temperance-oui-ou-non", "signification-la-temperance-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-de-tarot", "arcanes-majeurs", "la-temperance", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6
 seo:

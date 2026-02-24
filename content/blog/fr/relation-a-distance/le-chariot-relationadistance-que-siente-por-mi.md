@@ -4,7 +4,7 @@ description: "Découvrez la signification du Chariot dans le tarot pour les rela
 category: "relation-a-distance"
 tags: ["le-chariot-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "tarot-amour", "arcanes-majeurs", "le-chariot", "amour-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

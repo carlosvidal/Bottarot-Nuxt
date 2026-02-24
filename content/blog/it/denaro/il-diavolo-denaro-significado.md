@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Diavolo nei tarocchi
 category: "denaro"
 tags: ["il-diavolo-tarocchi", "tarocchi-denaro", "significato-tarocchi", "arcani-maggiori", "finanze-tarocchi", "arcani-maggiori", "il-diavolo", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

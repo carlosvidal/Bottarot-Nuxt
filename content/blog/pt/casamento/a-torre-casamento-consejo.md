@@ -4,7 +4,7 @@ description: "Descubra o significado de A Torre no contexto conjugal. Dicas prá
 category: "casamento"
 tags: ["a-torre-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "crise-conjugal", "arcanos-maiores", "a-torre", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7
 seo:

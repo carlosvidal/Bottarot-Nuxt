@@ -4,7 +4,7 @@ description: "Explore o significado da carta O Diabo no tarot para 2026. Descubr
 category: "futuro"
 tags: ["o-diabo-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-diabo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5
 seo:

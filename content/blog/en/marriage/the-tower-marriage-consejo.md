@@ -4,7 +4,7 @@ description: "Discover the meaning of The Tower tarot card in marriage. Practica
 category: "marriage"
 tags: ["the-tower-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "marriage-crisis", "major-arcana", "the-tower", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

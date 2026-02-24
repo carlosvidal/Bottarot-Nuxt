@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Mundo no contexto de um ex-parce
 category: "ex-parceiro"
 tags: ["o-mundo-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "o-que-sente-ex-parceiro", "arcanos-maiores", "o-mundo", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

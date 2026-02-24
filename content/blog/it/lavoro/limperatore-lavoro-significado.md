@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta L'Imperatore nel contes
 category: "lavoro"
 tags: ["l-imperatore", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "arcani-maggiori", "l-imperatore", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Papessa in un cambio di lavoro. Interpre
 category: "cambio-lavoro"
 tags: ["la-papessa", "tarocchi-cambio-lavoro", "arcani-maggiori", "intuizione-professionale", "arcani-maggiori", "la-papessa", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

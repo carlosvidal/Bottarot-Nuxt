@@ -4,7 +4,7 @@ description: "Scopri il lato meno conosciuto de Il Sole nei tarocchi. Una guida 
 category: "decisioni"
 tags: ["il-sole-tarocchi", "decisioni-importanti-tarocchi", "arcani-maggiori", "avvertimento-tarocchi", "arcani-maggiori", "il-sole", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

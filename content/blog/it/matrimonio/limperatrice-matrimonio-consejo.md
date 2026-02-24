@@ -4,7 +4,7 @@ description: "Scopri il consiglio de L'Imperatrice per il tuo matrimonio. Impara
 category: "matrimonio"
 tags: ["l-imperatrice", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "creativita-coppia", "arcani-maggiori", "l-imperatrice", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 5
 seo:

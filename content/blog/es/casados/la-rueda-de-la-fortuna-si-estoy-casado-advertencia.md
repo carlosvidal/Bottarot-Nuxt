@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Rueda de la Fortuna en el
 category: "casados"
 tags: ["La Rueda de la Fortuna", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "cambio matrimonio", "arcanos-mayores", "la-rueda-de-la-fortuna", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

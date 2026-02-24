@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Lua no amor. Explore seu simb
 category: "amor"
 tags: ["a-lua-tarot-amor", "a-lua-significado", "tarot-amor", "arcanos-maiores", "a-lua", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__amor-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

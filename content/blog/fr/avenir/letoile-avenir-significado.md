@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Étoile dans le futur. U
 category: "avenir"
 tags: ["l-etoile-tarot", "tarot-avenir", "signification-tarot", "arcanes-majeurs", "spiritualite-tarot", "arcanes-majeurs", "l-etoile", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

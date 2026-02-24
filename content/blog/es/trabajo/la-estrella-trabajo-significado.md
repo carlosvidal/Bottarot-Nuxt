@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Estrella (Arcano 17) en el 
 category: "trabajo"
 tags: ["La Estrella tarot", "tarot trabajo", "significado La Estrella", "Arcanos Mayores", "guía profesional tarot", "arcanos-mayores", "la-estrella", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

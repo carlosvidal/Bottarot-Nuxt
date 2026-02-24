@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Papesse dans le contexte profess
 category: "travail"
 tags: ["la-papesse", "tarot-travail", "arcanes-majeurs", "intuition-professionnelle", "arcanes-majeurs", "la-papesse", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-significado.webp"
 locale: "fr"
 readingTime: 7
 seo:

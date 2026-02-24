@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Mundo en el contex
 category: "trabajo"
 tags: ["El Mundo tarot", "tarot trabajo", "arcanos mayores", "significado tarot", "tarot carrera", "arcanos-mayores", "el-mundo", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__trabajo-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

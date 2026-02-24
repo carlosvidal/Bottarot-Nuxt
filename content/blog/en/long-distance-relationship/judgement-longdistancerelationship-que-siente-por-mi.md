@@ -4,7 +4,7 @@ description: "Discover the message of the Judgement card (Major Arcana 20) in yo
 category: "long-distance-relationship"
 tags: ["judgement-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "judgement", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

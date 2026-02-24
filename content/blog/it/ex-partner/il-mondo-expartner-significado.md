@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mondo nel contesto d
 category: "ex-partner"
 tags: ["il-mondo-tarocchi", "significato-il-mondo", "tarocchi-ex", "ex-tornera", "arcani-maggiori", "il-mondo", "ex-parte"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

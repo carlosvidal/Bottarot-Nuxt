@@ -4,7 +4,7 @@ description: "Descubre el significado de El Carro en el si estoy casado como adv
 category: "casados"
 tags: ["El Carro tarot", "si estoy casado", "advertencia tarot", "arcanos mayores", "tarot relación", "arcanos-mayores", "el-carro", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

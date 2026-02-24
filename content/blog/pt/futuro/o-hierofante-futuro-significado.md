@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Hierofante no futuro. Aprenda
 category: "futuro"
 tags: ["o-hierofante", "tarot-futuro", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-hierofante", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

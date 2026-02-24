@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Justicia (Arcano 11) en el 
 category: "ex-pareja"
 tags: ["La Justicia tarot", "ex pareja volverá mi ex", "significado tarot", "arcanos mayores", "tarot relaciones", "arcanos-mayores", "la-justicia", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

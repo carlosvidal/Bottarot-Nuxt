@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Fuerza en el conte
 category: "ex-pareja"
 tags: ["La Fuerza tarot", "ex pareja volverá mi ex", "significado tarot", "arcano mayor", "tarot relaciones", "arcanos-mayores", "la-fuerza", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

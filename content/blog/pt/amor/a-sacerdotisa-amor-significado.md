@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Sacerdotisa no amor. Um guia 
 category: "amor"
 tags: ["a-sacerdotisa", "tarot-amor", "arcanos-maiores", "intuição", "arcanos-maiores", "a-sacerdotisa", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

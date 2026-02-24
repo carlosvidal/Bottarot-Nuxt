@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Papa nel contesto di 'ex part
 category: "ex-partner"
 tags: ["il-papa", "tarot-ex-partner", "significato-tarot", "arcani-maggiori", "riconciliazione", "arcani-maggiori", "il-papa", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

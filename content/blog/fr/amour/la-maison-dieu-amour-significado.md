@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Maison Dieu (L
 category: "amour"
 tags: ["la-maison-dieu-tarot-amour", "la-maison-dieu-signification", "signification-la-maison-dieu-en-amour", "tarot-amour", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "la-maison-dieu", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

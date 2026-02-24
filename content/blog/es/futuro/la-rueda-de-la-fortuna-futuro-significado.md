@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Rueda de la Fortuna en el f
 category: "futuro"
 tags: ["La Rueda de la Fortuna", "tarot futuro", "arcanos mayores", "significado tarot", "ciclos de vida", "arcanos-mayores", "la-rueda-de-la-fortuna", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

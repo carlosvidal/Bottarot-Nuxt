@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pendu dans le mariage. Conseils pra
 category: "mariage"
 tags: ["le-pendu-tarot-mariage", "le-pendu-conseil", "signification-le-pendu-mariage", "tarot-mariage", "arcane-majeur-12", "conseils-tarot", "arcanes-majeurs", "le-pendu", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

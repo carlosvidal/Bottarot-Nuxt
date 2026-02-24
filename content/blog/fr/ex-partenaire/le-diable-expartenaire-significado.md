@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Diable au tarot face à la
 category: "ex-partenaire"
 tags: ["le-diable-tarot", "ex-va-t-il-revenir", "signification-tarot", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "le-diable", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

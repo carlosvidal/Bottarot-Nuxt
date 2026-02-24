@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The World tarot card for long-dis
 category: "long-distance-relationship"
 tags: ["the-world-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-world", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

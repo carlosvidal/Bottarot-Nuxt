@@ -4,7 +4,7 @@ description: "Descubra o significado de O Enforcado no amor. Uma carta de suspen
 category: "amor"
 tags: ["o-enforcado-tarot-amor", "o-enforcado-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

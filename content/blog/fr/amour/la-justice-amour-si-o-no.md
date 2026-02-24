@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Justice en amour. Appre
 category: "amour"
 tags: ["la-justice-tarot-amour", "tarot-amour", "signification-la-justice-en-amour", "arcanes-majeurs", "la-justice", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6
 seo:

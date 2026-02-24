@@ -4,7 +4,7 @@ description: "Discover the meaning of The World card in the context of marriage.
 category: "married"
 tags: ["the-world-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "marriage-tarot", "major-arcana", "the-world", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

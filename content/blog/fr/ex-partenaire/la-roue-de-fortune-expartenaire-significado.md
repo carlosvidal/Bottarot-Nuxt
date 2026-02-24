@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la Roue de Fortune dans le
 category: "ex-partenaire"
 tags: ["la-roue-de-fortune", "tarot-ex-partenaire", "signification-tarot", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "la-roue-de-fortune", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

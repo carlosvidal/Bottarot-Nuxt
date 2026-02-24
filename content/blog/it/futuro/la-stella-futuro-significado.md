@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Stella nel futuro. Una carta 
 category: "futuro"
 tags: ["la-stella-tarocchi", "tarocchi-futuro", "significato-tarocchi", "arcani-maggiori", "spiritualità-tarocchi", "arcani-maggiori", "la-stella", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

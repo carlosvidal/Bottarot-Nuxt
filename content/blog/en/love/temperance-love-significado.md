@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Temperance card in love. Lear
 category: "love"
 tags: ["temperance-tarot-love", "temperance-meaning", "tarot-love", "major-arcana", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

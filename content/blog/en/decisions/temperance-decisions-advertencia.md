@@ -4,7 +4,7 @@ description: "Discover the warning message of the Temperance card in crucial dec
 category: "decisions"
 tags: ["temperance-tarot", "tarot-important-decisions", "major-arcana", "spiritual-balance", "tarot-warning", "major-arcana", "temperance", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

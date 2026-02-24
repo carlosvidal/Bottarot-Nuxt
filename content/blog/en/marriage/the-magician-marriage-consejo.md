@@ -4,7 +4,7 @@ description: "Discover the meaning of The Magician in the context of marriage. P
 category: "marriage"
 tags: ["the-magician", "marriage-tarot", "major-arcana", "tarot-advice", "personal-power", "major-arcana-cards", "the-magician-tarot", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

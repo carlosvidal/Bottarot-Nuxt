@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Mago nel contesto del matrimonio. Una 
 category: "sposati"
 tags: ["il-mago-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "consigli-tarocchi", "arcani-maggiori", "il-mago", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

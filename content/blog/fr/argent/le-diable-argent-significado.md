@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Diable en taro
 category: "argent"
 tags: ["le-diable-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-diable", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

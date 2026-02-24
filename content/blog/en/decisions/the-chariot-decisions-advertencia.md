@@ -4,7 +4,7 @@ description: "Discover the warning message of The Chariot (Major Arcana 7) in cr
 category: "decisions"
 tags: ["the-chariot-tarot", "important-decisions-tarot", "major-arcana-7", "tarot-warning", "major-arcana", "the-chariot", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

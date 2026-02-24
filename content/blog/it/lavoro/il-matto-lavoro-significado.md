@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Matto del tarot nel 
 category: "lavoro"
 tags: ["il-matto-tarot", "tarot-lavoro", "significato-tarot", "arcani-maggiori", "nuovi-inizi", "arcani-maggiori", "il-matto", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

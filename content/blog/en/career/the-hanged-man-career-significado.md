@@ -4,7 +4,7 @@ description: "Discover the meaning of The Hanged Man in a career context. A guid
 category: "career"
 tags: ["the-hanged-man-tarot-work", "the-hanged-man-meaning", "tarot-career", "major-arcana", "major-arcana-cards", "the-hanged-man", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

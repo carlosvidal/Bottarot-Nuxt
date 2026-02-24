@@ -4,7 +4,7 @@ description: "Descubra o significado de O Eremita para 2026. Um guia sobre busca
 category: "futuro"
 tags: ["o-eremita", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-eremita", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6
 seo:

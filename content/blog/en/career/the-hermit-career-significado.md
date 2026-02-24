@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hermit card in a career conte
 category: "career"
 tags: ["the-hermit-tarot", "tarot-career", "the-hermit-meaning", "major-arcana", "work-introspection", "major-arcana", "the-hermit", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

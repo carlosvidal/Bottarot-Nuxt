@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência de A Temperança (Arcano 14) p
 category: "casados"
 tags: ["a-temperanca-tarot", "tarot-se-estou-casado", "advertencia-tarot-casamento", "equilibrio-conjugal", "arcanos-maiores", "arcanos-maiores", "a-temperanca", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

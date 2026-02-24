@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Monde dans le contexte 
 category: "ex-partenaire"
 tags: ["le-monde-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcanes-majeurs", "le-monde", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

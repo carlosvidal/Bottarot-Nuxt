@@ -4,7 +4,7 @@ description: "Discover the warning message of The Star tarot if you are married.
 category: "married"
 tags: ["the-star-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "energy-protection", "major-arcana", "the-star", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

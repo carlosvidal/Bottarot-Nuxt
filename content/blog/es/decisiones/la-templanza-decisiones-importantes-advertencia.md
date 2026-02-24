@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Templanza en decisiones c
 category: "decisiones"
 tags: ["La Templanza tarot", "tarot decisiones importantes", "arcanos mayores", "equilibrio espiritual", "advertencia tarot", "arcanos-mayores", "la-templanza", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

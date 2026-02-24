@@ -4,7 +4,7 @@ description: "Discover the meaning of the Strength card in the context of marria
 category: "marriage"
 tags: ["strength-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "love-and-tarot", "major-arcana", "strength", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

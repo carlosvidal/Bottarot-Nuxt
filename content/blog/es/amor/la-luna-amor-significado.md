@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Luna en el amor. Explora su
 category: "amor"
 tags: ["La Luna tarot amor", "La Luna significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "la-luna", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

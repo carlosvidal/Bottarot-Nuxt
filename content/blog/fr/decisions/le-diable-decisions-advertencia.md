@@ -4,7 +4,7 @@ description: "Découvrez la signification du Diable dans les décisions cruciale
 category: "decisions"
 tags: ["le-diable-tarot", "tarot-decisons-importantes", "arcanes-majeurs", "avertissement-tarot", "signification-le-diable", "arcanes-majeurs", "le-diable", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

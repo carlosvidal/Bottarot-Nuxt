@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Muerte en un cambi
 category: "cambio-de-trabajo"
 tags: ["La Muerte tarot", "cambio de trabajo", "tarot profesional", "transformación laboral", "arcanos mayores", "arcanos-mayores", "la-muerte", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

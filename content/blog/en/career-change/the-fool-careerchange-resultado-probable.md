@@ -4,7 +4,7 @@ description: "Discover the message of The Fool (Arcana 0) for a job change. Inte
 category: "career-change"
 tags: ["the-fool-tarot", "career-change", "major-arcana", "tarot-career", "new-beginnings", "major-arcana", "the-fool", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

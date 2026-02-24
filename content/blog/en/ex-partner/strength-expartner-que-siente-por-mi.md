@@ -4,7 +4,7 @@ description: "Discover the message of the Strength card in the context of an ex-
 category: "ex-partner"
 tags: ["strength-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "ex-feelings", "major-arcana", "strength", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

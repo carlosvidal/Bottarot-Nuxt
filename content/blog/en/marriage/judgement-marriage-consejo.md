@@ -4,7 +4,7 @@ description: "Discover the meaning of the Judgement card in the context of marri
 category: "marriage"
 tags: ["judgement-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "spiritual-rebirth", "major-arcana", "judgement", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

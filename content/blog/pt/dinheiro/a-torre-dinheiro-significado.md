@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Torre no contexto do di
 category: "dinheiro"
 tags: ["a-torre-tarot", "tarot-dinheiro", "significado-a-torre", "arcanos-maiores", "tarot-financeiro", "arcanos-maiores", "a-torre", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

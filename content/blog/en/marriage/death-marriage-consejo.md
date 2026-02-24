@@ -4,7 +4,7 @@ description: "Discover the meaning of the Death card in the context of marriage.
 category: "marriage"
 tags: ["death-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "transformation", "major-arcana", "death", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

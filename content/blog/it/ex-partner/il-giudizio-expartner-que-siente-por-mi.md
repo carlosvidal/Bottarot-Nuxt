@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Giudizio nei tarocchi riguard
 category: "ex-partner"
 tags: ["il-giudizio-tarocchi", "tarocchi-ex-partner", "cosa-sente-ex-partner", "arcani-maggiori", "rinascita-emotiva", "arcani-maggiori", "il-giudizio", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

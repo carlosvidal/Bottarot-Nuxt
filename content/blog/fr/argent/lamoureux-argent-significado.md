@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte L'Amoureux dans l
 category: "argent"
 tags: ["l-amoureux-tarot", "tarot-argent", "signification-l-amoureux", "arcanes-majeurs-argent", "tarot-financier", "arcanes-majeurs", "l-amoureux", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Sacerdotisa en decisiones
 category: "decisiones"
 tags: ["La Sacerdotisa tarot", "tarot decisiones importantes", "arcanos mayores", "intuición tarot", "advertencia tarot", "arcanos-mayores", "la-sacerdotisa", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

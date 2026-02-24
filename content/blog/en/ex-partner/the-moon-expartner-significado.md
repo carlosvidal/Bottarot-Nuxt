@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Moon tarot card when asking i
 category: "ex-partner"
 tags: ["the-moon-tarot", "will-my-ex-come-back", "the-moon-meaning", "tarot-ex-partner", "major-arcana", "major-arcanas", "the-moon", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

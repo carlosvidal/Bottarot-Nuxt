@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Estrella en el amo
 category: "amor"
 tags: ["La Estrella tarot", "tarot amor", "arcanos mayores", "significado tarot", "amor y espiritualidad", "arcanos-mayores", "la-estrella", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

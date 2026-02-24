@@ -4,7 +4,7 @@ description: "Scopri il messaggio dell'Arcano Maggiore L'Imperatore per il 2026.
 category: "futuro"
 tags: ["l-imperatore", "tarocchi-2026", "previsione-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "l-imperatore", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__2026-prediccion.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Mat dans le futur. Un guid
 category: "avenir"
 tags: ["le-mat-tarot", "signification-tarot", "arcanes-majeurs", "avenir-tarot", "arcanes-majeurs", "le-mat", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

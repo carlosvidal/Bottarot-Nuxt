@@ -4,7 +4,7 @@ description: "Scopri il significato de La Papessa nell'ambito lavorativo. Impara
 category: "lavoro"
 tags: ["la-papessa", "tarot-lavoro", "arcani-maggiori", "intuizione-lavorativa", "arcani-maggiori", "la-papessa", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

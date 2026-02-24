@@ -4,7 +4,7 @@ description: "Discover the deep meaning of the Judgement card regarding your ex-
 category: "ex-partner"
 tags: ["judgement-tarot", "tarot-ex-partner", "what-ex-feels", "major-arcana", "emotional-rebirth"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

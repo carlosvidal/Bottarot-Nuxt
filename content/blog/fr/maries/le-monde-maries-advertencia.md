@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Monde dans le contexte 
 category: "maries"
 tags: ["le-monde-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "mariage-tarot", "arcanes-majeurs", "le-monde", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "fr"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Carro (Arcano 7) en un cambio laboral. I
 category: "cambio-de-trabajo"
 tags: ["El Carro tarot", "cambio de trabajo", "Arcanos Mayores", "resultado probable tarot", "arcanos-mayores", "el-carro", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

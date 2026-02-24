@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Stella (Arcano 17) nel contes
 category: "lavoro"
 tags: ["la-stella-tarot", "tarot-lavoro", "significato-la-stella", "arcani-maggiori", "guida-professionale-tarot", "arcani-maggiori", "la-stella", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

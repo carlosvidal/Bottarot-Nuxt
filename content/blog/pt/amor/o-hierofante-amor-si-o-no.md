@@ -4,7 +4,7 @@ description: "Descubra o significado de O Hierofante no amor. Um guia profundo s
 category: "amor"
 tags: ["o-hierofante-tarot-amor", "o-hierofante-sim-ou-nao", "significado-o-hierofante-no-amor", "tarot-amor", "arcanos-maiores", "o-hierofante", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7
 seo:

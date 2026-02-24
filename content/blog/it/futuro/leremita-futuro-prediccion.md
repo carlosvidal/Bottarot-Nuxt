@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Eremita per il 2026. Una guida sulla ri
 category: "futuro"
 tags: ["l-eremita", "tarocchi-2026", "predizione-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "l-eremita", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

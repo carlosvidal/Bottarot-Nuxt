@@ -4,7 +4,7 @@ description: "Esplora il significato de Il Matto nel 2026. Scopri come la sua en
 category: "futuro"
 tags: ["il-matto-tarocchi", "tarocchi-2026", "previsione-tarocchi", "arcani-maggiori", "significato-il-matto", "arcani-maggiori", "il-matto", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

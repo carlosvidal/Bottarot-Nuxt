@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Monde dans les décisio
 category: "decisions"
 tags: ["le-monde-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "arcanes-majeurs", "le-monde", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

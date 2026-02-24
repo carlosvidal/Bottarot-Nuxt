@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Papessa nelle decisioni 
 category: "decisioni"
 tags: ["la-papessa-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "intuizione-tarocchi", "avvertimento-tarocchi", "arcani-maggiori", "la-papessa", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

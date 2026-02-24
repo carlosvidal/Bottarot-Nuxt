@@ -4,7 +4,7 @@ description: "Scopri il profondo consiglio della carta Gli Amanti per il tuo mat
 category: "matrimonio"
 tags: ["gli-amanti", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "amore-e-relazioni", "arcani-maggiori", "gli-amanti", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 5
 seo:

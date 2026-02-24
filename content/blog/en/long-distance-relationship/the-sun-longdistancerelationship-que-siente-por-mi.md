@@ -4,7 +4,7 @@ description: "Discover the meaning of The Sun tarot card for long-distance relat
 category: "long-distance-relationship"
 tags: ["the-sun-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-sun", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

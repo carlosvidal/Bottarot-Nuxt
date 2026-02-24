@@ -4,7 +4,7 @@ description: "Discover the meaning of The Moon in marriage. Practical advice for
 category: "marriage"
 tags: ["the-moon-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "relationship-tarot", "major-arcana", "the-moon", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

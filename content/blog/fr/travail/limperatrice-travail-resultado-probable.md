@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Impératrice dans le domaine prof
 category: "travail"
 tags: ["l-imperatrice-tarot-travail", "tarot-travail", "signification-l-imperatrice-travail", "arcanes-majeurs", "l-imperatrice", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

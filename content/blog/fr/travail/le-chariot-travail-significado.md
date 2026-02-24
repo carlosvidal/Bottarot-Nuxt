@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Chariot dans l
 category: "travail"
 tags: ["le-chariot-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "cartes-de-tarot", "le-chariot", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

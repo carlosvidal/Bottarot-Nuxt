@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death card in a money context
 category: "money"
 tags: ["death-tarot-money", "death-card-meaning", "tarot-money", "major-arcana", "financial-transformation", "major-arcana", "death", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Morte no tarot do amor. Não 
 category: "amor"
 tags: ["a-morte-tarot-amor", "tarot-amor", "significado-a-morte-no-amor", "arcanos-maiores", "a-morte", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6
 seo:

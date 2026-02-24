@@ -4,7 +4,7 @@ description: "Descubra o profundo conselho da carta Os Enamorados para seu casam
 category: "casamento"
 tags: ["os-enamorados", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "amor-relacionamentos", "arcanos-maiores", "os-enamorados", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

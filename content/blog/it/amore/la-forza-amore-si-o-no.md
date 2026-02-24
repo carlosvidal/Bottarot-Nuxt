@@ -4,7 +4,7 @@ description: "Scopri il significato profondo della carta La Forza in amore. Una 
 category: "amore"
 tags: ["la-forza-tarot", "tarot-amore", "arcani-maggiori", "amore-relazioni", "tarot-si-o-no", "arcani-maggiori", "la-forza", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7
 seo:

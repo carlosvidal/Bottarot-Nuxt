@@ -4,7 +4,7 @@ description: "Descubre el significado de La Estrella en el amor. Una guía profu
 category: "amor"
 tags: ["La Estrella tarot", "tarot amor", "arcanos mayores", "tarot si o no", "significado tarot", "arcanos-mayores", "la-estrella", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7
 seo:

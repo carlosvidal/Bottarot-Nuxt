@@ -4,7 +4,7 @@ description: "Discover the message of The World card in a job change. Learn its 
 category: "career-change"
 tags: ["the-world-tarot", "career-change", "tarot-career", "major-arcana", "tarot-probable-outcome", "major-arcana", "the-world", "job-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Imperatriz no tarot para quem é
 category: "casados"
 tags: ["a-imperatriz", "tarot-se-sou-casado", "advertencia-tarot", "arcanos-maiores", "conselhos-tarot", "arcanos-maiores", "a-imperatriz", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Lovers card in the context of
 category: "ex-partner"
 tags: ["the-lovers", "tarot-ex-partner", "tarot-meaning", "major-arcana", "love-and-reconciliation", "major-arcana", "the-lovers", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

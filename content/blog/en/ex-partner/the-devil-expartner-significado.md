@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Devil tarot card when the que
 category: "ex-partner"
 tags: ["the-devil-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "tarot-relationships", "major-arcana", "the-devil", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

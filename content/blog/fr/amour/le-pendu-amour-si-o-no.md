@@ -4,7 +4,7 @@ description: "DÃ©couvrez la signification profonde du Pendu en amour. Apprenez Ã
 category: "amour"
 tags: ["le-pendu-tarot-amour", "le-pendu-oui-ou-non", "signification-le-pendu-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-tarot", "arcanes-majeurs", "le-pendu", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7
 seo:

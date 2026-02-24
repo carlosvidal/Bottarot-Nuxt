@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Papessa nella tua relazione a distanza. 
 category: "relazione-a-distanza"
 tags: ["la-papessa-tarocchi", "relazione-a-distanza", "cosa-sente-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "la-papessa", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

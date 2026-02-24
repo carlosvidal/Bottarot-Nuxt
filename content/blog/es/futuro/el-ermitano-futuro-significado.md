@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Ermitaño en el futuro. Apr
 category: "futuro"
 tags: ["El Ermitaño tarot", "tarot futuro", "significado El Ermitaño", "arcanos mayores", "tarot guía", "arcanos-mayores", "el-ermitano", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

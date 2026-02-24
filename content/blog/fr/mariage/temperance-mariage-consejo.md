@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Tempérance dans le mariage. Con
 category: "mariage"
 tags: ["la-temperance-tarot-mariage", "la-temperance-conseil", "signification-la-temperance-mariage", "tarot-mariage", "arcanes-majeurs", "la-temperance", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

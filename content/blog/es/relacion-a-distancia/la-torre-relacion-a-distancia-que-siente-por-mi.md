@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Torre en el tarot para rela
 category: "relacion-a-distancia"
 tags: ["la torre tarot", "relación a distancia", "qué siente por mí", "arcanos mayores", "tarot emocional", "arcanos-mayores", "la-torre", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

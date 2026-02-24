@@ -4,7 +4,7 @@ description: "Explore the meaning of The Fool in 2026. Discover how its energy o
 category: "future"
 tags: ["the-fool-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "the-fool-meaning", "major-arcana", "the-fool", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__2026-prediccion.webp"
 locale: "en"
 readingTime: 6
 seo:

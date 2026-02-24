@@ -4,7 +4,7 @@ description: "Scopri il significato de La Torre dei tarocchi in un cambio di lav
 category: "cambio-lavoro"
 tags: ["la-torre-tarocchi", "cambio-lavoro-tarocchi", "arcani-maggiori", "tarocchi-professionali", "arcani-maggiori", "la-torre", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

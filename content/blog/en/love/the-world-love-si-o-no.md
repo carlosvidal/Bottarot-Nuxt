@@ -4,7 +4,7 @@ description: "Discover the meaning of The World card in love. Does it announce a
 category: "love"
 tags: ["the-world-tarot", "tarot-love", "major-arcana", "tarot-meaning", "love-and-tarot", "major-arcana", "the-world", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

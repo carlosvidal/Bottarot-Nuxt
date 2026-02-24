@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Juicio en el tarot
 category: "dinero"
 tags: ["El Juicio tarot", "tarot dinero", "significado El Juicio", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-juicio", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

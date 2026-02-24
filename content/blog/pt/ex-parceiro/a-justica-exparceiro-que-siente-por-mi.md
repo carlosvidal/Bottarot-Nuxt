@@ -4,7 +4,7 @@ description: "Descubra o significado de A Justiça no tarot para ex-parceiro. In
 category: "ex-parceiro"
 tags: ["a-justica-tarot", "tarot-ex-parceiro", "o-que-sente-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "a-justica", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

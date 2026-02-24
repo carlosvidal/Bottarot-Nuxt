@@ -4,7 +4,7 @@ description: "Discover the meaning of The Chariot card in love. A deep guide on 
 category: "love"
 tags: ["the-chariot-tarot-love", "the-chariot-yes-or-no", "meaning-the-chariot-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-chariot", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7
 seo:

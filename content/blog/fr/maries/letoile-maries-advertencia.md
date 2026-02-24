@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de la carte L'Étoile si vou
 category: "maries"
 tags: ["l-etoile-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "protection-energetique", "arcanes-majeurs", "l-etoile", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

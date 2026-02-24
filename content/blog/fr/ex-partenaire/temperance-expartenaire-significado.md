@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte La Tempérance au
 category: "ex-partenaire"
 tags: ["la-temperance-tarot", "ex-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-amour", "arcanes-majeurs", "la-temperance", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

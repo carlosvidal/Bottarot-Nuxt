@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Maison Dieu (La Tour) d
 category: "ex-partenaire"
 tags: ["la-maison-dieu-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "sentiments-ex", "arcanes-majeurs", "la-maison-dieu", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

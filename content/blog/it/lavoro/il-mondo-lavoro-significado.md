@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mondo nel contesto l
 category: "lavoro"
 tags: ["il-mondo-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "tarot-carriera", "arcani-maggiori", "il-mondo", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

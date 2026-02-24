@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento della carta La Forza nelle dec
 category: "decisioni"
 tags: ["la-forza-tarot", "tarot-decisioni-importanti", "arcano-maggiore-8", "avvertimento-tarot", "forza-interiore", "arcani-maggiori", "la-forza", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

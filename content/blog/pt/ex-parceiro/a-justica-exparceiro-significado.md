@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Justiça (Arcano 11) no conte
 category: "ex-parceiro"
 tags: ["a-justica-tarot", "ex-vai-voltar", "significado-tarot", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "a-justica", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

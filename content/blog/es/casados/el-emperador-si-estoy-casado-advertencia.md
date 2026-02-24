@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Emperador en tu matrimoni
 category: "casados"
 tags: ["El Emperador tarot", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "consejos matrimonio tarot", "arcanos-mayores", "el-emperador", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

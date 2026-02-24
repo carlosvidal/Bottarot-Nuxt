@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Lua no contexto do dinheiro. 
 category: "dinheiro"
 tags: ["a-lua-tarot", "tarot-dinheiro", "significado-a-lua", "arcanos-maiores-dinheiro", "financas-e-tarot", "arcanos-maiores", "a-lua", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

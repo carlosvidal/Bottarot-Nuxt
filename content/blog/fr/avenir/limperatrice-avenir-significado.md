@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Impératrice dans le fut
 category: "avenir"
 tags: ["limperatrice", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

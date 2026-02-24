@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mondo nell'amore. Un
 category: "amore"
 tags: ["il-mondo-tarocchi-amore", "il-mondo-significato", "tarocchi-amore", "arcani-maggiori", "il-mondo", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

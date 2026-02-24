@@ -4,7 +4,7 @@ description: "Discover the meaning of The Hierophant tarot card in the context o
 category: "ex-partner"
 tags: ["the-hierophant-tarot-ex", "the-hierophant-feelings", "the-hierophant-ex-meaning", "tarot-ex-partner", "major-arcana", "tarot-reading", "major-arcana-cards", "the-hierophant", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

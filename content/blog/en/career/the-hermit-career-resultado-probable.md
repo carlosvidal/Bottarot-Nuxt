@@ -4,7 +4,7 @@ description: "Discover the message of The Hermit (Major Arcana 9) in your career
 category: "career"
 tags: ["the-hermit-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana", "the-hermit", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

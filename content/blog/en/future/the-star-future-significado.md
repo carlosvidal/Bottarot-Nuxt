@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Star in the future. A card of
 category: "future"
 tags: ["the-star-tarot", "future-tarot", "tarot-meaning", "major-arcana", "tarot-spirituality", "major-arcana", "the-star", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

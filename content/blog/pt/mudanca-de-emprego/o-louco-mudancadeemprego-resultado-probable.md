@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Louco (Arcano 0) para uma mudança de tra
 category: "mudanca-de-emprego"
 tags: ["o-louco-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-laboral", "novos-comecos", "arcanos-maiores", "o-louco", "mudanca-de-trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

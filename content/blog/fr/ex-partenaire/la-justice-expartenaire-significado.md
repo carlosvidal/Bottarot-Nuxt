@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la Justice (Arcane 11) dan
 category: "ex-partenaire"
 tags: ["la-justice-tarot", "ex-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "la-justice", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

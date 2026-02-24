@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Sole nel contesto 'ex partner
 category: "ex-partner"
 tags: ["il-sole-tarocco", "ex-partner-tornera", "significato-tarocco", "arcani-maggiori", "tarocco-amore", "arcani-maggiori", "il-sole", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement du Bateleur dans les décisi
 category: "decisions"
 tags: ["le-bateleur-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "pouvoir-personnel", "arcanes-majeurs", "le-bateleur", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta de Il Carro nel contest
 category: "denaro"
 tags: ["il-carro-tarocchi", "tarocchi-denaro", "significato-il-carro", "arcani-maggiori-denaro", "controllo-finanziario", "arcani-maggiori", "il-carro", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

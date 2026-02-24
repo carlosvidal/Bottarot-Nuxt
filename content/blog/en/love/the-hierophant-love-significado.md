@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hierophant in love. Learn abo
 category: "love"
 tags: ["the-hierophant-tarot-love", "the-hierophant-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-hierophant", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

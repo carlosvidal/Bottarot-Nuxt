@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Julgamento no contexto profissio
 category: "trabalho"
 tags: ["o-julgamento-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "tarot-profissional", "arcanos-maiores", "o-julgamento", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

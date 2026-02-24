@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Roda da Fortuna no contexto de u
 category: "ex-parceiro"
 tags: ["a-roda-da-fortuna", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "o-que-ex-sente", "arcanos-maiores", "a-roda-da-fortuna", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

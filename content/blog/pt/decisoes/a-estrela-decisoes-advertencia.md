@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência de A Estrela em decisões cruc
 category: "decisoes"
 tags: ["a-estrela-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "advertencia-tarot", "espiritualidade-tarot", "arcanos-maiores", "a-estrela", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

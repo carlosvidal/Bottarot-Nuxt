@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Stella nel contesto lavorativo. Una guid
 category: "lavoro"
 tags: ["la-stella-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "significato-tarocchi", "tarocchi-carriera", "arcani-maggiori", "la-stella", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

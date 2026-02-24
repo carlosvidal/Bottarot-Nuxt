@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Morte no contexto do casamento. 
 category: "casamento"
 tags: ["a-morte-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "transformacao", "arcanos-maiores", "a-morte", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

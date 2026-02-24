@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Imperatrice nel contesto lavor
 category: "lavoro"
 tags: ["l-imperatrice", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "creativita-lavorativa", "arcani-maggiori", "l-imperatrice", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Colgado en decisiones cru
 category: "decisiones"
 tags: ["El Colgado tarot", "decisiones importantes tarot", "advertencia tarot", "Arcanos Mayores", "arcanos-mayores", "el-colgado", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

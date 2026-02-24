@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Papa nel contesto de
 category: "denaro"
 tags: ["il-papa-tarocco", "tarocco-denaro", "significato-tarocco", "arcani-maggiori", "finanze-tarocco", "arcani-maggiori", "il-papa", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Juicio en el contexto del m
 category: "matrimonio"
 tags: ["El Juicio tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the meaning of The Devil card in a long-distance relation
 category: "long-distance-relationship"
 tags: ["the-devil-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "major-arcana-cards", "the-devil", "long-distance-relationship-tarot"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

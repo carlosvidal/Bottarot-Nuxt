@@ -4,7 +4,7 @@ description: "Descubre el significado de El Loco en el amor. ¿Anuncia un nuevo 
 category: "amor"
 tags: ["El Loco tarot amor", "tarot amor", "significado El Loco en el amor", "arcanos mayores", "arcanos-mayores", "el-loco", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mondo nel tarot per 
 category: "relazione-a-distanza"
 tags: ["il-mondo-tarot", "relazione-a-distanza-tarot", "cosa-prova-per-me", "arcani-maggiori", "tarot-emotivo", "arcani-maggiori", "il-mondo", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

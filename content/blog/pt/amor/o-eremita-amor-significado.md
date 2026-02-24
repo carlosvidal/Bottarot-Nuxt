@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Eremita no amor. Um gui
 category: "amor"
 tags: ["o-eremita-tarot-amor", "o-eremita-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-eremita", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__amor-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

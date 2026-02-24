@@ -4,7 +4,7 @@ description: "Scopri il messaggio de L'Appeso in un cambio lavorativo. Impara il
 category: "cambio-lavoro"
 tags: ["l-appeso-tarocco", "cambio-di-lavoro", "arcani-maggiori", "tarocco-lavorativo", "risultato-probabile", "arcani-maggiori", "l-appeso", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

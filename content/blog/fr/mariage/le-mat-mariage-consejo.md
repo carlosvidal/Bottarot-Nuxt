@@ -4,7 +4,7 @@ description: "Découvrez la signification du Mat dans le mariage. Conseils prati
 category: "mariage"
 tags: ["le-mat-tarot", "tarot-mariage", "arcanes-majeurs", "conseil-tarot", "arcanes-majeurs", "le-mat", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

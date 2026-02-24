@@ -4,7 +4,7 @@ description: "Descubra o significado de A Torre no contexto de um ex-parceiro. U
 category: "ex-parceiro"
 tags: ["a-torre-tarot", "tarot-ex-parceiro", "arcanos-maiores", "leitura-de-tarot", "o-que-sente-meu-ex", "arcanos-maiores", "a-torre", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

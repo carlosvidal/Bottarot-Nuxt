@@ -4,7 +4,7 @@ description: "Discover the meaning of the Justice tarot card for long-distance l
 category: "long-distance-relationship"
 tags: ["justice-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana-cards", "justice-card", "long-distance-love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Chariot en amour. Apprenez
 category: "amour"
 tags: ["le-chariot-tarot-amour", "le-chariot-signification", "tarot-amour", "arcanes-majeurs", "le-chariot", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__amor-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

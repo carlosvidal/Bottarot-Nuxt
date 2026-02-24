@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Devil tarot card in relation 
 category: "money"
 tags: ["the-devil-tarot", "tarot-money", "tarot-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-devil", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

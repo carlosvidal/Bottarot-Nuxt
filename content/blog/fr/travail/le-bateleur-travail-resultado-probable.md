@@ -4,7 +4,7 @@ description: "Découvrez le message du Bateleur dans une lecture professionnelle
 category: "travail"
 tags: ["le-bateleur-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "le-bateleur", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5
 seo:

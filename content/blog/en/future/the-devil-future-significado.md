@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Devil (Arcana 15) in a future
 category: "future"
 tags: ["the-devil-tarot", "major-arcana", "tarot-meaning", "future-tarot", "tarot-cards", "major-arcana", "the-devil", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

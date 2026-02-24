@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Magician card in a career context
 category: "career"
 tags: ["the-magician-tarot-work", "the-magician-meaning", "tarot-career", "major-arcana", "major-arcana-cards", "the-magician", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

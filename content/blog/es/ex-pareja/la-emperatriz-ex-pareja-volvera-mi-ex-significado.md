@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Emperatriz en el tarot cuan
 category: "ex-pareja"
 tags: ["La Emperatriz", "tarot ex pareja", "significado tarot", "arcanos mayores", "reconciliación", "arcanos-mayores", "la-emperatriz", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

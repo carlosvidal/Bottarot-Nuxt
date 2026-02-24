@@ -4,7 +4,7 @@ description: "Descubre el significado de El Mago en el contexto del matrimonio. 
 category: "matrimonio"
 tags: ["El Mago", "tarot matrimonio", "arcanos mayores", "consejo tarot", "poder personal", "arcanos-mayores", "el-mago", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7
 seo:

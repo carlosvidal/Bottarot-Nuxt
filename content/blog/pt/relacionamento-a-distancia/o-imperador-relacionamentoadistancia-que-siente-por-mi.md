@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Imperador em um relacionamento Ã
 category: "relacionamento-a-distancia"
 tags: ["o-imperador-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-imperador", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

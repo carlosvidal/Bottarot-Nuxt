@@ -4,7 +4,7 @@ description: "Discover the meaning of The Hermit for 2026. A guide on inner sear
 category: "future"
 tags: ["the-hermit", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "the-hermit", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

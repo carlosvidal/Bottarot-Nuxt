@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mondo nel contesto d
 category: "denaro"
 tags: ["il-mondo-tarocchi", "tarocchi-denaro", "significato-il-mondo", "arcani-maggiori-denaro", "tarocchi-abbondanza", "arcani-maggiori", "il-mondo", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

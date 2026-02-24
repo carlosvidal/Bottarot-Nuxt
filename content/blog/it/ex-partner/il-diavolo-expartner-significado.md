@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Diavolo nei tarocchi quando s
 category: "ex-partner"
 tags: ["il-diavolo-tarocchi", "ex-tornera", "significato-tarocchi", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "il-diavolo", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

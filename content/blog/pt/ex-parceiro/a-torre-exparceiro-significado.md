@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Torre no contexto de 'ex vai 
 category: "ex-parceiro"
 tags: ["a-torre-tarot", "ex-voltar", "significado-a-torre", "tarot-ex", "arcanos-maiores", "arcanos-maiores", "a-torre", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5
 seo:

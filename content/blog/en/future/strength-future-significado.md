@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Strength card (Major Arcana 8
 category: "future"
 tags: ["strength-tarot", "tarot-meaning", "major-arcana", "future-tarot", "major-arcana-cards", "strength", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

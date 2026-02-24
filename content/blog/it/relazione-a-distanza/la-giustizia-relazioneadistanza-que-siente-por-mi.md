@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Giustizia nei tarocchi per le
 category: "relazione-a-distanza"
 tags: ["la-giustizia-tarocchi", "relazione-a-distanza", "cosa-prova-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "la-giustizia", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Tower in love. Is it a yes or
 category: "love"
 tags: ["the-tower-tarot-love", "the-tower-yes-or-no", "meaning-the-tower-in-love", "tarot-love", "major-arcana", "the-tower", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__amor-si-o-no.webp"
 locale: "en"
 readingTime: 5
 seo:

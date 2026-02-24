@@ -4,7 +4,7 @@ description: "Scopri il significato de La Papessa nel contesto del denaro. Impar
 category: "denaro"
 tags: ["la-papessa-tarot", "tarot-denaro", "significato-tarot", "arcani-maggiori", "intuizione-finanziaria", "arcani-maggiori", "la-papessa", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

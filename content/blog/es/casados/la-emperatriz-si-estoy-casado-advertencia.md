@@ -4,7 +4,7 @@ description: "Descubre el significado de La Emperatriz tarot si estoy casado. Un
 category: "casados"
 tags: ["La Emperatriz", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "consejos tarot", "arcanos-mayores", "la-emperatriz", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Louco no futuro. Um guia sobr
 category: "futuro"
 tags: ["o-louco-tarot", "significado-tarot", "arcanos-maiores", "futuro-tarot", "arcanos-maiores", "o-louco", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

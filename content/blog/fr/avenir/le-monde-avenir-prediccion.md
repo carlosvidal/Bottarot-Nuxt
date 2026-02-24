@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Monde pour 2026. Explor
 category: "avenir"
 tags: ["le-monde-tarot", "tarot-2026", "arcanes-majeurs", "prediction-tarot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

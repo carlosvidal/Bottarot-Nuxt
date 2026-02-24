@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Fuerza en el conte
 category: "dinero"
 tags: ["La Fuerza tarot", "tarot dinero", "significado La Fuerza", "arcanos mayores dinero", "abundancia tarot", "arcanos-mayores", "la-fuerza", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

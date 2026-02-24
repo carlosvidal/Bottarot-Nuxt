@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Imperatrice in un cambio di lavoro. Int
 category: "cambio-lavoro"
 tags: ["l-imperatrice", "tarot-cambio-lavoro", "risultato-probabile-tarot", "arcani-maggiori", "significato-tarot-lavoro", "arcani-maggiori", "l-imperatrice", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

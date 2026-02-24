@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Carro en el futuro. Aprende
 category: "futuro"
 tags: ["El Carro tarot", "significado tarot", "arcanos mayores", "futuro tarot", "arcanos-mayores", "el-carro", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__futuro-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

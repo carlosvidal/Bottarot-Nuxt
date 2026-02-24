@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Justice du tarot dans l
 category: "travail"
 tags: ["la-justice-tarot", "tarot-travail", "arcanes-majeurs", "equilibre-professionnel", "ethique-professionnelle", "arcanes-majeurs", "la-justice", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

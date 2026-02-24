@@ -1,14 +1,14 @@
 <template>
   <div class="blog-page">
     <div class="blog-hero">
-      <NuxtLink to="/blog" class="back-link">&larr; All Articles</NuxtLink>
+      <NuxtLink :to="localePath('/blog')" class="back-link">&larr; All Articles</NuxtLink>
       <h1 class="blog-hero-title">{{ formatCategory(category) }}</h1>
     </div>
 
     <div class="blog-grid">
       <BlogCard
         v-for="post in posts"
-        :key="post._path"
+        :key="post.path"
         :post="post"
       />
     </div>
@@ -28,18 +28,20 @@ definePageMeta({
 
 const route = useRoute()
 const category = route.params.category
+const { locale } = useI18n()
+const localePath = useLocalePath()
 
 useSeoMeta({
   title: `${formatCategory(category)} - Tarot Blog | Free Tarot Fun`,
   description: `Read all articles about ${formatCategory(category).toLowerCase()} on Free Tarot Fun.`,
 })
 
-const { data: posts } = await useAsyncData(`blog-category-${category}`, () =>
-  queryCollection('blog_en')
+const { data: posts } = await useAsyncData(`blog-category-${locale.value}-${category}`, () =>
+  queryBlogCollection(locale.value)
     .where('category', '=', category)
     .order('publishedAt', 'DESC')
     .all()
-)
+, { watch: [locale] })
 
 function formatCategory(cat) {
   return cat.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())

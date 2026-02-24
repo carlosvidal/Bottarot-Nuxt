@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la Roue de la Fortune dans
 category: "argent"
 tags: ["la-roue-de-la-fortune", "tarot-argent", "arcanes-majeurs", "signification-tarot", "fortune-financiere", "arcanes-majeurs", "la-roue-de-la-fortune", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

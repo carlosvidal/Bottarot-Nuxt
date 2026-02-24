@@ -4,7 +4,7 @@ description: "Descubre el significado de La Fuerza (Arcano 8) en el ámbito labo
 category: "trabajo"
 tags: ["La Fuerza tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot laboral", "arcanos-mayores", "la-fuerza", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

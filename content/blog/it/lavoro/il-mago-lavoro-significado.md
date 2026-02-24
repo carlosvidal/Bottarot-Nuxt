@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta de Il Mago nel contesto
 category: "lavoro"
 tags: ["il-mago-tarot-lavoro", "il-mago-significato", "tarot-lavoro", "arcani-maggiori", "arcani-maggiori", "il-mago", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

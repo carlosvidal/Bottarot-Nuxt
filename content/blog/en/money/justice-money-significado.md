@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Justice card in the context o
 category: "money"
 tags: ["justice-tarot", "tarot-money", "tarot-meaning", "major-arcana", "tarot-finances", "major-arcana", "justice", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

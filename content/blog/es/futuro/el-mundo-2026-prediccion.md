@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Mundo para 2026. Explora su
 category: "futuro"
 tags: ["El Mundo tarot", "tarot 2026", "Arcanos Mayores", "predicción tarot", "arcanos-mayores", "el-mundo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

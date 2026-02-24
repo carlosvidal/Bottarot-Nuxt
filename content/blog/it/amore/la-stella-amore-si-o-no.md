@@ -4,7 +4,7 @@ description: "Scopri il significato de La Stella nell'amore. Una guida approfond
 category: "amore"
 tags: ["la-stella-tarocchi", "tarocchi-amore", "arcani-maggiori", "tarocchi-si-o-no", "significato-tarocchi", "arcani-maggiori", "la-stella", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7
 seo:

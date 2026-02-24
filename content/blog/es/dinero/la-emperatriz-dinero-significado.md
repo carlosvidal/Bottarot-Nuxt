@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Emperatriz del tarot en el 
 category: "dinero"
 tags: ["La Emperatriz", "tarot dinero", "significado tarot", "arcanos mayores", "abundancia", "arcanos-mayores", "la-emperatriz", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

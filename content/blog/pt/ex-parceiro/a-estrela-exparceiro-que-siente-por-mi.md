@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Estrela (Arcano 17) sobre os sentimentos 
 category: "ex-parceiro"
 tags: ["a-estrela-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "cura-emocional", "arcanos-maiores", "a-estrela", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

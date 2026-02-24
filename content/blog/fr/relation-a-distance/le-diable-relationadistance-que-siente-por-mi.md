@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Diable dans une relatio
 category: "relation-a-distance"
 tags: ["le-diable-tarot", "relation-a-distance", "que-sent-il-pour-moi", "arcanes-majeurs", "le-diable", "sentiments-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

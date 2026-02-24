@@ -4,7 +4,7 @@ description: "Scopri il significato de La Temperanza in un cambio lavorativo. In
 category: "cambio-lavoro"
 tags: ["la-temperanza-tarocchi", "cambio-lavoro", "tarocchi-lavoro", "arcani-maggiori", "la-temperanza", "risultato-probabile"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

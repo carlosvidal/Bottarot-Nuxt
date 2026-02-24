@@ -4,7 +4,7 @@ description: "Decifre a mensagem de O Enforcado no contexto de um ex-parceiro. D
 category: "ex-parceiro"
 tags: ["o-enforcado-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "o-enforcado", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

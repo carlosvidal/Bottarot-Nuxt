@@ -4,7 +4,7 @@ description: "Discover the meaning of The Chariot in the context of marriage. Pr
 category: "marriage"
 tags: ["the-chariot-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "relationships", "major-arcana", "the-chariot", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 7
 seo:

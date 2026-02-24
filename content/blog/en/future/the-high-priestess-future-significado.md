@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The High Priestess in a future co
 category: "future"
 tags: ["the-high-priestess", "future-tarot", "major-arcana", "intuition", "tarot-meaning", "major-arcana", "the-high-priestess", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

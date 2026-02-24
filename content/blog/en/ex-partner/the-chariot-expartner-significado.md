@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Chariot card in the context of an
 category: "ex-partner"
 tags: ["the-chariot-tarot", "the-chariot-meaning", "tarot-ex-partner", "will-ex-return", "major-arcana-7", "major-arcana", "the-chariot", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

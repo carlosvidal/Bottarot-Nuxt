@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Pendu dans le 
 category: "argent"
 tags: ["le-pendu", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-spirituelles", "arcanes-majeurs", "le-pendu", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

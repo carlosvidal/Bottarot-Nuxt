@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Ermitaño en el contexto de
 category: "dinero"
 tags: ["El Ermitaño tarot dinero", "El Ermitaño significado", "tarot dinero", "arcanos mayores dinero", "arcanos-mayores", "el-ermitano", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__dinero-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

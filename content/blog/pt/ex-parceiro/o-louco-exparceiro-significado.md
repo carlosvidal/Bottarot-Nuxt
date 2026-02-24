@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Louco no tarot quando surge a
 category: "ex-parceiro"
 tags: ["o-louco", "tarot-ex", "significado-tarot", "arcanos-maiores", "reconciliacao", "arcanos-maiores", "o-louco", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5
 seo:

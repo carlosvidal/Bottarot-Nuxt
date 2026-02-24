@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Diavolo (Arcano 15) nel conte
 category: "futuro"
 tags: ["il-diavolo-tarot", "arcani-maggiori", "significato-tarot", "tarot-futuro", "carte-tarot", "arcani-maggiori", "il-diavolo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

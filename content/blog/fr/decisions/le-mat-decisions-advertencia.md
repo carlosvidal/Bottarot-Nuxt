@@ -4,7 +4,7 @@ description: "Découvrez la signification du Mat face aux choix cruciaux. Un gui
 category: "decisions"
 tags: ["le-mat-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "nouveaux-commencements", "arcanes-majeurs", "le-mat", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

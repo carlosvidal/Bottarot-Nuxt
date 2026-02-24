@@ -4,7 +4,7 @@ description: "Explora el significado de la carta El Diablo en el tarot para 2026
 category: "futuro"
 tags: ["El Diablo tarot", "tarot 2026", "predicción tarot", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-diablo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

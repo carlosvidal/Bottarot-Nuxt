@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Justiça (Arcano 11) para 2026. Exploramo
 category: "futuro"
 tags: ["a-justica-tarot", "tarot-2026", "arcanos-maiores", "previsao-tarot", "justica-equilibrio", "arcanos-maiores", "a-justica", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6
 seo:

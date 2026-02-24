@@ -4,7 +4,7 @@ description: "Discover the warning message of The Wheel of Fortune in the contex
 category: "married"
 tags: ["wheel-of-fortune", "tarot-if-i-am-married", "tarot-warning", "major-arcana", "marriage-change", "major-arcana", "wheel-of-fortune", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

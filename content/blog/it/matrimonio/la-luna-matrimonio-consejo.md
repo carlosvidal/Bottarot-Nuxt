@@ -4,7 +4,7 @@ description: "Scopri il significato de La Luna nel matrimonio. Consigli pratici 
 category: "matrimonio"
 tags: ["la-luna-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "la-luna", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

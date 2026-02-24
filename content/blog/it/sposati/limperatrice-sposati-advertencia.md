@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Imperatrice nel tarot se sono sposato. 
 category: "sposati"
 tags: ["l-imperatrice", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consigli-tarot", "arcani-maggiori", "l-imperatrice", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "D√©couvrez la signification de l'arcane La Maison Dieu dans les d√
 category: "decisions"
 tags: ["la-maison-dieu-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "tarot-guide-spirituel", "arcanes-majeurs", "la-maison-dieu", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

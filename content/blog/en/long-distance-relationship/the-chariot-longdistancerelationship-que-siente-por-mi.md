@@ -4,7 +4,7 @@ description: "Discover the meaning of The Chariot tarot card for long-distance l
 category: "long-distance-relationship"
 tags: ["the-chariot-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana", "the-chariot", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

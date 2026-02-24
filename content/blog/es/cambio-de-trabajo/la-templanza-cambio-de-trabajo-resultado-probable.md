@@ -4,7 +4,7 @@ description: "Descubre el significado de La Templanza en un cambio laboral. Inte
 category: "cambio-de-trabajo"
 tags: ["La Templanza tarot", "cambio de trabajo", "tarot laboral", "Arcanos Mayores", "arcanos-mayores", "la-templanza", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

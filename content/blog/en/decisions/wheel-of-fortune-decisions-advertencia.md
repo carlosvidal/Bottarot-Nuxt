@@ -4,7 +4,7 @@ description: "Discover the Wheel of Fortune's alert message in crucial decisions
 category: "decisions"
 tags: ["wheel-of-fortune", "important-tarot-decisions", "major-arcana", "tarot-warning", "destiny-cycles", "major-arcana", "wheel-of-fortune-tarot", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

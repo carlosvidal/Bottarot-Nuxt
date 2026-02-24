@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Forza nel contesto di un ex partner. Int
 category: "ex-partner"
 tags: ["la-forza-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "cosa-sente-ex", "arcani-maggiori", "la-forza", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

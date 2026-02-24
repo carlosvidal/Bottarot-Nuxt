@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Pape dans le contexte prof
 category: "travail"
 tags: ["le-pape", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-professionnel", "arcanes-majeurs", "le-pape", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

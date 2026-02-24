@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Diablo en el contexto de un
 category: "ex-pareja"
 tags: ["El Diablo tarot", "tarot ex pareja", "arcanos mayores", "amor y tarot", "interpretación tarot", "arcanos-mayores", "el-diablo", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 7
 seo:

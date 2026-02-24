@@ -4,7 +4,7 @@ description: "Descubra o significado de O Louco no contexto do casamento. Um gui
 category: "casados"
 tags: ["o-louco-tarot", "tarot-se-estou-casado", "arcanos-maiores", "aviso-tarot", "conselho-matrimonial", "arcanos-maiores", "o-louco", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5
 seo:

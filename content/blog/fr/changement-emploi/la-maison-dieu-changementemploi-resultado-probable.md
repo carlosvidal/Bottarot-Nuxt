@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Maison Dieu (La Tour) d
 category: "changement-emploi"
 tags: ["la-maison-dieu-tarot", "changement-d-emploi-tarot", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-maison-dieu", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

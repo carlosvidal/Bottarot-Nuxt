@@ -4,7 +4,7 @@ description: "Discover the meaning of The Moon card in the context of marriage. 
 category: "married"
 tags: ["the-moon-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "tarot-interpretation", "major-arcana", "the-moon", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

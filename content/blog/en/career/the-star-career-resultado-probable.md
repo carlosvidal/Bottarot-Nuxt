@@ -4,7 +4,7 @@ description: "Discover the message of The Star in the workplace. A guide to its 
 category: "career"
 tags: ["the-star-tarot", "tarot-work", "major-arcana", "tarot-meaning", "tarot-career", "major-arcana", "the-star", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

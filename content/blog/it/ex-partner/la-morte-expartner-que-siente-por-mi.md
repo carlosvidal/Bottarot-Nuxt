@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Morte nel contesto d
 category: "ex-partner"
 tags: ["la-morte-tarocco", "ex-partner-tarocco", "arcano-maggiore-13", "trasformazione-emotiva", "arcani-maggiori", "la-morte", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

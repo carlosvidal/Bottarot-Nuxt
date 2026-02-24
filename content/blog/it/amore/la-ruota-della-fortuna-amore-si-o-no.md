@@ -4,7 +4,7 @@ description: "Scopri il significato de La Ruota della Fortuna in amore. Una guid
 category: "amore"
 tags: ["la-ruota-della-fortuna", "tarocchi-amore", "arcani-maggiori", "tarocchi-si-o-no", "amore-e-destino", "arcani-maggiori", "la-ruota-della-fortuna", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

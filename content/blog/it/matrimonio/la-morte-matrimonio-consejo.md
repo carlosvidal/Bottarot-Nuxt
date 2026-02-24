@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Morte nel contesto del matrim
 category: "matrimonio"
 tags: ["la-morte-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "trasformazione", "arcani-maggiori", "la-morte", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

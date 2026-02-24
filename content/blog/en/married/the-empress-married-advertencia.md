@@ -4,7 +4,7 @@ description: "Discover the meaning of The Empress tarot card if you are married.
 category: "married"
 tags: ["the-empress", "tarot-if-married", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "the-empress", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

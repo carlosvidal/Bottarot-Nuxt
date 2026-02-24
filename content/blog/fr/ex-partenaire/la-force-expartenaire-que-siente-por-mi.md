@@ -4,7 +4,7 @@ description: "Découvrez le message de La Force dans le contexte d'un ex-partena
 category: "ex-partenaire"
 tags: ["la-force-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcanes-majeurs", "la-force", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

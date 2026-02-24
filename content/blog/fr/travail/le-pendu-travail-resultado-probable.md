@@ -4,7 +4,7 @@ description: "Découvrez le message du Pendu dans le domaine professionnel. Appr
 category: "travail"
 tags: ["le-pendu-tarot-travail", "le-pendu-resultat-probable", "signification-le-pendu-au-travail", "tarot-travail", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-pendu", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

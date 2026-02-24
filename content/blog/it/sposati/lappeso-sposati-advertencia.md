@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de L'Appeso nel contesto del '
 category: "sposati"
 tags: ["l-appeso", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "sacrificio-relazioni", "arcani-maggiori", "l-appeso", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

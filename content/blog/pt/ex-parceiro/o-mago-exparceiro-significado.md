@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Mago no contexto de 'ex vai v
 category: "ex-parceiro"
 tags: ["o-mago-tarot", "ex-voltar", "significado-o-mago", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-mago", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5
 seo:

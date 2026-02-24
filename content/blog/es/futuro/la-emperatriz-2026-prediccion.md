@@ -4,7 +4,7 @@ description: "Descubre el significado de La Emperatriz para 2026. Explora su men
 category: "futuro"
 tags: ["La Emperatriz", "tarot 2026", "predicción tarot", "Arcanos Mayores", "abundancia", "arcanos-mayores", "la-emperatriz", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

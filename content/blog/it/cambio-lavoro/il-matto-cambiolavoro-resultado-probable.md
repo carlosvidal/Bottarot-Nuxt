@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Matto (Arcano 0) per un cambio lavorativ
 category: "cambio-lavoro"
 tags: ["il-matto-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-lavoro", "nuovi-inizi", "arcani-maggiori", "il-matto", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

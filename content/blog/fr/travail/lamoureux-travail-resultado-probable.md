@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Amoureux dans le domaine
 category: "travail"
 tags: ["l-amoureux-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot-professionnel", "arcanes-majeurs", "l-amoureux", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5
 seo:

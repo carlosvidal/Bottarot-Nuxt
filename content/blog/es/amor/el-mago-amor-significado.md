@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Mago en el amor. A
 category: "amor"
 tags: ["El Mago tarot amor", "El Mago significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-mago", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

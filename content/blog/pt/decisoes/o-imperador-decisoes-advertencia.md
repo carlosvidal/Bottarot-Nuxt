@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência de O Imperador em decisões cr
 category: "decisoes"
 tags: ["o-imperador-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "advertencia-tarot", "significado-tarot", "arcanos-maiores", "o-imperador", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

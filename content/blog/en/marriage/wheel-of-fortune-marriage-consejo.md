@@ -4,7 +4,7 @@ description: "Discover the meaning of The Wheel of Fortune in marriage. Practica
 category: "marriage"
 tags: ["wheel-of-fortune", "marriage-tarot", "tarot-advice", "major-arcana", "love-cycles", "major-arcana", "wheel-of-fortune-tarot", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

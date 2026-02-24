@@ -4,7 +4,7 @@ description: "Découvrez le message du Jugement (Arcane 20) dans votre relation 
 category: "relation-a-distance"
 tags: ["le-jugement-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "le-jugement", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound advice of the Justice tarot card for your ma
 category: "marriage"
 tags: ["justice-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "relationship-balance", "major-arcana", "justice", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

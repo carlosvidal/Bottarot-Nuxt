@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Mundo en el amor. 
 category: "amor"
 tags: ["El Mundo tarot amor", "El Mundo significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-mundo", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

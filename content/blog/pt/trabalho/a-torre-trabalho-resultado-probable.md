@@ -4,7 +4,7 @@ description: "Descubra o significado de A Torre no contexto profissional. Aprend
 category: "trabalho"
 tags: ["a-torre-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "a-torre", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

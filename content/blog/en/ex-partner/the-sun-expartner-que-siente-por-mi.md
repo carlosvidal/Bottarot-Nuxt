@@ -4,7 +4,7 @@ description: "Discover The Sun tarot card's message about your ex-partner. Learn
 category: "ex-partner"
 tags: ["the-sun-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "what-ex-feels", "major-arcana", "the-sun", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

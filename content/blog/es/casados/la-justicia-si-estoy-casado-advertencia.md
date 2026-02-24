@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Justicia (Arcano 11) en e
 category: "casados"
 tags: ["La Justicia tarot", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "matrimonio tarot", "arcanos-mayores", "la-justicia", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

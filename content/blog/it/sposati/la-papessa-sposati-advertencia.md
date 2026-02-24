@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Papessa nel contesto del
 category: "sposati"
 tags: ["la-papessa", "tarot-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "intuizione-nel-matrimonio", "arcani-maggiori", "la-papessa", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de l'Étoile dans le contexte
 category: "ex-partenaire"
 tags: ["l-etoile-tarot", "ex-paire-reviendra", "signification-tarot", "arcane-majeur", "tarot-amour", "arcanes-majeurs", "l-etoile", "ex-paire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

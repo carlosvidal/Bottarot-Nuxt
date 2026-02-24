@@ -4,7 +4,7 @@ description: "Discover the message of the Temperance card regarding an ex-partne
 category: "ex-partner"
 tags: ["temperance-tarot", "tarot-ex-partner", "what-does-my-ex-feel", "major-arcana", "emotional-tarot", "major-arcana", "temperance", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

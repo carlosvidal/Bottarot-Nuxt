@@ -5,11 +5,8 @@
 </template>
 
 <script setup>
-definePageMeta({
-  layout: 'app',
-})
+definePageMeta({ layout: 'app' })
 
-// Redirect to a new chat with UUID (placeholder - will be fully implemented in Phase 4)
 if (import.meta.client) {
   const chatId = crypto.randomUUID()
   navigateTo(`/chat/${chatId}`)

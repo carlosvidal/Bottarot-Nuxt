@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Fuerza (Arcano 8) en un cambio laboral. 
 category: "cambio-de-trabajo"
 tags: ["La Fuerza tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot laboral", "resultado probable tarot", "arcanos-mayores", "la-fuerza", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6
 seo:

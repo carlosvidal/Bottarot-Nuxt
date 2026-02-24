@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de Il Papa nelle decisioni cru
 category: "decisioni"
 tags: ["il-papa", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "consiglio-spirituale"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Papessa nel contesto del futu
 category: "futuro"
 tags: ["la-papessa", "tarocchi-futuro", "arcani-maggiori", "intuizione", "significato-tarocchi", "arcani-maggiori", "la-papessa", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

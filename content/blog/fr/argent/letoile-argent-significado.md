@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte L'Étoile dans le
 category: "argent"
 tags: ["l-etoile-tarot", "tarot-argent", "signification-l-etoile", "arcanes-majeurs", "abondance", "arcanes-majeurs", "l-etoile", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

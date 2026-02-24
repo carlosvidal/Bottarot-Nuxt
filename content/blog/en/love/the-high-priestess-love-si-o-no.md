@@ -4,7 +4,7 @@ description: "Discover the meaning of The High Priestess in love. A deep guide o
 category: "love"
 tags: ["the-high-priestess-tarot-love", "the-high-priestess-yes-or-no", "the-high-priestess-love-meaning", "love-tarot", "major-arcana", "love-intuition", "major-arcana", "the-high-priestess", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

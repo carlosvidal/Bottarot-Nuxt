@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Temperança no dinheiro. Apre
 category: "dinheiro"
 tags: ["a-temperanca-tarot-dinheiro", "a-temperanca-significado", "tarot-dinheiro", "arcanos-maiores-dinheiro", "arcanos-maiores", "a-temperanca", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

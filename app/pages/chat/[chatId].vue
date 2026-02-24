@@ -1,52 +1,1204 @@
-<template>
-  <div class="chat-page">
-    <div class="chat-placeholder">
-      <h2>Tarot Chat</h2>
-      <p>Chat functionality will be migrated in Phase 4.</p>
-      <p>Chat ID: {{ chatId }}</p>
-      <NuxtLink to="/" class="back-link">Back to Home</NuxtLink>
-    </div>
-  </div>
-</template>
-
 <script setup>
-definePageMeta({
-  layout: 'app',
-  middleware: 'auth',
-})
+import { Lock } from 'lucide-vue-next'
+import { getPersonalizedGreeting, generatePersonalContext } from '~/utils/personalContext'
+import { tarotDeck } from '~/data/tarotDeck'
+
+definePageMeta({ layout: 'app' })
+
+// 1. Core State and Store Initialization
+const readings = ref([])
+const chatHistory = ref(null)
+const isLoading = ref(false)
+const isLoadingHistory = ref(false)
+const isSidebarOpen = ref(false)
+const personalizedGreeting = ref('Bienvenido')
+const showDailyLimitModal = ref(false)
+const currentFutureHidden = ref(false)
+const currentCtaMessage = ref(null)
+const isAnonymousSession = ref(false)
+
+// Modal state for in-chat auth/checkout
+const showAuthModal = ref(false)
+const showCheckoutModal = ref(false)
+const pendingRevealReadingId = ref(null)
+const isTransferring = ref(false) // blocks history load during post-OAuth transfer
+
+// Share modal state
+const showShareModal = ref(false)
+const shareUrl = ref('')
+const shareTitle = ref('')
+const shareIsLoading = ref(false)
+const shareError = ref('')
+
+// Only auto-scroll during live conversation, not when loading history
+const isLiveSession = ref(false)
 
 const route = useRoute()
-const chatId = route.params.chatId
+const router = useRouter()
+const auth = useAuthStore()
+const chatStore = useChatStore()
+const { trackTarotReadingStart, trackTarotReadingComplete, trackTarotCardsRevealed, trackFirstReading, trackWeeklyLimitReached } = useAnalytics()
+const { t } = useI18n()
+const config = useRuntimeConfig()
+const API_URL = config.public.apiUrl
+
+// Computed: Reading is complete when we have a tarot reading with consejo section
+const hasCompletedReading = computed(() => {
+    return readings.value.some(r =>
+        r.type === 'tarotReading' &&
+        r.drawnCards?.length === 3 &&
+        (r.sections?.consejo || r.interpretation)
+    )
+})
+
+// Computed: Check if chat is closed (finalized)
+const isChatClosed = computed(() => {
+    const chat = chatStore.chatList.find(c => c.id === route.params.chatId)
+    return chat?.is_closed || false
+})
+
+// Compute the OAuth redirect URL to return to this exact chat
+const chatRedirectUrl = computed(() => {
+    const chatId = route.params.chatId
+    if (import.meta.client) {
+        return chatId ? `${window.location.origin}/chat/${chatId}` : window.location.origin
+    }
+    return `/chat/${chatId}`
+})
+
+// 2. Function Declarations
+const scrollToBottom = () => nextTick(() => { if (chatHistory.value) chatHistory.value.scrollTop = chatHistory.value.scrollHeight })
+
+const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms))
+
+const prepareCardsForAnimation = (cards) => {
+    if (!cards || cards.length === 0) return cards
+    return cards.map(card => ({
+        ...card,
+        revealed: false
+    }))
+}
+
+const drawCardsLocally = (numCards = 3) => {
+    const deck = [...tarotDeck]
+    const drawn = []
+    const positions = ['Pasado', 'Presente', 'Futuro']
+    for (let i = 0; i < numCards; i++) {
+        if (deck.length === 0) break
+        const randomIndex = Math.floor(Math.random() * deck.length)
+        const card = deck.splice(randomIndex, 1)[0]
+        const upright = Math.random() < 0.5
+        drawn.push({
+            ...card,
+            upright,
+            orientation: upright ? 'Derecha' : 'Invertida',
+            posicion: positions[i] || `Posicion ${i + 1}`,
+        })
+    }
+    return drawn
+}
+
+const animateCards = async (cardsArray, messageRef) => {
+    if (!cardsArray || cardsArray.length === 0) return
+
+    // Revelar cartas secuencialmente con stagger
+    for (let i = 0; i < cardsArray.length; i++) {
+        await delay(500)
+        cardsArray[i].revealed = true
+        if (messageRef) {
+            messageRef.drawnCards = [...cardsArray]
+        }
+    }
+}
+
+const loadChatHistory = async (chatId, options = {}) => {
+    // No cargar historial si es un chat nuevo
+    if (!chatId || chatId === 'new') { readings.value = []; return }
+
+    const { animateEntrance = false } = options
+
+    // Si no hay usuario logueado, es una sesion anonima
+    if (!auth.user?.id) {
+        readings.value = []
+        isAnonymousSession.value = true
+
+        // Para chats anonimos nuevos, no intentar cargar historial
+        // Solo verificar shares publicos si el chat pudiera existir previamente
+        try {
+            const response = await fetch(`${API_URL}/api/chat/${chatId}/public-share`)
+            if (response.ok) {
+                const { hasShare, shareUrl: publicShareUrl } = await response.json()
+                if (hasShare && publicShareUrl) {
+                    if (import.meta.client) {
+                        window.location.href = publicShareUrl
+                    }
+                    return
+                }
+            }
+        } catch (e) {
+            // No public share - that's fine for a new anonymous session
+            console.log('No public share found - starting fresh anonymous session')
+        }
+        // Don't redirect - let user stay on this chat and ask a question
+        return
+    }
+
+    isLoadingHistory.value = true
+    readings.value = []
+
+    const { $supabase } = useNuxtApp()
+
+    try {
+        const { data, error } = await $supabase.rpc('get_chat_history', { p_chat_id: chatId })
+        if (error) throw error
+
+        // Si no hay datos, el chat no existe o no pertenece al usuario
+        // Verificar si hay un share publico para este chat
+        if (!data || data.length === 0) {
+            try {
+                const response = await fetch(`${API_URL}/api/chat/${chatId}/public-share`)
+                if (response.ok) {
+                    const { hasShare, shareUrl: publicShareUrl } = await response.json()
+                    if (hasShare && publicShareUrl) {
+                        if (import.meta.client) {
+                            window.location.href = publicShareUrl
+                        }
+                        return
+                    }
+                }
+            } catch (e) {
+                console.log('Could not check for public share')
+            }
+            // No share exists, stay on empty chat or redirect
+            isLoadingHistory.value = false
+            return
+        }
+
+        const loadedReadings = []
+        let lastUserQuestion = ''
+        data.forEach(msg => {
+            if (msg.role === 'user') {
+                loadedReadings.push({ id: msg.message_id, type: 'message', content: msg.content, role: msg.role, timestamp: msg.created_at })
+                lastUserQuestion = msg.content
+            } else if (msg.role === 'assistant') {
+                // Si hay cartas, agregarles las propiedades de animacion (ya reveladas)
+                let processedCards = msg.cards
+                if (msg.cards && msg.cards.length > 0) {
+                    processedCards = msg.cards.map(card => ({
+                        ...card,
+                        revealed: true
+                    }))
+                }
+
+                // Parse v2 structured content or fallback to v1 plain text
+                let sections = null
+                let interpretation = msg.content
+                let msgFutureHidden = false
+
+                try {
+                    const parsed = JSON.parse(msg.content)
+                    if (parsed._version === 2 && parsed.sections) {
+                        // v2 format: apply paywall filter for history
+                        const canSeeFuture = auth.canSeeFuture || auth.isPremiumUser
+                        sections = {}
+                        const sectionOrder = ['saludo', 'pasado', 'presente', 'futuro', 'sintesis', 'consejo']
+                        for (const key of sectionOrder) {
+                            if (!parsed.sections[key]) continue
+                            if (!canSeeFuture && key === 'futuro') {
+                                const firstSentence = parsed.sections[key].match(/^[^.!?]*[.!?]/)
+                                sections[key] = {
+                                    text: firstSentence ? firstSentence[0] + ' ...' : parsed.sections[key].substring(0, 100) + '...',
+                                    isTeaser: true
+                                }
+                                msgFutureHidden = true
+                            } else if (!canSeeFuture && (key === 'sintesis' || key === 'consejo')) {
+                                // Skip hidden sections
+                                msgFutureHidden = true
+                            } else {
+                                sections[key] = { text: parsed.sections[key], isTeaser: false }
+                            }
+                        }
+                        interpretation = parsed.rawText || msg.content
+                    }
+                } catch (e) {
+                    // v1 plain text - sections stays null
+                }
+
+                loadedReadings.push({
+                    id: msg.message_id,
+                    type: msg.cards?.length > 0 ? 'tarotReading' : 'message',
+                    question: lastUserQuestion,
+                    drawnCards: processedCards,
+                    interpretation: interpretation,
+                    sections: sections,
+                    content: msg.content,
+                    isLoading: false,
+                    role: 'assistant',
+                    timestamp: msg.created_at,
+                    futureHidden: msgFutureHidden,
+                    ctaMessage: msgFutureHidden ? (auth.isAnonymousUser ? t('cards.registerToReveal') : t('cards.upgradeToPremium')) : null,
+                    isAnonymous: auth.isAnonymousUser,
+                    animateEntrance: animateEntrance
+                })
+                lastUserQuestion = ''
+            }
+        })
+        readings.value = loadedReadings
+    } catch (err) {
+        console.error('Exception while loading chat history:', err)
+    } finally {
+        isLoadingHistory.value = false
+    }
+}
+
+const createNewChat = () => router.push('/chat')
+
+// CTA handlers - open modals instead of navigating away
+const handleRegisterCta = (readingId) => {
+    pendingRevealReadingId.value = readingId
+    // Save transfer info for post-OAuth return
+    const chatId = route.params.chatId
+    if (import.meta.client) {
+        sessionStorage.setItem('bottarot_pending_transfer', JSON.stringify({
+            chatId,
+            readingItemId: readingId,
+            messages: buildMessagesForTransfer(),
+            timestamp: Date.now()
+        }))
+    }
+    showAuthModal.value = true
+}
+
+const handleUnlockFutureCta = (readingId) => {
+    pendingRevealReadingId.value = readingId
+    showCheckoutModal.value = true
+}
+
+// Build messages array from in-memory readings for transfer
+const buildMessagesForTransfer = () => {
+    return readings.value.map(r => {
+        if (r.role === 'user') {
+            return { role: 'user', content: r.content, cards: null }
+        }
+        // Assistant message - build structured content
+        const hasSections = r.sections && Object.keys(r.sections).length > 0
+        const contentToSave = hasSections
+            ? JSON.stringify({
+                _version: 2,
+                sections: Object.fromEntries(
+                    Object.entries(r.sections).map(([k, v]) => [k, v.text || v])
+                ),
+                rawText: r.interpretation || ''
+            })
+            : r.interpretation || r.content
+
+        return { role: 'assistant', content: contentToSave, cards: r.drawnCards || null }
+    })
+}
+
+// Transfer anonymous chat to authenticated user via backend
+const transferAnonymousChat = async (chatId, newUserId, messages) => {
+    try {
+        const response = await fetch(`${API_URL}/api/chat/transfer`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ chatId, newUserId, messages })
+        })
+        if (!response.ok) {
+            console.error('Transfer failed:', await response.text())
+            return false
+        }
+        console.log('Chat transferred successfully')
+        return true
+    } catch (err) {
+        console.error('Transfer error:', err)
+        return false
+    }
+}
+
+// Reveal future in-place after payment success
+const revealFutureInPlace = async (readingId) => {
+    const reading = readings.value.find(r => r.id === readingId)
+    if (!reading) return
+
+    const chatId = route.params.chatId
+
+    try {
+        const response = await fetch(
+            `${API_URL}/api/chat/message/${chatId}/${readingId}/full-sections?userId=${auth.user.id}`
+        )
+        if (response.ok) {
+            const data = await response.json()
+            if (data.sections) {
+                reading.sections = data.sections
+                reading.futureHidden = false
+                reading.ctaMessage = null
+                // Reveal future card visually
+                if (reading.drawnCards?.[2]) {
+                    reading.drawnCards[2].revealed = true
+                    reading.drawnCards = [...reading.drawnCards]
+                }
+            }
+        }
+    } catch (err) {
+        console.error('Error revealing future in-place:', err)
+    }
+}
+
+// Handle checkout modal success
+const handleCheckoutSuccess = async () => {
+    showCheckoutModal.value = false
+    // Permissions already reloaded inside CheckoutModal
+    if (pendingRevealReadingId.value) {
+        await revealFutureInPlace(pendingRevealReadingId.value)
+        pendingRevealReadingId.value = null
+    }
+}
+
+// Handle share chat
+const handleShareChat = async () => {
+    const chatId = route.params.chatId
+    if (!chatId || !auth.user?.id) {
+        // Need to be logged in to share
+        showAuthModal.value = true
+        return
+    }
+
+    // Show modal immediately with loading state
+    shareUrl.value = ''
+    shareError.value = ''
+    shareIsLoading.value = true
+    showShareModal.value = true
+
+    // Get current chat title for share text
+    const currentChat = chatStore.chatList.find(c => c.id === chatId)
+    shareTitle.value = currentChat?.title || t('share.defaultTitle')
+
+    try {
+        const response = await fetch(`${API_URL}/api/chat/${chatId}/share`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ userId: auth.user.id })
+        })
+
+        if (!response.ok) {
+            const errorData = await response.json()
+            throw new Error(errorData.error || t('share.error'))
+        }
+
+        const data = await response.json()
+        shareUrl.value = data.shareUrl
+        shareIsLoading.value = false
+
+        // Update local state if chat was auto-closed by backend
+        if (data.chatClosed) {
+            const chat = chatStore.chatList.find(c => c.id === chatId)
+            if (chat) chat.is_closed = true
+        }
+
+        // Try Web Share API (on mobile, close modal and use native share)
+        if (import.meta.client && navigator.share) {
+            try {
+                showShareModal.value = false // Close modal for native share
+                await navigator.share({
+                    title: shareTitle.value,
+                    text: t('share.shareText'),
+                    url: data.shareUrl
+                })
+                return // Native share successful
+            } catch (e) {
+                // User cancelled or share failed - show modal instead
+                if (e.name !== 'AbortError') {
+                    console.log('Web Share failed, showing modal')
+                }
+                showShareModal.value = true // Re-show modal
+            }
+        }
+
+    } catch (error) {
+        console.error('Share error:', error)
+        shareIsLoading.value = false
+        shareError.value = error.message || t('share.error')
+    }
+}
+
+// Handle close/finalize chat
+const handleCloseChat = async () => {
+    const chatId = route.params.chatId
+    if (!chatId || !auth.user?.id) return
+
+    try {
+        await chatStore.closeChat(String(chatId), auth.user.id)
+    } catch (error) {
+        console.error('Failed to close chat:', error)
+        if (import.meta.client) {
+            alert(t('chat.closeError') || 'Error al finalizar la lectura')
+        }
+    }
+}
+
+const ensureChatExistsInDb = async (chatId, userId, initialQuestion) => {
+    const { $supabase } = useNuxtApp()
+    try {
+        const { count, error: countError } = await $supabase.from('chats').select('id', { count: 'exact', head: true }).eq('id', chatId)
+        if (countError) {
+            console.error('DB Error checking chat exists:', countError)
+            return
+        }
+        if (count === 0) {
+            const { error: insertError } = await $supabase.from('chats').insert({ id: chatId, user_id: userId, title: initialQuestion.substring(0, 50) })
+            if (insertError) {
+                console.error('DB Error creating chat:', insertError)
+            } else {
+                console.log('Chat created in DB:', chatId)
+            }
+        }
+    } catch (dbError) {
+        console.error('DB Error ensuring chat exists:', dbError)
+        throw dbError
+    }
+}
+
+const saveMessageToDb = async ({ chatId, userId, role, content, cards = null }) => {
+    const { $supabase } = useNuxtApp()
+    try {
+        const { error } = await $supabase.rpc('save_message', { p_chat_id: chatId, p_user_id: userId, p_role: role, p_content: content, p_cards: cards })
+        if (error) {
+            console.error('DB Error saving message:', error.message, error.details, error.hint)
+        } else {
+            console.log('Message saved:', role, chatId)
+        }
+    } catch (dbError) {
+        console.error('DB Error saving message (exception):', dbError)
+    }
+}
+
+const handleQuestionSubmitted = async (question) => {
+    console.log('handleQuestionSubmitted called with question:', question)
+    isLiveSession.value = true // Enable auto-scroll for live conversation
+    const chatId = route.params.chatId
+    const userId = auth.user?.id
+    isAnonymousSession.value = !userId
+
+    console.log('chatId:', chatId, 'userId:', userId, 'isLoading:', isLoading.value, 'isAnonymous:', isAnonymousSession.value)
+
+    // For anonymous users, we proceed without user ID
+    if (!chatId || isLoading.value) {
+        console.log('Returning early - chatId:', chatId, 'isLoading:', isLoading.value)
+        return
+    }
+
+    // Check reading permissions for authenticated users
+    if (userId && !auth.isPremiumUser) {
+        await auth.loadReadingPermissions()
+        if (!auth.canReadToday) {
+            console.log('Daily reading limit reached')
+            // Track weekly limit reached
+            trackWeeklyLimitReached(auth.readingsThisWeek || 0)
+            showDailyLimitModal.value = true
+            return
+        }
+    }
+
+    isLoading.value = true
+
+    // Track reading start
+    trackTarotReadingStart(question.length)
+
+    const userMessage = { id: `local-${Date.now()}`, type: 'message', content: question, role: 'user', timestamp: new Date().toISOString() }
+    readings.value.push(userMessage)
+    scrollToBottom()
+
+    // Only save to DB for authenticated users
+    if (userId) {
+        await ensureChatExistsInDb(chatId, userId, question)
+        await saveMessageToDb({ chatId, userId, role: 'user', content: question })
+    }
+
+    let assistantMessage = null
+    let fullInterpretation = ''
+    let receivedCards = null
+
+    try {
+        const historyForAgents = readings.value.slice(0, -1).map(r => ({
+            role: r.role,
+            content: r.role === 'user' ? r.content : r.interpretation || r.content,
+            _isContextQuestion: r._isContextQuestion || false
+        }))
+
+        // Use 'anonymous' as userId for non-authenticated users
+        const effectiveUserId = userId || 'anonymous'
+
+        // Generate personal context for the reading
+        let personalContextStr = ''
+        try {
+            const personalContextData = await generatePersonalContext()
+            personalContextStr = personalContextData?.context || ''
+        } catch (ctxErr) {
+            console.warn('Could not generate personal context:', ctxErr)
+        }
+
+        const response = await fetch(`${API_URL}/api/chat/message`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ question, history: historyForAgents, personalContext: personalContextStr, userId: effectiveUserId, chatId })
+        })
+
+        if (!response.ok) {
+            const errorData = await response.json()
+            throw new Error(errorData.error || 'Error en la comunicacion con el servidor.')
+        }
+
+        // Check content type to determine if it's SSE or regular JSON
+        const contentType = response.headers.get('content-type')
+        console.log('Content-Type:', contentType)
+
+        if (contentType && contentType.includes('text/event-stream')) {
+            // SSE Streaming
+            const reader = response.body.getReader()
+            const decoder = new TextDecoder()
+            let buffer = ''
+
+            console.log('Starting SSE stream reading...')
+
+            while (true) {
+                const { done, value } = await reader.read()
+                if (done) {
+                    console.log('Stream finished')
+                    break
+                }
+
+                buffer += decoder.decode(value, { stream: true })
+                const events = buffer.split('\n\n')
+                buffer = events.pop()
+
+                for (const event of events) {
+                    if (!event.trim()) continue
+
+                    try {
+                        const lines = event.split('\n')
+                        const eventType = lines[0].replace('event: ', '')
+                        const dataLine = lines[1].replace('data: ', '')
+                        const data = JSON.parse(dataLine)
+
+                        // Manejar evento de cartas
+                        if (eventType === 'cards') {
+                            console.log('Cards received:', data.cards)
+                            receivedCards = data.cards
+
+                            // Track cards revealed
+                            const cardNames = data.cards.map(c => c.name)
+                            trackTarotCardsRevealed(cardNames)
+
+                            // Store future visibility state
+                            currentFutureHidden.value = data.futureHidden || false
+                            currentCtaMessage.value = data.ctaMessage || null
+                            isAnonymousSession.value = data.isAnonymous || false
+
+                            // Preparar cartas con propiedades de animacion
+                            const preparedCards = prepareCardsForAnimation(receivedCards)
+
+                            // Crear mensaje de lectura de tarot INMEDIATAMENTE
+                            assistantMessage = {
+                                id: `local-${Date.now()}-ai`,
+                                type: 'tarotReading',
+                                question,
+                                drawnCards: preparedCards,
+                                interpretation: '',
+                                sections: {},
+                                isLoading: true,
+                                role: 'assistant',
+                                timestamp: new Date().toISOString(),
+                                futureHidden: currentFutureHidden.value,
+                                ctaMessage: currentCtaMessage.value,
+                                isAnonymous: isAnonymousSession.value
+                            }
+
+                            readings.value.push(assistantMessage)
+                            // Get reactive proxy - original is non-reactive
+                            assistantMessage = readings.value[readings.value.length - 1]
+                            console.log('Cards added to readings.value, total items:', readings.value.length)
+
+                            // Iniciar animacion inmediatamente sin esperar nextTick
+                            animateCards(preparedCards, assistantMessage)
+
+                            // Scroll despues de nextTick
+                            nextTick().then(() => {
+                                scrollToBottom()
+                            })
+                        }
+
+                        // Manejar evento de seccion (v2)
+                        if (eventType === 'section') {
+                            console.log('Section received:', data.section, data.isTeaser ? '(teaser)' : '')
+                            if (assistantMessage) {
+                                if (!assistantMessage.sections) assistantMessage.sections = {}
+                                assistantMessage.sections[data.section] = {
+                                    text: data.text,
+                                    isTeaser: data.isTeaser || false
+                                }
+                                // Trigger Vue reactivity
+                                assistantMessage.sections = { ...assistantMessage.sections }
+                                assistantMessage.isLoading = false
+                            }
+                            nextTick().then(() => scrollToBottom())
+                        }
+
+                        // Manejar evento de interpretacion (legacy/fallback)
+                        if (eventType === 'interpretation') {
+                            fullInterpretation += data.text
+                            if (assistantMessage) {
+                                // Mostrar interpretacion inmediatamente
+                                assistantMessage.interpretation = fullInterpretation
+                                assistantMessage.isLoading = false
+                            }
+                        }
+
+                        // Manejar evento de titulo
+                        if (eventType === 'title') {
+                            console.log('Title received:', data.title)
+                            setTimeout(() => {
+                                chatStore.fetchChatList(userId)
+                            }, 1000)
+                        }
+                    } catch (parseError) {
+                        console.error('Error parsing event:', parseError, 'Event:', event)
+                    }
+                }
+            }
+        } else {
+            // Regular JSON response from /api/chat/message
+            console.log('Using regular JSON response')
+            const result = await response.json()
+            console.log('JSON result:', result)
+
+            if (result.type === 'ready_for_reading') {
+                // Phase 2: Draw cards client-side, animate, then request interpretation
+                console.log('Ready for reading - drawing cards locally...')
+
+                // Pre-card draw message
+                const preCardMessage = {
+                    id: `local-${Date.now()}-precard`,
+                    type: 'message',
+                    content: t('reading.preCardMessage'),
+                    role: 'assistant',
+                    timestamp: new Date().toISOString()
+                }
+                readings.value.push(preCardMessage)
+                await nextTick()
+                scrollToBottom()
+                await delay(1500)
+
+                // Draw cards locally
+                const drawnCards = drawCardsLocally(3)
+                receivedCards = drawnCards
+
+                // Track cards revealed
+                const cardNames = drawnCards.map(c => c.name)
+                trackTarotCardsRevealed(cardNames)
+
+                // Store future visibility state
+                currentFutureHidden.value = result.futureHidden || false
+                currentCtaMessage.value = result.ctaMessage || null
+                isAnonymousSession.value = result.isAnonymous || false
+
+                // Prepare cards for animation (all start hidden)
+                const preparedCards = prepareCardsForAnimation(drawnCards)
+
+                // Create reading message - cards visible, no interpretation yet, NOT loading (no "meditando" yet)
+                assistantMessage = {
+                    id: `local-${Date.now()}-ai`,
+                    type: 'tarotReading',
+                    question,
+                    drawnCards: preparedCards,
+                    interpretation: '',
+                    sections: {},
+                    isLoading: false,
+                    role: 'assistant',
+                    timestamp: new Date().toISOString(),
+                    futureHidden: currentFutureHidden.value,
+                    ctaMessage: currentCtaMessage.value,
+                    isAnonymous: isAnonymousSession.value
+                }
+
+                readings.value.push(assistantMessage)
+                // Get reactive proxy - the original assistantMessage is non-reactive
+                assistantMessage = readings.value[readings.value.length - 1]
+                await nextTick()
+                scrollToBottom()
+
+                // Animate cards one by one (500ms stagger) - wait for completion
+                console.log('Animating cards one by one...')
+                await animateCards(preparedCards, assistantMessage)
+
+                // Cards fully revealed - NOW show "El oraculo esta meditando..."
+                console.log('Cards animated. Showing meditation message and requesting interpretation...')
+                assistantMessage.isLoading = true
+                assistantMessage.drawnCards = [...preparedCards] // trigger reactivity
+                await nextTick()
+
+                // Phase 2: Request interpretation from /api/chat/interpret with SSE
+                const interpretResponse = await fetch(`${API_URL}/api/chat/interpret`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        question,
+                        history: historyForAgents,
+                        personalContext: personalContextStr,
+                        drawnCards,
+                        userId: effectiveUserId,
+                        chatId,
+                        contextSummary: result.contextSummary || null,
+                        memoryContext: result.memoryContext || null
+                    })
+                })
+
+                if (!interpretResponse.ok) {
+                    const errorData = await interpretResponse.json()
+                    throw new Error(errorData.error || 'Error al obtener la interpretacion.')
+                }
+
+                // Process SSE stream from /api/chat/interpret
+                const interpretReader = interpretResponse.body.getReader()
+                const interpretDecoder = new TextDecoder()
+                let interpretBuffer = ''
+
+                while (true) {
+                    const { done: streamDone, value: streamValue } = await interpretReader.read()
+                    if (streamDone) break
+
+                    interpretBuffer += interpretDecoder.decode(streamValue, { stream: true })
+                    const streamEvents = interpretBuffer.split('\n\n')
+                    interpretBuffer = streamEvents.pop()
+
+                    for (const evt of streamEvents) {
+                        if (!evt.trim()) continue
+                        try {
+                            const evtLines = evt.split('\n')
+                            const evtType = evtLines[0].replace('event: ', '')
+                            const evtDataLine = evtLines[1].replace('data: ', '')
+                            const evtData = JSON.parse(evtDataLine)
+
+                            if (evtType === 'section') {
+                                if (!assistantMessage.sections) assistantMessage.sections = {}
+                                assistantMessage.sections[evtData.section] = {
+                                    text: evtData.text,
+                                    isTeaser: evtData.isTeaser || false
+                                }
+                                assistantMessage.sections = { ...assistantMessage.sections }
+                                assistantMessage.isLoading = false
+                            }
+
+                            if (evtType === 'interpretation') {
+                                fullInterpretation += evtData.text
+                                if (assistantMessage) {
+                                    assistantMessage.interpretation = fullInterpretation
+                                    assistantMessage.isLoading = false
+                                }
+                            }
+
+                            if (evtType === 'title') {
+                                setTimeout(() => {
+                                    chatStore.fetchChatList(userId)
+                                }, 1000)
+                            }
+                        } catch (parseErr) {
+                            console.error('Error parsing interpret event:', parseErr)
+                        }
+                    }
+                }
+
+            } else if (result.type === 'context_question') {
+                // Oracle is asking a contextual question before drawing cards
+                assistantMessage = {
+                    id: `local-${Date.now()}-ctx`,
+                    type: 'message',
+                    content: result.text,
+                    role: 'assistant',
+                    timestamp: new Date().toISOString(),
+                    _isContextQuestion: true
+                }
+                readings.value.push(assistantMessage)
+                scrollToBottom()
+
+                // Save context question to DB if authenticated
+                if (userId) {
+                    await saveMessageToDb({ chatId, userId, role: 'assistant', content: result.text })
+                }
+
+                // Reset loading - user needs to respond
+                isLoading.value = false
+                return
+            } else {
+                assistantMessage = {
+                    id: `local-${Date.now()}-ai`,
+                    type: 'message',
+                    content: result.text,
+                    role: 'assistant',
+                    timestamp: new Date().toISOString()
+                }
+                readings.value.push(assistantMessage)
+            }
+        }
+
+        // Guardar en DB despues de recibir todo (only for authenticated users)
+        if (assistantMessage && receivedCards && userId) {
+            // Store structured sections if available (v2), else plain text (v1)
+            const hasSections = assistantMessage.sections && Object.keys(assistantMessage.sections).length > 0
+            const contentToSave = hasSections
+                ? JSON.stringify({
+                    _version: 2,
+                    sections: Object.fromEntries(
+                        Object.entries(assistantMessage.sections).map(([k, v]) => [k, v.text || v])
+                    ),
+                    rawText: fullInterpretation
+                })
+                : fullInterpretation
+
+            await saveMessageToDb({
+                chatId,
+                userId,
+                role: 'assistant',
+                content: contentToSave,
+                cards: receivedCards
+            })
+
+            // Record the reading for stats tracking
+            const revealedFuture = !currentFutureHidden.value
+            await auth.recordReading(revealedFuture)
+
+            // Track reading complete
+            trackTarotReadingComplete(receivedCards.length)
+
+            // Track first reading if this is the user's first reading
+            if (readings.value.filter(r => r.type === 'tarotReading').length === 1) {
+                trackFirstReading()
+            }
+        }
+
+    } catch (error) {
+        console.error('Error in handleQuestionSubmitted:', error)
+        readings.value.push({
+            id: `local-${Date.now()}-err`,
+            type: 'message',
+            content: `Lo siento, ha ocurrido un error: ${error.message}`,
+            role: 'assistant',
+            isError: true,
+            timestamp: new Date().toISOString()
+        })
+    } finally {
+        isLoading.value = false
+    }
+}
+
+// 3. Lifecycle Hooks and Watchers
+
+// Helper: wait for auth store to finish initializing
+const waitForAuth = () => {
+    if (auth.isInitialized) return Promise.resolve()
+    return new Promise(resolve => {
+        const unwatch = watch(() => auth.isInitialized, (initialized) => {
+            if (initialized) {
+                unwatch()
+                resolve(undefined)
+            }
+        }, { immediate: true })
+    })
+}
+
+onMounted(async () => {
+    try {
+        personalizedGreeting.value = await getPersonalizedGreeting()
+    } catch (e) {
+        console.warn('Could not load personalized greeting.')
+    }
+
+    // Post-OAuth transfer: check if we have a pending anonymous chat transfer
+    if (!import.meta.client) return
+
+    const pendingTransferRaw = sessionStorage.getItem('bottarot_pending_transfer')
+    if (pendingTransferRaw) {
+        isTransferring.value = true
+        try {
+            // Wait for auth to fully initialize (Supabase session restore is async)
+            await waitForAuth()
+
+            if (auth.isLoggedIn) {
+                const transfer = JSON.parse(pendingTransferRaw)
+                sessionStorage.removeItem('bottarot_pending_transfer')
+
+                // Only process if within 5 minute window
+                if (Date.now() - transfer.timestamp < 300000) {
+                    console.log('Post-OAuth: Transferring anonymous chat', transfer.chatId)
+                    const success = await transferAnonymousChat(
+                        transfer.chatId,
+                        auth.user.id,
+                        transfer.messages || []
+                    )
+
+                    if (success) {
+                        // Reload permissions (new user gets 5 free futures)
+                        await auth.loadReadingPermissions()
+
+                        // Record reading with future revealed
+                        await auth.recordReading(true)
+
+                        // Reload chat history from DB - now with full sections
+                        await loadChatHistory(transfer.chatId, { animateEntrance: true })
+
+                        // Refresh chat list in sidebar
+                        chatStore.fetchChatList(auth.user.id)
+                    }
+                } else {
+                    // Expired - clean up and load normally
+                    sessionStorage.removeItem('bottarot_pending_transfer')
+                    loadChatHistory(route.params.String(chatId))
+                }
+            } else {
+                // Not logged in (user cancelled OAuth?) - load chat normally
+                console.log('Post-OAuth: User not logged in, loading chat normally')
+                loadChatHistory(route.params.String(chatId))
+            }
+        } catch (e) {
+            console.error('Post-OAuth transfer error:', e)
+            sessionStorage.removeItem('bottarot_pending_transfer')
+            loadChatHistory(route.params.String(chatId))
+        } finally {
+            isTransferring.value = false
+        }
+    }
+})
+
+watch(() => route.params.chatId, async (newChatId) => {
+    if (newChatId && typeof newChatId === 'string') {
+        // Skip history load if a post-OAuth transfer is pending - onMounted handles it
+        if (import.meta.client) {
+            if (isTransferring.value || sessionStorage.getItem('bottarot_pending_transfer')) {
+                console.log('Skipping history load - pending transfer detected')
+                return
+            }
+        }
+        // Wait for auth to initialize before loading history (needed on page refresh)
+        await waitForAuth()
+        loadChatHistory(newChatId)
+    }
+}, { immediate: true })
+
+watch(readings, () => {
+    if (isLiveSession.value) scrollToBottom()
+}, { deep: true })
 </script>
 
+<template>
+    <div class="chat-layout">
+        <div class="sidebar-container" :class="{ 'is-open': isSidebarOpen }">
+            <AppSidebar @close-sidebar="isSidebarOpen = false" />
+        </div>
+        <div class="main-content">
+            <AppChatHeader
+                :reading-complete="hasCompletedReading"
+                :is-closed="isChatClosed"
+                @share-chat="handleShareChat"
+                @close-chat="handleCloseChat"
+            >
+                <template #menu-button>
+                    <button class="menu-button" @click="isSidebarOpen = !isSidebarOpen" aria-label="Abrir menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </template>
+            </AppChatHeader>
+            <main class="chat-container" ref="chatHistory">
+                <div v-if="isTransferring || isLoadingHistory" class="loading-history">
+                    <div class="loading-spinner"></div>
+                    <p v-if="isTransferring">Preparando tu lectura...</p>
+                    <p v-else>Cargando historial...</p>
+                </div>
+                <div v-else-if="readings.length === 0 && !isLoading" class="welcome-message">
+                    <h2>{{ personalizedGreeting }}</h2>
+                    <p>Formula tu pregunta para que el oraculo te muestre tu destino.</p>
+                </div>
+                <div v-else class="readings-list">
+                    <template v-for="item in readings" :key="item.id">
+                        <AppChatMessage v-if="item.type === 'message'" :message="item" />
+                        <AppReading
+                            v-else-if="item.type === 'tarotReading'"
+                            :cards="item.drawnCards"
+                            :interpretation="item.interpretation"
+                            :sections="item.sections || null"
+                            :isLoading="item.isLoading"
+                            :futureHidden="item.futureHidden || false"
+                            :ctaMessage="item.ctaMessage"
+                            :isAnonymous="item.isAnonymous || false"
+                            :readingId="item.id"
+                            :animateEntrance="item.animateEntrance || false"
+                            @register="handleRegisterCta"
+                            @unlock-future="handleUnlockFutureCta"
+                        />
+                    </template>
+                </div>
+            </main>
+            <footer class="form-container">
+                <div v-if="isChatClosed" class="closed-message">
+                    <Lock :size="20" />
+                    <p>{{ t('chat.readingClosed') }}</p>
+                </div>
+                <AppQuestionForm v-else @question-submitted="handleQuestionSubmitted" :is-disabled="isLoading" />
+            </footer>
+        </div>
+        <div v-if="isSidebarOpen" @click="isSidebarOpen = false" class="overlay"></div>
+
+        <!-- Daily Limit Modal -->
+        <AppDailyLimitModal
+            v-if="showDailyLimitModal"
+            @close="showDailyLimitModal = false"
+            @view-plans="showDailyLimitModal = false; showCheckoutModal = true"
+        />
+
+        <!-- Auth Modal (for anonymous users) -->
+        <AppAuthModal
+            :isOpen="showAuthModal"
+            :redirectTo="chatRedirectUrl"
+            @close="showAuthModal = false"
+        />
+
+        <!-- Checkout Modal (for free users without futures) -->
+        <AppCheckoutModal
+            v-if="showCheckoutModal"
+            @close="showCheckoutModal = false"
+            @payment-success="handleCheckoutSuccess"
+        />
+
+        <!-- Share Modal -->
+        <AppShareModal
+            v-if="showShareModal"
+            :share-url="shareUrl"
+            :title="shareTitle"
+            :is-loading="shareIsLoading"
+            :error="shareError"
+            @close="showShareModal = false"
+        />
+    </div>
+</template>
+
 <style scoped>
-.chat-page {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: linear-gradient(135deg, var(--bg-primary), var(--bg-secondary));
+/* Mobile First Base Styles */
+.chat-layout { display: flex; height: 100vh; height: 100dvh; background: var(--bg-tertiary); overflow: hidden; }
+.sidebar-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 280px;
+    background: var(--bg-secondary);
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    z-index: 999;
+}
+.sidebar-container.is-open { transform: translateX(0); }
+.main-content { flex-grow: 1; display: flex; flex-direction: column; height: 100vh; height: 100dvh; overflow: hidden; width: 100%; }
+.chat-container { flex-grow: 1; overflow-y: auto; padding: 15px; background: linear-gradient(135deg, var(--bg-primary), var(--bg-secondary), var(--bg-tertiary)); }
+.readings-list { max-width: 900px; margin: 0 auto; }
+
+/* Loading animation for history/transfer */
+.loading-history {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 20px;
+    color: var(--text-secondary);
 }
 
-.chat-placeholder {
-  text-align: center;
-  padding: 2rem;
+.loading-history p {
+    margin-top: 16px;
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--color-accent-text);
 }
 
-.chat-placeholder h2 {
-  color: var(--color-accent-text);
-  margin-bottom: 1rem;
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgba(255, 215, 0, 0.2);
+    border-left: 3px solid var(--color-accent);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
 }
 
-.chat-placeholder p {
-  color: var(--text-secondary);
-  margin-bottom: 0.5rem;
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
 
-.back-link {
-  display: inline-block;
-  margin-top: 1.5rem;
-  color: var(--color-accent-text);
-  text-decoration: none;
+.welcome-message { text-align: center; padding: 20px; }
+.welcome-message h2 { font-size: 1.8rem; color: var(--color-accent-text); margin-bottom: 15px; }
+.welcome-message p { font-size: 1rem; max-width: 500px; margin: 0 auto; line-height: 1.6; }
+.form-container { flex-shrink: 0; }
+
+/* Closed message (when reading is finalized) */
+.closed-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 20px;
+    background: rgba(74, 222, 128, 0.1);
+    border-top: 1px solid rgba(74, 222, 128, 0.3);
+    color: #4ade80;
+    font-size: 0.95rem;
+}
+.closed-message p {
+    margin: 0;
+}
+
+/* Menu Button (hamburger) */
+.menu-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    margin-right: 10px;
+}
+.menu-button span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: var(--text-secondary);
+    margin: 3px 0;
+    transition: all 0.3s;
+    border-radius: 2px;
+}
+.menu-button:hover span { background-color: var(--color-accent-text); }
+
+/* Overlay */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 998;
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+/* Desktop Styles */
+@media (min-width: 769px) {
+    .sidebar-container {
+        position: relative;
+        transform: translateX(0);
+        flex-shrink: 0;
+    }
+    .menu-button { display: none; }
+    .overlay { display: none !important; }
+    .welcome-message h2 { font-size: 2.5rem; }
+    .welcome-message p { font-size: 1.2rem; }
+    .chat-container { padding: 20px; }
 }
 </style>

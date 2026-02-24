@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement du Pendu dans le contexte du
 category: "maries"
 tags: ["le-pendu", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "sacrifice-relations", "arcanes-majeurs", "le-pendu", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

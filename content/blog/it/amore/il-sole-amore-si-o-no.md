@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Sole in amore. Impar
 category: "amore"
 tags: ["il-sole-tarocchi", "tarocchi-amore", "arcani-maggiori", "significato-tarocchi", "il-sole-si-o-no", "arcani-maggiori", "il-sole", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

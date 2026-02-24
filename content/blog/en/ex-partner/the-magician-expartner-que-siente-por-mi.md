@@ -4,7 +4,7 @@ description: "Discover the meaning of The Magician card in the context of an ex-
 category: "ex-partner"
 tags: ["the-magician-tarot", "tarot-ex-partner", "the-magician-meaning", "what-does-my-ex-feel", "major-arcana"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

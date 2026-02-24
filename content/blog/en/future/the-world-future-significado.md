@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The World card in a future contex
 category: "future"
 tags: ["the-world-tarot", "tarot-future", "the-world-meaning", "major-arcana", "tarot-meaning", "major-arcana", "the-world", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Sol no tarot para o din
 category: "dinheiro"
 tags: ["o-sol-tarot", "tarot-dinheiro", "significado-o-sol", "arcanos-maiores", "abundancia-tarot", "arcanos-maiores", "o-sol", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

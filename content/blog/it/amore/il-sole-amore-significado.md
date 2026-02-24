@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Sole nell'amore. Una
 category: "amore"
 tags: ["il-sole-tarot", "tarot-amore", "arcani-maggiori", "significato-tarot", "amore-e-tarot", "arcani-maggiori", "il-sole", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

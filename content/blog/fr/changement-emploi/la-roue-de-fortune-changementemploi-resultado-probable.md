@@ -4,7 +4,7 @@ description: "Découvrez la signification de la Roue de Fortune dans un changeme
 category: "changement-emploi"
 tags: ["la-roue-de-fortune", "tarot-changement-emploi", "arcanes-majeurs", "resultat-probable-tarot", "tarot-professionnel", "arcanes-majeurs", "la-roue-de-fortune", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7
 seo:

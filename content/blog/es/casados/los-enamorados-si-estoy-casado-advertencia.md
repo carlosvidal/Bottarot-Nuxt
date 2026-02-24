@@ -4,7 +4,7 @@ description: "Descubre el mensaje de alerta de Los Enamorados en el contexto del
 category: "casados"
 tags: ["Los Enamorados", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "relaciones tarot", "arcanos-mayores", "los-enamorados", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

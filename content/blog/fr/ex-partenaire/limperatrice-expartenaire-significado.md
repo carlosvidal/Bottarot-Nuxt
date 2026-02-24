@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Impératrice dans le tar
 category: "ex-partenaire"
 tags: ["limperatrice", "tarot-ex-petit-ami", "signification-tarot", "arcanes-majeurs", "reconciliation", "arcanes-majeurs", "limperatrice", "ex-petit-ami"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

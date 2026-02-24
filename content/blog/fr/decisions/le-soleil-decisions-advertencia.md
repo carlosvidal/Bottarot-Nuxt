@@ -4,7 +4,7 @@ description: "Découvrez la face moins connue du Soleil au tarot. Un guide sur l
 category: "decisions"
 tags: ["le-soleil-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "arcanes-majeurs", "le-soleil", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 5
 seo:

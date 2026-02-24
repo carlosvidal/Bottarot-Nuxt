@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Eremita nel contesto di 'ex pa
 category: "ex-partner"
 tags: ["l-eremita", "tarot-ex-partner", "significato-tarot", "arcani-maggiori", "introspezione", "arcani-maggiori", "ex-parte"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Colgado en tarot cuando pre
 category: "ex-pareja"
 tags: ["El Colgado tarot", "ex pareja volverá mi ex", "significado tarot", "Arcanos Mayores", "tarot amor", "arcanos-mayores", "el-colgado", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 5
 seo:

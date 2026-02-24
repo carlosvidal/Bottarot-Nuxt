@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Giudizio (Arcano 20) in un cambio lavora
 category: "cambio-lavoro"
 tags: ["il-giudizio-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-professionali", "arcani-maggiori", "il-giudizio", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de Il Carro (Arcano 7) nelle d
 category: "decisioni"
 tags: ["il-carro-tarocchi", "decisioni-importanti-tarocchi", "arcano-maggiore-7", "avvertimento-tarocchi", "arcani-maggiori", "il-carro", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

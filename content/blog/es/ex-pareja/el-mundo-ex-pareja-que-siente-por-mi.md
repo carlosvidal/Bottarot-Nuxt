@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Mundo en el contexto de una
 category: "ex-pareja"
 tags: ["El Mundo tarot", "tarot ex pareja", "arcanos mayores", "interpretación tarot", "qué siente ex pareja", "arcanos-mayores", "el-mundo", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

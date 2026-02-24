@@ -4,7 +4,7 @@ description: "Discover the message of The Chariot Major Arcana for 2026. Explore
 category: "future"
 tags: ["the-chariot-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "the-chariot-meaning", "major-arcana", "the-chariot", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

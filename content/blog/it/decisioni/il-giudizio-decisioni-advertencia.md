@@ -4,7 +4,7 @@ description: "Scopri il messaggio di allerta della carta Il Giudizio (Arcano 20)
 category: "decisioni"
 tags: ["il-giudizio-tarocco", "decisioni-importanti-tarocco", "arcani-maggiori", "avvertimento-tarocco", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

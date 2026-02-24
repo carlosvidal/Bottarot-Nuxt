@@ -4,7 +4,7 @@ description: "Discover the meaning of the Justice tarot card for an ex-partner. 
 category: "ex-partner"
 tags: ["justice-tarot", "tarot-ex-partner", "what-ex-feels", "major-arcana", "tarot-interpretation", "major-arcana", "justice", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

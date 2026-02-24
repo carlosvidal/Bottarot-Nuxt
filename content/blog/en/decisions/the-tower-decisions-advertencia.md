@@ -4,7 +4,7 @@ description: "Discover the meaning of The Tower in crucial decisions. A guide to
 category: "decisions"
 tags: ["the-tower-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "spiritual-guide-tarot", "major-arcana-cards", "the-tower", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

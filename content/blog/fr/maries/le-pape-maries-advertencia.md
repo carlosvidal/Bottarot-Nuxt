@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement du Pape (Arcane 5) dans le c
 category: "maries"
 tags: ["le-pape", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseil-tarot", "arcanes-majeurs", "le-pape", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "fr"
 readingTime: 5
 seo:

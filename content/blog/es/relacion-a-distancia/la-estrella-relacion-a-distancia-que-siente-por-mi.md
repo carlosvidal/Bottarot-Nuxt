@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Estrella (Arcano 17) sobre sentimientos,
 category: "relacion-a-distancia"
 tags: ["La Estrella tarot", "tarot relación a distancia", "qué siente por mí", "Arcanos Mayores", "tarot emocional", "arcanos-mayores", "la-estrella", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

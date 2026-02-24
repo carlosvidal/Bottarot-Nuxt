@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Tempérance (Arcane 14
 category: "maries"
 tags: ["la-temperance-tarot", "tarot-si-je-suis-marie", "avertissement-tarot-mariage", "equilibre-conjugal", "arcanes-majeurs", "la-temperance", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

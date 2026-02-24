@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de L'Appeso nelle decisioni cr
 category: "decisioni"
 tags: ["l-appeso-tarocchi", "decisioni-importanti-tarocchi", "avvertimento-tarocchi", "arcani-maggiori", "arcani-maggiori", "l-appeso", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

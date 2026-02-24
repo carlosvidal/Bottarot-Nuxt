@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Jugement dans le contex
 category: "maries"
 tags: ["le-jugement-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "interpretation-tarot", "arcanes-majeurs", "le-jugement", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

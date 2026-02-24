@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Louco do tarô no conte
 category: "trabalho"
 tags: ["o-louco-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "novos-comecos", "arcanos-maiores", "o-louco", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

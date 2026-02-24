@@ -4,7 +4,7 @@ description: "Discover the message of The Hermit in your long-distance relations
 category: "long-distance-relationship"
 tags: ["the-hermit-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-hermit", "long-distance-relationship"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

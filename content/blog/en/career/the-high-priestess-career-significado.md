@@ -4,7 +4,7 @@ description: "Discover the meaning of The High Priestess in a career context. Le
 category: "career"
 tags: ["the-high-priestess", "career-tarot", "major-arcana", "work-intuition", "major-arcana", "the-high-priestess", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

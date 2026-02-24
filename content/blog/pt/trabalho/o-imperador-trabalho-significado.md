@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Imperador no contexto p
 category: "trabalho"
 tags: ["o-imperador", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-imperador", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

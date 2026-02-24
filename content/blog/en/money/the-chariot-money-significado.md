@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Chariot card in the context of mo
 category: "money"
 tags: ["the-chariot-tarot", "tarot-money", "the-chariot-meaning", "major-arcana-money", "financial-control", "major-arcana", "the-chariot", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

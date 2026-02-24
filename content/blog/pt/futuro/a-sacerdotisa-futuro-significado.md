@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Sacerdotisa no contexto do fu
 category: "futuro"
 tags: ["a-sacerdotisa", "tarot-futuro", "arcanos-maiores", "intuição", "significado-tarot", "arcanos-maiores", "a-sacerdotisa", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

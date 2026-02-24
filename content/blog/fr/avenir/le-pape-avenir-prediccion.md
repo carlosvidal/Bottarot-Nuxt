@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pape pour 2026. Un guide sur la tra
 category: "avenir"
 tags: ["le-pape", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

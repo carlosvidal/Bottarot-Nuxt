@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Emperador en el co
 category: "dinero"
 tags: ["El Emperador tarot", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-emperador", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Temperança no contexto de um ex-parceiro
 category: "ex-parceiro"
 tags: ["a-temperanca-tarot", "tarot-ex-parceiro", "o-que-sente-meu-ex", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-temperanca", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

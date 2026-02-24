@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Mundo en el contex
 category: "dinero"
 tags: ["El Mundo tarot", "tarot dinero", "significado El Mundo", "arcanos mayores dinero", "tarot abundancia", "arcanos-mayores", "el-mundo", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

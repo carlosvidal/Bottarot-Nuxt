@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Giustizia nel contes
 category: "denaro"
 tags: ["la-giustizia-tarocchi", "tarocchi-denaro", "significato-tarocchi", "arcani-maggiori", "finanze-tarocchi", "arcani-maggiori", "la-giustizia", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

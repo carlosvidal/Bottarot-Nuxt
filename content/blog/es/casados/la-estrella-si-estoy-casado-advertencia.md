@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de La Estrella tarot si estás 
 category: "casados"
 tags: ["La Estrella tarot", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "protección energética", "arcanos-mayores", "la-estrella", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "es"
 readingTime: 7
 seo:

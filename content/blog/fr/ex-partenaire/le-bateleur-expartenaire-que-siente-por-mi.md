@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Bateleur dans le contex
 category: "ex-partenaire"
 tags: ["le-bateleur-tarot", "tarot-ex-partenaire", "signification-le-bateleur", "que-ressent-mon-ex", "arcanes-majeurs", "le-bateleur", "ex-partenaires"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

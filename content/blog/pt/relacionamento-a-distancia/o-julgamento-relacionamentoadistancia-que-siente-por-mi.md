@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Julgamento (Arcano 20) no seu relacioname
 category: "relacionamento-a-distancia"
 tags: ["o-julgamento-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-julgamento", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

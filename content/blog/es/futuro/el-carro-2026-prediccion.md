@@ -4,7 +4,7 @@ description: "Descubre el mensaje del Arcano Mayor El Carro para 2026. Explora s
 category: "futuro"
 tags: ["El Carro tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado El Carro", "arcanos-mayores", "el-carro", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

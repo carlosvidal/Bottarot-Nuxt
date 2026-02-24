@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Chariot en amour. Un gu
 category: "amour"
 tags: ["le-chariot-tarot-amour", "le-chariot-oui-ou-non", "signification-le-chariot-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-de-tarot", "arcanes-majeurs", "le-chariot", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7
 seo:

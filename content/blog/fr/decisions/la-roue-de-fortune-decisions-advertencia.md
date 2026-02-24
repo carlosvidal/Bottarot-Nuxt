@@ -4,7 +4,7 @@ description: "Décryptez le message d'alerte de la Roue de la Fortune face aux c
 category: "decisions"
 tags: ["la-roue-de-fortune", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "cycles-du-destin", "arcanes-majeurs", "la-roue-de-fortune", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

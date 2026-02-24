@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Morte nel futuro. No
 category: "futuro"
 tags: ["la-morte-tarocchi", "tarocchi-futuro", "arcani-maggiori", "trasformazione-tarocchi", "significato-tarocchi", "arcani-maggiori", "la-morte", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__futuro-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

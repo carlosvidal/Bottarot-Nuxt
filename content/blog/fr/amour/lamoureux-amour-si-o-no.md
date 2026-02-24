@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte L'Amoureux dans l
 category: "amour"
 tags: ["l-amoureux-tarot-amour", "tarot-amour", "signification-l-amoureux-en-amour", "l-amoureux-oui-ou-non", "arcanes-majeurs", "l-amoureux", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7
 seo:

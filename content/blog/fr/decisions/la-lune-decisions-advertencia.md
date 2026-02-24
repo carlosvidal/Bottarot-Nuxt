@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Lune (Arcane 18) dans 
 category: "decisions"
 tags: ["la-lune-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "arcanes-majeurs", "la-lune", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

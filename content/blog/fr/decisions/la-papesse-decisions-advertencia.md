@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Papesse pour les déci
 category: "decisions"
 tags: ["la-papesse-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "intuition-tarot", "avertissement-tarot", "arcanes-majeurs", "la-papesse", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

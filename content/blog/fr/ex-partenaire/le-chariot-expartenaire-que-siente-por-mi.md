@@ -4,7 +4,7 @@ description: "Découvrez la signification du Chariot dans le contexte d'un ex-pa
 category: "ex-partenaire"
 tags: ["le-chariot-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "le-chariot", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the message of The Moon (Major Arcana 18) in a job change
 category: "career-change"
 tags: ["the-moon-tarot", "career-change-tarot", "major-arcana", "tarot-career", "major-arcana", "the-moon", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

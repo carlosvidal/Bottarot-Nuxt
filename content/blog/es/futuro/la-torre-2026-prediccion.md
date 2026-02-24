@@ -4,7 +4,7 @@ description: "Explora el significado de La Torre en el tarot para 2026. Descubre
 category: "futuro"
 tags: ["La Torre tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "cambio tarot", "arcanos-mayores", "la-torre", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

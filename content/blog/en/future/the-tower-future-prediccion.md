@@ -4,7 +4,7 @@ description: "Explore the meaning of The Tower tarot card for 2026. Discover its
 category: "future"
 tags: ["the-tower-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-change", "major-arcana", "the-tower", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

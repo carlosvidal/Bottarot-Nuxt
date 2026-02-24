@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Sol no contexto de 'ex vai volta
 category: "ex-parceiro"
 tags: ["o-sol-tarot", "ex-vai-voltar", "significado-tarot", "arcanos-maiores", "tarot-amor", "arcanos-maiores", "o-sol", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 7
 seo:

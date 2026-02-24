@@ -4,7 +4,7 @@ description: "Descubra o significado de A Temperança no casamento. Conselhos pr
 category: "casamento"
 tags: ["a-temperanca-tarot-casamento", "a-temperanca-conselho", "significado-a-temperanca-casamento", "tarot-casamento", "arcanos-maiores", "a-temperanca", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7
 seo:

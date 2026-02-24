@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de La Lune dans le contexte d
 category: "argent"
 tags: ["la-lune-tarot", "tarot-argent", "signification-la-lune", "arcanes-majeurs-argent", "finances-et-tarot", "arcanes-majeurs", "la-lune", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__dinero-significado.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta L'Imperatore nel contes
 category: "denaro"
 tags: ["l-imperatore-tarot", "tarot-denaro", "significato-tarot", "arcani-maggiori", "finanze-tarot", "arcani-maggiori", "l-imperatore", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

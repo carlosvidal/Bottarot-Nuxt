@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Étoile en amour. Un guide approf
 category: "amour"
 tags: ["l-etoile-tarot", "tarot-amour", "arcanes-majeurs", "tarot-oui-non", "signification-tarot", "arcanes-majeurs", "l-etoile", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7
 seo:

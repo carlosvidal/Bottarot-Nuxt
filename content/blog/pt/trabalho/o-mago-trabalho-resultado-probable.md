@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Mago em uma leitura sobre trabalho. Apren
 category: "trabalho"
 tags: ["o-mago-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-mago", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

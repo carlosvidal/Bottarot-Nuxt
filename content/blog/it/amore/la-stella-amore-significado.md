@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Stella nell'amore. U
 category: "amore"
 tags: ["la-stella-tarocchi", "tarocchi-amore", "arcani-maggiori", "significato-tarocchi", "amore-e-spiritualità", "arcani-maggiori", "la-stella", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

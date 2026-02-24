@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Justice card in love. Learn a
 category: "love"
 tags: ["justice-tarot-love", "justice-meaning", "tarot-love", "major-arcana", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__amor-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

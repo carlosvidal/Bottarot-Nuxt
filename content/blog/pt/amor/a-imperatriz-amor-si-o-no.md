@@ -4,7 +4,7 @@ description: "Descubra o significado de A Imperatriz no amor. Um guia profundo s
 category: "amor"
 tags: ["a-imperatriz-tarot-amor", "a-imperatriz-sim-ou-nao", "significado-a-imperatriz-no-amor", "tarot-amor", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-imperatriz", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6
 seo:

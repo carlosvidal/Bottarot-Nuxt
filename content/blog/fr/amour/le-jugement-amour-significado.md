@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Jugement en am
 category: "amour"
 tags: ["le-jugement-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "renaissance-spirituelle", "arcane-majeur", "le-jugement", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Étoile (Arcane 17) dans
 category: "travail"
 tags: ["l-etoile-tarot", "tarot-travail", "signification-l-etoile", "arcanes-majeurs", "guide-professionnel-tarot", "arcanes-majeurs", "l-etoile", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

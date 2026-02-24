@@ -4,7 +4,7 @@ description: "Descubre el significado de La Luna en tarot sobre un ex. Interpret
 category: "ex-pareja"
 tags: ["La Luna tarot", "tarot ex pareja", "qué siente mi ex", "Arcanos Mayores", "interpretación tarot", "arcanos-mayores", "la-luna", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 5
 seo:

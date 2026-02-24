@@ -4,7 +4,7 @@ description: "Découvrez le message de l'Arcane Majeur La Tempérance pour 2026.
 category: "avenir"
 tags: ["la-temperance", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "equilibre", "avenir", "transformation"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

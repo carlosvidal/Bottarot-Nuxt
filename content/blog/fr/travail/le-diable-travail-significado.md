@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Diable dans le
 category: "travail"
 tags: ["le-diable-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-diable", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

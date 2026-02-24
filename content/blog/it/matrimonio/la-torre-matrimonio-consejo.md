@@ -4,7 +4,7 @@ description: "Scopri il significato de La Torre nel contesto matrimoniale. Consi
 category: "matrimonio"
 tags: ["la-torre-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "crisi-matrimoniale", "arcani-maggiori", "la-torre", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

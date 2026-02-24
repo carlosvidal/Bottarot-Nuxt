@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The World card in the context of 
 category: "ex-partner"
 tags: ["the-world-tarot", "the-world-meaning", "tarot-ex-partner", "will-my-ex-come-back", "major-arcana", "major-arcana-cards", "the-world", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

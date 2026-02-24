@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Imperatriz no contexto de um ex-parceiro.
 category: "ex-parceiro"
 tags: ["a-imperatriz-tarot", "tarot-ex-parceiro", "interpretacao-tarot", "arcanos-maiores", "o-que-ex-sente", "arcanos-maiores", "a-imperatriz", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Mundo en el contexto del ma
 category: "casados"
 tags: ["El Mundo tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "matrimonio tarot", "arcanos-mayores", "el-mundo", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "es"
 readingTime: 5
 seo:

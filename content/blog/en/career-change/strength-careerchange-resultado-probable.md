@@ -4,7 +4,7 @@ description: "Discover the message of the Strength card (Major Arcana 8) in a ca
 category: "career-change"
 tags: ["strength-tarot", "career-change-tarot", "major-arcana", "tarot-career", "probable-outcome-tarot", "major-arcana", "strength", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

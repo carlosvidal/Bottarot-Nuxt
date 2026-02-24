@@ -4,7 +4,7 @@ description: "Discover the message of the Strength card for 2026. Explore its sy
 category: "future"
 tags: ["strength-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "strength", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

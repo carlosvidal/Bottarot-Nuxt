@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Judgement card in the context
 category: "ex-partner"
 tags: ["judgement-tarot", "judgement-meaning", "tarot-ex-partner", "major-arcana", "emotional-rebirth", "major-arcana", "judgement", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

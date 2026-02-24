@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death card in the context of 
 category: "ex-partner"
 tags: ["death-tarot", "ex-partner-tarot", "major-arcana-13", "emotional-transformation", "major-arcana", "death-card", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

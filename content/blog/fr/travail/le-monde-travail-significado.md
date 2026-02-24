@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Monde dans le 
 category: "travail"
 tags: ["le-monde-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-carriere", "arcanes-majeurs", "le-monde", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

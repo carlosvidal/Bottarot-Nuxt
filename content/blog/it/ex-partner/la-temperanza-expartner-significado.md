@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Temperanza nel tarocco quando
 category: "ex-partner"
 tags: ["la-temperanza-tarocco", "ex-tornera", "significato-tarocco", "arcani-maggiori", "tarocco-amore", "arcani-maggiori", "la-temperanza", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

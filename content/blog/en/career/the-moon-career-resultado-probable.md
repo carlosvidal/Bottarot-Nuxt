@@ -4,7 +4,7 @@ description: "Discover the meaning of The Moon tarot card for work. Interpret it
 category: "career"
 tags: ["the-moon-tarot-work", "the-moon-probable-outcome", "meaning-the-moon-at-work", "tarot-career", "major-arcana", "the-moon", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

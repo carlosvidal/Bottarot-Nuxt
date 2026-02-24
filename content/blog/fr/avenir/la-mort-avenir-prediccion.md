@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Mort pour 2026. Une ana
 category: "avenir"
 tags: ["la-mort-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "transformation", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5
 seo:

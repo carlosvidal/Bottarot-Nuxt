@@ -4,7 +4,7 @@ description: "Discover the message of The Emperor Major Arcana for 2026. Explore
 category: "future"
 tags: ["the-emperor", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "the-emperor", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

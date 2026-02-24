@@ -4,7 +4,7 @@ description: "Discover the warning message of The Emperor in crucial decisions. 
 category: "decisions"
 tags: ["the-emperor-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-meaning", "major-arcana", "the-emperor", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

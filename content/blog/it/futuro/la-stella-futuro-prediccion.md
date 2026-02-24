@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Stella per il 2026: speranza, ispirazion
 category: "futuro"
 tags: ["la-stella-tarocchi", "tarocchi-2026", "predizione-tarocchi", "arcani-maggiori", "spiritualità", "arcani-maggiori", "la-stella", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

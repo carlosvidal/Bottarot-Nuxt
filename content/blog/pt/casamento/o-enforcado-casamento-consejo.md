@@ -4,7 +4,7 @@ description: "Descubra o significado de O Enforcado no casamento. Conselhos prá
 category: "casamento"
 tags: ["o-enforcado-tarô-casamento", "o-enforcado-conselho", "significado-o-enforcado-no-casamento", "tarô-casamento", "arcano-maior-12", "conselhos-tarô", "arcanos-maiores", "o-enforcado", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 5
 seo:

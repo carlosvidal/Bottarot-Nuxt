@@ -4,7 +4,7 @@ description: "Discover the meaning of The Sun card in a work context. A symbol o
 category: "career"
 tags: ["the-sun-tarot", "tarot-career", "the-sun-meaning", "major-arcana", "professional-success", "major-arcana", "the-sun", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

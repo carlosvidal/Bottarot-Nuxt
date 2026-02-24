@@ -4,7 +4,7 @@ description: "Descubre el mensaje del Arcano Mayor La Templanza para 2026. Una g
 category: "futuro"
 tags: ["La Templanza", "tarot 2026", "predicción tarot", "arcanos mayores", "equilibrio", "arcanos-mayores", "la-templanza", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__2026-prediccion.webp"
 locale: "es"
 readingTime: 5
 seo:

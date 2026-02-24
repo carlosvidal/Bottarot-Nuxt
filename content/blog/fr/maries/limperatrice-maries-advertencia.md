@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte L'Impératrice au tarot da
 category: "maries"
 tags: ["l-imperatrice", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseils-tarot", "arcanes-majeurs", "l-imperatrice", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

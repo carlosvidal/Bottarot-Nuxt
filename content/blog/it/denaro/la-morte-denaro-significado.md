@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta La Morte nel contesto d
 category: "denaro"
 tags: ["la-morte-tarocchi-denaro", "significato-la-morte", "tarocchi-denaro", "arcani-maggiori", "trasformazione-finanziaria", "arcani-maggiori", "la-morte", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

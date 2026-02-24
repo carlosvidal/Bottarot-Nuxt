@@ -4,7 +4,7 @@ description: "Descubra a mensagem de A Força no contexto de um ex-parceiro. Int
 category: "ex-parceiro"
 tags: ["a-forca-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "o-que-ex-sente", "arcanos-maiores", "a-forca", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez le message d'alerte de La Justice (Arcane 11) face aux 
 category: "decisions"
 tags: ["la-justice-tarot", "decisions-importantes-tarot", "arcane-majeur-11", "tarot-avertissement", "arcanes-majeurs", "la-justice", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

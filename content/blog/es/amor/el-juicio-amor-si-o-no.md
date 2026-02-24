@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Juicio en el amor. Una guí
 category: "amor"
 tags: ["El Juicio tarot amor", "El Juicio si o no", "significado El Juicio en el amor", "tarot amor", "arcanos mayores", "renacimiento amoroso", "arcanos-mayores", "el-juicio", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6
 seo:

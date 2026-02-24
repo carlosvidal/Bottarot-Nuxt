@@ -4,7 +4,7 @@ description: "Discover the meaning of The World card in the context of an ex-par
 category: "ex-partner"
 tags: ["the-world-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "ex-partner-feelings", "major-arcana", "the-world", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

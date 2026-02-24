@@ -4,7 +4,7 @@ description: "Discover the meaning of The Emperor card in the context of an ex-p
 category: "ex-partner"
 tags: ["the-emperor-tarot", "tarot-ex-partner", "major-arcana", "tarot-reading", "what-does-my-ex-feel", "major-arcana", "the-emperor", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

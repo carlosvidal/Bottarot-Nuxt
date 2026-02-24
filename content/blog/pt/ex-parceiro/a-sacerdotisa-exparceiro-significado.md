@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Sacerdotisa no contexto de 'e
 category: "ex-parceiro"
 tags: ["a-sacerdotisa", "tarot-ex", "significado-tarot", "arcanos-maiores", "intuição", "arcanos-maiores", "a-sacerdotisa", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6
 seo:

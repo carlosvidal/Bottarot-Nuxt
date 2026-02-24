@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Eremita no seu relacionamento à distânc
 category: "relacionamento-a-distancia"
 tags: ["o-eremita-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-eremita", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 5
 seo:

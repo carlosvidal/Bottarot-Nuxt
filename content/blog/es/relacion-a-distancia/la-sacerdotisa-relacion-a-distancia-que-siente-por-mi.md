@@ -4,7 +4,7 @@ description: "Descubre el mensaje de La Sacerdotisa en tu relación a distancia.
 category: "relacion-a-distancia"
 tags: ["La Sacerdotisa tarot", "relación a distancia", "qué siente por mí", "tarot amor", "Arcanos Mayores", "arcanos-mayores", "la-sacerdotisa", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6
 seo:

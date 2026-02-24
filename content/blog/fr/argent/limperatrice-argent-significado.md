@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Impératrice du tarot da
 category: "argent"
 tags: ["l-imperatrice", "tarot-argent", "signification-tarot", "arcanes-majeurs", "abondance", "arcanes-majeurs", "l-imperatrice", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Eremita no contexto pro
 category: "trabalho"
 tags: ["o-eremita-tarot", "tarot-trabalho", "significado-o-eremita", "arcanos-maiores", "introspeccao-profissional", "arcanos-maiores", "o-eremita", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

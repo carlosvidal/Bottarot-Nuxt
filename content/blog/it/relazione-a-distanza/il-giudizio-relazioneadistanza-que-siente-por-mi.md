@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Giudizio (Arcano 20) nella tua relazione
 category: "relazione-a-distanza"
 tags: ["il-giudizio-tarocchi", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarocchi-emotivo", "arcani-maggiori", "il-giudizio", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

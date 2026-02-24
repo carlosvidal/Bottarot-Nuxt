@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Gli Amanti nel contesto dell'amo
 category: "amore"
 tags: ["gli-amanti-tarot", "tarot-amore", "significato-tarot", "arcani-maggiori", "relazioni-tarot", "arcani-maggiori", "gli-amanti", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

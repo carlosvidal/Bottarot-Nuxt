@@ -4,7 +4,7 @@ description: "Discover the meaning of The High Priestess in a money context. Lea
 category: "money"
 tags: ["the-high-priestess-tarot", "tarot-money", "tarot-meaning", "major-arcana", "financial-intuition", "major-arcana", "the-high-priestess", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

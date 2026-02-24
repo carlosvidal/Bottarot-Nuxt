@@ -4,7 +4,7 @@ description: "Scopri il significato de La Torre nel contesto del 'se sono sposat
 category: "sposati"
 tags: ["la-torre-tarot", "se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "tarot-relazionale", "arcani-maggiori", "la-torre", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

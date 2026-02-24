@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Tower tarot card in the conte
 category: "ex-partner"
 tags: ["the-tower-tarot", "will-my-ex-come-back", "the-tower-meaning", "tarot-ex-relationship", "major-arcana"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

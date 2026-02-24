@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Justiça no contexto do
 category: "dinheiro"
 tags: ["a-justica-tarot", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "a-justica", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

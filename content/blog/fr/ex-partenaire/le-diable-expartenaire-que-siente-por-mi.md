@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Diable dans le contexte
 category: "ex-partenaire"
 tags: ["le-diable-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "amour-et-tarot", "interpretation-tarot", "arcanes-majeurs", "le-diable", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

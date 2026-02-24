@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Papa in un cambio di lavoro. Analizzia
 category: "cambio-lavoro"
 tags: ["il-papa", "tarot-cambio-lavoro", "arcano-maggiore-5", "risultato-probabile-tarot", "arcani-maggiori", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

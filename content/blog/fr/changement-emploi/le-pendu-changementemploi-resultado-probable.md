@@ -4,7 +4,7 @@ description: "Découvrez le message du Pendu dans un changement professionnel. A
 category: "changement-emploi"
 tags: ["le-pendu-tarot", "changement-d-emploi", "arcanes-majeurs", "tarot-professionnel", "resultat-probable", "arcanes-majeurs", "le-pendu", "changement-de-travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5
 seo:

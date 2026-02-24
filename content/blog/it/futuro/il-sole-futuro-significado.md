@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Sole nel futuro. Una
 category: "futuro"
 tags: ["il-sole-tarocchi", "significato-tarocchi", "futuro-tarocchi", "arcani-maggiori", "il-sole", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__futuro-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

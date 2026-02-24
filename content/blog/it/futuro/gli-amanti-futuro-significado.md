@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Gli Amanti nel futuro. Una guida
 category: "futuro"
 tags: ["gli-amanti", "tarot-futuro", "significato-tarot", "arcani-maggiori", "amore-tarot", "arcani-maggiori", "gli-amanti", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__futuro-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

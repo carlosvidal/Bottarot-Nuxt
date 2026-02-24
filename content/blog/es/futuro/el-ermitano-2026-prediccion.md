@@ -4,7 +4,7 @@ description: "Descubre el significado de El Ermitaño para 2026. Una guía sobre
 category: "futuro"
 tags: ["El Ermitaño", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-ermitano", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

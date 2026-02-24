@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Carro no contexto do di
 category: "dinheiro"
 tags: ["o-carro-tarot", "tarot-dinheiro", "significado-o-carro", "arcanos-maiores-dinheiro", "controle-financeiro", "arcanos-maiores", "o-carro", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

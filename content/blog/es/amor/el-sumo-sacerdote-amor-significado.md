@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Sumo Sacerdote en el amor. 
 category: "amor"
 tags: ["El Sumo Sacerdote tarot amor", "El Sumo Sacerdote significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-sumo-sacerdote", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

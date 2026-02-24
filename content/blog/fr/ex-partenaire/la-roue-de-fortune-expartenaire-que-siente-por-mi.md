@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Roue de Fortune dans le
 category: "ex-partenaire"
 tags: ["la-roue-de-fortune", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcanes-majeurs", "la-roue-de-fortune", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

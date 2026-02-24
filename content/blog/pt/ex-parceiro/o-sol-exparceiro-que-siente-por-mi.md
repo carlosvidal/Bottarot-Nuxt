@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Sol no tarot sobre seu ex-parceiro. Apren
 category: "ex-parceiro"
 tags: ["o-sol-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "o-que-sente-ex-parceiro", "arcanos-maiores", "o-sol", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

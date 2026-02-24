@@ -4,7 +4,7 @@ description: "Descubre el profundo consejo de la carta La Justicia para tu matri
 category: "matrimonio"
 tags: ["La Justicia tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "equilibrio relación", "arcanos-mayores", "la-justicia", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6
 seo:

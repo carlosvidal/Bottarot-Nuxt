@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Soleil dans le contexte
 category: "travail"
 tags: ["le-soleil-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "cartes-de-tarot", "arcanes-majeurs", "le-soleil", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

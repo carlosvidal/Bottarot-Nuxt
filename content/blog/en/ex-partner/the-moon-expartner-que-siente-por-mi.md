@@ -4,7 +4,7 @@ description: "Discover The Moon tarot's meaning regarding an ex. Interpret their
 category: "ex-partner"
 tags: ["the-moon-tarot", "tarot-ex-partner", "what-does-my-ex-feel", "major-arcana", "tarot-interpretation", "major-arcana", "the-moon", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

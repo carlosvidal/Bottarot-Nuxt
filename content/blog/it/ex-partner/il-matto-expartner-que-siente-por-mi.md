@@ -4,7 +4,7 @@ description: "Scopri il messaggio dell'Arcano Maggiore Il Matto sui sentimenti d
 category: "ex-partner"
 tags: ["il-matto-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "lettura-tarocchi", "cosa-sente-il-mio-ex", "arcani-maggiori", "il-matto", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

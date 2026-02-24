@@ -4,7 +4,7 @@ description: "Scopri il significato della carta La Forza nel contesto del matrim
 category: "matrimonio"
 tags: ["la-forza-tarot", "tarot-matrimonio", "consigli-tarot", "arcani-maggiori", "amore-e-tarot", "arcani-maggiori", "la-forza", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

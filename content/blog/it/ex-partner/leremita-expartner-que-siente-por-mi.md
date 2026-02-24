@@ -4,7 +4,7 @@ description: "Scopri il significato della carta L'Eremita nel contesto di un ex 
 category: "ex-partner"
 tags: ["l-eremita-tarocchi-ex", "l-eremita-cosa-sente", "significato-l-eremita-ex", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "l-eremita", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

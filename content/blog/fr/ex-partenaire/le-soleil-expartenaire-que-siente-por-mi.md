@@ -4,7 +4,7 @@ description: "Découvrez le message du Soleil en tarot concernant votre ex-parte
 category: "ex-partenaire"
 tags: ["le-soleil-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcane-majeur", "le-soleil", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

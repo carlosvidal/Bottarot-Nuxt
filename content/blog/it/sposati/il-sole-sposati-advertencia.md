@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Sole nel contesto del matrimo
 category: "sposati"
 tags: ["il-sole-tarocchi", "tarocchi-se-sono-sposato", "arcani-maggiori", "avvertimento-tarocchi", "matrimonio-tarocchi", "arcani-maggiori", "il-sole", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

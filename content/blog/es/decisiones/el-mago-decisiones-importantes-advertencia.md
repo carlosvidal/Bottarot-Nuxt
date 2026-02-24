@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de El Mago en decisiones crucia
 category: "decisiones"
 tags: ["El Mago tarot", "tarot decisiones importantes", "Arcanos Mayores", "advertencia tarot", "poder personal", "arcanos-mayores", "el-mago", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

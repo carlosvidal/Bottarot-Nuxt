@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Eremita (Arcano 9) em sua vida profission
 category: "trabalho"
 tags: ["o-eremita-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-eremita", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:

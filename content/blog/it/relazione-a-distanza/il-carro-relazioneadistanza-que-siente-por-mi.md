@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Carro nei tarocchi per le relazioni a 
 category: "relazione-a-distanza"
 tags: ["il-carro-tarocchi", "relazione-a-distanza", "cosa-sente-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "il-carro", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

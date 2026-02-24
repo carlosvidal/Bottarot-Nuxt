@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Mat en amour. Un voyage sy
 category: "amour"
 tags: ["le-mat-tarot-amour", "le-mat-signification", "tarot-amour", "arcanes-majeurs", "arcanes-majeurs", "le-mat", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

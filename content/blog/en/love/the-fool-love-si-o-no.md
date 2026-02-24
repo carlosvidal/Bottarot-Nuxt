@@ -4,7 +4,7 @@ description: "Discover the meaning of The Fool in love. Does it herald a new beg
 category: "love"
 tags: ["the-fool-tarot-love", "tarot-love", "the-fool-meaning-love", "major-arcana", "major-arcana-cards", "the-fool", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

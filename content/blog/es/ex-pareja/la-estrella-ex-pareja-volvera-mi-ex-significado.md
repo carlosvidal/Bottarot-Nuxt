@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Estrella en el contexto de 
 category: "ex-pareja"
 tags: ["La Estrella tarot", "ex pareja volverá mi ex", "significado tarot", "arcano mayor", "tarot amor", "arcanos-mayores", "la-estrella", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

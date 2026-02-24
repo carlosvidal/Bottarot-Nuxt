@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Lua no tarot para relacionamento
 category: "relacionamento-a-distancia"
 tags: ["a-lua-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "tarot-emocional", "arcanos-maiores", "arcanos-maiores", "a-lua", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

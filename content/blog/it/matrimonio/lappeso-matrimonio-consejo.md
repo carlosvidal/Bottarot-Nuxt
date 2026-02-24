@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Appeso nel matrimonio. Consigli pratici
 category: "matrimonio"
 tags: ["l-appeso-tarocco-matrimonio", "l-appeso-consiglio", "significato-l-appeso-matrimonio", "tarocco-matrimonio", "arcano-maggiore-12", "consigli-tarocco", "arcani-maggiori", "l-appeso", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 5
 seo:

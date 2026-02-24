@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Estrela no futuro. Uma carta 
 category: "futuro"
 tags: ["a-estrela-tarot", "tarot-futuro", "significado-tarot", "arcanos-maiores", "espiritualidade-tarot", "arcanos-maiores", "a-estrela", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

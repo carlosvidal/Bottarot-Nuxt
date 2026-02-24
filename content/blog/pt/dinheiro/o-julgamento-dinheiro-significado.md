@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Julgamento no tarot par
 category: "dinheiro"
 tags: ["o-julgamento-tarot", "tarot-dinheiro", "significado-o-julgamento", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-julgamento", "dinheiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

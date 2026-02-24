@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Jugement dans 
 category: "ex-partenaire"
 tags: ["le-jugement-tarot", "signification-le-jugement", "tarot-ex-partenaire", "arcanes-majeurs", "renaissance-emotionnelle", "arcanes-majeurs", "le-jugement", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

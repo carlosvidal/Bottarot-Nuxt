@@ -4,7 +4,7 @@ description: "Découvrez le message de la carte Le Monde dans un changement prof
 category: "changement-emploi"
 tags: ["le-monde-tarot", "changement-d-emploi", "tarot-carriere", "arcanes-majeurs", "resultat-probable-tarot", "arcanes-majeurs", "le-monde", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

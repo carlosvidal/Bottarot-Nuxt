@@ -4,7 +4,7 @@ description: "Discover the meaning of The Hermit card in the context of an ex-pa
 category: "ex-partner"
 tags: ["the-hermit-tarot-ex", "the-hermit-what-they-feel", "the-hermit-ex-partner-meaning", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "major-arcana-cards", "the-hermit", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5
 seo:

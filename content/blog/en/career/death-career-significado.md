@@ -4,7 +4,7 @@ description: "Discover the true meaning of the Death card in a career context. I
 category: "career"
 tags: ["death-tarot-work", "death-card-meaning", "tarot-career", "major-arcana", "professional-transformation", "major-arcana", "death-card", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__trabajo-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Mago in una lettura sul lavoro. Impara d
 category: "lavoro"
 tags: ["il-mago-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-mago", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5
 seo:

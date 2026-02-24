@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Fool in love. A symbolic jour
 category: "love"
 tags: ["the-fool-tarot-love", "the-fool-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-fool", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

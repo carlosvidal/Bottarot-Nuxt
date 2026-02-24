@@ -4,7 +4,7 @@ description: "Descubra a mensagem de alerta da carta O Julgamento (Arcano 20) em
 category: "decisoes"
 tags: ["o-julgamento-tarot", "decisoes-importantes-tarot", "arcanos-maiores", "alerta-tarot", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

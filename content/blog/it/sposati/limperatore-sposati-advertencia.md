@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de L'Imperatore nel tuo matrim
 category: "sposati"
 tags: ["l-imperatore-tarot", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consigli-matrimonio-tarot", "arcani-maggiori", "l-imperatore", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

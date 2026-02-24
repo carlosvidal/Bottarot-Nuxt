@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Magician in the context of 'w
 category: "ex-partner"
 tags: ["the-magician-tarot", "will-my-ex-come-back", "the-magician-meaning", "love-tarot", "major-arcana", "major-arcana-cards", "the-magician", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5
 seo:

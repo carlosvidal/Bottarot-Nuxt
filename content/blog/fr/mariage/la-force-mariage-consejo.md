@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Force dans le contexte 
 category: "mariage"
 tags: ["la-force-tarot", "tarot-mariage", "conseils-tarot", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "la-force", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

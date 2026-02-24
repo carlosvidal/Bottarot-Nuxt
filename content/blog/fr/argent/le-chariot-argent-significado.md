@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Chariot dans l
 category: "argent"
 tags: ["le-chariot-tarot", "tarot-argent", "signification-le-chariot", "arcanes-majeurs-argent", "controle-financier", "arcanes-majeurs", "le-chariot", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

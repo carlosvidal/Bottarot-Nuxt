@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Justiça no futuro. Apr
 category: "futuro"
 tags: ["a-justica-tarot", "tarot-futuro", "significado-tarot", "arcanos-maiores", "equilibrio-karma", "arcanos-maiores", "a-justica", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

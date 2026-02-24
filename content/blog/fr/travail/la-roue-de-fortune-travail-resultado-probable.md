@@ -4,7 +4,7 @@ description: "Découvrez la signification de la Roue de la Fortune dans le conte
 category: "travail"
 tags: ["la-roue-de-la-fortune", "tarot-travail", "arcanes-majeurs", "resultat-probable-tarot", "changement-professionnel", "arcanes-majeurs", "la-roue-de-la-fortune", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

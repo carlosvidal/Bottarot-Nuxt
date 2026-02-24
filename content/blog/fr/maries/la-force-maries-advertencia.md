@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Force dans le contexte
 category: "maries"
 tags: ["la-force-tarot", "tarot-suis-je-marie", "avertissement-tarot", "arcanes-majeurs", "conseil-tarot", "arcanes-majeurs", "la-force", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

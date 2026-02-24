@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Lune dans le contexte d
 category: "maries"
 tags: ["la-lune-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-lune", "maries"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7
 seo:

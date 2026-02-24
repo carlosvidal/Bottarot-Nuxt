@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The World card in a career contex
 category: "career"
 tags: ["the-world-tarot", "tarot-career", "major-arcana", "tarot-meaning", "career-advice", "major-arcana", "the-world", "work"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

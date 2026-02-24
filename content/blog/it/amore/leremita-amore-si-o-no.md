@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta L'Eremita nell'amore. Ã
 category: "amore"
 tags: ["l-eremita-tarot-amore", "l-eremita-si-o-no", "significato-l-eremita-amore", "tarot-amore", "arcani-maggiori", "lettura-tarot", "arcani-maggiori", "l-eremita", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "it"
 readingTime: 5
 seo:

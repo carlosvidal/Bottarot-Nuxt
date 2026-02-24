@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de L'Étoile dans les décis
 category: "decisions"
 tags: ["l-etoile-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "spiritualite-tarot", "arcanes-majeurs", "l-etoile", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

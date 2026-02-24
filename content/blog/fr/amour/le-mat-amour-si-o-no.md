@@ -4,7 +4,7 @@ description: "Découvrez la signification du Mat en amour. Annonce-t-il un nouve
 category: "amour"
 tags: ["le-mat-tarot-amour", "tarot-amour", "signification-le-mat-en-amour", "arcanes-majeurs", "le-mat", "amour"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta El Sol en el contexto laboral.
 category: "trabajo"
 tags: ["El Sol tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "cartas de tarot", "arcanos-mayores", "el-sol", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

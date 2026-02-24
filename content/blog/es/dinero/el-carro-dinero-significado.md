@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta de El Carro en el con
 category: "dinero"
 tags: ["El Carro tarot", "tarot dinero", "significado El Carro", "arcanos mayores dinero", "control financiero", "arcanos-mayores", "el-carro", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

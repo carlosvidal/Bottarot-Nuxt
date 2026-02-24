@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de La Giustizia (Arcano 11) nel con
 category: "ex-partner"
 tags: ["la-giustizia-tarocchi", "tornera-il-mio-ex", "significato-tarocchi", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "la-giustizia", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6
 seo:

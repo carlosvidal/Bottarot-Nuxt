@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte Le Jugement dans le contex
 category: "travail"
 tags: ["le-jugement-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-professionnel", "arcanes-majeurs", "le-jugement", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

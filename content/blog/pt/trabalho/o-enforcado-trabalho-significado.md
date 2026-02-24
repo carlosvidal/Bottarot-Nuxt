@@ -4,7 +4,7 @@ description: "Descubra o significado de O Enforcado no contexto profissional. Um
 category: "trabalho"
 tags: ["o-enforcado-tarot-trabalho", "o-enforcado-significado", "tarot-trabalho", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

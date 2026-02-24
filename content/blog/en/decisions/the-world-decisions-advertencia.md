@@ -4,7 +4,7 @@ description: "Discover the meaning of The World card in crucial decisions. A gui
 category: "decisions"
 tags: ["the-world-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "major-arcana", "the-world", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6
 seo:

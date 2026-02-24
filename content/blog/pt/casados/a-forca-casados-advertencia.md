@@ -4,7 +4,7 @@ description: "Descubra a mensagem de advertência da carta A Força no contexto 
 category: "casados"
 tags: ["a-forca-tarot", "tarot-casados", "advertencia-tarot", "arcanos-maiores", "conselho-tarot", "arcanos-maiores", "a-forca", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hermit card in love. Is it a 
 category: "love"
 tags: ["the-hermit-tarot-love", "the-hermit-yes-or-no", "meaning-the-hermit-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-hermit", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "en"
 readingTime: 5
 seo:

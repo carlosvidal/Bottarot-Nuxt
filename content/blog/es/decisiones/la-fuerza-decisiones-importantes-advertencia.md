@@ -4,7 +4,7 @@ description: "Descubre el mensaje de advertencia de la carta La Fuerza en decisi
 category: "decisiones"
 tags: ["La Fuerza tarot", "tarot decisiones importantes", "arcano mayor 8", "advertencia tarot", "fuerza interior", "arcanos-mayores", "la-fuerza", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de El Sumo Sacerdote en el contex
 category: "trabajo"
 tags: ["El Sumo Sacerdote", "tarot trabajo", "arcanos mayores", "significado tarot", "tarot profesional", "arcanos-mayores", "el-sumo-sacerdote", "trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Discover the message of The Devil (Major Arcana 15) in a job chang
 category: "career-change"
 tags: ["the-devil-tarot", "career-change", "major-arcana", "career-tarot", "major-arcana", "the-devil", "job-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

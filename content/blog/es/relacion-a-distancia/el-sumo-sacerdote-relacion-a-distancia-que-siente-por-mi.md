@@ -4,7 +4,7 @@ description: "Descubre el mensaje de El Sumo Sacerdote en tu relación a distanc
 category: "relacion-a-distancia"
 tags: ["El Sumo Sacerdote tarot", "relación a distancia tarot", "qué siente por mí tarot", "Arcanos Mayores", "arcanos-mayores", "el-sumo-sacerdote", "relacion-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 5
 seo:

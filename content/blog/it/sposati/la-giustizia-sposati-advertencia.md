@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Giustizia (Arcano 11) ne
 category: "sposati"
 tags: ["la-giustizia-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "matrimonio-tarocchi", "arcani-maggiori", "la-giustizia", "sposati"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

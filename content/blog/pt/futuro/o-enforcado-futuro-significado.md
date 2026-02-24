@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Enforcado no futuro. Aprenda 
 category: "futuro"
 tags: ["o-enforcado", "tarot-futuro", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-enforcado", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "pt"
 readingTime: 5
 seo:

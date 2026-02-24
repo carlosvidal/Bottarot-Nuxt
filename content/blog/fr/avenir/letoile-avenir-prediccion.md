@@ -4,7 +4,7 @@ description: "Découvrez le message de L'Étoile pour 2026 : espoir, inspiration
 category: "avenir"
 tags: ["l-etoile-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "spiritualite", "avenir", "espoir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

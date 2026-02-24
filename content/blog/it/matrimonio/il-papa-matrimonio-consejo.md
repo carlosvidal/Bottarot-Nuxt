@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Papa nel contesto del matrimo
 category: "matrimonio"
 tags: ["il-papa", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "spiritualita-coppia", "arcani-maggiori", "il-papa", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

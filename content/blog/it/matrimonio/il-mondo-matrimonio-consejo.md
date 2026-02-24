@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mondo nel contesto del matrim
 category: "matrimonio"
 tags: ["il-mondo-tarocchi", "tarocchi-matrimonio", "arcani-maggiori", "consigli-tarocchi", "pienezza-coniugale", "arcani-maggiori", "il-mondo", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 7
 seo:

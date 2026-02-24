@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte du Mat du tarot d
 category: "argent"
 tags: ["le-mat-tarot", "tarot-argent", "signification-le-mat", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-mat", "argent"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

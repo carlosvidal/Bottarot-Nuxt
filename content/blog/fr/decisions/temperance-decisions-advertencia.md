@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de La Tempérance face aux c
 category: "decisions"
 tags: ["la-temperance-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "equilibre-spirituel", "avertissement-tarot", "arcanes-majeurs", "la-temperance", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 5
 seo:

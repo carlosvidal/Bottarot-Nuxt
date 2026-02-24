@@ -4,7 +4,7 @@ description: "Descubre el significado de El Loco en decisiones cruciales. Una gu
 category: "decisiones"
 tags: ["El Loco tarot", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "nuevos comienzos", "arcanos-mayores", "el-loco", "decisiones"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

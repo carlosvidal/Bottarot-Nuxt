@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Ermitaño en el am
 category: "amor"
 tags: ["El Ermitaño tarot amor", "El Ermitaño si o no", "significado El Ermitaño en el amor", "tarot amor", "arcanos mayores", "tarot lectura", "arcanos-mayores", "el-ermitano", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "es"
 readingTime: 5
 seo:

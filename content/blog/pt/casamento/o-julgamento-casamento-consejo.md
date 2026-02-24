@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Julgamento no contexto do casame
 category: "casamento"
 tags: ["o-julgamento-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

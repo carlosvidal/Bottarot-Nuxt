@@ -4,7 +4,7 @@ description: "Descubra o significado de A Torre em decisões cruciais. Um guia p
 category: "decisoes"
 tags: ["a-torre-tarot", "decisoes-importantes-tarot", "arcanos-maiores", "aviso-tarot", "tarot-guia-espiritual", "arcanos-maiores", "a-torre", "decisoes"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6
 seo:

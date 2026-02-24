@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement de la carte La Force dans le
 category: "decisions"
 tags: ["la-force-tarot", "tarot-decisions-importantes", "arcane-majeur-8", "avertissement-tarot", "force-interieure", "arcanes-majeurs", "la-force", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

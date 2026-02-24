@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Diabo no contexto profi
 category: "trabalho"
 tags: ["o-diabo-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "o-diabo", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

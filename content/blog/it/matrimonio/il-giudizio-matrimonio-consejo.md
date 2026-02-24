@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Giudizio nel contesto del mat
 category: "matrimonio"
 tags: ["il-giudizio-tarot", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

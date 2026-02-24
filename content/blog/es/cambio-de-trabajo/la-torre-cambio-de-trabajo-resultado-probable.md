@@ -4,7 +4,7 @@ description: "Descubre el significado de La Torre del tarot en un cambio de trab
 category: "cambio-de-trabajo"
 tags: ["La Torre tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot profesional", "arcanos-mayores", "la-torre", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

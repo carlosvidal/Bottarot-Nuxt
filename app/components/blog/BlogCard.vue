@@ -31,11 +31,13 @@ const props = defineProps({
   },
 })
 
+const { locale } = useI18n()
+const localePath = useLocalePath()
+
 const postUrl = computed(() => {
-  // Content v3 uses 'stem' for the file path (e.g., "blog/en/tarot-card-meanings/the-fool-meaning")
-  const stem = props.post.stem || props.post._path || ''
+  const stem = props.post.stem || props.post.path || ''
   const slug = stem.split('/').pop() || props.post.slug || ''
-  return `/blog/${slug}`
+  return localePath(`/blog/${slug}`)
 })
 
 const formatCategory = (cat) => {
@@ -43,7 +45,8 @@ const formatCategory = (cat) => {
 }
 
 const formatDate = (date) => {
-  return new Date(date).toLocaleDateString('en-US', {
+  const localeMap = { en: 'en-US', es: 'es-ES', it: 'it-IT', pt: 'pt-BR', fr: 'fr-FR' }
+  return new Date(date).toLocaleDateString(localeMap[locale.value] || 'en-US', {
     year: 'numeric',
     month: 'short',
     day: 'numeric',

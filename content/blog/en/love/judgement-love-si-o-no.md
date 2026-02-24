@@ -4,7 +4,7 @@ description: "Discover the meaning of the Judgement card in love. A deep guide o
 category: "love"
 tags: ["judgement-tarot-love", "judgement-yes-or-no", "meaning-judgement-in-love", "love-tarot", "major-arcana", "love-rebirth", "major-arcana", "judgement", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

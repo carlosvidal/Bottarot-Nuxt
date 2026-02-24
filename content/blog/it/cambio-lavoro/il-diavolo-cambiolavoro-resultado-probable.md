@@ -4,7 +4,7 @@ description: "Scopri il messaggio de Il Diavolo (Arcano 15) in un cambio di lavo
 category: "cambio-lavoro"
 tags: ["il-diavolo-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-lavoro", "arcani-maggiori", "il-diavolo", "cambio-lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

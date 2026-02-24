@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de L'Imperatore nelle decision
 category: "decisioni"
 tags: ["l-imperatore-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "avvertimento-tarocchi", "significato-tarocchi", "arcani-maggiori", "l-imperatore", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6
 seo:

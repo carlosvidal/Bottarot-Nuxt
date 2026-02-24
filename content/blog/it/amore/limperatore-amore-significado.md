@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Imperatore in amore. Una guida approfon
 category: "amore"
 tags: ["l-imperatore-tarocchi", "tarocchi-amore", "significato-tarocchi", "arcani-maggiori", "amore-e-tarocchi", "arcani-maggiori", "l-imperatore", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

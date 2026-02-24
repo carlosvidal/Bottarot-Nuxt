@@ -4,7 +4,7 @@ description: "Descubre el significado de La Torre en el contexto del si estoy ca
 category: "casados"
 tags: ["la torre tarot", "si estoy casado", "advertencia tarot", "arcanos mayores", "tarot relacional", "arcanos-mayores", "la-torre", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "es"
 readingTime: 6
 seo:

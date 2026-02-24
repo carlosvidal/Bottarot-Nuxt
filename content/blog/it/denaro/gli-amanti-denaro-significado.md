@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Gli Amanti nel contesto
 category: "denaro"
 tags: ["gli-amanti-tarot", "tarot-denaro", "significato-gli-amanti", "arcani-maggiori-denaro", "tarot-finanziario", "arcani-maggiori", "gli-amanti", "denaro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__dinero-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

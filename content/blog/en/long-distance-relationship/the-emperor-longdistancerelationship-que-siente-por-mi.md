@@ -4,7 +4,7 @@ description: "Discover the meaning of The Emperor card in a long-distance relati
 category: "long-distance-relationship"
 tags: ["the-emperor-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana-cards", "the-emperor", "long-distance-love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Muerte en el conte
 category: "ex-pareja"
 tags: ["La Muerte tarot", "ex pareja tarot", "significado tarot", "arcanos mayores", "arcanos-mayores", "la-muerte", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

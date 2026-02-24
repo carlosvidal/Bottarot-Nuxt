@@ -4,7 +4,7 @@ description: "Descubre el significado de la carta La Justicia en un cambio labor
 category: "cambio-de-trabajo"
 tags: ["La Justicia tarot", "cambio de trabajo", "Arcanos Mayores", "tarot laboral", "arcanos-mayores", "la-justicia", "cambio-de-trabajo"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 5
 seo:

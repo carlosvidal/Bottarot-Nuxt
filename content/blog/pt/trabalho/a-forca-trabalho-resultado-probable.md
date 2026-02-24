@@ -4,7 +4,7 @@ description: "Descubra o significado de A Força (Arcano 8) no âmbito profissio
 category: "trabalho"
 tags: ["a-forca-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot-profissional", "arcanos-maiores", "a-forca", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

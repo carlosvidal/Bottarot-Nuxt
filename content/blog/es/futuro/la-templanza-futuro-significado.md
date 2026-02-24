@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Templanza (Arcano 14) en le
 category: "futuro"
 tags: ["La Templanza tarot", "tarot futuro", "arcanos mayores", "equilibrio tarot", "significado tarot", "arcanos-mayores", "la-templanza", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

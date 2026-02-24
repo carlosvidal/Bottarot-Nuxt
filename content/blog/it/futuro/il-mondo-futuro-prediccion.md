@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mondo per il 2026. Esplora la
 category: "futuro"
 tags: ["il-mondo-tarocchi", "tarocchi-2026", "arcani-maggiori", "predizione-tarocchi", "arcani-maggiori", "il-mondo", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

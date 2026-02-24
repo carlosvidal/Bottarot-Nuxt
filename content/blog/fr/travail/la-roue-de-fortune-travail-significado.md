@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la Roue de la Fortune dans
 category: "travail"
 tags: ["tarot-travail", "la-roue-de-la-fortune", "arcanes-majeurs", "signification-tarot", "changement-professionnel", "arcanes-majeurs", "la-roue-de-la-fortune", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "fr"
 readingTime: 7
 seo:

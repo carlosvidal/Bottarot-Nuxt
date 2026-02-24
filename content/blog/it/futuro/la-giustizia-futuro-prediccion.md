@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Giustizia (Arcano 11) per il 2026. Esplo
 category: "futuro"
 tags: ["la-giustizia-tarocchi", "tarocchi-2026", "arcani-maggiori", "predizione-tarocchi", "giustizia-equilibrio", "arcani-maggiori", "la-giustizia", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__2026-prediccion.webp"
 locale: "it"
 readingTime: 6
 seo:

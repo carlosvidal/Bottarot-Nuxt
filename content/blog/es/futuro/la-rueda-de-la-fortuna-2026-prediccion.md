@@ -4,7 +4,7 @@ description: "Descubre el significado de La Rueda de la Fortuna para 2026. Explo
 category: "futuro"
 tags: ["La Rueda de la Fortuna", "tarot 2026", "predicción tarot", "arcanos mayores", "ciclos del destino", "arcanos-mayores", "la-rueda-de-la-fortuna", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

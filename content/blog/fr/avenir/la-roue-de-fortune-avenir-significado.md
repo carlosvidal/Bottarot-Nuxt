@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la Roue de la Fortune pour
 category: "avenir"
 tags: ["la-roue-de-la-fortune", "tarot-futur", "arcanes-majeurs", "signification-tarot", "cycles-de-la-vie", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "fr"
 readingTime: 6
 seo:

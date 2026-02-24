@@ -4,7 +4,7 @@ description: "Scopri il messaggio di avvertimento de La Temperanza nelle scelte 
 category: "decisioni"
 tags: ["la-temperanza-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "equilibrio-spirituale", "avvertimento-tarocchi", "arcani-maggiori", "la-temperanza", "decisioni"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5
 seo:

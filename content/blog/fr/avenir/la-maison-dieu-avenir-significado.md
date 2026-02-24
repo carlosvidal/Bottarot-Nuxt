@@ -4,7 +4,7 @@ description: "Découvrez la profonde signification de La Maison Dieu dans le fut
 category: "avenir"
 tags: ["la-maison-dieu-tarot", "tarot-futur", "signification-la-maison-dieu", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-maison-dieu", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__futuro-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Carro nel contesto lavorativo. Impara 
 category: "lavoro"
 tags: ["il-carro-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "carte-tarocchi", "arcani-maggiori", "il-carro", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

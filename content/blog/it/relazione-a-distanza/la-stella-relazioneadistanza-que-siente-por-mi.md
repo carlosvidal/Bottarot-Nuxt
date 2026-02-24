@@ -4,7 +4,7 @@ description: "Scopri il messaggio de La Stella (Arcano 17) su sentimenti, speran
 category: "relazione-a-distanza"
 tags: ["la-stella-tarot", "tarot-relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarot-emozionale", "arcani-maggiori", "la-stella", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the message of the Temperance tarot card for 2026. A guid
 category: "future"
 tags: ["temperance", "tarot-2026", "tarot-prediction", "major-arcana", "balance", "major-arcana", "temperance-card", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "DÃ©couvrez le conseil de La Papesse pour votre mariage. Apprenez Ã
 category: "mariage"
 tags: ["la-papesse", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "intuition-couple", "arcanes-majeurs", "la-papesse", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6
 seo:

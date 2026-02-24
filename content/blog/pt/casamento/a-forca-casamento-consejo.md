@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Força no contexto do casamento.
 category: "casamento"
 tags: ["a-forca-tarot", "tarot-casamento", "conselhos-tarot", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-forca", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

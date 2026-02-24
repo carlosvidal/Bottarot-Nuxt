@@ -4,7 +4,7 @@ description: "Discover the meaning of The Chariot as a warning in marriage. Lear
 category: "married"
 tags: ["the-chariot-tarot", "am-i-married", "tarot-warning", "major-arcana", "relationship-tarot", "major-arcana", "the-chariot", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

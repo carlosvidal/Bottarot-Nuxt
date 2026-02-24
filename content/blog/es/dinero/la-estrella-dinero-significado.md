@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta La Estrella en el con
 category: "dinero"
 tags: ["La Estrella tarot", "tarot dinero", "significado La Estrella", "arcanos mayores", "abundancia", "arcanos-mayores", "la-estrella", "dinero"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "es"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte L'Amoureux dans l
 category: "ex-partenaire"
 tags: ["l-amoureux", "tarot-ex-petit-ami", "signification-tarot", "arcanes-majeurs", "amour-et-reconciliation", "arcanes-majeurs", "l-amoureux", "ex-petit-ami"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

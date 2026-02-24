@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Enforcado no tarot quando voc
 category: "ex-parceiro"
 tags: ["o-enforcado-tarot", "ex-parceiro-voltara", "significado-tarot", "arcanos-maiores", "tarot-amor", "arcanos-maiores", "o-enforcado", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5
 seo:

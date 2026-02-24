@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Morte em uma mudança d
 category: "mudanca-de-emprego"
 tags: ["a-morte-tarot", "mudanca-de-emprego", "tarot-profissional", "transformacao-laboral", "arcanos-maiores", "arcanos-maiores", "a-morte", "mudanca-de-trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

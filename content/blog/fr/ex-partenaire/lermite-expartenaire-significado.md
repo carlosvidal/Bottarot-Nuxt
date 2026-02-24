@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de L'Ermite dans le contexte 
 category: "ex-partenaire"
 tags: ["l-ermite", "tarot-ex", "signification-tarot", "arcanes-majeurs", "introspection", "arcane-majeur", "ex-partenaire"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6
 seo:

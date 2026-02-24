@@ -4,7 +4,7 @@ description: "Découvrez la signification du Bateleur dans le contexte du mariag
 category: "mariage"
 tags: ["le-bateleur", "tarot-mariage", "arcanes-majeurs", "conseil-tarot", "pouvoir-personnel", "arcanes-majeurs", "le-bateleur", "mariage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Death card in love. It doesn'
 category: "love"
 tags: ["death-tarot-love", "death-card-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "death", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-13.webp"
+image: "https://images.freetarot.fun/blog/la-muerte__amor-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

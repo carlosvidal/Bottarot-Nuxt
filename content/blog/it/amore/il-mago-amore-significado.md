@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Il Mago in amore. Impar
 category: "amore"
 tags: ["il-mago-tarot-amore", "il-mago-significato", "tarot-amore", "arcani-maggiori", "il-mago", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "it"
 readingTime: 5
 seo:

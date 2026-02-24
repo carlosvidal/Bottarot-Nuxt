@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde du Pendu dans le futur. Appre
 category: "avenir"
 tags: ["le-pendu", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

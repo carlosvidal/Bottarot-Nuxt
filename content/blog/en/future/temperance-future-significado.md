@@ -4,7 +4,7 @@ description: "Discover the profound meaning of Temperance (Arcana 14) in future 
 category: "future"
 tags: ["temperance-tarot", "future-tarot", "major-arcana", "balance-tarot", "tarot-meaning", "major-arcana", "temperance", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

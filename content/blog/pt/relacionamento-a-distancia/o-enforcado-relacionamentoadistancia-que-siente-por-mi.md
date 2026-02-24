@@ -4,7 +4,7 @@ description: "Descubra o significado de O Enforcado no tarot para relacionamento
 category: "relacionamento-a-distancia"
 tags: ["o-enforcado-tarot", "relacao-a-distancia", "o-que-sente-por-mim", "tarot-emocional", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

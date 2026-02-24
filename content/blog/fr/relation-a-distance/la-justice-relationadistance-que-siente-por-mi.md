@@ -4,7 +4,7 @@ description: "Découvrez la signification de la carte La Justice dans le tarot p
 category: "relation-a-distance"
 tags: ["la-justice-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-amour", "arcanes-majeurs", "la-justice", "relation-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7
 seo:

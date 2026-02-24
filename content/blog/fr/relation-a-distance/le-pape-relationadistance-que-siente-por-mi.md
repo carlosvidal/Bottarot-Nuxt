@@ -4,7 +4,7 @@ description: "Découvrez le message du Pape dans votre relation à distance. Une
 category: "relation-a-distance"
 tags: ["le-pape-tarot", "relation-a-distance-tarot", "ce-qu-il-ressent-tarot", "arcanes-majeurs", "arcanes-majeurs", "le-pape", "relation-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6
 seo:

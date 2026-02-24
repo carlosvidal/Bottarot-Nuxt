@@ -4,7 +4,7 @@ description: "Discover the meaning of The Hierophant in love. A deep guide on tr
 category: "love"
 tags: ["the-hierophant-tarot-love", "the-hierophant-yes-or-no", "the-hierophant-meaning-love", "tarot-love", "major-arcana", "the-hierophant", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7
 seo:

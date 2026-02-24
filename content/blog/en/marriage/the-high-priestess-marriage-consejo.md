@@ -4,7 +4,7 @@ description: "Discover The High Priestess's guidance for your marriage. Learn to
 category: "marriage"
 tags: ["the-high-priestess", "marriage-tarot", "tarot-advice", "major-arcana", "couples-intuition", "major-arcana", "the-high-priestess", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-02.webp"
+image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

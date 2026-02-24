@@ -4,7 +4,7 @@ description: "Discover the deep meaning of The Magician card in the context of t
 category: "future"
 tags: ["the-magician-tarot", "the-magician-meaning", "tarot-future", "major-arcana", "major-arcana-cards", "the-magician", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__futuro-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Matto nel tarot per le relazioni a dis
 category: "relazione-a-distanza"
 tags: ["il-matto-tarot", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarot-emozionale", "arcani-maggiori", "il-matto", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

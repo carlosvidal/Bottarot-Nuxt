@@ -4,7 +4,7 @@ description: "Descubre el significado de La Emperatriz en el amor. Una guía pro
 category: "amor"
 tags: ["La Emperatriz tarot amor", "La Emperatriz si o no", "significado La Emperatriz en el amor", "tarot amor", "arcanos mayores", "amor y tarot", "arcanos-mayores", "la-emperatriz", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6
 seo:

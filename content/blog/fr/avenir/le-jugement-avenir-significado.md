@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte Le Jugement dans 
 category: "avenir"
 tags: ["le-jugement-tarot", "tarot-futur", "signification-tarot", "arcanes-majeurs", "renaissance-spirituelle", "arcanes-majeurs", "le-jugement", "futur"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "fr"
 readingTime: 5
 seo:

@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta A Força no contexto prof
 category: "trabalho"
 tags: ["a-forca-tarot", "tarot-trabalho", "significado-a-forca", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "a-forca", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

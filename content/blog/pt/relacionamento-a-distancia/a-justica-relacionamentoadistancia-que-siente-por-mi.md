@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Justiça no tarot para relaçõe
 category: "relacionamento-a-distancia"
 tags: ["a-justica-tarot", "relacao-a-distancia", "o-que-sente-por-mim", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "a-justica", "relacao-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6
 seo:

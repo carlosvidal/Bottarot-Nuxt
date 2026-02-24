@@ -4,7 +4,7 @@ description: "Découvrez le message de la carte La Tempérance pour les relation
 category: "relation-a-distance"
 tags: ["la-temperance-tarot", "relation-a-distance", "tarot-emotionnel", "arcanes-majeurs", "la-temperance", "sentiments-a-distance"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-14.webp"
+image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 5
 seo:

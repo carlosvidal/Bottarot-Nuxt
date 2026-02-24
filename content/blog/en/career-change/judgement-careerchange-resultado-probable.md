@@ -4,7 +4,7 @@ description: "Discover the message of the Judgement card (Major Arcana 20) in a 
 category: "career-change"
 tags: ["judgement-tarot", "career-change", "major-arcana", "professional-tarot", "major-arcana", "judgement", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

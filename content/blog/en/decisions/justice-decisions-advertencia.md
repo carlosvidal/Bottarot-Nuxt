@@ -4,7 +4,7 @@ description: "Discover the alert message of Justice (Arcana 11) in crucial decis
 category: "decisions"
 tags: ["justice-tarot", "important-decisions-tarot", "major-arcana-11", "tarot-warning", "major-arcana", "justice", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 7
 seo:

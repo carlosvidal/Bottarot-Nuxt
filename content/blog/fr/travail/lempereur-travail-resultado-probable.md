@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Empereur au travail. Analyse du r
 category: "travail"
 tags: ["l-empereur-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot-professionnel", "arcanes-majeurs", "l-empereur", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

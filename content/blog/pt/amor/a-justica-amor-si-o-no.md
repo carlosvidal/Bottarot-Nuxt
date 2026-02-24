@@ -4,7 +4,7 @@ description: "Descubra o significado da carta A Justiça no amor. Aprenda sua me
 category: "amor"
 tags: ["a-justica-tarot-amor", "tarot-amor", "significado-a-justica-no-amor", "arcanos-maiores", "arcanos-maiores", "a-justica", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6
 seo:

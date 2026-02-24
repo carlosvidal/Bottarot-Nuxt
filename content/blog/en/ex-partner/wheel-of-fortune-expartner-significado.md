@@ -4,7 +4,7 @@ description: "Discover the deep meaning of the Wheel of Fortune tarot card in th
 category: "ex-partner"
 tags: ["wheel-of-fortune", "tarot-ex-partner", "tarot-meaning", "major-arcana", "love-and-tarot", "major-arcana", "wheel-of-fortune-tarot", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-10.webp"
+image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6
 seo:

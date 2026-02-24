@@ -4,7 +4,7 @@ description: "Discover the profound meaning of the Judgement tarot card for your
 category: "money"
 tags: ["judgement-tarot", "tarot-money", "meaning-judgement", "major-arcana", "tarot-finances", "major-arcana", "judgement", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

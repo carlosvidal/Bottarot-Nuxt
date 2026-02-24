@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Diabo no contexto de um ex-parce
 category: "ex-parceiro"
 tags: ["o-diabo-tarot", "tarot-ex-parceiro", "arcanos-maiores", "amor-e-tarot", "interpretacao-tarot", "arcanos-maiores", "o-diabo", "ex-parceiro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-15.webp"
+image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 7
 seo:

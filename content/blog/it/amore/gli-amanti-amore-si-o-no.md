@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Gli Amanti nelle consul
 category: "amore"
 tags: ["gli-amanti-tarocchi-amore", "tarocchi-amore", "significato-gli-amanti-in-amore", "gli-amanti-si-o-no", "arcani-maggiori", "gli-amanti", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7
 seo:

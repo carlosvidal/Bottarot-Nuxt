@@ -4,7 +4,7 @@ description: "Découvrez la signification de L'Ermite pour 2026. Un guide sur la
 category: "avenir"
 tags: ["l-ermite", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir", "reflexion"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6
 seo:

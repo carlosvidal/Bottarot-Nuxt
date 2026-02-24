@@ -4,7 +4,7 @@ description: "Descubra o significado da carta O Sol no contexto profissional. Um
 category: "trabalho"
 tags: ["o-sol-tarot", "tarot-trabalho", "significado-o-sol", "arcanos-maiores", "sucesso-profissional", "arcanos-maiores", "o-sol", "trabalho"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

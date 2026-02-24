@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de O Eremita no futuro. Aprenda co
 category: "futuro"
 tags: ["o-eremita-tarot", "tarot-futuro", "significado-o-eremita", "arcanos-maiores", "tarot-guia", "arcanos-maiores", "o-eremita", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

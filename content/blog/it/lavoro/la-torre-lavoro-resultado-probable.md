@@ -4,7 +4,7 @@ description: "Scopri il significato de La Torre nel contesto lavorativo. Impara 
 category: "lavoro"
 tags: ["la-torre-tarocco", "tarocco-lavoro", "arcani-maggiori", "significato-tarocco", "arcani-maggiori", "la-torre", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-16.webp"
+image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

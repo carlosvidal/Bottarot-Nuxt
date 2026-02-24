@@ -4,7 +4,7 @@ description: "Discover the meaning of The Star tarot card in marriage. Find prac
 category: "marriage"
 tags: ["the-star-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "spirituality-couples", "major-arcana", "the-star", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

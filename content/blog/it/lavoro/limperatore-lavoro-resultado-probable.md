@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Imperatore nel lavoro. Analizziamo il r
 category: "lavoro"
 tags: ["l-imperatore-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot-professionale", "arcani-maggiori", "l-imperatore", "lavoro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6
 seo:

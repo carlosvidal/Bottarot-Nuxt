@@ -4,7 +4,7 @@ description: "Scopri il messaggio de L'Eremita nella tua relazione a distanza. U
 category: "relazione-a-distanza"
 tags: ["l-eremita-tarocchi", "relazione-a-distanza", "cosa-prova-per-me", "arcani-maggiori", "tarocchi-emotivo", "arcani-maggiori", "l-eremita", "relazione-a-distanza"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-09.webp"
+image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5
 seo:

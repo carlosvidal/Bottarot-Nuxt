@@ -4,7 +4,7 @@ description: "Scopri il profondo significato della carta Gli Amanti nel contesto
 category: "ex-partner"
 tags: ["gli-amanti", "tarocco-ex", "significato-tarocco", "arcani-maggiori", "amore-e-riconciliazione", "arcani-maggiori", "gli-amanti", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

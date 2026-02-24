@@ -4,7 +4,7 @@ description: "Découvrez la signification profonde de la carte de La Force dans 
 category: "travail"
 tags: ["la-force-tarot", "tarot-travail", "signification-la-force", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-force", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "fr"
 readingTime: 7
 seo:

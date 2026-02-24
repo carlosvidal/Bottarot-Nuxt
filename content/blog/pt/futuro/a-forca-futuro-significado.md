@@ -4,7 +4,7 @@ description: "Descubra o profundo significado de A Força (Arcano 8) em leituras
 category: "futuro"
 tags: ["a-forca-tarot", "significado-tarot", "arcanos-maiores", "futuro-tarot", "arcanos-maiores", "a-forca", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

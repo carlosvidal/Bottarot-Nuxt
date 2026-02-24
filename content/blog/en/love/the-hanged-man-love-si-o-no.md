@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hanged Man in love. Learn to 
 category: "love"
 tags: ["the-hanged-man-tarot-love", "the-hanged-man-yes-or-no", "meaning-the-hanged-man-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-hanged-man", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6
 seo:

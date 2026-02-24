@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de La Luna en el tarot cuando pre
 category: "ex-pareja"
 tags: ["La Luna tarot", "ex pareja volverá mi ex", "significado La Luna", "tarot ex pareja", "arcano mayor", "arcanos-mayores", "la-luna", "ex-pareja"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6
 seo:

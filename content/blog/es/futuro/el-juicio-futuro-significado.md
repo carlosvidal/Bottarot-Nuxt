@@ -4,7 +4,7 @@ description: "Descubre el profundo significado de la carta El Juicio en el futur
 category: "futuro"
 tags: ["El Juicio tarot", "tarot futuro", "significado tarot", "arcanos mayores", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-20.webp"
+image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

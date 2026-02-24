@@ -4,7 +4,7 @@ description: "Scopri il significato de La Stella dei tarocchi nel matrimonio. Tr
 category: "matrimonio"
 tags: ["la-stella-tarocchi", "tarocchi-matrimonio", "consigli-tarocchi", "arcani-maggiori", "spiritualita-di-coppia", "arcani-maggiori", "la-stella", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

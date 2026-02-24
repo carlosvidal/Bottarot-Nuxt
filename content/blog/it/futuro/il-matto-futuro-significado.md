@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de Il Matto nel futuro. Una guida s
 category: "futuro"
 tags: ["il-matto-tarocchi", "significato-tarocchi", "arcani-maggiori", "futuro-tarocchi", "arcani-maggiori", "il-matto", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-00.webp"
+image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "it"
 readingTime: 6
 seo:

@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Empress in a career context. 
 category: "career"
 tags: ["the-empress", "tarot-career", "major-arcana", "tarot-meaning", "work-creativity", "major-arcana", "the-empress", "career"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

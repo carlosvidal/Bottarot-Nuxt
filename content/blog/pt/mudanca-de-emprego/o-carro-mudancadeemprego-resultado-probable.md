@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Carro (Arcano 7) em uma mudança profissi
 category: "mudanca-de-emprego"
 tags: ["o-carro-tarot", "mudanca-de-emprego", "arcanos-maiores", "resultado-provavel-tarot", "arcanos-maiores", "o-carro", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6
 seo:

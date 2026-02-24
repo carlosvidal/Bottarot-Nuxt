@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Force (Arcane 8) dans le domaine
 category: "travail"
 tags: ["la-force-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot-professionnel", "arcanes-majeurs", "la-force", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-08.webp"
+image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

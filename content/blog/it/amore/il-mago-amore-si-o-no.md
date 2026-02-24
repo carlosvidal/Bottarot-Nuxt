@@ -4,7 +4,7 @@ description: "Scopri il significato de Il Mago nell'amore. È un sì o un no? Ti
 category: "amore"
 tags: ["il-mago-tarot-amore", "il-mago-si-o-no", "significato-il-mago-amore", "tarot-amore", "arcani-maggiori", "amore-e-tarot", "arcani-maggiori", "il-mago", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7
 seo:

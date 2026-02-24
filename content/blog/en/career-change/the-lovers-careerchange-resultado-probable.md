@@ -4,7 +4,7 @@ description: "Discover the meaning of The Lovers card in a job change. Interpret
 category: "career-change"
 tags: ["the-lovers", "tarot-career-change", "probable-outcome-tarot", "major-arcana-6", "professional-career-tarot", "major-arcana", "career-change"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6
 seo:

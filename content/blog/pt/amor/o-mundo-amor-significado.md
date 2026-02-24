@@ -4,7 +4,7 @@ description: "Descubra o profundo significado da carta O Mundo no amor. Um arcan
 category: "amor"
 tags: ["o-mundo-tarot-amor", "o-mundo-significado", "tarot-amor", "arcanos-maiores", "o-mundo", "amor"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "pt"
 readingTime: 6
 seo:

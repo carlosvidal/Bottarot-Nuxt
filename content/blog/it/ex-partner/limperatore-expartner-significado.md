@@ -4,7 +4,7 @@ description: "Scopri il profondo significato de L'Imperatore nel contesto 'torne
 category: "ex-partner"
 tags: ["l-imperatore-tarocco", "significato-tarocco-ex-partner", "tarocco-ex-tornera", "arcano-maggiore-4", "arcani-maggiori", "l-imperatore", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5
 seo:

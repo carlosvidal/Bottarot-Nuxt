@@ -4,7 +4,7 @@ description: "Descubre el significado de El Emperador en el futuro. Aprende cóm
 category: "futuro"
 tags: ["El Emperador", "tarot futuro", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-emperador", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__futuro-significado.webp"
 locale: "es"
 readingTime: 5
 seo:

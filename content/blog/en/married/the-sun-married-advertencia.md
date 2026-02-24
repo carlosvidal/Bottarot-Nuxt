@@ -4,7 +4,7 @@ description: "Discover the meaning of The Sun tarot card in the context of marri
 category: "married"
 tags: ["the-sun-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "marriage-tarot", "major-arcana", "the-sun", "married"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "en"
 readingTime: 5
 seo:

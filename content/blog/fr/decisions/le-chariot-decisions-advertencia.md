@@ -4,7 +4,7 @@ description: "Découvrez le message d'avertissement du Chariot (Arcane 7) dans l
 category: "decisions"
 tags: ["le-chariot-tarot", "decisions-importantes-tarot", "arcane-majeur-7", "avertissement-tarot", "arcanes-majeurs", "le-chariot", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-07.webp"
+image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

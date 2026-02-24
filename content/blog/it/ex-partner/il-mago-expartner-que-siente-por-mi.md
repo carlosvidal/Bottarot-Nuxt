@@ -4,7 +4,7 @@ description: "Scopri il significato della carta Il Mago nel contesto di un ex pa
 category: "ex-partner"
 tags: ["il-mago-tarot", "tarot-ex-partner", "significato-il-mago", "cosa-sente-il-mio-ex", "arcani-maggiori", "arcani-maggiori", "il-mago", "ex-partner"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
 seo:

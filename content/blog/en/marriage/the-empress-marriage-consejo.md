@@ -4,7 +4,7 @@ description: "Discover The Empress's advice for your marriage. Learn how to nurt
 category: "marriage"
 tags: ["the-empress", "marriage-tarot", "tarot-advice", "major-arcana", "creativity-in-relationships", "major-arcana", "the-empress", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 5
 seo:

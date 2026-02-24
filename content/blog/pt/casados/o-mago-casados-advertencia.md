@@ -4,7 +4,7 @@ description: "Descubra o significado de O Mago no contexto do casamento. Um guia
 category: "casados"
 tags: ["o-mago-tarot", "tarot-se-sou-casado", "advertencia-tarot", "arcanos-maiores", "conselhos-tarot", "arcanos-maiores", "o-mago", "casados"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-01.webp"
+image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5
 seo:

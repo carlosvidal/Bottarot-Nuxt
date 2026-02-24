@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Sun tarot card for money. Upr
 category: "money"
 tags: ["the-sun-tarot", "tarot-money", "the-sun-meaning", "major-arcana", "abundance-tarot", "major-arcana", "the-sun", "money"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-19.webp"
+image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "en"
 readingTime: 6
 seo:

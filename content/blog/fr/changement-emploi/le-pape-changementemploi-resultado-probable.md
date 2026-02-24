@@ -4,7 +4,7 @@ description: "Découvrez la signification du Pape dans un changement de travail.
 category: "changement-emploi"
 tags: ["le-pape", "tarot-changement-emploi", "arcane-majeur-5", "resultat-probable-tarot", "arcanes-majeurs", "changement-d-emploi"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

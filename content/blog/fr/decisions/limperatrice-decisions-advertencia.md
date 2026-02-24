@@ -4,7 +4,7 @@ description: "Découvrez le message d'alerte de L'Impératrice dans les décisio
 category: "decisions"
 tags: ["l-imperatrice", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "symbolisme-tarot", "arcanes-majeurs", "l-imperatrice", "decisions"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6
 seo:

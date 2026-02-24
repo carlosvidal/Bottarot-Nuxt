@@ -4,7 +4,7 @@ description: "Discover the meaning of The World card for 2026. Explore its energ
 category: "future"
 tags: ["the-world-tarot", "tarot-2026", "major-arcana", "tarot-prediction", "major-arcana", "the-world", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-21.webp"
+image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "en"
 readingTime: 5
 seo:

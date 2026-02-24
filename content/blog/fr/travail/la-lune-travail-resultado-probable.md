@@ -4,7 +4,7 @@ description: "Découvrez la signification de La Lune dans le tarot pour le trava
 category: "travail"
 tags: ["la-lune-tarot-travail", "la-lune-resultat-probable", "signification-la-lune-travail", "tarot-travail", "arcanes-majeurs", "la-lune", "travail"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-18.webp"
+image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6
 seo:

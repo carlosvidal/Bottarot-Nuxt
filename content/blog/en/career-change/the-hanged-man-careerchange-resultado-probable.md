@@ -4,7 +4,7 @@ description: "Discover the message of The Hanged Man in a job transition. Learn 
 category: "career-change"
 tags: ["the-hanged-man-tarot", "career-change", "major-arcana", "tarot-career", "probable-outcome", "major-arcana", "the-hanged-man", "career-transition"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5
 seo:

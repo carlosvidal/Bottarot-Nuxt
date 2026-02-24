@@ -4,7 +4,7 @@ description: "Descubre el mensaje del Arcano Mayor El Emperador para 2026. Explo
 category: "futuro"
 tags: ["El Emperador", "tarot 2026", "predicción tarot", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-emperador", "futuro"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-04.webp"
+image: "https://images.freetarot.fun/blog/el-emperador__2026-prediccion.webp"
 locale: "es"
 readingTime: 6
 seo:

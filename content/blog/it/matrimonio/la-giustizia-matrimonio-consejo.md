@@ -4,7 +4,7 @@ description: "Scopri il profondo consiglio della carta La Giustizia per il tuo m
 category: "matrimonio"
 tags: ["la-giustizia-tarot", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "equilibrio-relazione", "arcani-maggiori", "la-giustizia", "matrimonio"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-11.webp"
+image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6
 seo:

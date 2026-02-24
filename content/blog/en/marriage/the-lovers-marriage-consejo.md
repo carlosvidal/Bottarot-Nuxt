@@ -4,7 +4,7 @@ description: "Discover the profound guidance of The Lovers card for your marriag
 category: "marriage"
 tags: ["the-lovers", "marriage-tarot", "tarot-guidance", "major-arcana", "love-and-relationships", "major-arcana", "the-lovers-card", "marriage"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-06.webp"
+image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6
 seo:

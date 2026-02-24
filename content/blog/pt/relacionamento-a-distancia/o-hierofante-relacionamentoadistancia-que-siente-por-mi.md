@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Hierofante para seu relacionamento à dis
 category: "relacionamento-a-distancia"
 tags: ["o-hierofante-tarot", "relacionamento-a-distancia-tarot", "o-que-sente-por-mim-tarot", "arcanos-maiores", "arcanos-maiores", "o-hierofante", "relacionamento-a-distancia"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-05.webp"
+image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 5
 seo:

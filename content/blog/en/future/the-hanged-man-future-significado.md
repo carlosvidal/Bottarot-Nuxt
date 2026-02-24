@@ -4,7 +4,7 @@ description: "Discover the profound meaning of The Hanged Man in the future. Lea
 category: "future"
 tags: ["the-hanged-man", "future-tarot", "major-arcana", "tarot-meaning", "major-arcana", "the-hanged-man", "future"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "en"
 readingTime: 5
 seo:

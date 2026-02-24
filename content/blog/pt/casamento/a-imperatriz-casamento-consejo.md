@@ -4,7 +4,7 @@ description: "Descubra o conselho de A Imperatriz para seu casamento. Aprenda a 
 category: "casamento"
 tags: ["a-imperatriz", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "criatividade-a-dois", "arcanos-maiores", "a-imperatriz", "casamento"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6
 seo:

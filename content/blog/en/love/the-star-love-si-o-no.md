@@ -4,7 +4,7 @@ description: "Discover the meaning of The Star in love. A deep guide on hope, he
 category: "love"
 tags: ["the-star-tarot", "tarot-love", "major-arcana", "tarot-yes-or-no", "tarot-meaning", "major-arcana", "the-star", "love"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-17.webp"
+image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7
 seo:

@@ -4,7 +4,7 @@ description: "Scopri il significato de L'Imperatrice nell'amore. Una guida appro
 category: "amore"
 tags: ["l-imperatrice-tarot-amore", "l-imperatrice-si-o-no", "significato-l-imperatrice-amore", "tarot-amore", "arcani-maggiori", "amore-e-tarot", "arcani-maggiori", "l-imperatrice", "amore"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-03.webp"
+image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6
 seo:

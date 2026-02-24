@@ -4,7 +4,7 @@ description: "Descubra a mensagem de O Enforcado em uma mudança profissional. A
 category: "mudanca-de-emprego"
 tags: ["o-enforcado-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-laboral", "resultado-proval", "arcanos-maiores", "o-enforcado", "mudanca-de-emprego"]
 publishedAt: "2026-02-22"
-image: "/img/Trumps-12.webp"
+image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5
 seo:
