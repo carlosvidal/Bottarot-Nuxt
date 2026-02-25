@@ -1,15 +1,14 @@
 /**
- * Composable for Google Analytics event tracking (SSR-safe)
+ * Composable for Google Analytics event tracking (SSR-safe).
+ * Uses nuxt-gtag under the hood — gtag is loaded by the module
+ * and consent is managed via Google Consent Mode v2 + vanilla-cookieconsent.
  */
 export function useAnalytics() {
-  const isGtagAvailable = () => {
-    if (!import.meta.client) return false
-    return typeof window !== 'undefined' && typeof window.gtag === 'function'
-  }
+  const { gtag } = useGtag()
 
   const trackEvent = (eventName: string, eventParams: Record<string, any> = {}) => {
-    if (!isGtagAvailable()) return
-    window.gtag('event', eventName, eventParams)
+    if (!import.meta.client) return
+    gtag('event', eventName, eventParams)
   }
 
   // Auth
@@ -34,7 +33,7 @@ export function useAnalytics() {
       plan,
       currency: 'USD',
       value,
-      items: [{ item_id: plan, item_name: `${plan} subscription`, price: value, quantity: 1 }]
+      items: [{ item_id: plan, item_name: `${plan} subscription`, price: value, quantity: 1 }],
     })
   }
   const trackUpgradePromptView = (source = '') => trackEvent('upgrade_prompt_view', { source })
@@ -53,8 +52,8 @@ export function useAnalytics() {
 
   // Navigation
   const trackPageView = (pagePath = '', pageTitle = '') => {
-    if (!isGtagAvailable()) return
-    window.gtag('event', 'page_view', { page_path: pagePath, page_title: pageTitle })
+    if (!import.meta.client) return
+    gtag('event', 'page_view', { page_path: pagePath, page_title: pageTitle })
   }
 
   // Errors
@@ -68,6 +67,6 @@ export function useAnalytics() {
     trackWeeklyLimitReached, trackWeeklyLimitModalView, trackUpgradeFromLimit,
     trackFirstReading, trackProfileComplete, trackLanguageChange,
     trackGeolocationGranted, trackGeolocationDenied,
-    trackPageView, trackError, trackEvent
+    trackPageView, trackError, trackEvent,
   }
 }

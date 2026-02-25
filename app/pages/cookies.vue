@@ -1,127 +1,134 @@
 <template>
   <div class="legal-container">
     <div class="content">
-      <h1>Políticas de Cookies</h1>
-      <p class="update-date">Última actualización: 6 de Febrero de 2026</p>
+      <h1>{{ t('legal.cookies.title') }}</h1>
+      <p class="update-date">{{ t('legal.cookies.lastUpdated') }}</p>
 
-      <p>Esta página describe qué son las cookies y cómo las utilizamos en Free Tarot Fun (freetarot.fun).</p>
+      <p>{{ t('legal.cookies.intro') }}</p>
 
-      <h2>¿Qué son las Cookies?</h2>
-      <p>Una cookie es un pequeño archivo que pide permiso para ser colocado en el disco duro de tu ordenador. Una vez que aceptas, el archivo se añade y la cookie ayuda a analizar el tráfico web o te permite saber cuándo visitas un sitio en particular.</p>
+      <h2>{{ t('legal.cookies.s1Title') }}</h2>
+      <p>{{ t('legal.cookies.s1p1') }}</p>
 
-      <h2>Cómo Usamos las Cookies</h2>
-      <p>Utilizamos cookies de registro de tráfico para identificar qué páginas se están utilizando. Esto nos ayuda a analizar datos sobre el tráfico de la página web y mejorar nuestro sitio para adaptarlo a las necesidades del cliente. Solo utilizamos esta información para fines de análisis estadístico.</p>
-      <p>En general, las cookies nos ayudan a ofrecerte un mejor sitio web, al permitirnos supervisar qué páginas encuentras útiles y cuáles no. Una cookie de ninguna manera nos da acceso a tu ordenador o a cualquier información sobre ti, aparte de los datos que eliges compartir con nosotros.</p>
+      <h2>{{ t('legal.cookies.s2Title') }}</h2>
+      <p>{{ t('legal.cookies.s2p1') }}</p>
+      <p>{{ t('legal.cookies.s2p2') }}</p>
 
-      <h2>Cookies que Utilizamos</h2>
+      <h2>{{ t('legal.cookies.s3Title') }}</h2>
 
-      <h3>Cookies Estrictamente Necesarias</h3>
-      <p>Estas cookies son esenciales para el funcionamiento del sitio y no pueden ser desactivadas:</p>
+      <h3>{{ t('legal.cookies.s3necessaryTitle') }}</h3>
+      <p>{{ t('legal.cookies.s3necessaryIntro') }}</p>
       <table class="cookies-table">
         <thead>
           <tr>
-            <th>Nombre</th>
-            <th>Proveedor</th>
-            <th>Propósito</th>
-            <th>Duración</th>
+            <th>{{ t('legal.cookies.s3tName') }}</th>
+            <th>{{ t('legal.cookies.s3tProvider') }}</th>
+            <th>{{ t('legal.cookies.s3tPurpose') }}</th>
+            <th>{{ t('legal.cookies.s3tDuration') }}</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>cc_cookie</td>
-            <td>Free Tarot Fun</td>
-            <td>Almacena tus preferencias de cookies</td>
-            <td>6 meses</td>
+            <td>{{ t('legal.cookies.s3n1Name') }}</td>
+            <td>{{ t('legal.cookies.s3n1Provider') }}</td>
+            <td>{{ t('legal.cookies.s3n1Purpose') }}</td>
+            <td>{{ t('legal.cookies.s3n1Duration') }}</td>
           </tr>
           <tr>
-            <td>sb-*-auth-token</td>
-            <td>Supabase (autenticación)</td>
-            <td>Mantiene tu sesión de usuario iniciada</td>
-            <td>1 semana</td>
+            <td>{{ t('legal.cookies.s3n2Name') }}</td>
+            <td>{{ t('legal.cookies.s3n2Provider') }}</td>
+            <td>{{ t('legal.cookies.s3n2Purpose') }}</td>
+            <td>{{ t('legal.cookies.s3n2Duration') }}</td>
           </tr>
           <tr>
-            <td>sb-*-auth-token-code-verifier</td>
-            <td>Supabase (autenticación)</td>
-            <td>Seguridad del proceso de autenticación</td>
-            <td>Sesión</td>
+            <td>{{ t('legal.cookies.s3n3Name') }}</td>
+            <td>{{ t('legal.cookies.s3n3Provider') }}</td>
+            <td>{{ t('legal.cookies.s3n3Purpose') }}</td>
+            <td>{{ t('legal.cookies.s3n3Duration') }}</td>
           </tr>
         </tbody>
       </table>
 
-      <h3>Cookies Analíticas (Opcional - Requiere Consentimiento)</h3>
-      <p>Estas cookies nos ayudan a entender cómo utilizas el sitio y solo se activan con tu consentimiento:</p>
+      <h3>{{ t('legal.cookies.s3analyticsTitle') }}</h3>
+      <p>{{ t('legal.cookies.s3analyticsIntro') }}</p>
       <table class="cookies-table">
         <thead>
           <tr>
-            <th>Nombre</th>
-            <th>Proveedor</th>
-            <th>Propósito</th>
-            <th>Duración</th>
+            <th>{{ t('legal.cookies.s3tName') }}</th>
+            <th>{{ t('legal.cookies.s3tProvider') }}</th>
+            <th>{{ t('legal.cookies.s3tPurpose') }}</th>
+            <th>{{ t('legal.cookies.s3tDuration') }}</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>_ga</td>
-            <td>Google Analytics</td>
-            <td>Identifica visitantes únicos de forma anónima</td>
-            <td>2 años</td>
+            <td>{{ t('legal.cookies.s3a1Name') }}</td>
+            <td>{{ t('legal.cookies.s3a1Provider') }}</td>
+            <td>{{ t('legal.cookies.s3a1Purpose') }}</td>
+            <td>{{ t('legal.cookies.s3a1Duration') }}</td>
           </tr>
           <tr>
-            <td>_gid</td>
-            <td>Google Analytics</td>
-            <td>Identifica visitantes únicos de forma anónima</td>
-            <td>24 horas</td>
+            <td>{{ t('legal.cookies.s3a2Name') }}</td>
+            <td>{{ t('legal.cookies.s3a2Provider') }}</td>
+            <td>{{ t('legal.cookies.s3a2Purpose') }}</td>
+            <td>{{ t('legal.cookies.s3a2Duration') }}</td>
           </tr>
           <tr>
-            <td>_gat_gtag_*</td>
-            <td>Google Analytics</td>
-            <td>Limita la frecuencia de solicitudes</td>
-            <td>1 minuto</td>
+            <td>{{ t('legal.cookies.s3a3Name') }}</td>
+            <td>{{ t('legal.cookies.s3a3Provider') }}</td>
+            <td>{{ t('legal.cookies.s3a3Purpose') }}</td>
+            <td>{{ t('legal.cookies.s3a3Duration') }}</td>
           </tr>
         </tbody>
       </table>
 
-      <h2>Almacenamiento Local (localStorage)</h2>
-      <p>Además de cookies, utilizamos el almacenamiento local de tu navegador para mejorar tu experiencia:</p>
+      <h2>{{ t('legal.cookies.s4Title') }}</h2>
+      <p>{{ t('legal.cookies.s4intro') }}</p>
       <ul>
-        <li><strong>Preferencia de idioma:</strong> Para recordar tu idioma preferido (español o inglés)</li>
-        <li><strong>Datos de geolocalización:</strong> Para personalizar las lecturas según tu ubicación (solo si lo autorizas)</li>
+        <li>{{ t('legal.cookies.s4i1') }}</li>
+        <li>{{ t('legal.cookies.s4i2') }}</li>
       </ul>
 
-      <h2>Gestionar tus Preferencias de Cookies</h2>
-      <p>Puedes cambiar tus preferencias de cookies en cualquier momento haciendo clic en el botón a continuación:</p>
-      <button class="cookie-settings-button" @click="showCookieSettings">Gestionar Cookies</button>
+      <h2>{{ t('legal.cookies.s5Title') }}</h2>
+      <p>{{ t('legal.cookies.s5intro') }}</p>
+      <button class="cookie-settings-button" @click="showCookieSettings">{{ t('legal.cookies.s5button') }}</button>
 
-      <h2>Cómo Desactivar las Cookies</h2>
-      <p>Puedes configurar tu navegador para que rechace todas las cookies o para que te avise cuando se envía una cookie. Sin embargo, si lo haces, es posible que algunas partes del sitio no funcionen correctamente.</p>
-      <p>Para más información sobre cómo gestionar las cookies en tu navegador:</p>
+      <h2>{{ t('legal.cookies.s6Title') }}</h2>
+      <p>{{ t('legal.cookies.s6intro') }}</p>
+      <p>{{ t('legal.cookies.s6p2') }}</p>
       <ul>
         <li><a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener">Chrome</a></li>
-        <li><a href="https://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-" target="_blank" rel="noopener">Firefox</a></li>
-        <li><a href="https://support.apple.com/es-es/guide/safari/sfri11471/mac" target="_blank" rel="noopener">Safari</a></li>
-        <li><a href="https://support.microsoft.com/es-es/microsoft-edge/eliminar-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" target="_blank" rel="noopener">Edge</a></li>
+        <li><a href="https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer" target="_blank" rel="noopener">Firefox</a></li>
+        <li><a href="https://support.apple.com/guide/safari/sfri11471/mac" target="_blank" rel="noopener">Safari</a></li>
+        <li><a href="https://support.microsoft.com/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" target="_blank" rel="noopener">Edge</a></li>
       </ul>
 
-      <h2>Más Información</h2>
-      <p>Si tienes preguntas sobre nuestra política de cookies, consulta también nuestra <NuxtLink to="/privacy">Política de Privacidad</NuxtLink> o <NuxtLink to="/terms">Términos y Condiciones</NuxtLink>.</p>
+      <h2>{{ t('legal.cookies.s7Title') }}</h2>
+      <p>
+        {{ t('legal.cookies.s7p1') }}
+        <NuxtLink :to="localePath('/privacy')">{{ t('legal.privacy.title') }}</NuxtLink> /
+        <NuxtLink :to="localePath('/terms')">{{ t('legal.terms.title') }}</NuxtLink>.
+      </p>
 
-      <NuxtLink to="/" class="back-button">Volver al Inicio</NuxtLink>
+      <NuxtLink :to="localePath('/')" class="back-button">{{ t('legal.cookies.backButton') }}</NuxtLink>
     </div>
   </div>
 </template>
 
 <script setup>
 definePageMeta({ layout: 'default' })
+
+const { t } = useI18n()
+const localePath = useLocalePath()
+
 useSeoMeta({
-  title: 'Políticas de Cookies | Free Tarot Fun',
-  description: 'Conoce qué cookies utiliza Free Tarot Fun, cómo las usamos y cómo gestionar tus preferencias.',
+  title: t('legal.cookies.seoTitle'),
+  description: t('legal.cookies.seoDescription'),
 })
 
+const { $cookieConsent } = useNuxtApp()
 const showCookieSettings = () => {
-  // Cookie consent utility will be fully migrated in Phase 3
-  // For now, inform the user
-  if (import.meta.client) {
-    alert('Cookie preferences management will be available soon.')
+  if (import.meta.client && $cookieConsent) {
+    $cookieConsent.showPreferences()
   }
 }
 </script>

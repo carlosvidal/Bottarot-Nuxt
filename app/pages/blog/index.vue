@@ -1,9 +1,9 @@
 <template>
   <div class="blog-page">
     <div class="blog-hero">
-      <h1 class="blog-hero-title">Tarot Blog</h1>
+      <h1 class="blog-hero-title">{{ t('seo.blog.heroTitle') }}</h1>
       <p class="blog-hero-subtitle">
-        Explore the wisdom of tarot. Learn card meanings, spreads, and spiritual guidance.
+        {{ t('seo.blog.heroSubtitle') }}
       </p>
     </div>
 
@@ -48,15 +48,32 @@ definePageMeta({
   layout: 'default',
 })
 
-useSeoMeta({
-  title: 'Tarot Blog - Card Meanings, Spreads & Guides | Free Tarot Fun',
-  description: 'Explore our tarot blog. Learn card meanings, tarot spreads, spiritual guidance, and get free AI-powered tarot readings.',
-  ogTitle: 'Tarot Blog | Free Tarot Fun',
-  ogDescription: 'Learn card meanings, spreads, and spiritual guidance.',
-  ogType: 'website',
+const { t, locale } = useI18n()
+const localePath = useLocalePath()
+const config = useRuntimeConfig()
+const siteUrl = config.public.siteUrl || 'https://freetarot.fun'
+const localePrefix = locale.value === 'en' ? '' : `/${locale.value}`
+const canonicalUrl = `${siteUrl}${localePrefix}/blog`
+
+useHead({
+  link: [
+    { rel: 'canonical', href: canonicalUrl },
+  ],
 })
 
-const { locale } = useI18n()
+useSeoMeta({
+  title: t('seo.blog.title'),
+  description: t('seo.blog.description'),
+  ogTitle: t('seo.blog.title'),
+  ogDescription: t('seo.blog.description'),
+  ogUrl: canonicalUrl,
+  ogImage: `${siteUrl}/og-image.png`,
+  ogType: 'website',
+  twitterCard: 'summary_large_image',
+  twitterTitle: t('seo.blog.title'),
+  twitterDescription: t('seo.blog.description'),
+  twitterImage: `${siteUrl}/og-image.png`,
+})
 
 const selectedCategory = ref('')
 

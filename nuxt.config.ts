@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'nuxt-schema-org',
     '@pinia/nuxt',
+    'nuxt-gtag',
   ],
 
   // Runtime config (replaces VITE_ env vars)
@@ -33,7 +34,7 @@ export default defineNuxtConfig({
   // App head
   app: {
     head: {
-      htmlAttrs: { lang: 'en' },
+      // lang attribute is managed by @nuxtjs/i18n module automatically
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         {
@@ -58,11 +59,31 @@ export default defineNuxtConfig({
     // Blog: pre-rendered at build time (SSG)
     '/blog/**': { prerender: true },
     '/blog': { prerender: true },
+    '/es/blog/**': { prerender: true },
+    '/es/blog': { prerender: true },
+    '/it/blog/**': { prerender: true },
+    '/it/blog': { prerender: true },
+    '/pt/blog/**': { prerender: true },
+    '/pt/blog': { prerender: true },
+    '/fr/blog/**': { prerender: true },
+    '/fr/blog': { prerender: true },
 
-    // Legal pages: pre-rendered
+    // Legal pages: pre-rendered (all locales)
     '/terms': { prerender: true },
     '/privacy': { prerender: true },
     '/cookies': { prerender: true },
+    '/es/terms': { prerender: true },
+    '/es/privacy': { prerender: true },
+    '/es/cookies': { prerender: true },
+    '/it/terms': { prerender: true },
+    '/it/privacy': { prerender: true },
+    '/it/cookies': { prerender: true },
+    '/pt/terms': { prerender: true },
+    '/pt/privacy': { prerender: true },
+    '/pt/cookies': { prerender: true },
+    '/fr/terms': { prerender: true },
+    '/fr/privacy': { prerender: true },
+    '/fr/cookies': { prerender: true },
 
     // Landing pages: SSR for fresh meta tags
     '/': { ssr: true },
@@ -115,6 +136,9 @@ export default defineNuxtConfig({
 
   // Sitemap
   sitemap: {
+    sources: [
+      '/api/__sitemap__/blog-images',
+    ],
     exclude: [
       '/chat/**',
       '/chat',
@@ -146,5 +170,36 @@ export default defineNuxtConfig({
       url: 'https://freetarot.fun',
       description: 'Free AI-powered tarot readings online',
     },
+  },
+
+  // Netlify deployment preset + prerendering
+  nitro: {
+    preset: 'netlify',
+    prerender: {
+      // Crawl NuxtLink elements found in prerendered pages to discover blog articles
+      crawlLinks: true,
+      // Seed routes: blog indexes (each renders ~300 NuxtLinks to articles)
+      routes: [
+        '/blog',
+        '/es/blog',
+        '/it/blog',
+        '/pt/blog',
+        '/fr/blog',
+      ],
+    },
+  },
+
+  // Google Analytics (loaded only after cookie consent)
+  gtag: {
+    id: 'G-VBKPYRPLW1',
+    initCommands: [
+      ['consent', 'default', {
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        ad_storage: 'denied',
+        analytics_storage: 'denied',
+        wait_for_update: 500,
+      }],
+    ],
   },
 })

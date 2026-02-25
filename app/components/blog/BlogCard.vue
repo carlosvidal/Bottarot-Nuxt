@@ -35,7 +35,10 @@ const { locale } = useI18n()
 const localePath = useLocalePath()
 
 const postUrl = computed(() => {
-  const stem = props.post.stem || props.post.path || ''
+  // post.path already includes the correct locale prefix (e.g., /blog/career/slug or /es/blog/career/slug)
+  if (props.post.path) return props.post.path
+  // Fallback: extract slug from stem
+  const stem = props.post.stem || ''
   const slug = stem.split('/').pop() || props.post.slug || ''
   return localePath(`/blog/${slug}`)
 })

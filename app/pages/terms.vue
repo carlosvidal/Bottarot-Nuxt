@@ -1,161 +1,165 @@
 <template>
   <div class="legal-container">
     <div class="content">
-      <h1>Términos y Condiciones</h1>
-      <p class="update-date">Última actualización: 6 de Febrero de 2026</p>
+      <h1>{{ t('legal.terms.title') }}</h1>
+      <p class="update-date">{{ t('legal.terms.lastUpdated') }}</p>
 
-      <p>Bienvenido a Free Tarot Fun (freetarot.fun). Al acceder y utilizar nuestro servicio, aceptas cumplir y estar sujeto a los siguientes términos y condiciones de uso, que junto con nuestra <NuxtLink to="/privacy">Política de Privacidad</NuxtLink> y <NuxtLink to="/cookies">Política de Cookies</NuxtLink> gobiernan la relación de Free Tarot Fun contigo en relación a este sitio web.</p>
+      <p>{{ t('legal.terms.intro') }}</p>
 
-      <h2>1. Uso del Servicio</h2>
-      <p>Free Tarot Fun es un servicio de entretenimiento que ofrece lecturas de tarot generadas por inteligencia artificial. El contenido de las páginas de este sitio web es para tu información general y uso exclusivo. Está sujeto a cambios sin previo aviso.</p>
-      <p>El uso de cualquier información o material en este sitio web es bajo tu propio riesgo, para lo cual no seremos responsables. Será tu propia responsabilidad asegurar que cualquier producto, servicio o información disponible a través de este sitio web cumpla con tus requisitos específicos.</p>
-      <p><strong>Las lecturas de tarot proporcionadas por este servicio son únicamente para fines de entretenimiento y autoexploración. No deben considerarse como consejo profesional, médico, legal, financiero o psicológico.</strong></p>
+      <h2>{{ t('legal.terms.s1Title') }}</h2>
+      <p>{{ t('legal.terms.s1p1') }}</p>
+      <p>{{ t('legal.terms.s1p2') }}</p>
+      <p><strong>{{ t('legal.terms.s1p3') }}</strong></p>
 
-      <h2>2. Planes y Pagos</h2>
-      <p>Ofrecemos diferentes planes de acceso:</p>
+      <h2>{{ t('legal.terms.s2Title') }}</h2>
+      <p>{{ t('legal.terms.s2intro') }}</p>
       <ul>
-        <li><strong>Plan Gratuito:</strong> 1 lectura por día, historial limitado, 5 revelaciones de futuro.</li>
-        <li><strong>Ritual de Iniciación ($1 USD):</strong> 7 días de acceso completo, lecturas ilimitadas, futuro siempre visible.</li>
-        <li><strong>Pase Mensual ($8 USD):</strong> 30 días de acceso completo.</li>
-        <li><strong>Pase Anual ($64 USD):</strong> 365 días de acceso completo con el mejor valor (ahorro del 33%).</li>
+        <li><strong>{{ t('legal.terms.s2free') }}</strong></li>
+        <li><strong>{{ t('legal.terms.s2trial') }}</strong></li>
+        <li><strong>{{ t('legal.terms.s2monthly') }}</strong></li>
+        <li><strong>{{ t('legal.terms.s2annual') }}</strong></li>
       </ul>
-      <p>Los pagos se procesan de forma segura a través de PayPal. No almacenamos información de tarjetas de crédito en nuestros servidores.</p>
-      <p><strong>Pagos únicos:</strong> Todos nuestros planes de pago son compras únicas (no son suscripciones con renovación automática). Al finalizar el período de tu plan, volverás automáticamente al plan gratuito a menos que realices una nueva compra.</p>
-      <p><strong>Sin renovación automática:</strong> No realizamos cargos automáticos. Siempre tendrás el control total sobre cuándo y si deseas renovar tu acceso premium.</p>
+      <p>{{ t('legal.terms.s2p1') }}</p>
+      <p><strong>{{ t('legal.terms.s2p2') }}</strong></p>
+      <p><strong>{{ t('legal.terms.s2p3') }}</strong></p>
 
-      <h2>3. Política de Reembolsos</h2>
-      <p>Ofrecemos reembolsos bajo las siguientes condiciones:</p>
+      <h2>{{ t('legal.terms.s3Title') }}</h2>
+      <p>{{ t('legal.terms.s3intro') }}</p>
       <ul>
-        <li>Solicitudes realizadas dentro de los primeros 7 días desde la compra.</li>
-        <li>No aplicable si ya has utilizado significativamente el servicio (más de 10 lecturas).</li>
-        <li>Los reembolsos se procesan a través del método de pago original.</li>
+        <li>{{ t('legal.terms.s3r1') }}</li>
+        <li>{{ t('legal.terms.s3r2') }}</li>
+        <li>{{ t('legal.terms.s3r3') }}</li>
       </ul>
-      <p>Para solicitar un reembolso, contacta a <a href="mailto:support@freetarot.fun">support@freetarot.fun</a> indicando tu email de registro y motivo de la solicitud.</p>
+      <p>{{ t('legal.terms.s3refund') }}</p>
 
-      <h2>4. Programa de Referidos</h2>
-      <p>Nuestro programa de referidos te permite ganar recompensas al invitar amigos:</p>
+      <h2>{{ t('legal.terms.s4Title') }}</h2>
+      <p>{{ t('legal.terms.s4intro') }}</p>
       <ul>
-        <li><strong>Usuarios gratuitos:</strong> Ganan 5 lecturas extra por cada amigo que se registre y complete su primera lectura.</li>
-        <li><strong>Usuarios Premium:</strong> Ganan días adicionales de suscripción según su plan:
+        <li><strong>{{ t('legal.terms.s4free') }}</strong></li>
+        <li><strong>{{ t('legal.terms.s4premium') }}</strong>
           <ul>
-            <li>Plan Trial ($1): +1 día</li>
-            <li>Plan Mensual ($8): +8 días</li>
-            <li>Plan Anual: +30 días</li>
+            <li>{{ t('legal.terms.s4premiumTrial') }}</li>
+            <li>{{ t('legal.terms.s4premiumMonthly') }}</li>
+            <li>{{ t('legal.terms.s4premiumAnnual') }}</li>
           </ul>
         </li>
       </ul>
-      <p><strong>Condiciones del programa:</strong></p>
+      <p><strong>{{ t('legal.terms.s4conditionsTitle') }}</strong></p>
       <ul>
-        <li>No puedes referirte a ti mismo ni crear cuentas falsas.</li>
-        <li>El referido debe completar su primera lectura para que se active la recompensa.</li>
-        <li>Nos reservamos el derecho de suspender cuentas que abusen del sistema.</li>
-        <li>Podemos modificar o cancelar el programa en cualquier momento.</li>
+        <li>{{ t('legal.terms.s4c1') }}</li>
+        <li>{{ t('legal.terms.s4c2') }}</li>
+        <li>{{ t('legal.terms.s4c3') }}</li>
+        <li>{{ t('legal.terms.s4c4') }}</li>
       </ul>
 
-      <h2>5. Uso de Inteligencia Artificial</h2>
-      <p>Nuestras interpretaciones de tarot son generadas utilizando modelos de inteligencia artificial avanzados (OpenAI). Es importante que entiendas lo siguiente:</p>
+      <h2>{{ t('legal.terms.s5Title') }}</h2>
+      <p>{{ t('legal.terms.s5intro') }}</p>
       <ul>
-        <li>Las interpretaciones son generadas automáticamente y no provienen de un tarotista humano.</li>
-        <li>El contenido tiene fines de entretenimiento, reflexión personal y autoconocimiento.</li>
-        <li><strong>Las lecturas NO constituyen:</strong>
+        <li>{{ t('legal.terms.s5i1') }}</li>
+        <li>{{ t('legal.terms.s5i2') }}</li>
+        <li><strong>{{ t('legal.terms.s5i3') }}</strong>
           <ul>
-            <li>Consejo médico o de salud mental</li>
-            <li>Asesoramiento legal o financiero</li>
-            <li>Predicciones del futuro garantizadas</li>
-            <li>Sustituto de ayuda profesional</li>
+            <li>{{ t('legal.terms.s5i3a') }}</li>
+            <li>{{ t('legal.terms.s5i3b') }}</li>
+            <li>{{ t('legal.terms.s5i3c') }}</li>
+            <li>{{ t('legal.terms.s5i3d') }}</li>
           </ul>
         </li>
-        <li>Si necesitas ayuda profesional, consulta con expertos certificados en el área correspondiente.</li>
+        <li>{{ t('legal.terms.s5i4') }}</li>
       </ul>
 
-      <h2>6. Contenido Generado</h2>
-      <p>Respecto a las lecturas y contenido generado:</p>
+      <h2>{{ t('legal.terms.s6Title') }}</h2>
+      <p>{{ t('legal.terms.s6intro') }}</p>
       <ul>
-        <li>Las lecturas que recibes son tuyas para uso personal.</li>
-        <li>Puedes compartir tus lecturas a través de nuestra función de compartir. Las lecturas compartidas son anónimas.</li>
-        <li>Al usar nuestro servicio, nos otorgas una licencia para utilizar el contenido de las preguntas (de forma anónima y agregada) para mejorar nuestros servicios.</li>
-        <li>No compartimos ni vendemos tus preguntas o lecturas individuales a terceros.</li>
+        <li>{{ t('legal.terms.s6i1') }}</li>
+        <li>{{ t('legal.terms.s6i2') }}</li>
+        <li>{{ t('legal.terms.s6i3') }}</li>
+        <li>{{ t('legal.terms.s6i4') }}</li>
       </ul>
 
-      <h2>7. Restricciones de Edad y Uso</h2>
-      <p><strong>Edad mínima:</strong> Debes tener al menos 18 años para usar este servicio. Al registrarte, confirmas que cumples con este requisito.</p>
-      <p><strong>Usos prohibidos:</strong> No puedes usar este servicio para:</p>
+      <h2>{{ t('legal.terms.s7Title') }}</h2>
+      <p><strong>{{ t('legal.terms.s7age') }}</strong></p>
+      <p><strong>{{ t('legal.terms.s7prohibited') }}</strong></p>
       <ul>
-        <li>Actividades ilegales o fraudulentas</li>
-        <li>Crear cuentas falsas o múltiples para abusar del sistema</li>
-        <li>Intentar acceder a cuentas de otros usuarios</li>
-        <li>Realizar ingeniería inversa del servicio</li>
-        <li>Enviar spam o contenido malicioso</li>
-        <li>Acosar o perjudicar a otros usuarios</li>
+        <li>{{ t('legal.terms.s7p1') }}</li>
+        <li>{{ t('legal.terms.s7p2') }}</li>
+        <li>{{ t('legal.terms.s7p3') }}</li>
+        <li>{{ t('legal.terms.s7p4') }}</li>
+        <li>{{ t('legal.terms.s7p5') }}</li>
+        <li>{{ t('legal.terms.s7p6') }}</li>
       </ul>
 
-      <h2>8. Limitación de Responsabilidad</h2>
-      <p>El servicio se proporciona "tal cual" y "según disponibilidad". No garantizamos que:</p>
+      <h2>{{ t('legal.terms.s8Title') }}</h2>
+      <p>{{ t('legal.terms.s8intro') }}</p>
       <ul>
-        <li>El servicio estará disponible de forma ininterrumpida</li>
-        <li>Las lecturas serán precisas o aplicables a tu situación</li>
-        <li>Los resultados cumplirán tus expectativas específicas</li>
+        <li>{{ t('legal.terms.s8i1') }}</li>
+        <li>{{ t('legal.terms.s8i2') }}</li>
+        <li>{{ t('legal.terms.s8i3') }}</li>
       </ul>
-      <p>En la máxima medida permitida por la ley aplicable:</p>
+      <p>{{ t('legal.terms.s8liability') }}</p>
       <ul>
-        <li>No seremos responsables de daños directos, indirectos, incidentales o consecuentes derivados del uso del servicio.</li>
-        <li>Nuestra responsabilidad total se limita al monto que hayas pagado por el servicio en los últimos 12 meses.</li>
-        <li>No somos responsables de decisiones que tomes basándote en las lecturas.</li>
-      </ul>
-
-      <h2>9. Terminación de Cuenta</h2>
-      <p><strong>Por el usuario:</strong> Puedes eliminar tu cuenta en cualquier momento desde tu perfil o contactándonos. Al eliminar tu cuenta:</p>
-      <ul>
-        <li>Se cancelará cualquier suscripción activa (sin reembolso del período actual)</li>
-        <li>Tu historial de lecturas será eliminado en un plazo de 30 días</li>
-        <li>Tu código de referido dejará de funcionar</li>
-      </ul>
-      <p><strong>Por nosotros:</strong> Nos reservamos el derecho de suspender o terminar cuentas que:</p>
-      <ul>
-        <li>Violen estos términos y condiciones</li>
-        <li>Realicen actividades fraudulentas</li>
-        <li>Abusen del sistema de referidos</li>
-        <li>Perjudiquen a otros usuarios o al servicio</li>
+        <li>{{ t('legal.terms.s8l1') }}</li>
+        <li>{{ t('legal.terms.s8l2') }}</li>
+        <li>{{ t('legal.terms.s8l3') }}</li>
       </ul>
 
-      <h2>10. Modificaciones a los Términos</h2>
-      <p>Nos reservamos el derecho de modificar estos términos en cualquier momento. Cuando realicemos cambios significativos:</p>
+      <h2>{{ t('legal.terms.s9Title') }}</h2>
+      <p><strong>{{ t('legal.terms.s9byUser') }}</strong></p>
       <ul>
-        <li>Te notificaremos por email o mediante un aviso en el sitio</li>
-        <li>Los cambios entrarán en vigor 30 días después de la notificación</li>
-        <li>El uso continuado del servicio después de los cambios implica tu aceptación</li>
+        <li>{{ t('legal.terms.s9u1') }}</li>
+        <li>{{ t('legal.terms.s9u2') }}</li>
+        <li>{{ t('legal.terms.s9u3') }}</li>
       </ul>
-      <p>Si no estás de acuerdo con los nuevos términos, puedes cancelar tu cuenta antes de que entren en vigor.</p>
+      <p><strong>{{ t('legal.terms.s9byUs') }}</strong></p>
+      <ul>
+        <li>{{ t('legal.terms.s9b1') }}</li>
+        <li>{{ t('legal.terms.s9b2') }}</li>
+        <li>{{ t('legal.terms.s9b3') }}</li>
+        <li>{{ t('legal.terms.s9b4') }}</li>
+      </ul>
 
-      <h2>11. Ley Aplicable y Jurisdicción</h2>
-      <p>Estos términos se rigen por las leyes de la República del Perú, incluyendo la Ley N° 29733 (Ley de Protección de Datos Personales) y su Reglamento (Decreto Supremo N.º 016-2024-JUS), que es compatible con el Reglamento General de Protección de Datos (GDPR) de la Unión Europea.</p>
-      <p>Para usuarios de la Unión Europea, garantizamos el cumplimiento del GDPR en lo que respecta al tratamiento de sus datos personales.</p>
-      <p>Para resolver cualquier disputa, intentaremos primero una solución amistosa. Si no es posible, las disputas se someterán a los tribunales competentes de Lima, Perú.</p>
+      <h2>{{ t('legal.terms.s10Title') }}</h2>
+      <p>{{ t('legal.terms.s10intro') }}</p>
+      <ul>
+        <li>{{ t('legal.terms.s10i1') }}</li>
+        <li>{{ t('legal.terms.s10i2') }}</li>
+        <li>{{ t('legal.terms.s10i3') }}</li>
+      </ul>
+      <p>{{ t('legal.terms.s10outro') }}</p>
 
-      <h2>12. Contacto</h2>
-      <p>Si tienes preguntas sobre estos términos, puedes contactarnos en:</p>
+      <h2>{{ t('legal.terms.s11Title') }}</h2>
+      <p>{{ t('legal.terms.s11p1') }}</p>
+      <p>{{ t('legal.terms.s11p2') }}</p>
+      <p>{{ t('legal.terms.s11p3') }}</p>
+
+      <h2>{{ t('legal.terms.s12Title') }}</h2>
+      <p>{{ t('legal.terms.s12intro') }}</p>
       <ul>
         <li>Email: <a href="mailto:support@freetarot.fun">support@freetarot.fun</a></li>
       </ul>
 
       <div class="related-links">
-        <p>Consulta también:</p>
+        <p>{{ t('legal.terms.relatedTitle') }}</p>
         <ul>
-          <li><NuxtLink to="/privacy">Política de Privacidad</NuxtLink></li>
-          <li><NuxtLink to="/cookies">Política de Cookies</NuxtLink></li>
+          <li><NuxtLink :to="localePath('/privacy')">{{ t('legal.terms.relatedPrivacy') }}</NuxtLink></li>
+          <li><NuxtLink :to="localePath('/cookies')">{{ t('legal.terms.relatedCookies') }}</NuxtLink></li>
         </ul>
       </div>
 
-      <NuxtLink to="/" class="back-button">Volver al Inicio</NuxtLink>
+      <NuxtLink :to="localePath('/')" class="back-button">{{ t('legal.terms.backButton') }}</NuxtLink>
     </div>
   </div>
 </template>
 
 <script setup>
 definePageMeta({ layout: 'default' })
+
+const { t } = useI18n()
+const localePath = useLocalePath()
+
 useSeoMeta({
-  title: 'Términos y Condiciones | Free Tarot Fun',
-  description: 'Términos y condiciones de uso de Free Tarot Fun. Conoce las reglas de uso, planes de pago, política de reembolsos y más.',
+  title: t('legal.terms.seoTitle'),
+  description: t('legal.terms.seoDescription'),
 })
 </script>
 

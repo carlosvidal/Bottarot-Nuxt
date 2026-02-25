@@ -3,20 +3,36 @@ definePageMeta({
   layout: 'default',
 })
 
-const { t } = useI18n()
+const { t, locale } = useI18n()
+const config = useRuntimeConfig()
+const siteUrl = config.public.siteUrl || 'https://freetarot.fun'
+const localePrefix = locale.value === 'en' ? '' : `/${locale.value}`
+const canonicalUrl = `${siteUrl}${localePrefix}`
+
+useHead({
+  link: [
+    { rel: 'canonical', href: canonicalUrl },
+  ],
+})
 
 useSeoMeta({
   title: t('seo.landing.title'),
   description: t('seo.landing.description'),
   ogTitle: t('seo.landing.title'),
   ogDescription: t('seo.landing.description'),
+  ogUrl: canonicalUrl,
+  ogImage: `${siteUrl}/og-image.png`,
   ogType: 'website',
+  twitterCard: 'summary_large_image',
+  twitterTitle: t('seo.landing.title'),
+  twitterDescription: t('seo.landing.description'),
+  twitterImage: `${siteUrl}/og-image.png`,
 })
 
 useSchemaOrg([
   defineWebSite({
     name: 'Free Tarot Fun',
-    url: 'https://freetarot.fun',
+    url: siteUrl,
     description: t('seo.landing.description'),
   }),
 ])

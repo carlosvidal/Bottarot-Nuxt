@@ -3,6 +3,7 @@ const route = useRoute()
 const config = useRuntimeConfig()
 const { t } = useI18n()
 const API_URL = config.public.apiUrl
+const SITE_URL = config.public.siteUrl || 'https://freetarot.fun'
 
 // Fetch shared reading data (SSR-compatible via useFetch)
 const { data: sharedData, error, status } = await useFetch(
@@ -17,20 +18,45 @@ const sharedReadings = computed(() => {
 })
 
 const sharedTitle = computed(() => {
-    if (!sharedData.value) return 'Shared Tarot Reading'
-    return sharedData.value.title || 'Shared Tarot Reading'
+    return sharedData.value?.share?.title || 'Shared Tarot Reading'
+})
+
+const sharedDescription = computed(() => {
+    return sharedData.value?.share?.interpretation_summary || 'A tarot reading shared from Free Tarot Fun'
+})
+
+const sharedImage = computed(() => {
+    return sharedData.value?.share?.preview_image_url || `${SITE_URL}/og-share-default.jpg`
+})
+
+const shareUrl = computed(() => {
+    return `${SITE_URL}/shared/${route.params.shareId}`
 })
 
 // SEO meta tags (works on server for SSR)
 useSeoMeta({
-    title: () => sharedTitle.value,
-    ogTitle: () => sharedTitle.value,
-    description: 'A tarot reading shared from Free Tarot Fun',
-    ogDescription: 'A tarot reading shared from Free Tarot Fun',
+    title: () => `${sharedTitle.value} | Free Tarot Fun`,
+    ogTitle: () => `${sharedTitle.value} | Free Tarot Fun`,
+    description: () => sharedDescription.value,
+    ogDescription: () => sharedDescription.value,
+    ogImage: () => sharedImage.value,
+    ogImageWidth: 1200,
+    ogImageHeight: 630,
+    ogUrl: () => shareUrl.value,
+    ogType: 'article',
+    ogSiteName: 'Free Tarot Fun',
+    ogLocale: 'es_ES',
+    twitterCard: 'summary_large_image',
+    twitterTitle: () => `${sharedTitle.value} | Free Tarot Fun`,
+    twitterDescription: () => sharedDescription.value,
+    twitterImage: () => sharedImage.value,
+    robots: 'index, follow',
 })
 
 useHead({
-    title: () => sharedTitle.value,
+    link: [
+        { rel: 'canonical', href: shareUrl.value },
+    ],
 })
 </script>
 

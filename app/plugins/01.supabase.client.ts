@@ -14,10 +14,12 @@ export default defineNuxtPlugin(() => {
   const supabaseAnonKey = config.public.supabaseAnonKey as string
 
   if (!supabaseUrl || !supabaseAnonKey) {
-    console.error('❌ Supabase configuration is missing. Check NUXT_PUBLIC_SUPABASE_URL and NUXT_PUBLIC_SUPABASE_ANON_KEY.')
+    console.warn('⚠️ Supabase configuration is missing. Check NUXT_PUBLIC_SUPABASE_URL and NUXT_PUBLIC_SUPABASE_ANON_KEY.')
+    // Provide null so the app doesn't crash on pages that don't need auth
+    return { provide: { supabase: null } }
   }
 
-  const supabase = createClient(supabaseUrl || '', supabaseAnonKey || '', {
+  const supabase = createClient(supabaseUrl, supabaseAnonKey, {
     auth: {
       storage: localStorage,
       autoRefreshToken: true,

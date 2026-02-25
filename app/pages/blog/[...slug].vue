@@ -66,28 +66,52 @@ definePageMeta({
 })
 
 const route = useRoute()
-const slug = route.params.slug
 const { locale } = useI18n()
 const localePath = useLocalePath()
+const config = useRuntimeConfig()
+const siteUrl = config.public.siteUrl || 'https://freetarot.fun'
 
-const { data: post } = await useAsyncData(`blog-${locale.value}-${slug}`, () =>
+// Catch-all route: params.slug is an array like ['career', 'the-fool-meaning']
+const slugParts = Array.isArray(route.params.slug) ? route.params.slug : [route.params.slug]
+const slugKey = slugParts.join('/')
+const localePrefix = locale.value === 'en' ? '' : `/${locale.value}`
+const contentPath = `${localePrefix}/blog/${slugKey}`
+
+const { data: post } = await useAsyncData(`blog-${contentPath}`, () =>
   queryBlogCollection(locale.value)
-    .where('stem', 'LIKE', `%${slug}%`)
+    .where('path', '=', contentPath)
     .first()
 , { watch: [locale] })
 
 // SEO meta
+const canonicalUrl = computed(() => post.value?.path ? `${siteUrl}${post.value.path}` : '')
+
 if (post.value) {
+  const title = post.value.seo?.title || post.value.title
+  const description = post.value.seo?.description || post.value.description
+  const image = post.value.seo?.ogImage || post.value.image
+
+  useHead({
+    link: [
+      { rel: 'canonical', href: canonicalUrl.value },
+    ],
+  })
+
   useSeoMeta({
-    title: post.value.seo?.title || post.value.title,
-    description: post.value.seo?.description || post.value.description,
-    ogTitle: post.value.seo?.title || post.value.title,
-    ogDescription: post.value.seo?.description || post.value.description,
-    ogImage: post.value.seo?.ogImage || post.value.image,
+    title,
+    description,
+    ogTitle: title,
+    ogDescription: description,
+    ogImage: image,
+    ogUrl: canonicalUrl.value,
     ogType: 'article',
     articlePublishedTime: post.value.publishedAt,
     articleModifiedTime: post.value.updatedAt || post.value.publishedAt,
     articleTag: post.value.tags,
+    twitterCard: 'summary_large_image',
+    twitterTitle: title,
+    twitterDescription: description,
+    twitterImage: image,
   })
 
   useSchemaOrg([
@@ -105,12 +129,12 @@ if (post.value) {
   ])
 }
 
-// Related posts
-const { data: relatedPosts } = await useAsyncData(`related-${locale.value}-${slug}`, () => {
+// Related posts: match same category, exclude current post
+const { data: relatedPosts } = await useAsyncData(`related-${contentPath}`, () => {
   if (!post.value?.category) return Promise.resolve([])
   return queryBlogCollection(locale.value)
     .where('category', '=', post.value.category)
-    .where('stem', 'NOT LIKE', `%${slug}%`)
+    .where('path', '<>', contentPath)
     .limit(3)
     .all()
 }, { watch: [locale] })

@@ -23,10 +23,30 @@ const blogSchema = z.object({
 
 export default defineContentConfig({
   collections: {
-    blog_en: defineCollection({ source: 'blog/en/**', type: 'page', schema: blogSchema }),
-    blog_es: defineCollection({ source: 'blog/es/**', type: 'page', schema: blogSchema }),
-    blog_it: defineCollection({ source: 'blog/it/**', type: 'page', schema: blogSchema }),
-    blog_pt: defineCollection({ source: 'blog/pt/**', type: 'page', schema: blogSchema }),
-    blog_fr: defineCollection({ source: 'blog/fr/**', type: 'page', schema: blogSchema }),
+    blog_en: defineCollection({
+      source: { include: 'blog/en/**', prefix: '/blog' },
+      type: 'page',
+      schema: blogSchema,
+    }),
+    blog_es: defineCollection({
+      source: { include: 'blog/es/**', prefix: '/es/blog' },
+      type: 'page',
+      schema: blogSchema,
+    }),
+    blog_it: defineCollection({
+      source: { include: 'blog/it/**', prefix: '/it/blog' },
+      type: 'page',
+      schema: blogSchema,
+    }),
+    blog_pt: defineCollection({
+      source: { include: 'blog/pt/**', prefix: '/pt/blog' },
+      type: 'page',
+      schema: blogSchema,
+    }),
+    blog_fr: defineCollection({
+      source: { include: 'blog/fr/**', prefix: '/fr/blog' },
+      type: 'page',
+      schema: blogSchema,
+    }),
   },
 })
