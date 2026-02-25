@@ -3,7 +3,7 @@ title: "El Juicio en Matrimonio: Consejos para Renacer Juntos"
 description: "Descubre el significado de la carta El Juicio en el contexto del matrimonio. Encuentra consejos prácticos para la reflexión, el perdón y el renacimiento en pareja."
 category: "matrimonio"
 tags: ["El Juicio tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-11"
 image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7

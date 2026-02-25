@@ -3,7 +3,7 @@ title: "O Eremita em Decisões Importantes: Um Alerta e uma Precaução"
 description: "Descubra a mensagem de alerta de O Eremita em decisões cruciais. Aprenda a reconhecer os sinais e proteger sua energia interior."
 category: "decisoes"
 tags: ["o-eremita", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "conselho-espiritual", "arcanos-maiores", "o-eremita", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-14"
 image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

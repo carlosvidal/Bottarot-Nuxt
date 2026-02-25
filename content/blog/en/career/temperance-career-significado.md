@@ -3,7 +3,7 @@ title: "Temperance at Work: Tarot Meaning and Guide for Career Harmony"
 description: "Discover the profound meaning of the Temperance tarot card in a career context. Learn about balance, patience, and how to integrate its healing energy into your professional life."
 category: "career"
 tags: ["temperance-tarot", "tarot-career", "tarot-meaning", "major-arcana", "work-balance", "major-arcana", "temperance", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-27"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

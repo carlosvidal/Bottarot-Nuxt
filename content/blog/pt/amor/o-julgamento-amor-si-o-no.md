@@ -3,7 +3,7 @@ title: "O Julgamento no Amor: É um Sim ou um Não? Reflexão e Renascimento"
 description: "Descubra o significado da carta O Julgamento no amor. Um guia profundo sobre sua mensagem de reflexão, perdão e a resposta matizada para sua pergunta de sim ou não."
 category: "amor"
 tags: ["o-julgamento-tarot-amor", "o-julgamento-sim-ou-nao", "significado-o-julgamento-no-amor", "tarot-amor", "arcanos-maiores", "renascimento-amoroso", "arcanos-maiores", "o-julgamento", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-11"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6

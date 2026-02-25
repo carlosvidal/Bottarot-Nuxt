@@ -3,7 +3,7 @@ title: "La Torre en decisiones importantes: advertencia del tarot"
 description: "Descubre el significado de La Torre en decisiones cruciales. Una guía para reconocer señales de alerta y evitar rupturas súbitas en tu camino."
 category: "decisiones"
 tags: ["la torre tarot", "decisiones importantes tarot", "arcanos mayores", "advertencia tarot", "tarot guía espiritual", "arcanos-mayores", "la-torre", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-05"
 image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

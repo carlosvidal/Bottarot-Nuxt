@@ -3,7 +3,7 @@ title: "Strength in a Career Change: Probable Outcome and Guiding Energies"
 description: "Discover the message of the Strength card (Major Arcana 8) in a career change. Interpretation, probable outcome, and practical advice to navigate this transition with inner courage."
 category: "career-change"
 tags: ["strength-tarot", "career-change-tarot", "major-arcana", "tarot-career", "probable-outcome-tarot", "major-arcana", "strength", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-14"
 image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

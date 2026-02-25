@@ -3,7 +3,7 @@ title: "Il Giudizio nei Soldi: Significato di Rinascita Finanziaria"
 description: "Scopri il profondo significato della carta Il Giudizio nel tarocco per la tua economia. Un invito alla riflessione, al perdono e alla rinascita finanziaria."
 category: "denaro"
 tags: ["il-giudizio-tarocchi", "tarocchi-denaro", "significato-il-giudizio", "arcani-maggiori", "finanze-tarocchi", "arcani-maggiori", "il-giudizio", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-16"
 image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "it"
 readingTime: 5

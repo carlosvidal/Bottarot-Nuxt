@@ -3,7 +3,7 @@ title: "Il Giudizio nell'Amore: Significato di Rinascita e Perdono"
 description: "Scopri il profondo significato della carta Il Giudizio in amore. Una chiamata al risveglio, alla riflessione onesta e alla guarigione dei legami."
 category: "amore"
 tags: ["il-giudizio-tarocchi", "tarocchi-amore", "arcani-maggiori", "significato-tarocchi", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-17"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "it"
 readingTime: 6

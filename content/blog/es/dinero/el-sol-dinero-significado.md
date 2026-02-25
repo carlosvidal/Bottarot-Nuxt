@@ -3,7 +3,7 @@ title: "El Sol en el Tarot: Significado en Dinero y Abundancia"
 description: "Descubre el profundo significado de la carta El Sol en el tarot para el dinero. Interpretación al derecho e invertida, consejos prácticos y reflexión sobre la abundancia."
 category: "dinero"
 tags: ["El Sol tarot", "tarot dinero", "significado El Sol", "arcanos mayores", "abundancia tarot", "arcanos-mayores", "el-sol", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-11"
 image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "es"
 readingTime: 6

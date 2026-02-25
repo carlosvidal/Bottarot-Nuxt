@@ -3,7 +3,7 @@ title: "Le Jugement en Argent : Signification de la Renaissance Financière"
 description: "Découvrez la signification profonde de la carte du Jugement dans le tarot pour vos finances. Un appel à la réflexion, au pardon et à la renaissance financière."
 category: "argent"
 tags: ["le-jugement-tarot", "tarot-argent", "signification-le-jugement", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-jugement", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-26"
 image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "fr"
 readingTime: 5

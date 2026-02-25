@@ -3,7 +3,7 @@ title: "Temperance and Your Ex: What They Feel According to Tarot"
 description: "Discover the message of the Temperance card regarding an ex-partner. Interpret feelings of balance, patience, and healing in your past relationship."
 category: "ex-partner"
 tags: ["temperance-tarot", "tarot-ex-partner", "what-does-my-ex-feel", "major-arcana", "emotional-tarot", "major-arcana", "temperance", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-02"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

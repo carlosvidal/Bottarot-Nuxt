@@ -3,7 +3,7 @@ title: "The Tower at Work: Meaning and Probable Outcome in Tarot"
 description: "Discover the meaning of The Tower in a career context. Learn the probable outcome this card suggests and how to navigate sudden, transformative changes."
 category: "career"
 tags: ["the-tower-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana", "the-tower", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-18"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Temperance in Love: Balance and Patience in Relationships"
 description: "Discover the profound meaning of the Temperance card in love. Learn about balance, moderation, and the emotional alchemy proposed by this major arcana."
 category: "love"
 tags: ["temperance-tarot-love", "temperance-meaning", "tarot-love", "major-arcana", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-03"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "en"
 readingTime: 5

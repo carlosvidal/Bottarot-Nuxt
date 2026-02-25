@@ -3,7 +3,7 @@ title: "Wheel of Fortune in Love: Meaning and Destiny's Cycles"
 description: "Discover the profound meaning of the Wheel of Fortune in love. Learn how destiny's cycles influence relationships, connections, and emotional transformations."
 category: "love"
 tags: ["wheel-of-fortune", "love-tarot", "major-arcana", "tarot-meaning", "love-cycles", "major-arcana", "wheel-of-fortune", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-12"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-significado.webp"
 locale: "en"
 readingTime: 5

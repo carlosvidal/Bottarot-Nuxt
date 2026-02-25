@@ -3,7 +3,7 @@ title: "The Empress at Work: Probable Outcome and Abundance"
 description: "Discover the meaning of The Empress in the workplace. Interpretation, practical advice, and the energy of probable outcome for your career."
 category: "career"
 tags: ["the-empress-tarot-work", "tarot-work", "the-empress-meaning-work", "major-arcana", "major-arcana-cards", "the-empress", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-18"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

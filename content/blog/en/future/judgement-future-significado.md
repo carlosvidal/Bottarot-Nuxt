@@ -3,7 +3,7 @@ title: "Judgement in the Future: Meaning of Rebirth and Calling"
 description: "Discover the profound meaning of the Judgement card in the future. An analysis of its symbolism of reflection, forgiveness, and rebirth on your path."
 category: "future"
 tags: ["judgement-tarot", "future-tarot", "tarot-meaning", "major-arcana", "spiritual-rebirth", "major-arcana", "judgement", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-12"
 image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "en"
 readingTime: 5

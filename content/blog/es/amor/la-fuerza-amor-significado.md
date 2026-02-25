@@ -3,7 +3,7 @@ title: "La Fuerza en el Amor: Significado y Simbolismo del Arcano Mayor"
 description: "Descubre el profundo significado de la carta La Fuerza en el amor. Aprende sobre su simbolismo de valor interior, paciencia y conexión auténtica en las relaciones."
 category: "amor"
 tags: ["La Fuerza tarot", "tarot amor", "significado La Fuerza", "Arcanos Mayores", "amor y tarot", "arcanos-mayores", "la-fuerza", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-01"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-significado.webp"
 locale: "es"
 readingTime: 6

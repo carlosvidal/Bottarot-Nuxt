@@ -3,7 +3,7 @@ title: "A Estrela no Casamento: Advertências e Proteção Energética"
 description: "Descubra a mensagem de advertência do tarot A Estrela se você é casado. Aprenda a reconhecer sinais e proteger sua união com sabedoria espiritual."
 category: "casados"
 tags: ["a-estrela-tarot", "tarot-se-sou-casado", "advertencia-tarot", "arcanos-maiores", "protecao-energetica", "arcanos-maiores", "a-estrela", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-08"
 image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

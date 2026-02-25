@@ -3,7 +3,7 @@ title: "La Templanza y el Ex: Significado en Tarot para Reconexiones"
 description: "Descubre el profundo significado de La Templanza en el tarot cuando surge la pregunta '¿mi ex volverá?'. Aprende sobre equilibrio, paciencia y sanación."
 category: "ex-pareja"
 tags: ["La Templanza tarot", "ex pareja volverá mi ex", "significado tarot", "arcanos mayores", "tarot amor", "arcanos-mayores", "la-templanza", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-22"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

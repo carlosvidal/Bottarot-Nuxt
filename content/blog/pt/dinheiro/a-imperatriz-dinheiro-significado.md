@@ -3,7 +3,7 @@ title: "A Imperatriz e o Dinheiro: Significado de Abundância e Criatividade"
 description: "Descubra o profundo significado de A Imperatriz do tarô no contexto do dinheiro. Abundância, fertilidade criativa e manifestação material."
 category: "dinheiro"
 tags: ["a-imperatriz", "tarô-dinheiro", "significado-tarô", "arcanos-maiores", "abundância", "arcanos-maiores", "a-imperatriz", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-14"
 image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "pt"
 readingTime: 5

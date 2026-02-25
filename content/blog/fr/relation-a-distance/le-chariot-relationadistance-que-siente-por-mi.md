@@ -3,7 +3,7 @@ title: "Le Chariot en relation à distance : Ce qu'il ressent pour vous"
 description: "Découvrez la signification du Chariot dans le tarot pour les relations à distance. Interprétez les sentiments, l'énergie et les intentions projetés par l'autre personne."
 category: "relation-a-distance"
 tags: ["le-chariot-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "tarot-amour", "arcanes-majeurs", "le-chariot", "amour-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-10"
 image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

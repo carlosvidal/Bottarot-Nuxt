@@ -3,7 +3,7 @@ title: "The Empress in the Future: Meaning of Abundance and Creation"
 description: "Discover the profound meaning of The Empress in the future. An analysis of Major Arcana #3 on creativity, fertility, and the manifestation of your projects."
 category: "future"
 tags: ["the-empress", "future-tarot", "major-arcana", "tarot-meaning", "major-arcana-cards", "empress", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-23"
 image: "https://images.freetarot.fun/blog/la-emperatriz__futuro-significado.webp"
 locale: "en"
 readingTime: 6

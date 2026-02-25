@@ -3,7 +3,7 @@ title: "Il Giudizio nel Tarocchi: Significa che il tuo ex tornerà?"
 description: "Scopri il profondo significato della carta Il Giudizio nel contesto di un ex partner. Non è una predizione, ma un invito alla rinascita personale."
 category: "ex-partner"
 tags: ["il-giudizio-tarocchi", "significato-il-giudizio", "tarocchi-ex-partner", "arcani-maggiori", "rinascita-emotiva", "arcani-maggiori", "il-giudizio", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-27"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

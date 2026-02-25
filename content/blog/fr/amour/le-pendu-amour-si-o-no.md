@@ -3,7 +3,7 @@ title: "Le Pendu en Amour : Un Oui ou un Non ? Signification et Conseils"
 description: "Découvrez la signification profonde du Pendu en amour. Apprenez à interpréter son message de suspension et de sacrifice pour votre vie affective."
 category: "amour"
 tags: ["le-pendu-tarot-amour", "le-pendu-oui-ou-non", "signification-le-pendu-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-tarot", "arcanes-majeurs", "le-pendu", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-19"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

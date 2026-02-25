@@ -3,7 +3,7 @@ title: "Le Soleil et l'Ex-Partenaire : Ses Sentiments et leur Signification"
 description: "Découvrez le message du Soleil en tarot concernant votre ex-partenaire. Apprenez quels sentiments et quelle énergie il/elle projette selon cet arcane de joie et de réussite."
 category: "ex-partenaire"
 tags: ["le-soleil-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcane-majeur", "le-soleil", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-19"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Temperança no trabalho: equilíbrio e resultado provável"
 description: "Descubra o significado de A Temperança no contexto profissional. Interpretação direta e invertida, conselhos práticos e reflexão sobre o resultado provável."
 category: "trabalho"
 tags: ["a-temperanca-tarot-trabalho", "a-temperanca-resultado-provavel", "significado-a-temperanca-no-trabalho", "tarot-trabalho", "arcanos-maiores", "equilibrio-profissional", "arcanos-maiores", "a-temperanca", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-29"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

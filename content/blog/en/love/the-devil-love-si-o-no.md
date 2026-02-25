@@ -3,7 +3,7 @@ title: "The Devil in Love: Is It a Yes or a No? Tarot Meaning"
 description: "Discover the deep meaning of The Devil card in love. A guide on temptations, attachments, and the nuanced answer to your yes or no question."
 category: "love"
 tags: ["the-devil-tarot-love", "the-devil-yes-or-no", "the-devil-meaning-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana", "the-devil", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-19"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

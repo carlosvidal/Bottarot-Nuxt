@@ -3,7 +3,7 @@ title: "Le Jugement dans le Mariage : Avertissements et Réflexions du Tarot"
 description: "Découvrez la signification de la carte Le Jugement dans le contexte du mariage. Un guide sur ses avertissements, les schémas à éviter et la protection énergétique."
 category: "maries"
 tags: ["le-jugement-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "interpretation-tarot", "arcanes-majeurs", "le-jugement", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-12"
 image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

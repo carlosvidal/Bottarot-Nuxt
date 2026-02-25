@@ -3,7 +3,7 @@ title: "El Sol en el Amor: Significado de Alegría y Conexión Auténtica"
 description: "Descubre el profundo significado de la carta El Sol en el amor. Una guía sobre alegría, autenticidad y la luz que ilumina las relaciones."
 category: "amor"
 tags: ["El Sol tarot", "tarot amor", "arcanos mayores", "significado tarot", "amor y tarot", "arcanos-mayores", "el-sol", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-19"
 image: "https://images.freetarot.fun/blog/el-sol__amor-significado.webp"
 locale: "es"
 readingTime: 5

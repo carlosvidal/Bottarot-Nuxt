@@ -3,7 +3,7 @@ title: "A Temperança em decisões importantes: advertência e equilíbrio"
 description: "Descubra a mensagem de advertência de A Temperança em decisões cruciais. Aprenda a reconhecer sinais de desequilíbrio e como proteger sua energia."
 category: "decisoes"
 tags: ["a-temperanca-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "equilibrio-espiritual", "advertencia-tarot", "arcanos-maiores", "a-temperanca", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-02"
 image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5

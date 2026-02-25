@@ -3,7 +3,7 @@ title: "The Devil Tarot and Money: Meaning of Material Temptation"
 description: "Discover the profound meaning of The Devil tarot card in relation to money. Learn about materialism, financial bondage, and the path to liberation."
 category: "money"
 tags: ["the-devil-tarot", "tarot-money", "tarot-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-devil", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-08"
 image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "en"
 readingTime: 6

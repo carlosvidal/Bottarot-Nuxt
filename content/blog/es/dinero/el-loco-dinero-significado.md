@@ -3,7 +3,7 @@ title: "El Loco en Dinero: Significado de Nuevos Comienzos Financieros"
 description: "Descubre el profundo significado de la carta El Loco del tarot en el contexto del dinero. Aprende sobre nuevos comienzos, riesgos calculados y la energía de la oportunidad."
 category: "dinero"
 tags: ["El Loco tarot", "tarot dinero", "significado El Loco", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-loco", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-05"
 image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "es"
 readingTime: 6

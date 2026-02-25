@@ -3,7 +3,7 @@ title: "La Papesse dans les Décisions : Avertissement et Sagesse Intérieure"
 description: "Découvrez le message d'avertissement de La Papesse pour les décisions importantes. Apprenez à reconnaître les signes et à protéger votre énergie."
 category: "decisions"
 tags: ["la-papesse-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "intuition-tarot", "avertissement-tarot", "arcanes-majeurs", "la-papesse", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-15"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

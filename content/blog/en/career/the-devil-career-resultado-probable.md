@@ -3,7 +3,7 @@ title: "The Devil at Work: Probable Outcome and Energies"
 description: "Discover the meaning of The Devil card in a career context. Interpret its energy to understand trends and probable outcomes in your professional life."
 category: "career"
 tags: ["the-devil-tarot-work", "the-devil-probable-outcome", "the-devil-meaning-work", "tarot-career", "major-arcana", "career-tarot", "major-arcana", "the-devil", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-28"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

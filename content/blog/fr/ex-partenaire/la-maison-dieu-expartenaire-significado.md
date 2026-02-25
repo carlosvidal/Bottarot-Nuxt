@@ -3,7 +3,7 @@ title: "La Maison Dieu dans le Tarot : Signification sur le retour d'un ex-parte
 description: "Découvrez la signification profonde de La Maison Dieu dans le contexte du retour d'un ex. Un guide réflexif sur les révélations et les changements soudains."
 category: "ex-partenaire"
 tags: ["la-maison-dieu-tarot", "ex-partenaire-retour", "signification-la-maison-dieu", "tarot-ex-partenaire", "arcanes-majeurs", "arcanes-majeurs", "la-maison-dieu", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-04"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

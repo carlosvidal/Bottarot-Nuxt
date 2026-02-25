@@ -3,7 +3,7 @@ title: "Justice in a Career Change: Balance and the Likely Outcome"
 description: "Discover the meaning of the Justice card in a job change. We analyze its energy of balance, truth, and the likely outcome it suggests for your professional path."
 category: "career-change"
 tags: ["justice-tarot", "career-change", "major-arcana", "tarot-career", "major-arcana", "justice", "job-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-24"
 image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

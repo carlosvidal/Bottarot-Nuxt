@@ -3,7 +3,7 @@ title: "A Morte no Tarot: Um Alerta para Decisões Importantes"
 description: "Descubra a mensagem de alerta da carta A Morte (Arcano 13) em decisões cruciais. Aprenda a reconhecer os sinais de transformação forçada e como navegar por esses ciclos."
 category: "decisoes"
 tags: ["a-morte-tarot", "decisoes-importantes-tarot", "arcano-maior-13", "transformacao-tarot", "alerta-tarot", "arcanos-maiores", "a-morte", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-27"
 image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

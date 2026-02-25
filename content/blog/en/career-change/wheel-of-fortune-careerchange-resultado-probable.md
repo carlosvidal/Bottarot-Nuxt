@@ -3,7 +3,7 @@ title: "Wheel of Fortune in a Career Change: Probable Outcome"
 description: "Discover the meaning of the Wheel of Fortune in a job change. Interpretation, practical advice, and how to navigate this cycle of transformation."
 category: "career-change"
 tags: ["wheel-of-fortune", "tarot-career-change", "major-arcana", "probable-outcome-tarot", "career-tarot", "major-arcana", "wheel-of-fortune", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-18"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

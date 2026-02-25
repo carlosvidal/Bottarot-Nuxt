@@ -3,7 +3,7 @@ title: "Gli Amanti nel Cambio Lavoro: Risultato Probabile"
 description: "Scopri il significato della carta Gli Amanti in un cambio di lavoro. Interpretazione, consigli pratici e l'energia di risultato probabile portata da questo arcano maggiore."
 category: "cambio-lavoro"
 tags: ["gli-amanti", "tarot-cambio-lavoro", "risultato-probabile-tarot", "arcano-maggiore-6", "tarot-carriera-professionale", "arcani-maggiori", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-08"
 image: "https://images.freetarot.fun/blog/los-enamorados__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

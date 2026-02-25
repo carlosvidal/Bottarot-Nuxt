@@ -3,7 +3,7 @@ title: "La Justicia en Cambio de Trabajo: Equilibrio y Resultado Probable"
 description: "Descubre el significado de la carta La Justicia en un cambio laboral. Analizamos su energía de equilibrio, verdad y el resultado probable que sugiere."
 category: "cambio-de-trabajo"
 tags: ["La Justicia tarot", "cambio de trabajo", "Arcanos Mayores", "tarot laboral", "arcanos-mayores", "la-justicia", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-27"
 image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 5

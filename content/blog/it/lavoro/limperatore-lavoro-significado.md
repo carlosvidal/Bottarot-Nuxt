@@ -3,7 +3,7 @@ title: "L'Imperatore nel Lavoro: Significato di Autorità e Struttura"
 description: "Scopri il profondo significato della carta L'Imperatore nel contesto lavorativo. Impara su autorità, struttura e controllo nella tua carriera."
 category: "lavoro"
 tags: ["l-imperatore", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "arcani-maggiori", "l-imperatore", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-20"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "it"
 readingTime: 5

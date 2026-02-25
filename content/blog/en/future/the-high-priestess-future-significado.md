@@ -3,7 +3,7 @@ title: "The High Priestess and the Future: Meaning and Intuition in Tarot"
 description: "Discover the profound meaning of The High Priestess in a future context. Learn to interpret her message of intuition and inner wisdom for your path ahead."
 category: "future"
 tags: ["the-high-priestess", "future-tarot", "major-arcana", "intuition", "tarot-meaning", "major-arcana", "the-high-priestess", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-15"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "en"
 readingTime: 5

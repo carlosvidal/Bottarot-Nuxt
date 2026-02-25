@@ -3,7 +3,7 @@ title: "O Enforcado na mudança de emprego: significado e resultado provável"
 description: "Descubra a mensagem de O Enforcado em uma mudança profissional. Aprenda seu significado, interpretação e conselhos práticos para navegar essa transição."
 category: "mudanca-de-emprego"
 tags: ["o-enforcado-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-laboral", "resultado-proval", "arcanos-maiores", "o-enforcado", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-02"
 image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

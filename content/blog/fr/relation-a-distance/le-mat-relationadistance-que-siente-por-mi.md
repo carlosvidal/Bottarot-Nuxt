@@ -3,7 +3,7 @@ title: "Le Mat dans une relation à distance : Que ressent-il pour moi ?"
 description: "Découvrez la signification du Mat dans le tarot pour les relations à distance. Interprétez ses sentiments, son énergie et le message de nouveaux départs."
 category: "relation-a-distance"
 tags: ["le-mat-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-10"
 image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

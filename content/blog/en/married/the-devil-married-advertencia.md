@@ -3,7 +3,7 @@ title: "The Devil in Tarot for the Married: Warning Signs and Meaning"
 description: "Discover the meaning of The Devil card in the context of marriage. A warning about temptations, unhealthy attachments, and how to protect your relationship."
 category: "married"
 tags: ["the-devil-tarot", "tarot-marriage", "major-arcana", "tarot-warning", "the-devil-meaning", "major-arcana", "the-devil", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-20"
 image: "https://images.freetarot.fun/blog/el-diablo__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

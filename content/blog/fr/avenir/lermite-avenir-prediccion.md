@@ -3,7 +3,7 @@ title: "L'Ermite en 2026 : Guide intérieur et cycles de réflexion"
 description: "Découvrez la signification de L'Ermite pour 2026. Un guide sur la quête intérieure, l'orientation personnelle et les énergies de réflexion collective qui pourraient marquer l'année."
 category: "avenir"
 tags: ["l-ermite", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir", "reflexion"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-10"
 image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

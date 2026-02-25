@@ -3,7 +3,7 @@ title: "The Wheel of Fortune at Work: Meaning and Professional Cycles"
 description: "Discover the profound meaning of The Wheel of Fortune in a career context. Learn to navigate professional cycles with wisdom and flow."
 category: "career"
 tags: ["tarot-career", "wheel-of-fortune", "major-arcana", "tarot-meaning", "career-change", "major-arcana", "wheel-of-fortune", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-28"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "en"
 readingTime: 7

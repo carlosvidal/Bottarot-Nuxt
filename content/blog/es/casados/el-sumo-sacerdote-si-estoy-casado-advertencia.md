@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en el Si Estoy Casado: Advertencia y Precaución"
 description: "Descubre el mensaje de advertencia de El Sumo Sacerdote (Arcano 5) en el contexto del si estoy casado. Aprende a reconocer señales y proteger tu energía."
 category: "casados"
 tags: ["El Sumo Sacerdote", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "consejo tarot", "arcanos-mayores", "el-sumo-sacerdote", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-25"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "es"
 readingTime: 5

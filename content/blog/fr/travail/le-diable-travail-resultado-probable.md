@@ -3,7 +3,7 @@ title: "Le Diable au Travail : Résultat Probable et Énergies"
 description: "Découvrez la signification de la carte Le Diable dans le contexte professionnel. Interprétez son énergie pour comprendre les tendances et résultats probables dans votre carrière."
 category: "travail"
 tags: ["le-diable-tarot-travail", "le-diable-resultat-probable", "signification-le-diable-travail", "tarot-travail", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-diable", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-27"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Sole nel Tarot: Significato per Denaro e Abbondanza"
 description: "Scopri il profondo significato della carta Il Sole nel tarot per il denaro. Interpretazione diritta e rovesciata, consigli pratici e riflessione sull'abbondanza."
 category: "denaro"
 tags: ["il-sole-tarot", "tarot-denaro", "significato-il-sole", "arcani-maggiori", "abbondanza-tarot", "arcani-maggiori", "il-sole", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-02"
 image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Devil Tarot Card: What Your Ex-Partner Feels for You"
 description: "Discover the meaning of The Devil card in the context of an ex-partner. A deep dive into bonds, unresolved desires, and the lingering emotional energy of the past."
 category: "ex-partner"
 tags: ["the-devil-tarot", "tarot-ex-partner", "major-arcana", "love-and-tarot", "tarot-interpretation", "major-arcana", "the-devil", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-24"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 7

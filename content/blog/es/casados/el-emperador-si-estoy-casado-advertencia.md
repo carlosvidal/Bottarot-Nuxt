@@ -3,7 +3,7 @@ title: "El Emperador en el Matrimonio: Advertencias y Equilibrio"
 description: "Descubre el mensaje de advertencia de El Emperador en tu matrimonio. Aprende a identificar desequilibrios de poder y a proteger la energía de tu relación."
 category: "casados"
 tags: ["El Emperador tarot", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "consejos matrimonio tarot", "arcanos-mayores", "el-emperador", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-28"
 image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

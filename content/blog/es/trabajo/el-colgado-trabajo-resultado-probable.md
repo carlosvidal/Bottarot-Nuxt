@@ -3,7 +3,7 @@ title: "El Colgado en el trabajo: significado y resultado probable"
 description: "Descubre el mensaje de El Colgado en el ámbito laboral. Aprende sobre su significado, interpretación y el resultado probable que sugiere esta carta."
 category: "trabajo"
 tags: ["El Colgado tarot trabajo", "El Colgado resultado probable", "significado El Colgado en el trabajo", "tarot trabajo", "arcanos mayores", "tarot laboral", "arcanos-mayores", "el-colgado", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-24"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

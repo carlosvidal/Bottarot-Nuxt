@@ -3,7 +3,7 @@ title: "El Diablo en el trabajo: significado y simbolismo en tarot"
 description: "Descubre el profundo significado de la carta El Diablo en el contexto laboral. Aprende sobre tentaciones, ataduras y la liberación del poder personal."
 category: "trabajo"
 tags: ["El Diablo tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "tarot profesional", "arcanos-mayores", "el-diablo", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-12"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

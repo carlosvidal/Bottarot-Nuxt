@@ -3,7 +3,7 @@ title: "A Temperança no Amor: É um Sim ou um Não? Significado no Tarot"
 description: "Descubra a mensagem de A Temperança no amor. É um sim ou um não? Aprenda seu significado, interpretação e conselhos práticos para relacionamentos."
 category: "amor"
 tags: ["a-temperanca-tarot-amor", "a-temperanca-sim-ou-nao", "significado-a-temperanca-no-amor", "tarot-amor", "arcanos-maiores", "leitura-de-tarot", "arcanos-maiores", "a-temperanca", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-18"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 5

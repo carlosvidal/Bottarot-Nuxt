@@ -3,7 +3,7 @@ title: "La Maison Dieu au travail : sens et transformation professionnelle"
 description: "Découvrez la signification profonde de la carte La Maison Dieu dans le contexte professionnel. Apprenez à interpréter son message de changement soudain et de renouveau dans votre carrière."
 category: "travail"
 tags: ["la-maison-dieu-tarot-travail", "la-maison-dieu-signification", "tarot-travail", "arcanes-majeurs", "la-maison-dieu", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-04"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

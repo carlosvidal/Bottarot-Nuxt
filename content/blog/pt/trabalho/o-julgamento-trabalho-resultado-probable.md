@@ -3,7 +3,7 @@ title: "O Julgamento no trabalho: significado e resultado provável no tarot"
 description: "Descubra o significado da carta O Julgamento no contexto profissional. Aprenda qual resultado provável ela sugere e como influenciar seu caminho no trabalho."
 category: "trabalho"
 tags: ["o-julgamento-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "tarot-profissional", "arcanos-maiores", "o-julgamento", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-29"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

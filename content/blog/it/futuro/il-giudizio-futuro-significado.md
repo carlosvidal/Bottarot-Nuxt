@@ -3,7 +3,7 @@ title: "Il Giudizio nel Futuro: Significato di Rinascita e Chiamata Interiore"
 description: "Scopri il profondo significato de Il Giudizio nel futuro. Un'analisi sul suo simbolismo di riflessione, perdono e rinascita sul tuo cammino."
 category: "futuro"
 tags: ["il-giudizio-tarocchi", "tarocchi-futuro", "significato-tarocchi", "arcani-maggiori", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-04"
 image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "A Roda da Fortuna e o Dinheiro: Significado no Tarot"
 description: "Descubra o profundo significado de A Roda da Fortuna no contexto do dinheiro. Aprenda sobre ciclos financeiros, mudança e como fluir com a fortuna."
 category: "dinheiro"
 tags: ["a-roda-da-fortuna", "tarot-dinheiro", "arcanos-maiores", "significado-tarot", "fortuna-financeira", "arcanos-maiores", "a-roda-da-fortuna", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-05"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

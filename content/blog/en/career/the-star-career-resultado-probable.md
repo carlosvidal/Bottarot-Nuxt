@@ -3,7 +3,7 @@ title: "The Star at Work: Meaning and Probable Outcome"
 description: "Discover the message of The Star in the workplace. A guide to its energy of hope, inspiration, and the probable outcome for your career."
 category: "career"
 tags: ["the-star-tarot", "tarot-work", "major-arcana", "tarot-meaning", "tarot-career", "major-arcana", "the-star", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-03"
 image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

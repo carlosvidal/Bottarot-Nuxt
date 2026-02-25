@@ -3,7 +3,7 @@ title: "The Chariot in Marriage: Advice for Control and Victory"
 description: "Discover the meaning of The Chariot in the context of marriage. Practical advice and spiritual reflections to navigate your union with willpower and balance."
 category: "marriage"
 tags: ["the-chariot-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "relationships", "major-arcana", "the-chariot", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-11"
 image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 7

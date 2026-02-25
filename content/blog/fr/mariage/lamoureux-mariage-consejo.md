@@ -3,7 +3,7 @@ title: "L'Amoureux en Mariage : Conseils du Tarot pour l'Union Conjugale"
 description: "Découvrez le message profond de la carte L'Amoureux pour votre mariage. Apprenez à interpréter son conseil sur l'amour, le choix conscient et l'harmonie dans votre relation de couple."
 category: "mariage"
 tags: ["l-amoureux", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "amour-et-relations", "arcanes-majeurs", "l-amoureux", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-02"
 image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

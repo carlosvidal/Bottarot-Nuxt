@@ -3,7 +3,7 @@ title: "Il Mondo nel cambio di lavoro: significato e risultato probabile"
 description: "Scopri il messaggio della carta Il Mondo in un cambio lavorativo. Impara il suo significato, l'interpretazione al dritto e al rovescio, e consigli pratici."
 category: "cambio-lavoro"
 tags: ["il-mondo-tarot", "cambio-di-lavoro", "tarot-carriera", "arcani-maggiori", "risultato-probabile-tarot", "arcani-maggiori", "il-mondo", "cambio-di-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-15"
 image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

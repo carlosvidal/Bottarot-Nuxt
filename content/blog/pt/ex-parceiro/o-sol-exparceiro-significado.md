@@ -3,7 +3,7 @@ title: "O Sol no Tarot: Significa que Meu Ex Vai Voltar? Significado Profundo"
 description: "Descubra o significado da carta O Sol no contexto de 'ex vai voltar'. Um guia simbólico sobre clareza, cura e renovação no amor."
 category: "ex-parceiro"
 tags: ["o-sol-tarot", "ex-vai-voltar", "significado-tarot", "arcanos-maiores", "tarot-amor", "arcanos-maiores", "o-sol", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-14"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "A Estrela em decisões importantes: advertência e orientação"
 description: "Descubra a mensagem de advertência de A Estrela em decisões cruciais. Aprenda a interpretar seus sinais e proteger sua energia."
 category: "decisoes"
 tags: ["a-estrela-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "advertencia-tarot", "espiritualidade-tarot", "arcanos-maiores", "a-estrela", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-15"
 image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

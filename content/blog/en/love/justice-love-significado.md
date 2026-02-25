@@ -3,7 +3,7 @@ title: "Justice in Love: Balance and Truth in Relationships"
 description: "Discover the profound meaning of the Justice card in love. Learn about balance, honest decisions, and karma in romantic partnerships."
 category: "love"
 tags: ["justice-tarot-love", "justice-meaning", "tarot-love", "major-arcana", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-19"
 image: "https://images.freetarot.fun/blog/la-justicia__amor-significado.webp"
 locale: "en"
 readingTime: 6

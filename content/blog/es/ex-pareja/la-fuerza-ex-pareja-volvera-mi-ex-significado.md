@@ -3,7 +3,7 @@ title: "La Fuerza en el Tarot: Significado sobre el Regreso de una Ex Pareja"
 description: "Descubre el profundo significado de la carta La Fuerza en el contexto de 'ex pareja volverá mi ex'. Una guía reflexiva sobre fuerza interior y paciencia."
 category: "ex-pareja"
 tags: ["La Fuerza tarot", "ex pareja volverá mi ex", "significado tarot", "arcano mayor", "tarot relaciones", "arcanos-mayores", "la-fuerza", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-03"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

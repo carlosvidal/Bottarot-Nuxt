@@ -3,7 +3,7 @@ title: "The Hierophant in a Career Change: Probable Outcome"
 description: "Discover the meaning of The Hierophant in a career change. We analyze its energy of tradition and structure to reveal the probable outcome of your job transition."
 category: "career-change"
 tags: ["the-hierophant", "tarot-career-change", "major-arcana-5", "probable-outcome-tarot", "major-arcana", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-16"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

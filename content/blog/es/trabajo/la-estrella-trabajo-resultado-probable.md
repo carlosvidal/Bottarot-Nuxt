@@ -3,7 +3,7 @@ title: "La Estrella en el trabajo: significado y resultado probable"
 description: "Descubre el mensaje de La Estrella en el ámbito laboral. Una guía sobre su energía de esperanza, inspiración y el resultado probable en tu carrera."
 category: "trabajo"
 tags: ["La Estrella tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "tarot carrera", "arcanos-mayores", "la-estrella", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-18"
 image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

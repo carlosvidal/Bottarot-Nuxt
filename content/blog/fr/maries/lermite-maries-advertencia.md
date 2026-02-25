@@ -3,7 +3,7 @@ title: "L'Ermite dans le Si Je Suis Marié : Un Avertissement du Tarot"
 description: "Découvrez le message d'avertissement de L'Ermite dans le contexte du si je suis marié. Apprenez à interpréter ses signaux d'alerte et à protéger votre énergie."
 category: "maries"
 tags: ["l-ermite", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "l-ermite", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-09"
 image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

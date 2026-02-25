@@ -3,7 +3,7 @@ title: "A Imperatriz em 2026: Abundância e Criatividade no Novo Ciclo"
 description: "Descubra o significado de A Imperatriz para 2026. Explore sua mensagem de fertilidade, criatividade e abundância no contexto do novo ciclo energético."
 category: "futuro"
 tags: ["a-imperatriz", "tarot-2026", "previsao-tarot", "arcanos-maiores", "abundancia", "arcanos-maiores", "a-imperatriz", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-24"
 image: "https://images.freetarot.fun/blog/la-emperatriz__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6

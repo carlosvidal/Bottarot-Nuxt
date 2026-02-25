@@ -3,7 +3,7 @@ title: "La Papessa e il tuo ex: cosa prova veramente per te"
 description: "Scopri il significato de La Papessa nel contesto di un ex partner. Una guida approfondita sui suoi sentimenti, l'intuizione e l'energia nascosta in questa connessione."
 category: "ex-partner"
 tags: ["la-papessa-tarot", "tarot-ex-partner", "significato-la-papessa", "cosa-sente-il-mio-ex", "arcani-maggiori", "arcani-maggiori", "la-papessa", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-25"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

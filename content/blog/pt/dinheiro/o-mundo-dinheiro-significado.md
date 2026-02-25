@@ -3,7 +3,7 @@ title: "O Mundo no dinheiro: significado de plenitude e conquista financeira"
 description: "Descubra o profundo significado da carta O Mundo no contexto do dinheiro. Uma análise simbólica sobre culminação, abundância e o ciclo completo dos recursos."
 category: "dinheiro"
 tags: ["o-mundo-tarot", "tarot-dinheiro", "significado-o-mundo", "arcanos-maiores-dinheiro", "tarot-abundancia", "arcanos-maiores", "o-mundo", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-03"
 image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

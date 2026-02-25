@@ -3,7 +3,7 @@ title: "La Force et votre ex-partenaire : Que ressent-il vraiment pour vous ?"
 description: "Découvrez le message de La Force dans le contexte d'un ex-partenaire. Interprétez son énergie, ses sentiments et ce que cette carte révèle sur votre connexion."
 category: "ex-partenaire"
 tags: ["la-force-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcanes-majeurs", "la-force", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-01"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

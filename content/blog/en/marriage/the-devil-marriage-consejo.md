@@ -3,7 +3,7 @@ title: "The Devil in Marriage: Advice for Releasing Bonds"
 description: "Discover the meaning of The Devil card in the context of marriage. Practical advice and reflections to transform constraints into freedom."
 category: "marriage"
 tags: ["the-devil-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "relationship-tarot", "major-arcana", "the-devil", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-01"
 image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

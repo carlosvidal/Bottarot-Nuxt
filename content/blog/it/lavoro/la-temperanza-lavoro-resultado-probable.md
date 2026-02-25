@@ -3,7 +3,7 @@ title: "La Temperanza nel lavoro: equilibrio e risultato probabile"
 description: "Scopri il significato de La Temperanza nel contesto lavorativo. Interpretazione dritta e rovesciata, consigli pratici e riflessione sul risultato probabile."
 category: "lavoro"
 tags: ["la-temperanza-tarot-lavoro", "la-temperanza-risultato-probabile", "significato-la-temperanza-nel-lavoro", "tarot-lavoro", "arcani-maggiori", "equilibrio-lavorativo", "arcani-maggiori", "la-temperanza", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-03"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

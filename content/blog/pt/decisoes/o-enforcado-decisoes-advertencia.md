@@ -3,7 +3,7 @@ title: "O Enforcado: Um Alerta para Decisões Importantes no Tarot"
 description: "Entenda a mensagem de alerta do arcano O Enforcado em decisões cruciais. Aprenda a reconhecer os sinais de advertência e como proteger sua energia."
 category: "decisoes"
 tags: ["o-enforcado-tarot", "decisoes-importantes-tarot", "advertencia-tarot", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-24"
 image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Hanged Man in Love: Deep Meaning and Symbolism"
 description: "Discover the meaning of The Hanged Man in love. A card of suspension and sacrifice that invites deep reflection on relationships."
 category: "love"
 tags: ["the-hanged-man-tarot-love", "the-hanged-man-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-hanged-man", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-21"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "en"
 readingTime: 5

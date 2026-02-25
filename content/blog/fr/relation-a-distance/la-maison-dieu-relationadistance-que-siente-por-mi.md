@@ -3,7 +3,7 @@ title: "La Maison Dieu en relation à distance : Ce qu'elle ressent pour vous"
 description: "Découvrez la signification profonde de la carte La Maison Dieu (La Tour) dans le tarot pour les relations à distance. Interprétez les sentiments et énergies qu'elle révèle."
 category: "relation-a-distance"
 tags: ["la-maison-dieu-tarot", "relation-a-distance", "ce-quil-ressent", "arcanes-majeurs", "tarot-emotionnel"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-29"
 image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

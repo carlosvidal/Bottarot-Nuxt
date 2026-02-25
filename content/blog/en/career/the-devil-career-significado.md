@@ -3,7 +3,7 @@ title: "The Devil at Work: Meaning and Symbolism in Tarot"
 description: "Discover the profound meaning of The Devil card in a career context. Learn about temptations, bindings, and the liberation of personal power."
 category: "career"
 tags: ["the-devil-tarot", "career-tarot", "tarot-meaning", "major-arcana", "professional-tarot", "major-arcana", "the-devil", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-18"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

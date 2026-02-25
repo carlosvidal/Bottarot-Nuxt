@@ -3,7 +3,7 @@ title: "La Roue de la Fortune dans le Mariage : Avertissements et Cycles"
 description: "Découvrez le message d'avertissement de la Roue de la Fortune dans le contexte du mariage. Apprenez à reconnaître les signes de changement et à protéger votre union."
 category: "maries"
 tags: ["la-roue-de-la-fortune", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "changement-mariage", "arcanes-majeurs", "la-roue-de-la-fortune", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-01"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7

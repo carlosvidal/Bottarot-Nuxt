@@ -3,7 +3,7 @@ title: "The Chariot Tarot Card: Meaning on Whether Your Ex Will Return"
 description: "Discover the deep meaning of The Chariot card in the context of an ex-partner. Does it speak of reconciliation, control, or an inner journey?"
 category: "ex-partner"
 tags: ["the-chariot-tarot", "the-chariot-meaning", "tarot-ex-partner", "will-ex-return", "major-arcana-7", "major-arcana", "the-chariot", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-03"
 image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

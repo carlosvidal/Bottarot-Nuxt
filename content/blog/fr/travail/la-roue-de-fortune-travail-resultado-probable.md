@@ -3,7 +3,7 @@ title: "La Roue de la Fortune au Travail : Résultat Probable"
 description: "Découvrez la signification de la Roue de la Fortune dans le contexte professionnel. Interprétez les tendances de changement et les cycles pour influencer votre résultat probable."
 category: "travail"
 tags: ["la-roue-de-la-fortune", "tarot-travail", "arcanes-majeurs", "resultat-probable-tarot", "changement-professionnel", "arcanes-majeurs", "la-roue-de-la-fortune", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-15"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

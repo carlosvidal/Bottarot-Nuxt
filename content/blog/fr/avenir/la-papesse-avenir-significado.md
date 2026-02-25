@@ -3,7 +3,7 @@ title: "La Papesse et l'Avenir : Signification et Intuition dans le Tarot"
 description: "Découvrez la signification profonde de La Papesse dans le contexte de l'avenir. Apprenez à interpréter son message d'intuition et de sagesse intérieure."
 category: "avenir"
 tags: ["la-papesse", "tarot-avenir", "arcanes-majeurs", "intuition", "signification-tarot", "arcanes-majeurs", "la-papesse", "futur"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-15"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

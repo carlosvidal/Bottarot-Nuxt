@@ -3,7 +3,7 @@ title: "The Hanged Man: A Warning in Important Decisions"
 description: "Discover The Hanged Man's warning message in crucial decisions. Learn to recognize the alert signs and how to protect your energy during this pivotal pause."
 category: "decisions"
 tags: ["the-hanged-man-tarot", "important-decisions-tarot", "tarot-warning", "major-arcana", "major-arcana-cards", "the-hanged-man", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-25"
 image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5

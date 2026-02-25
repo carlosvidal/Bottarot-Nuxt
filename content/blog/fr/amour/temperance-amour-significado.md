@@ -3,7 +3,7 @@ title: "La Tempérance en Amour : Équilibre et Patience dans les Relations"
 description: "Découvrez la signification profonde de la carte de La Tempérance en amour. Apprenez-en plus sur l'équilibre, la modération et l'alchimie émotionnelle proposés par cet arcane majeur."
 category: "amour"
 tags: ["la-temperance-tarot-amour", "la-temperance-signification", "tarot-amour", "arcanes-majeurs", "la-temperance", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-28"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "fr"
 readingTime: 6

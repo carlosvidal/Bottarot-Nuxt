@@ -3,7 +3,7 @@ title: "La Maison Dieu dans le Futur : Signification et Message du Tarot"
 description: "Découvrez la profonde signification de La Maison Dieu dans le futur. Ce n'est pas une destruction, mais une révélation nécessaire qui aplanit le chemin pour un nouveau départ."
 category: "avenir"
 tags: ["la-maison-dieu-tarot", "tarot-futur", "signification-la-maison-dieu", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-maison-dieu", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-24"
 image: "https://images.freetarot.fun/blog/la-torre__futuro-significado.webp"
 locale: "fr"
 readingTime: 5

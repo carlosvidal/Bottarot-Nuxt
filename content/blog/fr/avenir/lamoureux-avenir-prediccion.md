@@ -3,7 +3,7 @@ title: "L'Amoureux en 2026 : Énergie de Connexion et Choix du Cœur"
 description: "Découvrez le message de l'arcane L'Amoureux pour 2026. Un guide sur les énergies d'amour, d'harmonie et de décisions importantes qui pourraient marquer l'année."
 category: "avenir"
 tags: ["l-amoureux", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "amour-et-relations", "arcanes-majeurs", "l-amoureux", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-15"
 image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

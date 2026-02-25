@@ -3,7 +3,7 @@ title: "O Enforcado no Casamento: Conselho para a Transformação"
 description: "Descubra o significado de O Enforcado no casamento. Conselhos práticos e reflexão profunda para transformar seu relacionamento a partir da perspectiva do tarô."
 category: "casamento"
 tags: ["o-enforcado-tarô-casamento", "o-enforcado-conselho", "significado-o-enforcado-no-casamento", "tarô-casamento", "arcano-maior-12", "conselhos-tarô", "arcanos-maiores", "o-enforcado", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-05"
 image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 5

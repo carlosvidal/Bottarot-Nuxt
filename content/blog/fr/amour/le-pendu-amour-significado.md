@@ -3,7 +3,7 @@ title: "Le Pendu en Amour : Signification Profonde et Symbolisme"
 description: "Découvrez la signification du Pendu en amour. Une carte de suspension et de sacrifice qui invite à une réflexion profonde sur les relations."
 category: "amour"
 tags: ["le-pendu tarot amour", "le-pendu signification", "tarot amour", "arcanes majeurs", "arcanes-majeurs", "le-pendu", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-15"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "fr"
 readingTime: 6

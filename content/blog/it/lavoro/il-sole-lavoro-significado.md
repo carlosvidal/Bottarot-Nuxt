@@ -3,7 +3,7 @@ title: "Il Sole nel lavoro: significato di successo e vitalità professionale"
 description: "Scopri il significato della carta Il Sole nel contesto lavorativo. Un simbolo di successo, chiarezza e gioia professionale nel tarocchi."
 category: "lavoro"
 tags: ["il-sole-tarocchi", "tarocchi-lavoro", "significato-il-sole", "arcani-maggiori", "successo-professionale", "arcani-maggiori", "il-sole", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-31"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-significado.webp"
 locale: "it"
 readingTime: 6

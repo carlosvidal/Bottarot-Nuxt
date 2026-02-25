@@ -3,7 +3,7 @@ title: "La Justicia en el Matrimonio: Consejos para Equilibrio y Verdad"
 description: "Descubre el profundo consejo de la carta La Justicia para tu matrimonio. Aprende sobre equilibrio, equidad y cómo tomar decisiones conscientes en tu relación."
 category: "matrimonio"
 tags: ["La Justicia tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "equilibrio relación", "arcanos-mayores", "la-justicia", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-18"
 image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

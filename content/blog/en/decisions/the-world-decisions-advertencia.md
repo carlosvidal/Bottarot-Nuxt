@@ -3,7 +3,7 @@ title: "The World Tarot: A Warning for Important Decisions"
 description: "Discover the meaning of The World card in crucial decisions. A guide on warning signs, patterns to avoid, and energetic protection for your next step."
 category: "decisions"
 tags: ["the-world-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "major-arcana", "the-world", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-16"
 image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

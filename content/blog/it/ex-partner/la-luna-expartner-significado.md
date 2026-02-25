@@ -3,7 +3,7 @@ title: "La Luna nel Tarot: Significato su ex partner tornerà il mio ex"
 description: "Scopri il profondo significato de La Luna nel tarocco quando ti chiedi se il tuo ex partner tornerà. Una guida su illusioni, paure e l'inconscio."
 category: "ex-partner"
 tags: ["la-luna-tarocco", "ex-partner-tornera", "significato-la-luna", "tarocco-ex-partner", "arcani-maggiori", "arcano-maggiore", "la-luna", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-24"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

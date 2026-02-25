@@ -3,7 +3,7 @@ title: "La Torre in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il profondo significato de La Torre nel tarot per le relazioni a distanza. Interpreta quali sentimenti ed energie rivela questa carta sull'altra persona."
 category: "relazione-a-distanza"
 tags: ["la-torre-tarot", "relazione-a-distanza", "cosa-prova-per-me", "arcani-maggiori", "tarot-emotivo", "arcani-maggiori", "la-torre", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-17"
 image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

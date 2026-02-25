@@ -3,7 +3,7 @@ title: "La Papessa nel Cambio Lavoro: Risultato Probabile"
 description: "Scopri il messaggio de La Papessa in un cambio di lavoro. Interpreta la sua energia di intuizione e saggezza interiore per navigare la tua transizione professionale."
 category: "cambio-lavoro"
 tags: ["la-papessa", "tarocchi-cambio-lavoro", "arcani-maggiori", "intuizione-professionale", "arcani-maggiori", "la-papessa", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-06"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

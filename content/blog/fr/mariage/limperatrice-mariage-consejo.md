@@ -3,7 +3,7 @@ title: "L'Impératrice dans le Mariage : Conseils d'Abondance et de Croissance"
 description: "Découvrez le conseil de L'Impératrice pour votre mariage. Apprenez à nourrir la créativité, l'abondance et la connexion profonde dans votre relation de couple."
 category: "mariage"
 tags: ["l-imperatrice", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "creativite-couple", "arcanes-majeurs", "l-imperatrice", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-01"
 image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

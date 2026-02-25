@@ -3,7 +3,7 @@ title: "Le Mat au Travail : Signification des Nouveaux Départs Professionnels"
 description: "Découvrez la signification profonde de la carte du Mat du tarot dans le contexte professionnel. Apprenez-en plus sur les nouveaux chemins, les risques calculés et l'énergie des commencements."
 category: "travail"
 tags: ["le-mat-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "nouveaux-commencements", "arcanes-majeurs", "le-mat", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-08"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

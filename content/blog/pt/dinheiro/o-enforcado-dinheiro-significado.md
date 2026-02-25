@@ -3,7 +3,7 @@ title: "O Enforcado e o Dinheiro: Significado da Suspensão Financeira"
 description: "Descubra o profundo significado da carta O Enforcado no contexto do dinheiro. Um guia sobre sacrifício, perspectiva e transformação financeira."
 category: "dinheiro"
 tags: ["o-enforcado", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-espirituais", "arcanos-maiores", "o-enforcado", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-12"
 image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "pt"
 readingTime: 5

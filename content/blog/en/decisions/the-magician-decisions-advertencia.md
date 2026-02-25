@@ -3,7 +3,7 @@ title: "The Magician Tarot: A Warning for Important Decisions"
 description: "Discover The Magician's warning message in crucial decisions. Learn to use your personal power wisely and avoid the traps of the ego."
 category: "decisions"
 tags: ["the-magician-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "personal-power", "major-arcana", "the-magician", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-05"
 image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

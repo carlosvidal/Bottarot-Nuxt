@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna: Avvertimento nelle Decisioni Importanti"
 description: "Scopri il messaggio di allerta della Ruota della Fortuna nelle decisioni cruciali. Impara a riconoscere i cicli del destino e proteggere la tua energia."
 category: "decisioni"
 tags: ["la-ruota-della-fortuna", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "cicli-del-destino", "arcani-maggiori", "la-ruota-della-fortuna", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-15"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

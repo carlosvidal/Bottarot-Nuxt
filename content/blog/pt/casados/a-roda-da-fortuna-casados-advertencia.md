@@ -3,7 +3,7 @@ title: "A Roda da Fortuna no Casamento: Advertências e Ciclos"
 description: "Descubra a mensagem de advertência da Roda da Fortuna no contexto do casamento. Aprenda a reconhecer os sinais de mudança e como proteger sua união."
 category: "casados"
 tags: ["a-roda-da-fortuna", "tarot-se-estou-casado", "advertencia-tarot", "arcanos-maiores", "mudanca-casamento", "arcanos-maiores", "a-roda-da-fortuna", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-15"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

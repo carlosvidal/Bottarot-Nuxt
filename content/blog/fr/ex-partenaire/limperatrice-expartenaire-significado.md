@@ -3,7 +3,7 @@ title: "L'Impératrice et l'Ex : Signification au Tarot sur la Réconciliation"
 description: "Découvrez la signification profonde de L'Impératrice dans le tarot lorsqu'elle apparaît dans des tirages sur 'mon ex va-t-il revenir'. Un guide symbolique et réflexif."
 category: "ex-partenaire"
 tags: ["limperatrice", "tarot-ex-petit-ami", "signification-tarot", "arcanes-majeurs", "reconciliation", "arcanes-majeurs", "limperatrice", "ex-petit-ami"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-13"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

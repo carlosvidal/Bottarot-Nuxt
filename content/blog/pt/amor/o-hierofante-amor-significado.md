@@ -3,7 +3,7 @@ title: "O Hierofante no Amor: Significado e Simbolismo"
 description: "Descubra o profundo significado de O Hierofante no amor. Aprenda sobre tradição, compromisso e as energias que guiam os relacionamentos."
 category: "amor"
 tags: ["o-hierofante-tarot-amor", "o-hierofante-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-hierofante", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-23"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-significado.webp"
 locale: "pt"
 readingTime: 6

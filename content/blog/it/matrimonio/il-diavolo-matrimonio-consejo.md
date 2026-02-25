@@ -3,7 +3,7 @@ title: "Il Diavolo nel Matrimonio: Consigli per Sciogliere i Legami"
 description: "Scopri il significato della carta Il Diavolo nel contesto del matrimonio. Consigli pratici e riflessioni per trasformare le catene in libertà."
 category: "matrimonio"
 tags: ["il-diavolo-tarot", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "relazioni-tarot", "arcani-maggiori", "il-diavolo", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-10"
 image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6

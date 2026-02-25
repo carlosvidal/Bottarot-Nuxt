@@ -3,7 +3,7 @@ title: "La Papessa nel Matrimonio: Avvertimenti e Saggezza Interiore"
 description: "Scopri il messaggio di avvertimento de La Papessa nel contesto del matrimonio. Impara a interpretare i suoi segnali intuitivi e a proteggere la tua unione."
 category: "sposati"
 tags: ["la-papessa", "tarot-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "intuizione-nel-matrimonio", "arcani-maggiori", "la-papessa", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-30"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Matto nei Soldi: Significato di Nuovi Inizi Finanziari"
 description: "Scopri il profondo significato della carta Il Matto del tarot nel contesto del denaro. Impara sui nuovi inizi, i rischi calcolati e l'energia dell'opportunità."
 category: "denaro"
 tags: ["il-matto-tarot", "tarot-denaro", "significato-il-matto", "arcani-maggiori", "finanze-tarot", "arcani-maggiori", "il-matto", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-27"
 image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "it"
 readingTime: 5

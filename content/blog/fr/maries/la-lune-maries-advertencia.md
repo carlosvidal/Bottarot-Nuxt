@@ -3,7 +3,7 @@ title: "La Lune dans le Mariage : Avertissements et Signaux du Subconscient"
 description: "Découvrez la signification de la carte La Lune dans le contexte du mariage. Un avertissement sur les illusions, les peurs cachées et comment protéger votre union."
 category: "maries"
 tags: ["la-lune-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-lune", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-10"
 image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7

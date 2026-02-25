@@ -3,7 +3,7 @@ title: "Judgement at Work: Meaning and Probable Outcome in Tarot"
 description: "Discover the meaning of the Judgement card in a career context. Learn the probable outcome it suggests and how to influence your professional path."
 category: "career"
 tags: ["judgement-tarot", "tarot-career", "major-arcana", "tarot-meaning", "professional-tarot", "major-arcana", "judgement", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-05"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Los Enamorados en el Amor: Significado Profundo del Arcano Mayor"
 description: "Descubre el significado de la carta Los Enamorados en el contexto del amor. Una guía completa sobre su simbolismo, interpretación y mensaje para tus relaciones."
 category: "amor"
 tags: ["Los Enamorados tarot", "tarot amor", "significado tarot", "arcanos mayores", "relaciones tarot", "arcanos-mayores", "los-enamorados", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-28"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Rueda de la Fortuna: Advertencia en Decisiones Importantes"
 description: "Descubre el mensaje de alerta de La Rueda de la Fortuna en decisiones cruciales. Aprende a reconocer los ciclos del destino y proteger tu energía."
 category: "decisiones"
 tags: ["La Rueda de la Fortuna", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "ciclos del destino", "arcanos-mayores", "la-rueda-de-la-fortuna", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-04"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

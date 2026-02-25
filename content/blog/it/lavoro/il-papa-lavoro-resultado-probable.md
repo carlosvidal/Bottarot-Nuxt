@@ -3,7 +3,7 @@ title: "Il Papa nel lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de Il Papa (Arcano 5) nella tua vita lavorativa. Interpreta la sua energia di tradizione e struttura per comprendere il risultato probabile."
 category: "lavoro"
 tags: ["il-papa-tarot-lavoro", "tarot-lavoro", "significato-il-papa-nel-lavoro", "arcani-maggiori", "arcani-maggiori", "il-papa", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-30"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Sun in Love: Meaning of Joy and Authentic Connection"
 description: "Discover the profound meaning of The Sun card in love. A guide to joy, authenticity, and the light that illuminates relationships."
 category: "love"
 tags: ["the-sun-tarot", "tarot-love", "major-arcana", "tarot-meaning", "love-and-tarot", "major-arcana", "the-sun", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-06"
 image: "https://images.freetarot.fun/blog/el-sol__amor-significado.webp"
 locale: "en"
 readingTime: 5

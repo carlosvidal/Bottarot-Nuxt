@@ -3,7 +3,7 @@ title: "O Julgamento no Tarot e Ex-Parceiro: Sentimentos e Renascimento"
 description: "Descubra o profundo significado de O Julgamento no tarot sobre seu ex-parceiro. Entenda o que ele(a) sente por você, seu processo de reflexão e a mensagem de renascimento."
 category: "ex-parceiro"
 tags: ["o-julgamento-tarot", "tarot-ex-parceiro", "o-que-sente-ex-parceiro", "arcanos-maiores", "renascimento-emocional", "arcanos-maiores", "o-julgamento", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-20"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

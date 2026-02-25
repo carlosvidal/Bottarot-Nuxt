@@ -3,7 +3,7 @@ title: "O Julgamento na mudança de emprego: significado e resultado provável"
 description: "Descubra a mensagem de O Julgamento (Arcano 20) em uma mudança profissional. Aprenda seu significado, interpretação e conselhos práticos para sua transformação de carreira."
 category: "mudanca-de-emprego"
 tags: ["o-julgamento-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "o-julgamento", "mudanca-de-trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-29"
 image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

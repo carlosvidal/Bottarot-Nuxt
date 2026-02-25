@@ -3,7 +3,7 @@ title: "The World Tarot and an Ex-Partner: What They Feel for You"
 description: "Discover the meaning of The World card in the context of an ex-partner. Interpret what they feel for you according to this Major Arcana of culmination."
 category: "ex-partner"
 tags: ["the-world-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "ex-partner-feelings", "major-arcana", "the-world", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-02"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

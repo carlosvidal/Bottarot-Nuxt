@@ -3,7 +3,7 @@ title: "A Temperança no Casamento: Advertências e Equilíbrio Conjugal"
 description: "Descubra a mensagem de advertência de A Temperança (Arcano 14) para seu casamento. Aprenda a identificar desequilíbrios e proteger sua união com sabedoria."
 category: "casados"
 tags: ["a-temperanca-tarot", "tarot-se-estou-casado", "advertencia-tarot-casamento", "equilibrio-conjugal", "arcanos-maiores", "arcanos-maiores", "a-temperanca", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-26"
 image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

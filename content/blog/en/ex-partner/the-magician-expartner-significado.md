@@ -3,7 +3,7 @@ title: "The Magician in Tarot: Meaning Regarding If Your Ex Will Return"
 description: "Discover the profound meaning of The Magician in the context of 'will my ex come back'. A symbolic guide on manifestation and personal power."
 category: "ex-partner"
 tags: ["the-magician-tarot", "will-my-ex-come-back", "the-magician-meaning", "love-tarot", "major-arcana", "major-arcana-cards", "the-magician", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-08"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

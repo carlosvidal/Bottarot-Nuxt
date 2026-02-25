@@ -3,7 +3,7 @@ title: "Los Enamorados en Cambio de Trabajo: Resultado Probable"
 description: "Descubre el significado de la carta Los Enamorados en un cambio laboral. Interpretación, consejos prácticos y la energía de resultado probable que trae este arcano."
 category: "cambio-de-trabajo"
 tags: ["Los Enamorados", "tarot cambio de trabajo", "resultado probable tarot", "arcano mayor 6", "tarot carrera profesional", "arcanos-mayores", "los-enamorados", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-18"
 image: "https://images.freetarot.fun/blog/los-enamorados__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "El Diablo en el Amor: Significado y Simbolismo en el Tarot"
 description: "Descubre el profundo significado de la carta El Diablo en el amor. Aprende sobre sus símbolos de tentación, apego y liberación en las relaciones."
 category: "amor"
 tags: ["El Diablo tarot amor", "El Diablo significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-diablo", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-06"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Fuerza en el Trabajo: Resultado Probable y Energías"
 description: "Descubre el significado de La Fuerza (Arcano 8) en el ámbito laboral. Interpretación, consejos prácticos y energía para influir en tu resultado profesional."
 category: "trabajo"
 tags: ["La Fuerza tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot laboral", "arcanos-mayores", "la-fuerza", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-28"
 image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

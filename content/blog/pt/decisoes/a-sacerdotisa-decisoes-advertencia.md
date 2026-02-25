@@ -3,7 +3,7 @@ title: "A Sacerdotisa em Decisões: Advertência e Sabedoria Interior"
 description: "Descubra a mensagem de advertência de A Sacerdotisa em decisões importantes. Aprenda a reconhecer os sinais e proteger sua energia."
 category: "decisoes"
 tags: ["a-sacerdotisa-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "intuição-tarot", "advertencia-tarot", "arcanos-maiores", "a-sacerdotisa", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-12"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

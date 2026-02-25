@@ -3,7 +3,7 @@ title: "La Stella nel Denaro: Significato, Speranza e Abbondanza"
 description: "Scopri il profondo significato della carta La Stella nel contesto del denaro. Una guida su speranza, ispirazione e l'energia dell'abbondanza spirituale e materiale."
 category: "denaro"
 tags: ["la-stella-tarocchi", "tarocchi-denaro", "significato-la-stella", "arcani-maggiori", "abbondanza", "arcani-maggiori", "la-stella", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-24"
 image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "it"
 readingTime: 6

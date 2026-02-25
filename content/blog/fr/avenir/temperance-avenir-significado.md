@@ -3,7 +3,7 @@ title: "La Tempérance dans le Futur : Signification et Message d'Équilibre"
 description: "Découvrez la signification profonde de La Tempérance (Arcane 14) dans les tirages sur l'avenir. Apprenez-en plus sur l'équilibre, la patience et l'alchimie interne que cette carte symbolise."
 category: "avenir"
 tags: ["la-temperance-tarot", "tarot-avenir", "arcanes-majeurs", "equilibre-tarot", "signification-tarot", "arcanes-majeurs", "la-temperance", "futur"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-13"
 image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "fr"
 readingTime: 5

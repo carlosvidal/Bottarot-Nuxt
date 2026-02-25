@@ -3,7 +3,7 @@ title: "The Three-Card Tarot Spread: Past, Present & Future"
 description: "Master the classic three-card tarot spread. Learn the different variations, how to interpret card positions, and tips for accurate readings."
 category: "tarot-spreads"
 tags: ["tarot-spreads", "three-card", "beginner", "past-present-future"]
-publishedAt: "2025-02-15"
+publishedAt: "2025-04-21"
 image: "/img/Trumps-02.webp"
 locale: "en"
 readingTime: 6

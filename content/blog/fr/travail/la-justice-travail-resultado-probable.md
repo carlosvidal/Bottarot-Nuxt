@@ -3,7 +3,7 @@ title: "La Justice au travail : Résultat probable et signification"
 description: "Découvrez le message de La Justice (Arcane 11) dans votre vie professionnelle. Interprétation, tendances probables et conseils pratiques pour agir avec équité."
 category: "travail"
 tags: ["la-justice-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "la-justice", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-24"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

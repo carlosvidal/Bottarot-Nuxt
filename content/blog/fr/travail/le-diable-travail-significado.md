@@ -3,7 +3,7 @@ title: "Le Diable au travail : signification et symbolisme en tarot"
 description: "Découvrez la signification profonde de la carte Le Diable dans le contexte professionnel. Apprenez-en plus sur les tentations, les entraves et la libération du pouvoir personnel."
 category: "travail"
 tags: ["le-diable-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-diable", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-17"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

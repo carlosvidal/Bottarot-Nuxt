@@ -3,7 +3,7 @@ title: "Le Diable en Amour : Signification et Symbolisme dans le Tarot"
 description: "Découvrez la signification profonde de la carte Le Diable en amour. Apprenez-en plus sur ses symboles de tentation, d'attachement et de libération dans les relations."
 category: "amour"
 tags: ["le-diable-tarot-amour", "le-diable-signification", "tarot-amour", "arcanes-majeurs", "le-diable", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-30"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "fr"
 readingTime: 5

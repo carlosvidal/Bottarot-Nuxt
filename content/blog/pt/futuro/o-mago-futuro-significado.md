@@ -3,7 +3,7 @@ title: "O Mago no Futuro: Significado e Poder de Manifestação"
 description: "Descubra o profundo significado da carta O Mago no contexto do futuro. Aprenda como sua energia de vontade e poder pessoal influencia o que está por vir."
 category: "futuro"
 tags: ["o-mago-tarot", "significado-o-mago", "tarot-futuro", "arcanos-maiores", "arcanos-maiores", "o-mago", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-07"
 image: "https://images.freetarot.fun/blog/el-mago__futuro-significado.webp"
 locale: "pt"
 readingTime: 6

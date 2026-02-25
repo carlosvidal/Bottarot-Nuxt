@@ -3,7 +3,7 @@ title: "La Giustizia nel Tarocchi: Cosa Prova in una Relazione a Distanza"
 description: "Scopri il significato della carta La Giustizia nei tarocchi per le relazioni a distanza. Interpreta cosa prova per te e come gestire l'equilibrio emotivo."
 category: "relazione-a-distanza"
 tags: ["la-giustizia-tarocchi", "relazione-a-distanza", "cosa-prova-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "la-giustizia", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-30"
 image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

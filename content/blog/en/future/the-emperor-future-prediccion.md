@@ -3,7 +3,7 @@ title: "The Emperor in 2026: Tarot Meaning and Energy for the New Cycle"
 description: "Discover the message of The Emperor Major Arcana for 2026. Explore its symbolism of authority and structure within the context of the new energetic cycle."
 category: "future"
 tags: ["the-emperor", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "the-emperor", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-23"
 image: "https://images.freetarot.fun/blog/el-emperador__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

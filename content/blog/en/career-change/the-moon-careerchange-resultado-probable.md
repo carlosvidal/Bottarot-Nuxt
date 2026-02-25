@@ -3,7 +3,7 @@ title: "The Moon in a Career Change: Probable Outcome and Meaning"
 description: "Discover the message of The Moon (Major Arcana 18) in a job change. Learn to interpret its energies of illusion and the subconscious to navigate the transition."
 category: "career-change"
 tags: ["the-moon-tarot", "career-change-tarot", "major-arcana", "tarot-career", "major-arcana", "the-moon", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-07"
 image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

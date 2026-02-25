@@ -3,7 +3,7 @@ title: "A Sacerdotisa no Amor à Distância: O Que Ela Sente por Você"
 description: "Descubra a mensagem de A Sacerdotisa para seu relacionamento à distância. Um guia sobre intuição, mistério e a energia emocional que existe entre vocês."
 category: "relacionamento-a-distancia"
 tags: ["a-sacerdotisa-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "tarot-amor", "arcanos-maiores", "a-sacerdotisa", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-20"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

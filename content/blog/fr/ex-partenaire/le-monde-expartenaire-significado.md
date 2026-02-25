@@ -3,7 +3,7 @@ title: "Le Monde Tarot : Signification pour 'Mon ex va-t-il revenir ?'"
 description: "Découvrez la signification profonde de la carte Le Monde dans le contexte 'mon ex va-t-il revenir'. Interprétation symbolique, conseils pratiques et réflexion."
 category: "ex-partenaire"
 tags: ["le-monde-tarot", "signification-le-monde", "tarot-ex-partenaires", "ex-partenaires-reviendra", "arcanes-majeurs", "le-monde", "ex-partenaires"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-03"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

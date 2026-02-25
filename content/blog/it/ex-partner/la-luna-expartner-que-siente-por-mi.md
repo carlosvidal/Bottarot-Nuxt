@@ -3,7 +3,7 @@ title: "La Luna Tarocchi ed Ex Partner: Cosa Prova per Te"
 description: "Scopri il significato de La Luna nei tarocchi su un ex. Interpreta i suoi sentimenti nascosti, le paure e l'energia inconscia che proietta verso di te."
 category: "ex-partner"
 tags: ["la-luna-tarocchi", "tarocchi-ex-partner", "cosa-sente-il-mio-ex", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "la-luna", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-04"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 5

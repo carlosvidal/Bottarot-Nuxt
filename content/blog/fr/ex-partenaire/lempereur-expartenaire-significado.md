@@ -3,7 +3,7 @@ title: "L'Empereur en Tarot : Signification sur l'Ex-Partenaire et la Réconcili
 description: "Découvrez la signification profonde de L'Empereur dans le contexte du retour d'un ex. Interprétation symbolique, conseils pratiques et réflexion."
 category: "ex-partenaire"
 tags: ["l-empereur-tarot", "signification-tarot-ex", "tarot-ex-partenaire-reviendra", "arcane-majeur-4", "arcanes-majeurs", "l-empereur", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-07"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 5

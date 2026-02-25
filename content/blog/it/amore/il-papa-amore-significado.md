@@ -3,7 +3,7 @@ title: "Il Papa nell'Amore: Significato e Simbologia nel Tarot"
 description: "Scopri il profondo significato de Il Papa nell'amore. Tradizione, impegno e le energie che guidano le relazioni in una lettura dei tarocchi."
 category: "amore"
 tags: ["il-papa-tarocchi-amore", "il-papa-significato", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori-amore", "il-papa", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-28"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-significado.webp"
 locale: "it"
 readingTime: 5

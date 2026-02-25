@@ -3,7 +3,7 @@ title: "Il Carro nel Tarot: Significa che il tuo ex tornerà?"
 description: "Scopri il profondo significato della carta Il Carro nel contesto di un ex partner. Parla di riconciliazione, controllo o di un viaggio interiore?"
 category: "ex-partner"
 tags: ["il-carro-tarot", "significato-il-carro", "tarot-ex-partner", "ex-tornera", "arcano-maggiore-7", "arcani-maggiori", "il-carro", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-13"
 image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

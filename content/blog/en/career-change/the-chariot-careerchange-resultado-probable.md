@@ -3,7 +3,7 @@ title: "The Chariot in a Career Change: Meaning and Probable Outcome"
 description: "Discover the message of The Chariot (Major Arcana 7) in a job change. Interpretation, practical advice, and how to influence the probable outcome."
 category: "career-change"
 tags: ["the-chariot-tarot", "career-change", "major-arcana", "probable-outcome-tarot", "major-arcana", "the-chariot", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-25"
 image: "https://images.freetarot.fun/blog/el-carro__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Magician in Money: Tarot Meaning and Symbolism"
 description: "Discover the deep meaning of The Magician card in the context of money. Learn to interpret its energy of manifestation and personal power in your finances."
 category: "money"
 tags: ["the-magician-tarot", "tarot-money", "the-magician-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-magician", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-10"
 image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "en"
 readingTime: 6

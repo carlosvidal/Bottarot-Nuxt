@@ -3,7 +3,7 @@ title: "The Fool and Your Ex: What Do They Truly Feel for You?"
 description: "Discover the message of the Major Arcana The Fool about your ex-partner's feelings. A deep reading on new energies and emotional liberation."
 category: "ex-partner"
 tags: ["the-fool-tarot", "tarot-ex-partner", "major-arcana", "tarot-reading", "what-does-my-ex-feel", "major-arcana", "the-fool", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-25"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

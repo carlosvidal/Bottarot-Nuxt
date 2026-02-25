@@ -3,7 +3,7 @@ title: "La Templanza en decisiones importantes: advertencia y equilibrio"
 description: "Descubre el mensaje de advertencia de La Templanza en decisiones cruciales. Aprende a reconocer señales de desequilibrio y cómo proteger tu energía."
 category: "decisiones"
 tags: ["La Templanza tarot", "tarot decisiones importantes", "arcanos mayores", "equilibrio espiritual", "advertencia tarot", "arcanos-mayores", "la-templanza", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-15"
 image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5

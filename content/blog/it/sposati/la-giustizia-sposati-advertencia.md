@@ -3,7 +3,7 @@ title: "La Giustizia nel Tarocchi: Avvertimento per i Matrimoni"
 description: "Scopri il messaggio di avvertimento de La Giustizia (Arcano 11) nel contesto del matrimonio. Impara a riconoscere gli squilibri e a proteggere la tua unione."
 category: "sposati"
 tags: ["la-giustizia-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "matrimonio-tarocchi", "arcani-maggiori", "la-giustizia", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-29"
 image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

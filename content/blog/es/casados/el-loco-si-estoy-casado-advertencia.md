@@ -3,7 +3,7 @@ title: "El Loco en el Matrimonio: Advertencias y Señales de Alerta"
 description: "Descubre el significado de El Loco en el contexto del matrimonio. Una guía sobre las advertencias, patrones a evitar y cómo proteger tu relación."
 category: "casados"
 tags: ["El Loco tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "consejo matrimonial", "arcanos-mayores", "el-loco", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-03"
 image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

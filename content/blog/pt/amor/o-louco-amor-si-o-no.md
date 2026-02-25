@@ -3,7 +3,7 @@ title: "O Louco no Amor: É um Sim ou um Não? Significado no Tarot"
 description: "Descubra o significado de O Louco no amor. Ele anuncia um novo começo ou uma aventura arriscada? Explicamos sua mensagem para sua vida afetiva."
 category: "amor"
 tags: ["o-louco-tarot-amor", "tarot-amor", "significado-o-louco-no-amor", "arcanos-maiores", "o-louco", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-03"
 image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6

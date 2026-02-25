@@ -3,7 +3,7 @@ title: "La Estrella en el Amor: Significado, Esperanza y Renacimiento"
 description: "Descubre el profundo significado de la carta La Estrella en el amor. Un mensaje de esperanza, sanación y conexión espiritual en tus relaciones."
 category: "amor"
 tags: ["La Estrella tarot", "tarot amor", "arcanos mayores", "significado tarot", "amor y espiritualidad", "arcanos-mayores", "la-estrella", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-09"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Morte no Casamento: Conselhos para a Transformação"
 description: "Descubra o significado da carta A Morte no contexto do casamento. Conselhos práticos e reflexões profundas para navegar mudanças e renascimentos no seu relacionamento."
 category: "casamento"
 tags: ["a-morte-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "transformacao", "arcanos-maiores", "a-morte", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-13"
 image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

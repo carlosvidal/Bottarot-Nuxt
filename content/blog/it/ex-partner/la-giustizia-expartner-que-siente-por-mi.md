@@ -3,7 +3,7 @@ title: "La Giustizia Tarocchi ed Ex Partner: Cosa Prova per Te"
 description: "Scopri il significato de La Giustizia nei tarocchi per un ex partner. Interpreta cosa prova per te secondo questa carta di equilibrio e verità."
 category: "ex-partner"
 tags: ["la-giustizia-tarocchi", "tarocchi-ex-partner", "cosa-sente-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "la-giustizia", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-24"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Imperador no Dinheiro: Significado de Autoridade e Estrutura"
 description: "Descubra o profundo significado da carta O Imperador no contexto do dinheiro. Aprenda sobre estrutura financeira, controle e a energia do Arcano Maior 4."
 category: "dinheiro"
 tags: ["o-imperador-tarot", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-imperador", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-13"
 image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

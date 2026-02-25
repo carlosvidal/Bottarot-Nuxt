@@ -3,7 +3,7 @@ title: "El Diablo en Tarot: Significado sobre ex pareja volverá mi ex"
 description: "Descubre el profundo significado de El Diablo en tarot cuando surge la pregunta 'ex pareja volverá mi ex'. Interpretación simbólica y reflexiones."
 category: "ex-pareja"
 tags: ["El Diablo tarot", "ex pareja volverá mi ex", "significado tarot", "arcanos mayores", "tarot relaciones", "arcanos-mayores", "el-diablo", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-13"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

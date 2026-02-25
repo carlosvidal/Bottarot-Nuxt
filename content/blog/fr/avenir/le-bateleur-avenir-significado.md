@@ -3,7 +3,7 @@ title: "Le Bateleur dans le Futur : Signification et Pouvoir de Manifestation"
 description: "Découvrez la signification profonde de la carte Le Bateleur dans le contexte du futur. Apprenez comment son énergie de volonté et de pouvoir personnel influence ce qui est à venir."
 category: "avenir"
 tags: ["le-bateleur-tarot", "signification-le-bateleur", "tarot-futur", "arcanes-majeurs", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-16"
 image: "https://images.freetarot.fun/blog/el-mago__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

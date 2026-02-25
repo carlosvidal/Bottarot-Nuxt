@@ -3,7 +3,7 @@ title: "L'Étoile en Amour : Un Oui ou un Non ? Guide Complet"
 description: "Découvrez la signification de L'Étoile en amour. Un guide approfondi sur l'espoir, la guérison et la réponse nuancée à votre question de 'oui ou non'."
 category: "amour"
 tags: ["l-etoile-tarot", "tarot-amour", "arcanes-majeurs", "tarot-oui-non", "signification-tarot", "arcanes-majeurs", "l-etoile", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-18"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

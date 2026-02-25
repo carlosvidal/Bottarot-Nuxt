@@ -3,7 +3,7 @@ title: "A Torre no Si Estou Casado: Advertência e Sinais de Alerta"
 description: "Descubra o significado de A Torre no contexto do si estou casado. Uma advertência sobre estruturas que podem ruir e como se preparar energeticamente."
 category: "casados"
 tags: ["a-torre-tarot", "si-estou-casado", "advertencia-tarot", "arcanos-maiores", "tarot-relacional", "arcanos-maiores", "a-torre", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-16"
 image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

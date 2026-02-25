@@ -3,7 +3,7 @@ title: "Death in Tarot: A Warning for Important Decisions"
 description: "Discover the warning message of the Death card (Arcana 13) in crucial decisions. Learn to recognize signs of forced transformation and how to navigate these cycles."
 category: "decisions"
 tags: ["death-tarot", "important-decisions-tarot", "major-arcana-13", "transformation-tarot", "tarot-warning", "major-arcana", "death-card", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-27"
 image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

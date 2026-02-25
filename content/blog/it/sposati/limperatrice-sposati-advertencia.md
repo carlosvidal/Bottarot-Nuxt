@@ -3,7 +3,7 @@ title: "L'Imperatrice nel Matrimonio: Avvertimenti e Protezione"
 description: "Scopri il significato de L'Imperatrice nel tarot se sono sposato. Una guida sugli avvertimenti, gli schemi da evitare e la protezione energetica nella tua relazione."
 category: "sposati"
 tags: ["l-imperatrice", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consigli-tarot", "arcani-maggiori", "l-imperatrice", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-17"
 image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

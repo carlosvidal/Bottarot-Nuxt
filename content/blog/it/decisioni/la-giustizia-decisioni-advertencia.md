@@ -3,7 +3,7 @@ title: "La Giustizia nel Tarocchi: Avvertimento per Decisioni Importanti"
 description: "Scopri il messaggio di allerta de La Giustizia (Arcano 11) nelle decisioni cruciali. Impara a riconoscere i segnali, evitare squilibri e agire con vera equità."
 category: "decisioni"
 tags: ["la-giustizia-tarocchi", "decisioni-importanti-tarocchi", "arcano-maggiore-11", "tarocchi-avvertimento", "arcani-maggiori", "la-giustizia", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-25"
 image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "A Força no Amor: É um Sim ou um Não? Significado no Tarot"
 description: "Descubra o profundo significado da carta A Força no amor. Um guia sobre sua energia, conselhos práticos e uma reflexão sobre se representa um sim ou um não."
 category: "amor"
 tags: ["a-forca-tarot", "tarot-amor", "arcanos-maiores", "amor-e-relacionamentos", "tarot-sim-ou-nao", "arcanos-maiores", "a-forca", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-05"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7

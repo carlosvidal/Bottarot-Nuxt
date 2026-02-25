@@ -3,7 +3,7 @@ title: "La Rueda de la Fortuna en 2026: Ciclos y Cambios en el Tarot"
 description: "Descubre el significado de La Rueda de la Fortuna para 2026. Explora las energías de cambio, ciclos y oportunidades que este Arcano Mayor sugiere para el próximo año."
 category: "futuro"
 tags: ["La Rueda de la Fortuna", "tarot 2026", "predicción tarot", "arcanos mayores", "ciclos del destino", "arcanos-mayores", "la-rueda-de-la-fortuna", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-19"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

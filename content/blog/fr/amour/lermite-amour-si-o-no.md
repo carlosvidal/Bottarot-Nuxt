@@ -3,7 +3,7 @@ title: "L'Ermite en Amour : Un Oui ou un Non ? Signification et Conseils"
 description: "Découvrez la signification profonde de la carte L'Ermite en amour. Est-ce un oui ou un non ? Explications de son symbolisme et message pour votre vie affective."
 category: "amour"
 tags: ["l-ermite-tarot-amour", "l-ermite-oui-ou-non", "signification-l-ermite-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-tarot", "arcanes-majeurs", "l-ermite", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-26"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 5

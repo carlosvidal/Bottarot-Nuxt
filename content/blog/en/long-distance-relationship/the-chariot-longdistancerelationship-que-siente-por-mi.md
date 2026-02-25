@@ -3,7 +3,7 @@ title: "The Chariot in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the meaning of The Chariot tarot card for long-distance love. Interpret the feelings, energy, and intentions the other person projects toward you across the miles."
 category: "long-distance-relationship"
 tags: ["the-chariot-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana", "the-chariot", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-13"
 image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "Le Mat dans un changement d'emploi : signification et résultat probable
 description: "Découvrez le message du Mat (Arcane 0) pour un changement professionnel. Interprétation, énergie de résultat et conseils pratiques pour votre nouveau chemin."
 category: "changement-emploi"
 tags: ["le-mat-tarot", "changement-d-emploi", "arcanes-majeurs", "tarot-professionnel", "nouveaux-departs", "arcanes-majeurs", "le-mat", "changement-de-travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-24"
 image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5

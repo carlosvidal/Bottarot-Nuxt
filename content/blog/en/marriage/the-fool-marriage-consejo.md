@@ -3,7 +3,7 @@ title: "The Fool in Marriage: Advice for New Beginnings and Shared Adventures"
 description: "Discover the meaning of The Fool tarot card in marriage. Practical advice and spiritual reflection for approaching partnership with innocence and courage."
 category: "marriage"
 tags: ["the-fool-tarot", "tarot-marriage", "major-arcana", "tarot-advice", "major-arcana", "the-fool", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-01"
 image: "https://images.freetarot.fun/blog/el-loco__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

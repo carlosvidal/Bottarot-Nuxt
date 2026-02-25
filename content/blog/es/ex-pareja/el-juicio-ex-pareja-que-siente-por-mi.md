@@ -3,7 +3,7 @@ title: "El Juicio Tarot y Ex Pareja: Qué Siente por Ti y Renacimiento"
 description: "Descubre el profundo significado de El Juicio en tarot sobre tu ex pareja. Aprende qué siente por ti, su proceso de reflexión y el mensaje de renacimiento."
 category: "ex-pareja"
 tags: ["El Juicio tarot", "tarot ex pareja", "qué siente ex pareja", "Arcanos Mayores", "renacimiento emocional", "arcanos-mayores", "el-juicio", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-20"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Tempérance et l'Argent : Signification d'Équilibre et de Modératio
 description: "Découvrez la signification profonde de La Tempérance en matière d'argent. Apprenez comment cet arcane majeur parle d'équilibre, de patience et de gestion sage des ressources."
 category: "argent"
 tags: ["la-temperance-tarot-argent", "la-temperance-signification", "tarot-argent", "arcanes-majeurs-argent", "arcanes-majeurs", "la-temperance", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-18"
 image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

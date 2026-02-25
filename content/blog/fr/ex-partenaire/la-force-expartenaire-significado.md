@@ -3,7 +3,7 @@ title: "La Force dans le Tarot : Signification sur le Retour d'un Ex-Partenaire"
 description: "Découvrez la signification profonde de la carte La Force dans le contexte du retour d'un ex. Un guide réflexif sur la force intérieure et la patience."
 category: "ex-partenaire"
 tags: ["la-force-tarot", "ex-reviendra", "signification-tarot", "arcane-majeur", "tarot-relations", "arcanes-majeurs", "la-force", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-28"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

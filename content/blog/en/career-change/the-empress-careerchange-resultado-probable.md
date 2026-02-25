@@ -3,7 +3,7 @@ title: "The Empress in a Career Change: Probable Outcome and Abundance"
 description: "Discover the meaning of The Empress in a job change. Upright and reversed interpretations, practical advice, and the energy of the probable outcome."
 category: "career-change"
 tags: ["the-empress", "tarot-career-change", "probable-outcome-tarot", "major-arcana", "tarot-career-meaning", "major-arcana", "the-empress", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-26"
 image: "https://images.freetarot.fun/blog/la-emperatriz__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

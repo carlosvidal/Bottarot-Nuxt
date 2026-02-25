@@ -3,7 +3,7 @@ title: "La Temperanza nelle decisioni importanti: avvertimento ed equilibrio"
 description: "Scopri il messaggio di avvertimento de La Temperanza nelle scelte cruciali. Impara a riconoscere i segnali di squilibrio e come proteggere la tua energia."
 category: "decisioni"
 tags: ["la-temperanza-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "equilibrio-spirituale", "avvertimento-tarocchi", "arcani-maggiori", "la-temperanza", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-26"
 image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

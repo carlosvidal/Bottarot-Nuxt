@@ -3,7 +3,7 @@ title: "O Sol Tarot 2026: Significado, Energia e Ciclo de Luz"
 description: "Descubra o significado da carta O Sol para 2026. Explore sua energia de sucesso, alegria e vitalidade no contexto do novo ciclo, sem previsões absolutas."
 category: "futuro"
 tags: ["o-sol-tarot", "tarot-2026", "arcanos-maiores", "previsao-tarot", "arcanos-maiores", "o-sol", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-25"
 image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6

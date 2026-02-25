@@ -3,7 +3,7 @@ title: "The Chariot at Work: Meaning and Probable Outcome"
 description: "Discover the meaning of The Chariot in a work context. Learn the probable outcome this card suggests and how to influence your professional path."
 category: "career"
 tags: ["the-chariot-tarot", "tarot-career", "major-arcana", "tarot-meaning", "tarot-cards", "major-arcana", "the-chariot", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-17"
 image: "https://images.freetarot.fun/blog/el-carro__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

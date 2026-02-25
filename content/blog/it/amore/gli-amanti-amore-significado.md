@@ -3,7 +3,7 @@ title: "Gli Amanti nell'Amore: Significato Profondo dell'Arcano Maggiore"
 description: "Scopri il significato della carta Gli Amanti nel contesto dell'amore. Una guida completa sul suo simbolismo, interpretazione e messaggio per le tue relazioni."
 category: "amore"
 tags: ["gli-amanti-tarot", "tarot-amore", "significato-tarot", "arcani-maggiori", "relazioni-tarot", "arcani-maggiori", "gli-amanti", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-15"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Imperatore nelle Decisioni Importanti: Avvertimento e Precauzioni"
 description: "Scopri il messaggio di avvertimento de L'Imperatore nelle decisioni cruciali. Impara a riconoscere i segnali d'allarme e a proteggere la tua energia."
 category: "decisioni"
 tags: ["l-imperatore-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "avvertimento-tarocchi", "significato-tarocchi", "arcani-maggiori", "l-imperatore", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-16"
 image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

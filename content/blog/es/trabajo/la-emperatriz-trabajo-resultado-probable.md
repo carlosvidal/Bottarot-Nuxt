@@ -3,7 +3,7 @@ title: "La Emperatriz en el Trabajo: Resultado Probable y Abundancia"
 description: "Descubre el significado de La Emperatriz en el ámbito laboral. Interpretación, consejos prácticos y energía de resultado probable para tu carrera."
 category: "trabajo"
 tags: ["La Emperatriz tarot trabajo", "tarot trabajo", "significado La Emperatriz en el trabajo", "Arcanos Mayores", "arcanos-mayores", "la-emperatriz", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-07"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

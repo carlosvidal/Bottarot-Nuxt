@@ -3,7 +3,7 @@ title: "The Moon in Money: Tarot Meaning on Finances and Illusion"
 description: "Discover the profound meaning of The Moon in the context of money. Learn to interpret its messages about financial fears, intuition, and veiled reality."
 category: "money"
 tags: ["the-moon-tarot", "tarot-money", "the-moon-meaning", "major-arcana-money", "finances-and-tarot", "major-arcana", "the-moon", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-31"
 image: "https://images.freetarot.fun/blog/la-luna__dinero-significado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Wheel of Fortune and Money: Its Meaning in Tarot"
 description: "Discover the profound meaning of The Wheel of Fortune in the context of money. Learn about financial cycles, change, and how to flow with fortune."
 category: "money"
 tags: ["wheel-of-fortune", "tarot-money", "major-arcana", "tarot-meaning", "financial-fortune", "major-arcana", "wheel-of-fortune", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-17"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "en"
 readingTime: 6

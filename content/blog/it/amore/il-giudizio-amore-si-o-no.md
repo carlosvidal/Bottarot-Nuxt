@@ -3,7 +3,7 @@ title: "Il Giudizio nell'Amore: È un Sì o un No? Riflessione e Rinascita"
 description: "Scopri il significato della carta Il Giudizio in amore. Una guida profonda sul suo messaggio di riflessione, perdono e la risposta sfumata alla tua domanda di sì o no."
 category: "amore"
 tags: ["il-giudizio-tarot-amore", "il-giudizio-si-o-no", "significato-il-giudizio-in-amore", "tarot-amore", "arcani-maggiori", "rinascita-amorosa", "arcani-maggiori", "il-giudizio", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-27"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6

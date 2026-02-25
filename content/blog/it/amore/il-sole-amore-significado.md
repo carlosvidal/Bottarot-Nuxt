@@ -3,7 +3,7 @@ title: "Il Sole nell'Amore: Significato di Gioia e Connessione Autentica"
 description: "Scopri il profondo significato della carta Il Sole nell'amore. Una guida su gioia, autenticità e la luce che illumina le relazioni."
 category: "amore"
 tags: ["il-sole-tarot", "tarot-amore", "arcani-maggiori", "significato-tarot", "amore-e-tarot", "arcani-maggiori", "il-sole", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-08"
 image: "https://images.freetarot.fun/blog/el-sol__amor-significado.webp"
 locale: "it"
 readingTime: 5

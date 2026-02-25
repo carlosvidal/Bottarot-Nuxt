@@ -3,7 +3,7 @@ title: "O Enforcado no Amor: Significado Profundo e Simbolismo"
 description: "Descubra o significado de O Enforcado no amor. Uma carta de suspensão e sacrifício que convida à reflexão profunda sobre os relacionamentos."
 category: "amor"
 tags: ["o-enforcado-tarot-amor", "o-enforcado-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-09"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "pt"
 readingTime: 5

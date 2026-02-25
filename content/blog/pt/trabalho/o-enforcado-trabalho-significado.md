@@ -3,7 +3,7 @@ title: "O Enforcado no Trabalho: Significado e Simbolismo Profundo"
 description: "Descubra o significado de O Enforcado no contexto profissional. Um guia sobre suspensão, perspectiva e sacrifício para transformar sua carreira."
 category: "trabalho"
 tags: ["o-enforcado-tarot-trabalho", "o-enforcado-significado", "tarot-trabalho", "arcanos-maiores", "arcanos-maiores", "o-enforcado", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-08"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

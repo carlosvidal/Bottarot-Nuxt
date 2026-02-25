@@ -3,7 +3,7 @@ title: "Los Enamorados y el Ex: Significado en Tarot sobre Reconciliación"
 description: "Descubre el profundo significado de la carta Los Enamorados en el contexto de 'ex pareja volverá mi ex'. Una guía reflexiva sobre elección, amor y reconciliación."
 category: "ex-pareja"
 tags: ["Los Enamorados", "tarot ex pareja", "significado tarot", "arcanos mayores", "amor y reconciliación", "arcanos-mayores", "los-enamorados", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-06"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

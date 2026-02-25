@@ -3,7 +3,7 @@ title: "La Templanza en el Matrimonio: Consejos para el Equilibrio"
 description: "Descubre el significado de La Templanza en el matrimonio. Consejos prácticos y reflexiones profundas para encontrar equilibrio y armonía en tu relación."
 category: "matrimonio"
 tags: ["La Templanza tarot matrimonio", "La Templanza consejo", "significado La Templanza en el matrimonio", "tarot matrimonio", "arcanos-mayores", "la-templanza", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-30"
 image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7

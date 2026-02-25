@@ -3,7 +3,7 @@ title: "A Lua no Casamento: Advertências e Sinais do Subconsciente"
 description: "Descubra o significado da carta A Lua no contexto do casamento. Um alerta sobre ilusões, medos ocultos e como proteger sua união."
 category: "casados"
 tags: ["a-lua-tarot", "tarot-se-estou-casado", "advertencia-tarot", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "a-lua", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-04"
 image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Papessa nelle Decisioni: Avvertimento e Saggezza Interiore"
 description: "Scopri il messaggio di avvertimento de La Papessa nelle decisioni importanti. Impara a riconoscere i segnali e proteggere la tua energia."
 category: "decisioni"
 tags: ["la-papessa-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "intuizione-tarocchi", "avvertimento-tarocchi", "arcani-maggiori", "la-papessa", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-25"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

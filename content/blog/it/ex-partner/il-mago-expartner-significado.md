@@ -3,7 +3,7 @@ title: "Il Mago nel Tarocchi: Significato sul Ritorno dell'Ex Partner"
 description: "Scopri il profondo significato de Il Mago nel contesto 'ex tornerà'. Una guida simbolica su manifestazione e potere personale nel tarocchi."
 category: "ex-partner"
 tags: ["il-mago-tarocchi", "ex-tornera", "significato-il-mago", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "il-mago", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-11"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

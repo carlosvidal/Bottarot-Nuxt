@@ -3,7 +3,7 @@ title: "La Giustizia nel Cambio Lavorativo: Equilibrio e Risultato Probabile"
 description: "Scopri il significato della carta La Giustizia in un cambio di lavoro. Analizziamo la sua energia di equilibrio, verità e il risultato probabile che suggerisce."
 category: "cambio-lavoro"
 tags: ["la-giustizia-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-lavoro", "arcani-maggiori", "la-giustizia", "cambio-di-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-06"
 image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

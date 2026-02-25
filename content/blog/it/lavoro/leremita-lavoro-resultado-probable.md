@@ -3,7 +3,7 @@ title: "L'Eremita nel lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de L'Eremita (Arcano 9) nella tua vita lavorativa. Interpretazione, consigli pratici e riflessione sulla ricerca interiore."
 category: "lavoro"
 tags: ["l-eremita-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "arcani-maggiori", "l-eremita", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-02"
 image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

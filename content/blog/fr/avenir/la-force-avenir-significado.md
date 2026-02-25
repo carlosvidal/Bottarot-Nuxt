@@ -3,7 +3,7 @@ title: "La Force dans le Futur : Signification et Message du Tarot"
 description: "Découvrez la signification profonde de La Force (Arcane 8) dans les tirages sur l'avenir. Apprenez-en plus sur votre pouvoir intérieur, votre patience et le courage pour ce qui vient."
 category: "avenir"
 tags: ["la-force-tarot", "signification-tarot", "arcanes-majeurs", "avenir-tarot", "arcanes-majeurs", "la-force", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-05"
 image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

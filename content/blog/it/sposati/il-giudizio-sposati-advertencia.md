@@ -3,7 +3,7 @@ title: "Il Giudizio nel Matrimonio: Avvertimenti e Riflessioni dal Tarocco"
 description: "Scopri il significato della carta Il Giudizio nel contesto del matrimonio. Una guida sui suoi avvertimenti, schemi da evitare e protezione energetica."
 category: "sposati"
 tags: ["il-giudizio-tarocco", "tarocco-se-sono-sposato", "arcani-maggiori", "avvertimento-tarocco", "interpretazione-tarocco", "arcani-maggiori", "il-giudizio", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-08"
 image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Justice at Work: Balance and Professional Truth in Tarot"
 description: "Discover the meaning of the Justice tarot card in your career. Learn about fairness, ethical decisions, and the balance between giving and receiving professionally."
 category: "career"
 tags: ["justice-tarot", "tarot-career", "major-arcana", "work-balance", "professional-ethics", "major-arcana", "justice", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-06"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

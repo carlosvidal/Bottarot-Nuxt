@@ -3,7 +3,7 @@ title: "The Empress in 2026: Abundance and Creativity in the New Cycle"
 description: "Discover the meaning of The Empress for 2026. Explore her message of fertility, creativity, and abundance within the context of the new energetic cycle."
 category: "future"
 tags: ["the-empress", "tarot-2026", "tarot-prediction", "major-arcana", "abundance", "major-arcana", "the-empress", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-03"
 image: "https://images.freetarot.fun/blog/la-emperatriz__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

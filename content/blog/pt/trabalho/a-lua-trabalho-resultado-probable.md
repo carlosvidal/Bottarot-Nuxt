@@ -3,7 +3,7 @@ title: "A Lua no trabalho: significado e resultado provável"
 description: "Descubra o significado de A Lua no tarô para o trabalho. Interprete sua energia de ilusão e subconsciente para entender o resultado provável na sua carreira."
 category: "trabalho"
 tags: ["a-lua-tarot-trabalho", "a-lua-resultado-provavel", "significado-a-lua-no-trabalho", "tarot-trabalho", "arcanos-maiores", "a-lua", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-31"
 image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

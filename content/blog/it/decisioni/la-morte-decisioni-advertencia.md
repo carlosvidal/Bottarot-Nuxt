@@ -3,7 +3,7 @@ title: "La Morte nel Tarocchi: Avvertimento per Decisioni Importanti"
 description: "Scopri il messaggio di avvertimento de La Morte (Arcano 13) nelle decisioni cruciali. Impara a riconoscere i segnali di una trasformazione forzata e come navigare questi cicli."
 category: "decisioni"
 tags: ["la-morte-tarocchi", "decisioni-importanti-tarocchi", "arcano-maggiore-13", "trasformazione-tarocchi", "avvertimento-tarocchi", "arcani-maggiori", "la-morte", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-05"
 image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

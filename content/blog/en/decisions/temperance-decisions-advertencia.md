@@ -3,7 +3,7 @@ title: "Temperance in Important Decisions: A Warning for Balance"
 description: "Discover the warning message of the Temperance card in crucial decisions. Learn to recognize signs of imbalance and how to protect your energy."
 category: "decisions"
 tags: ["temperance-tarot", "tarot-important-decisions", "major-arcana", "spiritual-balance", "tarot-warning", "major-arcana", "temperance", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-23"
 image: "https://images.freetarot.fun/blog/la-templanza__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5

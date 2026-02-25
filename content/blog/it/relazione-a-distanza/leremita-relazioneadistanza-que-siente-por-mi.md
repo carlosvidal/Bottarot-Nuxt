@@ -3,7 +3,7 @@ title: "L'Eremita in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il messaggio de L'Eremita nella tua relazione a distanza. Una guida profonda sui suoi sentimenti, intenzioni e l'energia dell'introspezione."
 category: "relazione-a-distanza"
 tags: ["l-eremita-tarocchi", "relazione-a-distanza", "cosa-prova-per-me", "arcani-maggiori", "tarocchi-emotivo", "arcani-maggiori", "l-eremita", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-28"
 image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5

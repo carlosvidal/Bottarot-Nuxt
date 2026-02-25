@@ -172,9 +172,10 @@ export default defineNuxtConfig({
     },
   },
 
-  // Netlify deployment preset + prerendering
+  // Deployment preset is set via NITRO_PRESET env var:
+  //   Netlify: NITRO_PRESET=netlify (set in netlify.toml)
+  //   Docker/Coolify: defaults to node-server (no env var needed)
   nitro: {
-    preset: 'netlify',
     prerender: {
       // Crawl NuxtLink elements found in prerendered pages to discover blog articles
       crawlLinks: true,

@@ -3,7 +3,7 @@ title: "O Diabo no Casamento: Dicas para Libertar Laços e Encontrar a Liberdade
 description: "Descubra o significado da carta O Diabo no contexto do casamento. Reflexões e conselhos práticos para transformar dependências em liberdade e autenticidade."
 category: "casamento"
 tags: ["o-diabo-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "relacionamentos-tarot", "arcanos-maiores", "o-diabo", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-15"
 image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

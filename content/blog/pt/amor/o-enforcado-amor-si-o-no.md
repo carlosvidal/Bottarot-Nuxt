@@ -3,7 +3,7 @@ title: "O Enforcado no Amor: É um Sim ou um Não? Significado e Conselhos"
 description: "Descubra o profundo significado de O Enforcado no amor. Aprenda a interpretar sua mensagem de suspensão e sacrifício para sua vida afetiva."
 category: "amor"
 tags: ["o-enforcado-tarot-amor", "o-enforcado-sim-ou-nao", "significado-o-enforcado-no-amor", "tarot-amor", "arcanos-maiores", "leitura-de-tarot", "arcanos-maiores", "o-enforcado", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-13"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6

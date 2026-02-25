@@ -3,7 +3,7 @@ title: "O Eremita no Relacionamento à Distância: O Que Ele Sente por Você"
 description: "Descubra a mensagem de O Eremita no seu relacionamento à distância. Um guia profundo sobre seus sentimentos, intenções e a energia da introspecção."
 category: "relacionamento-a-distancia"
 tags: ["o-eremita-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-eremita", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-21"
 image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 5

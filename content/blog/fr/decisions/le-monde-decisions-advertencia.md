@@ -3,7 +3,7 @@ title: "Le Monde Tarot : Avertissement dans les Décisions Importantes"
 description: "Découvrez la signification de la carte Le Monde dans les décisions cruciales. Un guide sur les signaux d'alerte, les schémas à éviter et la protection énergétique."
 category: "decisions"
 tags: ["le-monde-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "arcanes-majeurs", "le-monde", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-02"
 image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

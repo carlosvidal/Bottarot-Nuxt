@@ -3,7 +3,7 @@ title: "A Lua no Tarot: Um Alerta para Decisões Importantes"
 description: "Descubra a mensagem de alerta da Lua (Arcano 18) em decisões cruciais. Aprenda a reconhecer ilusões e proteger sua energia."
 category: "decisoes"
 tags: ["a-lua-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "arcanos-maiores", "a-lua", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-06"
 image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Sacerdotisa en el Amor: ¿Es un Sí o un No?"
 description: "Descubre el significado de La Sacerdotisa en el amor. Una guía profunda sobre intuición, misterio y cómo interpretar su mensaje en relaciones."
 category: "amor"
 tags: ["La Sacerdotisa tarot amor", "La Sacerdotisa si o no", "significado La Sacerdotisa en el amor", "tarot amor", "arcanos mayores", "intuición amorosa", "arcanos-mayores", "la-sacerdotisa", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-26"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "El Sol en Ex Pareja: Qué Siente por Ti y su Significado"
 description: "Descubre el mensaje de El Sol en tarot sobre tu ex pareja. Aprende qué sentimientos y energía proyecta hacia ti según este arcano de alegría y éxito."
 category: "ex-pareja"
 tags: ["El Sol tarot", "tarot ex pareja", "arcanos mayores", "interpretación tarot", "qué siente ex pareja", "arcanos-mayores", "el-sol", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-02"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

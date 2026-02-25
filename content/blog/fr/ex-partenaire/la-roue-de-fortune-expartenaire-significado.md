@@ -3,7 +3,7 @@ title: "La Roue de Fortune et l'Ex : Signification dans le Tarot"
 description: "Découvrez la signification profonde de la Roue de Fortune dans le contexte d'un ex-partenaire. Apprenez-en plus sur les cycles, le destin et le message du tarot."
 category: "ex-partenaire"
 tags: ["la-roue-de-fortune", "tarot-ex-partenaire", "signification-tarot", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "la-roue-de-fortune", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-21"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

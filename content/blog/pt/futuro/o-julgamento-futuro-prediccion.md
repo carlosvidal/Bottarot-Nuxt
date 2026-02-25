@@ -3,7 +3,7 @@ title: "O Julgamento Tarot 2026: Renascimento e Reflexão Coletiva"
 description: "Descubra o significado da carta O Julgamento para 2026. Uma análise simbólica sobre ciclos de renascimento, avaliação coletiva e oportunidades de transformação."
 category: "futuro"
 tags: ["o-julgamento-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-03"
 image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5

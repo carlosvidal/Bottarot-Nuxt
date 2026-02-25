@@ -3,7 +3,7 @@ title: "The Hanged Man in a Career Change: Meaning and Probable Outcome"
 description: "Discover the message of The Hanged Man in a job transition. Learn its meaning, interpretation, and practical advice for navigating this period of suspension."
 category: "career-change"
 tags: ["the-hanged-man-tarot", "career-change", "major-arcana", "tarot-career", "probable-outcome", "major-arcana", "the-hanged-man", "career-transition"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-06"
 image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

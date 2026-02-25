@@ -3,7 +3,7 @@ title: "Le Mat en Amour : Signification des Nouveaux Départs et de la Spontané
 description: "Découvrez la signification profonde du Mat en amour. Un voyage symbolique sur les nouveaux départs, l'innocence et l'aventure d'ouvrir son cœur sans peur."
 category: "amour"
 tags: ["le-mat-tarot-amour", "le-mat-signification", "tarot-amour", "arcanes-majeurs", "arcanes-majeurs", "le-mat", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-09"
 image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "fr"
 readingTime: 6

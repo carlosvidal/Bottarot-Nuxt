@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna e il tuo ex: Cosa prova per te?"
 description: "Scopri il significato della carta La Ruota della Fortuna nel contesto di un ex partner. Interpretazione emotiva ed energetica sui suoi sentimenti."
 category: "ex-partner"
 tags: ["la-ruota-della-fortuna", "tarot-ex-partner", "arcani-maggiori", "interpretazione-tarot", "cosa-sente-ex", "arcani-maggiori", "la-ruota-della-fortuna", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-05"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

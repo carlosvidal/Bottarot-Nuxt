@@ -3,7 +3,7 @@ title: "El Mundo Tarot y Ex Pareja: Qué Siente por Ti"
 description: "Descubre el significado de la carta El Mundo en el contexto de una ex pareja. Interpreta qué siente por ti según este Arcano Mayor de culminación."
 category: "ex-pareja"
 tags: ["El Mundo tarot", "tarot ex pareja", "arcanos mayores", "interpretación tarot", "qué siente ex pareja", "arcanos-mayores", "el-mundo", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-22"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

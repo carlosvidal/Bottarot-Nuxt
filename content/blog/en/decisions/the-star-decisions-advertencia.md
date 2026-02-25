@@ -3,7 +3,7 @@ title: "The Star in Important Decisions: Warning and Guidance"
 description: "Discover the warning message of The Star in crucial decisions. Learn to interpret its signals and protect your energy for a clear path forward."
 category: "decisions"
 tags: ["the-star-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-spirituality", "major-arcana", "the-star", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-16"
 image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

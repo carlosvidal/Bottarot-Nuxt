@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en Cambio de Trabajo: Resultado Probable"
 description: "Descubre el significado de El Sumo Sacerdote en un cambio de trabajo. Analizamos su energía de tradición y estructura para revelar el resultado probable de tu transición laboral."
 category: "cambio-de-trabajo"
 tags: ["El Sumo Sacerdote", "tarot cambio de trabajo", "Arcano Mayor 5", "resultado probable tarot", "arcanos-mayores", "el-sumo-sacerdote", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-06"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

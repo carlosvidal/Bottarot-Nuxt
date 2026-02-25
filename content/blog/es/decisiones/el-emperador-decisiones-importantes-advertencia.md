@@ -3,7 +3,7 @@ title: "El Emperador en Decisiones Importantes: Advertencia y Precauciones"
 description: "Descubre el mensaje de advertencia de El Emperador en decisiones cruciales. Aprende a reconocer señales de alerta y a proteger tu energía."
 category: "decisiones"
 tags: ["El Emperador tarot", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "significado tarot", "arcanos-mayores", "el-emperador", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-16"
 image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

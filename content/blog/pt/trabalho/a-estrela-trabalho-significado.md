@@ -3,7 +3,7 @@ title: "A Estrela no trabalho: significado, esperança e orientação profission
 description: "Descubra o profundo significado de A Estrela (Arcano 17) no contexto profissional. Uma guia sobre esperança, inspiração e clareza no seu caminho de carreira."
 category: "trabalho"
 tags: ["a-estrela-tarot", "tarot-trabalho", "significado-a-estrela", "arcanos-maiores", "guia-profissional-tarot", "arcanos-maiores", "a-estrela", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-28"
 image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Jugement dans le Futur : Signification de Renaissance et d'Appel"
 description: "Découvrez la signification profonde de la carte Le Jugement dans le futur. Une analyse sur son symbolisme de réflexion, de pardon et de renaissance sur votre chemin."
 category: "avenir"
 tags: ["le-jugement-tarot", "tarot-futur", "signification-tarot", "arcanes-majeurs", "renaissance-spirituelle", "arcanes-majeurs", "le-jugement", "futur"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-17"
 image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "fr"
 readingTime: 5

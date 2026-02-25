@@ -3,7 +3,7 @@ title: "Le Monde dans le Mariage : Conseils pour l'Épanouissement Conjugal"
 description: "Découvrez la signification de la carte Le Monde dans le contexte du mariage. Conseils pratiques et réflexions profondes pour atteindre la plénitude dans votre relation."
 category: "mariage"
 tags: ["le-monde-tarot", "tarot-mariage", "arcanes-majeurs", "conseils-tarot", "plenitude-conjugale", "arcanes-majeurs", "le-monde", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-09"
 image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

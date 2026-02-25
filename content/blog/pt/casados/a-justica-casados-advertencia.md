@@ -3,7 +3,7 @@ title: "A Justiça no Tarot: Um Alerta para Casamentos"
 description: "Descubra a mensagem de alerta de A Justiça (Arcano 11) no contexto do casamento. Aprenda a reconhecer desequilíbrios e proteger sua união."
 category: "casados"
 tags: ["a-justica-tarot", "tarot-se-estou-casado", "alerta-tarot", "arcanos-maiores", "casamento-tarot", "arcanos-maiores", "a-justica", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-14"
 image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

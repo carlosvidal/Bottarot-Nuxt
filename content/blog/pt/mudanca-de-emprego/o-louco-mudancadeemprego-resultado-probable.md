@@ -3,7 +3,7 @@ title: "O Louco no trabalho: significado e resultado provável na mudança de em
 description: "Descubra a mensagem de O Louco (Arcano 0) para uma mudança de trabalho. Interpretação, energia de resultado e conselhos práticos para seu novo caminho."
 category: "mudanca-de-emprego"
 tags: ["o-louco-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-laboral", "novos-comecos", "arcanos-maiores", "o-louco", "mudanca-de-trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-19"
 image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

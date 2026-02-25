@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote y tu ex: ¿Qué siente realmente por ti?"
 description: "Descubre el significado de El Sumo Sacerdote en el contexto de una ex pareja. Una lectura profunda sobre sus sentimientos, intenciones y la energía que proyecta hacia ti."
 category: "ex-pareja"
 tags: ["El Sumo Sacerdote tarot ex pareja", "El Sumo Sacerdote qué siente por mí", "significado El Sumo Sacerdote en el ex pareja", "tarot ex pareja", "arcanos mayores", "lectura de tarot", "arcanos-mayores", "el-sumo-sacerdote", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-12"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

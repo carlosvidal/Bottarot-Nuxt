@@ -3,7 +3,7 @@ title: "La Lune en Amour : Un Oui ou un Non ? Signification Tarot"
 description: "Découvrez la signification profonde de la carte La Lune au tarot en amour. Un guide sur les illusions, les peurs et la réponse nuancée à votre question de oui ou non."
 category: "amour"
 tags: ["la-lune-tarot-amour", "tarot-amour", "arcanes-majeurs", "tarot-oui-ou-non", "signification-la-lune", "arcanes-majeurs", "la-lune", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-16"
 image: "https://images.freetarot.fun/blog/la-luna__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

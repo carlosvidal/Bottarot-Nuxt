@@ -3,7 +3,7 @@ title: "La Tempérance au travail : équilibre et résultat probable"
 description: "Découvrez la signification de la carte La Tempérance dans le contexte professionnel. Interprétation à l'endroit et à l'envers, conseils pratiques et réflexion sur le résultat probable."
 category: "travail"
 tags: ["la-temperance-tarot-travail", "la-temperance-resultat-probable", "signification-la-temperance-travail", "tarot-travail", "arcanes-majeurs", "equilibre-professionnel", "arcanes-majeurs", "la-temperance", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-10"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

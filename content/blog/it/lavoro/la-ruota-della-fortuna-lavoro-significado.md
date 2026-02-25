@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna nel Lavoro: Significato e Cicli Professionali"
 description: "Scopri il profondo significato de La Ruota della Fortuna nel contesto lavorativo. Impara a navigare i cicli professionali con saggezza e fluidità."
 category: "lavoro"
 tags: ["tarocchi-lavoro", "la-ruota-della-fortuna", "arcani-maggiori", "significato-tarocchi", "cambio-professionale", "arcani-maggiori", "la-ruota-della-fortuna", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-02"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "it"
 readingTime: 7

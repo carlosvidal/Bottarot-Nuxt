@@ -3,7 +3,7 @@ title: "El Juicio en cambio de trabajo: significado y resultado probable"
 description: "Descubre el mensaje de El Juicio (Arcano 20) en un cambio laboral. Aprende su significado, interpretación y consejos prácticos para tu transformación profesional."
 category: "cambio-de-trabajo"
 tags: ["El Juicio tarot", "cambio de trabajo", "Arcanos Mayores", "tarot profesional", "arcanos-mayores", "el-juicio", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-25"
 image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

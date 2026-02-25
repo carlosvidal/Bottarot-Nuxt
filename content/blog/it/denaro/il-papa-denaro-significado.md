@@ -3,7 +3,7 @@ title: "Il Papa e il Denaro: Significato nel Tarocco"
 description: "Scopri il profondo significato della carta Il Papa nel contesto del denaro. Tradizione, saggezza finanziaria e strutture consolidate."
 category: "denaro"
 tags: ["il-papa-tarocco", "tarocco-denaro", "significato-tarocco", "arcani-maggiori", "finanze-tarocco", "arcani-maggiori", "il-papa", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-12"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "it"
 readingTime: 6

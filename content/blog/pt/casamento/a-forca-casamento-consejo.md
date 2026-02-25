@@ -3,7 +3,7 @@ title: "A Força no Casamento: Conselhos do Tarô para Fortalecer a União"
 description: "Descubra o significado da carta A Força no contexto do casamento. Conselhos práticos e reflexões profundas para fortalecer seu vínculo conjugal."
 category: "casamento"
 tags: ["a-forca-tarot", "tarot-casamento", "conselhos-tarot", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-forca", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-17"
 image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

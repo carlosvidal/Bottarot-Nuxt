@@ -3,7 +3,7 @@ title: "The Fool in the Future: Meaning of New Beginnings in Tarot"
 description: "Discover the profound meaning of The Fool in the future. A guide on new paths, trust, and the energy of beginnings in your tarot reading."
 category: "future"
 tags: ["the-fool-tarot", "tarot-meaning", "major-arcana", "future-tarot", "major-arcana", "the-fool", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-03"
 image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "en"
 readingTime: 6

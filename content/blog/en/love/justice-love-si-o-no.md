@@ -3,7 +3,7 @@ title: "Justice in Love: Balance and Truth in Your Relationship"
 description: "Discover the meaning of the Justice tarot card in love. Learn its message about balance, fair decisions, and how to interpret its energy for a 'yes' or a 'no'."
 category: "love"
 tags: ["justice-tarot-love", "love-tarot", "justice-card-meaning-love", "major-arcana", "major-arcana-cards", "justice", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-23"
 image: "https://images.freetarot.fun/blog/la-justicia__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

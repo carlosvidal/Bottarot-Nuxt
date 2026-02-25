@@ -3,7 +3,7 @@ title: "The Lovers and Your Ex: Tarot Meaning on Reconciliation"
 description: "Discover the profound meaning of The Lovers card in the context of 'will my ex come back'. A reflective guide on choice, love, and reconciliation."
 category: "ex-partner"
 tags: ["the-lovers", "tarot-ex-partner", "tarot-meaning", "major-arcana", "love-and-reconciliation", "major-arcana", "the-lovers", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-16"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

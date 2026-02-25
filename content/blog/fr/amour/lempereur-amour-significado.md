@@ -3,7 +3,7 @@ title: "L'Empereur en Amour : Signification d'Autorité et de Structure"
 description: "Découvrez la signification de L'Empereur en amour. Un guide approfondi sur l'influence de l'énergie d'autorité et de structure dans les relations."
 category: "amour"
 tags: ["l-empereur-tarot", "tarot-amour", "signification-tarot", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "l-empereur", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-30"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-significado.webp"
 locale: "fr"
 readingTime: 6

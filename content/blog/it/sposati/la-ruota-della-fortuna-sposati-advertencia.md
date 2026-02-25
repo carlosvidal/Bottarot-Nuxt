@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna nel Matrimonio: Avvertimenti e Cicli"
 description: "Scopri il messaggio di avvertimento della Ruota della Fortuna nel contesto del matrimonio. Impara a riconoscere i segni del cambiamento e come proteggere la tua unione."
 category: "sposati"
 tags: ["la-ruota-della-fortuna", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "cambiamento-matrimonio", "arcani-maggiori", "la-ruota-della-fortuna", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-20"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

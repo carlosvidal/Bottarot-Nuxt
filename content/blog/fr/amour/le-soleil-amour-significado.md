@@ -3,7 +3,7 @@ title: "Le Soleil en Amour : Signification de Joie et de Connexion Authentique"
 description: "Découvrez la signification profonde de la carte Le Soleil en amour. Un guide sur la joie, l'authenticité et la lumière qui illumine les relations."
 category: "amour"
 tags: ["le-soleil-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "amour-et-tarot", "arcanes-majeurs", "le-soleil", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-07"
 image: "https://images.freetarot.fun/blog/el-sol__amor-significado.webp"
 locale: "fr"
 readingTime: 6

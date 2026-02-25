@@ -3,7 +3,7 @@ title: "La Mort au Tarot : Transformation et Ex-Partenaire"
 description: "Découvrez la signification profonde de la carte La Mort dans le contexte d'un ex-partenaire. Ce n'est pas une fin, mais une transformation essentielle pour votre chemin."
 category: "ex-partenaire"
 tags: ["la-mort-tarot", "ex-partenaire-tarot", "signification-tarot", "arcanes-majeurs", "la-mort", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-26"
 image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

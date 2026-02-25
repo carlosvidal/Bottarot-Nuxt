@@ -3,7 +3,7 @@ title: "La Forza nel Futuro: Significato e Messaggio del Tarocchi"
 description: "Scopri il profondo significato de La Forza (Arcano 8) nelle letture sul futuro. Impara sul tuo potere interiore, pazienza e il coraggio per ciò che verrà."
 category: "futuro"
 tags: ["la-forza-tarocchi", "significato-tarocchi", "arcani-maggiori", "futuro-tarocchi", "arcani-maggiori", "la-forza", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-22"
 image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "it"
 readingTime: 6

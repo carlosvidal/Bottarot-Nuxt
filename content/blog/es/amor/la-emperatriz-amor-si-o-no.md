@@ -3,7 +3,7 @@ title: "La Emperatriz en el Amor: ¿Es un Sí o un No?"
 description: "Descubre el significado de La Emperatriz en el amor. Una guía profunda sobre su energía de fertilidad y abundancia para relaciones, con una respuesta matizada a la pregunta '¿sí o no?'."
 category: "amor"
 tags: ["La Emperatriz tarot amor", "La Emperatriz si o no", "significado La Emperatriz en el amor", "tarot amor", "arcanos mayores", "amor y tarot", "arcanos-mayores", "la-emperatriz", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-21"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Torre em 2026: Significado e Energia de Mudança Súbita"
 description: "Explore o significado de A Torre no tarot para 2026. Descubra sua mensagem sobre ciclos de ruptura, revelação e transformação coletiva."
 category: "futuro"
 tags: ["a-torre-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "mudanca-tarot", "arcanos-maiores", "a-torre", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-21"
 image: "https://images.freetarot.fun/blog/la-torre__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5

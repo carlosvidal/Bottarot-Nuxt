@@ -3,7 +3,7 @@ title: "L'Empereur et l'Argent : Signification de l'Autorité et de la Structure
 description: "Découvrez la signification profonde de la carte L'Empereur dans le contexte de l'argent. Apprenez-en plus sur la structure financière, le contrôle et l'énergie de l'Arcane Majeur 4."
 category: "argent"
 tags: ["l-empereur-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "l-empereur", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-27"
 image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

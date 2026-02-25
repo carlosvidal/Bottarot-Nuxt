@@ -3,7 +3,7 @@ title: "Le Pape dans les décisions importantes : Avertissement du tarot"
 description: "Découvrez le message d'avertissement du Pape face à un choix crucial. Apprenez à identifier les signaux d'alerte et les schémas à éviter pour préserver votre authenticité."
 category: "decisions"
 tags: ["le-pape", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "conseil-spirituel", "arcanes-majeurs", "le-pape", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-23"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 5

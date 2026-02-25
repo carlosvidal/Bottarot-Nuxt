@@ -3,7 +3,7 @@ title: "A Imperatriz no Amor: Significado, Abundância e Conexão"
 description: "Descubra o profundo significado de A Imperatriz no amor. Um arcano de criatividade, fertilidade e conexão íntima que nutre o coração."
 category: "amor"
 tags: ["a-imperatriz-tarot", "tarot-amor", "arcanos-maiores", "significado-tarot", "amor-e-tarot", "arcanos-maiores", "a-imperatriz", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-06"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-significado.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Soleil dans le Mariage : Avertissements et Ombres dans la Lumière"
 description: "Découvrez la signification de la carte Le Soleil dans le contexte du mariage. Un guide sur ses avertissements, les schémas à éviter et comment protéger votre union."
 category: "maries"
 tags: ["le-soleil-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "mariage-tarot", "arcanes-majeurs", "le-soleil", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-29"
 image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

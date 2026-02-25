@@ -3,7 +3,7 @@ title: "A Torre na mudança de emprego: significado e resultado provável"
 description: "Descubra o significado de A Torre do tarot em uma mudança de emprego. Interprete sua energia de transformação súbita e como influenciar o resultado provável."
 category: "mudanca-de-emprego"
 tags: ["a-torre-tarot", "mudanca-de-emprego-tarot", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "a-torre", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-01"
 image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "El Juicio en el Matrimonio: Advertencias y Reflexiones del Tarot"
 description: "Descubre el significado de la carta El Juicio en el contexto del matrimonio. Una guía sobre sus advertencias, patrones a evitar y protección energética."
 category: "casados"
 tags: ["El Juicio tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "interpretación tarot", "arcanos-mayores", "el-juicio", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-13"
 image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Imperatrice e l'Ex: Significato nel Tarocco sulla Riconciliazione"
 description: "Scopri il profondo significato de L'Imperatrice nel tarocco quando appare in letture su 'ex partner tornerà'. Una guida simbolica e riflessiva."
 category: "ex-partner"
 tags: ["l-imperatrice", "tarocco-ex-partner", "significato-tarocco", "arcani-maggiori", "riconciliazione", "arcani-maggiori", "l-imperatrice", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-29"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

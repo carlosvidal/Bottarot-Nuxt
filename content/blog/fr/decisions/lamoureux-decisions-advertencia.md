@@ -3,7 +3,7 @@ title: "L'Amoureux dans les décisions importantes : avertissement du tarot"
 description: "Découvrez la signification de L'Amoureux dans les décisions cruciales. Un guide sur les avertissements, les pièges à éviter et comment protéger votre énergie."
 category: "decisions"
 tags: ["l-amoureux-tarot", "tarot-decisions-importantes", "arcane-majeur", "avertissement-tarot", "interpretation-tarot", "arcanes-majeurs", "l-amoureux", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-26"
 image: "https://images.freetarot.fun/blog/los-enamorados__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

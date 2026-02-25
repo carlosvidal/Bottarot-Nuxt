@@ -3,7 +3,7 @@ title: "Le Jugement au travail : signification, réflexion et renaissance"
 description: "Découvrez la signification profonde de la carte Le Jugement dans le contexte professionnel. Un guide sur la réflexion, l'évaluation et les nouveaux départs."
 category: "travail"
 tags: ["le-jugement-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-jugement", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-28"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-significado.webp"
 locale: "fr"
 readingTime: 5

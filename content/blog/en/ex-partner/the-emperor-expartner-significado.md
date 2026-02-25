@@ -3,7 +3,7 @@ title: "The Emperor Tarot Card: Meaning for Ex-Partner and Reconciliation"
 description: "Discover the deep meaning of The Emperor in the context of 'will my ex come back'. Symbolic interpretation, practical advice, and reflection for clarity."
 category: "ex-partner"
 tags: ["the-emperor-tarot", "tarot-meaning-ex-partner", "will-my-ex-come-back-tarot", "major-arcana-4", "major-arcana", "the-emperor", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-24"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

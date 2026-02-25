@@ -3,7 +3,7 @@ title: "La Torre en el Tarot: Significado sobre si tu ex pareja volverá"
 description: "Descubre el profundo significado de La Torre en el contexto de 'ex pareja volverá mi ex'. Una guía reflexiva sobre revelaciones y cambios súbitos."
 category: "ex-pareja"
 tags: ["la torre tarot", "ex pareja volverá mi ex", "significado la torre", "tarot ex pareja", "arcanos mayores", "arcanos-mayores", "la-torre", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-14"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "O Hierofante em 2026: Tradição e Novos Códigos"
 description: "Descubra o significado de O Hierofante para 2026. Um guia sobre tradição, educação e as estruturas que moldarão o próximo ciclo."
 category: "futuro"
 tags: ["o-hierofante", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-hierofante", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-12"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5

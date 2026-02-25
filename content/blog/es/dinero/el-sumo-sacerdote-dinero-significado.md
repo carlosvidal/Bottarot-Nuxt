@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote y el Dinero: Significado en el Tarot"
 description: "Descubre el profundo significado de la carta El Sumo Sacerdote en el contexto del dinero. Aprende sobre tradición, sabiduría financiera y estructuras."
 category: "dinero"
 tags: ["El Sumo Sacerdote tarot", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-sumo-sacerdote", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-01"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "es"
 readingTime: 6

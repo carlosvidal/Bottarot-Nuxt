@@ -3,7 +3,7 @@ title: "Il Matto nel lavoro: significato e risultato probabile"
 description: "Scopri il significato de Il Matto nel contesto lavorativo. Interpreta il suo messaggio su nuovi inizi, rischi e il probabile risultato nella tua carriera."
 category: "lavoro"
 tags: ["il-matto-tarocchi-lavoro", "il-matto-risultato-probabile", "significato-il-matto-nel-lavoro", "tarocchi-lavoro", "arcani-maggiori", "tarocchi-carriera", "arcani-maggiori", "il-matto", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-29"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

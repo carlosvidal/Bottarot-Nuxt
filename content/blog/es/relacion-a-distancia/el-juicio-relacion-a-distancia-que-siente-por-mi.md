@@ -3,7 +3,7 @@ title: "El Juicio en Relación a Distancia: Qué Siente por Ti"
 description: "Descubre el mensaje de El Juicio (Arcano 20) en tu relación a distancia. Interpreta sus sentimientos, intenciones y el renacimiento energético que esta carta simboliza."
 category: "relacion-a-distancia"
 tags: ["El Juicio tarot", "relación a distancia", "qué siente por mí", "arcanos mayores", "tarot emocional", "arcanos-mayores", "el-juicio", "relacion-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-09"
 image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Mat et l'Argent : Signification des Nouveaux Départs Financiers"
 description: "Découvrez la signification profonde de la carte du Mat du tarot dans le contexte de l'argent. Apprenez-en plus sur les nouveaux départs, les risques calculés et l'énergie de l'opportunité."
 category: "argent"
 tags: ["le-mat-tarot", "tarot-argent", "signification-le-mat", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-mat", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-16"
 image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

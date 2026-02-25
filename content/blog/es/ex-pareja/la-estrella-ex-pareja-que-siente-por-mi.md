@@ -3,7 +3,7 @@ title: "La Estrella y tu ex pareja: ¿Qué siente realmente por ti?"
 description: "Descubre el mensaje de La Estrella (Arcano 17) sobre los sentimientos de tu ex. Una lectura profunda sobre esperanza, sanación y conexión espiritual."
 category: "ex-pareja"
 tags: ["La Estrella tarot", "tarot ex pareja", "arcanos mayores", "interpretación tarot", "sanación emocional", "arcanos-mayores", "la-estrella", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-03"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

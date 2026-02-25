@@ -3,7 +3,7 @@ title: "O Enforcado no trabalho: significado e resultado provável"
 description: "Descubra a mensagem de O Enforcado no âmbito profissional. Aprenda sobre seu significado, interpretação e o resultado provável sugerido por esta carta."
 category: "trabalho"
 tags: ["o-enforcado-tarot-trabalho", "o-enforcado-resultado-proval", "significado-o-enforcado-no-trabalho", "tarot-trabalho", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "o-enforcado", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-18"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Luna en el trabajo: significado, ilusiones y subconsciente"
 description: "Descubre el profundo significado de la carta de La Luna en el contexto laboral. Aprende a navegar la incertidumbre, los miedos y las intuiciones en tu carrera."
 category: "trabajo"
 tags: ["La Luna tarot", "tarot trabajo", "significado La Luna", "arcanos mayores", "tarot carrera", "arcanos-mayores", "la-luna", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-09"
 image: "https://images.freetarot.fun/blog/la-luna__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

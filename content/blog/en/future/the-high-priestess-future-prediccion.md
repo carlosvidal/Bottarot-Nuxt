@@ -3,7 +3,7 @@ title: "The High Priestess in 2026: Intuition and Inner Wisdom"
 description: "Discover the meaning of The High Priestess for 2026. Explore how her energy of intuition and mystery can guide the cycles of the coming year."
 category: "future"
 tags: ["the-high-priestess", "tarot-2026", "tarot-prediction", "major-arcana", "intuition", "major-arcana", "the-high-priestess", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-25"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

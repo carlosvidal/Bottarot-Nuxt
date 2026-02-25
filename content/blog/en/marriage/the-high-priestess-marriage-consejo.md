@@ -3,7 +3,7 @@ title: "The High Priestess in Marriage: Wisdom from Your Inner Voice"
 description: "Discover The High Priestess's guidance for your marriage. Learn to listen to your intuition and deepen the spiritual connection within your relationship."
 category: "marriage"
 tags: ["the-high-priestess", "marriage-tarot", "tarot-advice", "major-arcana", "couples-intuition", "major-arcana", "the-high-priestess", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-24"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

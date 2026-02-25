@@ -3,7 +3,7 @@ title: "The Hanged Man in Love: Is It a Yes or a No? Meaning and Advice"
 description: "Discover the profound meaning of The Hanged Man in love. Learn to interpret its message of suspension and sacrifice for your emotional life."
 category: "love"
 tags: ["the-hanged-man-tarot-love", "the-hanged-man-yes-or-no", "meaning-the-hanged-man-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-hanged-man", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-01"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Fool at Work: Meaning of New Career Beginnings in Tarot"
 description: "Discover the deep meaning of The Fool tarot card in a career context. Learn about new paths, calculated risks, and the energy of fresh starts."
 category: "career"
 tags: ["the-fool-tarot", "tarot-career", "tarot-meaning", "major-arcana", "new-beginnings", "major-arcana", "the-fool", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-19"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

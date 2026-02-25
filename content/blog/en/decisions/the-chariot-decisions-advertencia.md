@@ -3,7 +3,7 @@ title: "The Chariot Tarot: A Warning for Important Decisions"
 description: "Discover the warning message of The Chariot (Major Arcana 7) in crucial decisions. Learn to recognize the alert signs and how to protect your energy."
 category: "decisions"
 tags: ["the-chariot-tarot", "important-decisions-tarot", "major-arcana-7", "tarot-warning", "major-arcana", "the-chariot", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-13"
 image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5

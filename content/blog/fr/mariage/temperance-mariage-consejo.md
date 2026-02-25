@@ -3,7 +3,7 @@ title: "La Tempérance dans le Mariage : Conseils pour l'Équilibre Conjugal"
 description: "Découvrez la signification de La Tempérance dans le mariage. Conseils pratiques et réflexions profondes pour trouver équilibre et harmonie dans votre relation."
 category: "mariage"
 tags: ["la-temperance-tarot-mariage", "la-temperance-conseil", "signification-la-temperance-mariage", "tarot-mariage", "arcanes-majeurs", "la-temperance", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-21"
 image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

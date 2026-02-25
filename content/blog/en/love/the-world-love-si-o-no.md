@@ -3,7 +3,7 @@ title: "The World in Love: Is it a Yes or a No? Meaning and Advice"
 description: "Discover the meaning of The World card in love. Does it announce a definitive yes or a no? We explain its symbolism and message for your emotional life."
 category: "love"
 tags: ["the-world-tarot", "tarot-love", "major-arcana", "tarot-meaning", "love-and-tarot", "major-arcana", "the-world", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-24"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

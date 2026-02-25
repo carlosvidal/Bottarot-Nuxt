@@ -3,7 +3,7 @@ title: "La Roue de la Fortune dans le Mariage : Guide des Conseils et des Cycles
 description: "Découvrez la signification de la Roue de la Fortune dans le mariage. Conseils pratiques et réflexions spirituelles pour naviguer les cycles de l'amour."
 category: "mariage"
 tags: ["la-roue-de-la-fortune", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "cycles-amour", "arcanes-majeurs", "la-roue-de-la-fortune", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-12"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

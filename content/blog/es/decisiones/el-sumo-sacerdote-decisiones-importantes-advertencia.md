@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en decisiones importantes: Advertencia del tarot"
 description: "Descubre el mensaje de advertencia de El Sumo Sacerdote en decisiones cruciales. Aprende a identificar señales de alerta y patrones a evitar."
 category: "decisiones"
 tags: ["El Sumo Sacerdote", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "consejo espiritual", "arcanos-mayores", "el-sumo-sacerdote", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-13"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "O Diabo no Tarot e Dinheiro: Significado da Tentação Material"
 description: "Descubra o profundo significado da carta O Diabo no tarot em relação ao dinheiro. Aprenda sobre materialismo, amarras financeiras e libertação."
 category: "dinheiro"
 tags: ["o-diabo-tarot", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-diabo", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-22"
 image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

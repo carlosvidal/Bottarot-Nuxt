@@ -3,7 +3,7 @@ title: "Le Jugement en Mariage : Conseils pour Renaître Ensemble"
 description: "Découvrez la signification de la carte Le Jugement dans le contexte du mariage. Trouvez des conseils pratiques pour la réflexion, le pardon et la renaissance en couple."
 category: "mariage"
 tags: ["le-jugement-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "renaissance-spirituelle", "arcanes-majeurs", "le-jugement", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-24"
 image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

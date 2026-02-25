@@ -3,7 +3,7 @@ title: "O Hierofante e o Ex: Significado em uma Possível Reconciliação"
 description: "Descubra o profundo significado de O Hierofante no contexto de 'ex-parceiro voltará'. Um guia simbólico sobre tradição, estrutura e conselho."
 category: "ex-parceiro"
 tags: ["o-hierofante", "tarot-ex-parceiro", "significado-tarot", "arcanos-maiores", "reconciliacao", "arcanos-maiores", "o-hierofante", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-14"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

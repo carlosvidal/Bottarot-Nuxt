@@ -3,7 +3,7 @@ title: "El Colgado en 2026: Significado y Energía de Suspensión"
 description: "Descubre el mensaje de El Colgado para 2026. Una guía sobre su simbolismo de sacrificio y nuevas perspectivas para el año que viene."
 category: "futuro"
 tags: ["El Colgado", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-colgado", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-01"
 image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "es"
 readingTime: 5

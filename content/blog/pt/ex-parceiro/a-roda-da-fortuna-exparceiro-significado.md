@@ -3,7 +3,7 @@ title: "A Roda da Fortuna e o Ex: Significado no Tarot para Relações Passadas"
 description: "Descubra o profundo significado de A Roda da Fortuna no contexto de um ex-parceiro. Aprenda sobre ciclos, destino e a mensagem do tarot para o amor."
 category: "ex-parceiro"
 tags: ["a-roda-da-fortuna", "tarot-ex-parceiro", "significado-tarot", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-roda-da-fortuna", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-21"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

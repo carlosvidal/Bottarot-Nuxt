@@ -3,7 +3,7 @@ title: "The Magician in Love: Yes or No? Meaning and Practical Advice"
 description: "Discover the meaning of The Magician in love readings. Is it a yes or a no? We explain its symbolism, upright and reversed interpretations, and practical guidance."
 category: "love"
 tags: ["the-magician-tarot-love", "the-magician-yes-or-no", "the-magician-love-meaning", "love-tarot", "major-arcana", "love-and-tarot", "major-arcana", "the-magician", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-23"
 image: "https://images.freetarot.fun/blog/el-mago__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

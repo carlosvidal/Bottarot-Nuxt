@@ -3,7 +3,7 @@ title: "El Carro Tarot: Significado en el Futuro y Mensaje de Victoria"
 description: "Descubre el profundo significado de El Carro en el futuro. Aprende cómo esta carta simboliza control, voluntad y el camino hacia el éxito por delante."
 category: "futuro"
 tags: ["El Carro tarot", "significado tarot", "arcanos mayores", "futuro tarot", "arcanos-mayores", "el-carro", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-05"
 image: "https://images.freetarot.fun/blog/el-carro__futuro-significado.webp"
 locale: "es"
 readingTime: 6

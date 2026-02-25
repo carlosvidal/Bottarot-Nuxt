@@ -3,7 +3,7 @@ title: "A Temperança no trabalho: significado e guia do tarô"
 description: "Descubra o profundo significado da carta A Temperança no contexto profissional. Aprenda sobre equilíbrio, paciência e como integrar sua energia na sua vida no trabalho."
 category: "trabalho"
 tags: ["a-temperanca-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "equilibrio-profissional", "arcanos-maiores", "a-temperanca", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-25"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

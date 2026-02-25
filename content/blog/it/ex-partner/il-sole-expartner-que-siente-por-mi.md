@@ -3,7 +3,7 @@ title: "Il Sole nell'Ex Partner: Cosa Prova per Te e il suo Significato"
 description: "Scopri il messaggio de Il Sole nel tarocco riguardo al tuo ex partner. Impara quali sentimenti ed energie proietta verso di te secondo questo arcano di gioia e successo."
 category: "ex-partner"
 tags: ["il-sole-tarocco", "tarocco-ex-partner", "arcani-maggiori", "interpretazione-tarocco", "cosa-sente-ex-partner", "arcani-maggiori", "il-sole", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-03"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

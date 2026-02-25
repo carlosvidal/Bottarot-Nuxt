@@ -3,7 +3,7 @@ title: "El Ermitaño en el trabajo: significado y guía interior"
 description: "Descubre el profundo significado de la carta El Ermitaño en el contexto laboral. Guía, introspección y sabiduría para tu camino profesional."
 category: "trabajo"
 tags: ["El Ermitaño tarot", "tarot trabajo", "significado El Ermitaño", "arcanos mayores", "introspección laboral", "arcanos-mayores", "el-ermitano", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-27"
 image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-significado.webp"
 locale: "es"
 readingTime: 5

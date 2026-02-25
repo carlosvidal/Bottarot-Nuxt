@@ -3,7 +3,7 @@ title: "El Diablo en el Matrimonio: Consejos para Liberar Lazos"
 description: "Descubre el significado de la carta El Diablo en el contexto del matrimonio. Consejos prácticos y reflexiones para transformar ataduras en libertad."
 category: "matrimonio"
 tags: ["El Diablo tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "relaciones tarot", "arcanos-mayores", "el-diablo", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-10"
 image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

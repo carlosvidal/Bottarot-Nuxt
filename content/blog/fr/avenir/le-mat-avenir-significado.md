@@ -3,7 +3,7 @@ title: "Le Mat dans le Futur : Signification des Nouveaux Départs dans le Tarot
 description: "Découvrez la signification profonde du Mat dans le futur. Un guide sur les nouveaux chemins, la confiance et l'énergie des commencements dans votre lecture de tarot."
 category: "avenir"
 tags: ["le-mat-tarot", "signification-tarot", "arcanes-majeurs", "avenir-tarot", "arcanes-majeurs", "le-mat", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-28"
 image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

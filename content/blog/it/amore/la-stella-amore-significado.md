@@ -3,7 +3,7 @@ title: "La Stella nell'Amore: Significato, Speranza e Rinascita"
 description: "Scopri il profondo significato della carta La Stella nell'amore. Un messaggio di speranza, guarigione e connessione spirituale nelle tue relazioni."
 category: "amore"
 tags: ["la-stella-tarocchi", "tarocchi-amore", "arcani-maggiori", "significato-tarocchi", "amore-e-spiritualità", "arcani-maggiori", "la-stella", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-15"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Carro no 'se estou casado': Advertência e Controle"
 description: "Descubra o significado de O Carro no 'se estou casado' como advertência. Aprenda a reconhecer sinais de alerta e proteger seu relacionamento."
 category: "casados"
 tags: ["o-carro-tarot", "se-estou-casado", "advertencia-tarot", "arcanos-maiores", "tarot-relacionamento", "arcanos-maiores", "o-carro", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-06"
 image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5

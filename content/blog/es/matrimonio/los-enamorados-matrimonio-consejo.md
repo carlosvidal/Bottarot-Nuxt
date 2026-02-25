@@ -3,7 +3,7 @@ title: "Los Enamorados en Matrimonio: Consejos del Tarot para la Unión"
 description: "Descubre el profundo consejo de la carta Los Enamorados para tu matrimonio. Aprende a interpretar su mensaje de amor, elección y armonía en tu relación de pareja."
 category: "matrimonio"
 tags: ["Los Enamorados", "tarot matrimonio", "consejo tarot", "arcanos mayores", "amor y relaciones", "arcanos-mayores", "los-enamorados", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-10"
 image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

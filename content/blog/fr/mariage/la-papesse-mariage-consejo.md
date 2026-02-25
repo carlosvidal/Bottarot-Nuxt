@@ -3,7 +3,7 @@ title: "La Papesse dans le Mariage : Conseils de Sagesse Intérieure"
 description: "Découvrez le conseil de La Papesse pour votre mariage. Apprenez à écouter votre intuition et à approfondir la connexion spirituelle de votre relation."
 category: "mariage"
 tags: ["la-papesse", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "intuition-couple", "arcanes-majeurs", "la-papesse", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-22"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

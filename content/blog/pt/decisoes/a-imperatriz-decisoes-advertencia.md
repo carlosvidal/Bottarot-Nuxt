@@ -3,7 +3,7 @@ title: "A Imperatriz em Decisões Importantes: Alerta e Precauções"
 description: "Descubra a mensagem de alerta de A Imperatriz em decisões cruciais. Aprenda a reconhecer excessos e proteger sua energia para escolher com sabedoria."
 category: "decisoes"
 tags: ["a-imperatriz", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "simbolismo-tarot", "arcanos-maiores", "a-imperatriz", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-26"
 image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

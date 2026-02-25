@@ -3,7 +3,7 @@ title: "L'Appeso nell'Amore: È un Sì o un No? Significato e Consigli"
 description: "Scopri il profondo significato de L'Appeso in amore. Impara a interpretare il suo messaggio di sospensione e sacrificio per la tua vita affettiva."
 category: "amore"
 tags: ["l-appeso-tarot-amore", "l-appeso-si-o-no", "significato-l-appeso-in-amore", "tarot-amore", "arcani-maggiori", "lettura-tarot", "arcani-maggiori", "l-appeso", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-26"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6

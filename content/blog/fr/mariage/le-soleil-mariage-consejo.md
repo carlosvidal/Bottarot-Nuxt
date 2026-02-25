@@ -3,7 +3,7 @@ title: "Le Soleil dans le Mariage : Conseils pour une Joie Conjugale"
 description: "Découvrez la signification de la carte Le Soleil en tarot pour le mariage. Conseils pratiques et réflexions pour cultiver la joie et la vitalité dans votre relation."
 category: "mariage"
 tags: ["le-soleil-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "amour-tarot", "arcanes-majeurs", "le-soleil", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-10"
 image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

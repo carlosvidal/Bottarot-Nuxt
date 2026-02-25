@@ -3,7 +3,7 @@ title: "L'Amoureux et votre ex : Que ressent-il vraiment pour vous ?"
 description: "Découvrez la signification profonde de la carte L'Amoureux dans le contexte d'un ex-partenaire. Une lecture énergétique sur les sentiments et les intentions."
 category: "ex-partenaire"
 tags: ["l-amoureux-tarot", "tarot-ex-partenaire", "interpretation-tarot", "arcanes-majeurs", "amour-et-relations", "arcanes-majeurs", "l-amoureux", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-11"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

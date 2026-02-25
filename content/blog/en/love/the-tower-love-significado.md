@@ -3,7 +3,7 @@ title: "The Tower in Love: Meaning of Rupture and Rebirth"
 description: "Discover the profound meaning of The Tower in love. It's not just destruction, but an invitation to truth and the radical transformation of your relationships."
 category: "love"
 tags: ["the-tower-tarot-love", "the-tower-meaning", "meaning-the-tower-in-love", "tarot-love", "major-arcana", "tarot-relationships", "major-arcana", "the-tower", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-28"
 image: "https://images.freetarot.fun/blog/la-torre__amor-significado.webp"
 locale: "en"
 readingTime: 5

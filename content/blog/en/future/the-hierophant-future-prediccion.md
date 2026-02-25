@@ -3,7 +3,7 @@ title: "The Hierophant in 2026: Tradition and New Codes"
 description: "Discover the meaning of The Hierophant for 2026. A guide on tradition, education, and the structures that will shape the next cycle."
 category: "future"
 tags: ["the-hierophant", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "the-hierophant", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-14"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Empress in Love: Meaning, Abundance, and Connection"
 description: "Discover the profound meaning of The Empress in love. A major arcana of creativity, fertility, and intimate connection that nourishes the heart."
 category: "love"
 tags: ["the-empress-tarot", "tarot-love", "major-arcana", "tarot-meaning", "love-and-tarot", "major-arcana", "the-empress", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-31"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-significado.webp"
 locale: "en"
 readingTime: 6

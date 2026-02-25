@@ -3,7 +3,7 @@ title: "Le Soleil au travail : signification et résultat probable"
 description: "Découvrez la signification de la carte Le Soleil dans le contexte professionnel. Interprétez son énergie de succès et de vitalité pour votre carrière."
 category: "travail"
 tags: ["le-soleil-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "cartes-de-tarot", "arcanes-majeurs", "le-soleil", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-29"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

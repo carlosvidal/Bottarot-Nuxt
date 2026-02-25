@@ -3,7 +3,7 @@ title: "La Temperanza nel Matrimonio: Avvertimenti e Ricerca dell'Equilibrio"
 description: "Scopri il messaggio di avvertimento de La Temperanza (Arcano 14) nel tuo matrimonio. Impara a identificare gli squilibri e proteggere la tua unione con saggezza."
 category: "sposati"
 tags: ["la-temperanza-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi-matrimonio", "equilibrio-coniugale", "arcani-maggiori", "arcani-maggiori", "la-temperanza", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-31"
 image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

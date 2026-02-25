@@ -3,7 +3,7 @@ title: "The Devil Tarot Card: Meaning for 'Will My Ex Come Back'"
 description: "Discover the profound meaning of The Devil tarot card when the question 'will my ex come back' arises. Symbolic interpretation and reflections on past bonds."
 category: "ex-partner"
 tags: ["the-devil-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "tarot-relationships", "major-arcana", "the-devil", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-14"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

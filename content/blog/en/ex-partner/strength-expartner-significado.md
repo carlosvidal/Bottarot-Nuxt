@@ -3,7 +3,7 @@ title: "Strength Tarot Card: Meaning for an Ex-Partner's Return"
 description: "Discover the deep meaning of the Strength card in the context of 'will my ex come back'. A reflective guide on inner strength and patience."
 category: "ex-partner"
 tags: ["strength-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "tarot-relationships", "major-arcana-cards", "strength-card", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-12"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

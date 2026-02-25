@@ -3,7 +3,7 @@ title: "The Magician Tarot Card Meaning: Manifestation & Willpower"
 description: "Explore the meaning of The Magician tarot card. Learn about its powerful symbolism, upright and reversed interpretations, and how it guides your manifestation abilities."
 category: "tarot-card-meanings"
 tags: ["major-arcana", "the-magician", "tarot-meanings", "manifestation"]
-publishedAt: "2025-01-20"
+publishedAt: "2025-04-22"
 image: "/img/Trumps-01.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Lune dans le Tarot : Avertissement face aux Décisions Importantes"
 description: "Découvrez le message d'avertissement de La Lune (Arcane 18) dans les décisions cruciales. Apprenez à reconnaître les illusions et à protéger votre énergie."
 category: "decisions"
 tags: ["la-lune-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "arcanes-majeurs", "la-lune", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-14"
 image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

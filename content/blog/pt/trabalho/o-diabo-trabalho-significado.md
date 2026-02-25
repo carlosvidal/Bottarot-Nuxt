@@ -3,7 +3,7 @@ title: "O Diabo no trabalho: significado e simbolismo no tarô"
 description: "Descubra o profundo significado da carta O Diabo no contexto profissional. Aprenda sobre tentações, amarras e a liberação do poder pessoal."
 category: "trabalho"
 tags: ["o-diabo-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "o-diabo", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-28"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

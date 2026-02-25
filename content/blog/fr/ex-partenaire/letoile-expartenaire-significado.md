@@ -3,7 +3,7 @@ title: "L'Étoile et l'Ex : Signification d'Espoir et de Renouveau"
 description: "Découvrez la signification profonde de l'Étoile dans le contexte d'un ex-partenaire. Non pas une prédiction, mais un guide d'espoir et de découverte de soi."
 category: "ex-partenaire"
 tags: ["l-etoile-tarot", "ex-paire-reviendra", "signification-tarot", "arcane-majeur", "tarot-amour", "arcanes-majeurs", "l-etoile", "ex-paire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-21"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

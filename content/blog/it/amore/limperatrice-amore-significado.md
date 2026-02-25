@@ -3,7 +3,7 @@ title: "L'Imperatrice nell'Amore: Significato, Abbondanza e Connessione"
 description: "Scopri il profondo significato de L'Imperatrice nell'amore. Un arcano di creatività, fertilità e connessione intima che nutre il cuore."
 category: "amore"
 tags: ["l-imperatrice-tarocchi", "tarocchi-amore", "arcani-maggiori", "significato-tarocchi", "amore-e-tarocchi", "arcani-maggiori", "l-imperatrice", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-28"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-significado.webp"
 locale: "it"
 readingTime: 6

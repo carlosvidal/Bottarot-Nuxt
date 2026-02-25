@@ -3,7 +3,7 @@ title: "La Mort dans le Mariage : Conseils pour la Transformation"
 description: "Découvrez la signification de la carte La Mort dans le contexte du mariage. Conseils pratiques et réflexions profondes pour naviguer les changements et renaissances dans votre relation."
 category: "mariage"
 tags: ["la-mort-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "transformation"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-02"
 image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

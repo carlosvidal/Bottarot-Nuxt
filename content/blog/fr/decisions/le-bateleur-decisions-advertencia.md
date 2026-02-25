@@ -3,7 +3,7 @@ title: "Le Bateleur Tarot : Avertissement pour les Décisions Importantes"
 description: "Découvrez le message d'avertissement du Bateleur dans les décisions cruciales. Apprenez à utiliser votre pouvoir personnel avec sagesse et évitez les pièges de l'ego."
 category: "decisions"
 tags: ["le-bateleur-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "pouvoir-personnel", "arcanes-majeurs", "le-bateleur", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-21"
 image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

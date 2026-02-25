@@ -3,7 +3,7 @@ title: "The Moon in Long-Distance Relationships: What They Feel for You"
 description: "Discover The Moon tarot's meaning for long-distance love. Interpret its messages on hidden emotions, subconscious fears, and intuitive bonds in separation."
 category: "long-distance-relationship"
 tags: ["the-moon-tarot", "long-distance-relationship", "what-they-feel-for-me", "emotional-tarot", "major-arcana"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-01"
 image: "https://images.freetarot.fun/blog/la-luna__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

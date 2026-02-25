@@ -3,7 +3,7 @@ title: "Le Monde en amour : signification d'achèvement et de plénitude"
 description: "Découvrez la signification profonde de la carte Le Monde en amour. Un arcane d'achèvement, d'intégration et la réalisation d'un cycle affectif complet."
 category: "amour"
 tags: ["le-monde-tarot-amour", "le-monde-signification", "tarot-amour", "arcanes-majeurs", "le-monde", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-01"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Julgamento no Futuro: Significado de Renascimento e Chamado"
 description: "Descubra o profundo significado da carta O Julgamento no futuro. Uma análise sobre seu simbolismo de reflexão, perdão e renascimento em seu caminho."
 category: "futuro"
 tags: ["o-julgamento-tarot", "tarot-futuro", "significado-tarot", "arcanos-maiores", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-24"
 image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "pt"
 readingTime: 5

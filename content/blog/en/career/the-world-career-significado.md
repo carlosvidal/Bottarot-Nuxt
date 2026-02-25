@@ -3,7 +3,7 @@ title: "The World Tarot in Career: Meaning of Culmination and Achievement"
 description: "Discover the profound meaning of The World card in a career context. Learn about its symbolism of culmination, professional success, and fulfillment in your work life."
 category: "career"
 tags: ["the-world-tarot", "tarot-career", "major-arcana", "tarot-meaning", "career-advice", "major-arcana", "the-world", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-06"
 image: "https://images.freetarot.fun/blog/el-mundo__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

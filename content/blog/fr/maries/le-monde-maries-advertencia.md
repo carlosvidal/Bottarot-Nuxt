@@ -3,7 +3,7 @@ title: "Le Monde dans le Mariage : Mises en Garde et Plénitude Véritable"
 description: "Découvrez la signification de la carte Le Monde dans le contexte du mariage. Un guide sur les signaux d'alerte, les schémas à éviter et comment protéger votre union."
 category: "maries"
 tags: ["le-monde-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "mariage-tarot", "arcanes-majeurs", "le-monde", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-23"
 image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "fr"
 readingTime: 5

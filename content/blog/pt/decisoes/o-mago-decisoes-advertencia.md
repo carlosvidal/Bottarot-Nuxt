@@ -3,7 +3,7 @@ title: "O Mago no Tarot: Um Alerta para Decisões Importantes"
 description: "Descubra a mensagem de alerta de O Mago em decisões cruciais. Aprenda a usar seu poder pessoal com sabedoria e evite as armadilhas do ego."
 category: "decisoes"
 tags: ["o-mago-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "poder-pessoal", "arcanos-maiores", "o-mago", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-25"
 image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

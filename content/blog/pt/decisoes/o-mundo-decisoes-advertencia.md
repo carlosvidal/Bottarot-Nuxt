@@ -3,7 +3,7 @@ title: "O Mundo Tarot: Advertência em Decisões Importantes"
 description: "Descubra o significado da carta O Mundo em decisões cruciais. Um guia sobre sinais de alerta, padrões a evitar e proteção energética."
 category: "decisoes"
 tags: ["o-mundo-tarot", "decisoes-importantes-tarot", "arcanos-maiores", "advertencia-tarot", "arcanos-maiores", "o-mundo", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-15"
 image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

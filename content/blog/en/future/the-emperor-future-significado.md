@@ -3,7 +3,7 @@ title: "The Emperor in the Future: Meaning and Guide to the Major Arcana"
 description: "Discover the meaning of The Emperor in the future. Learn how its energy of authority and structure influences what is to come in your tarot reading."
 category: "future"
 tags: ["the-emperor", "future-tarot", "major-arcana", "tarot-meaning", "major-arcana-cards", "the-emperor-card", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-13"
 image: "https://images.freetarot.fun/blog/el-emperador__futuro-significado.webp"
 locale: "en"
 readingTime: 5

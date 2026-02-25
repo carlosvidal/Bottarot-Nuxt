@@ -3,7 +3,7 @@ title: "L'Eremita nel 'Se Sono Sposato': Un Avvertimento dal Tarocco"
 description: "Scopri il messaggio di avvertimento de L'Eremita nel contesto del 'se sono sposato'. Impara a interpretare i suoi segnali d'allarme e a proteggere la tua energia."
 category: "sposati"
 tags: ["l-eremita", "tarocco-se-sono-sposato", "avvertimento-tarocco", "arcani-maggiori", "interpretazione-tarocco", "arcani-maggiori", "l-eremita", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-06"
 image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

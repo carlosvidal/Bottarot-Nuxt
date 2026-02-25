@@ -3,7 +3,7 @@ title: "Il Papa nel Futuro: Significato e Messaggio del Tarocco"
 description: "Scopri il profondo significato de Il Papa nel futuro. Impara come la tradizione e la saggezza collettiva influenzano il cammino che ti attende."
 category: "futuro"
 tags: ["il-papa", "tarocchi-futuro", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-papa", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-01"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "it"
 readingTime: 5

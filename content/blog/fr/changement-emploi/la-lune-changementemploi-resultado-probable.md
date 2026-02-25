@@ -3,7 +3,7 @@ title: "La Lune dans un changement d'emploi : résultat probable et significatio
 description: "Découvrez le message de La Lune (Arcane 18) dans un changement professionnel. Apprenez à interpréter ses énergies d'illusion et de subconscient pour naviguer la transition."
 category: "changement-emploi"
 tags: ["la-lune-tarot", "changement-de-travail-tarot", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-lune", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-26"
 image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

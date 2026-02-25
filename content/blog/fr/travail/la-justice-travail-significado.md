@@ -3,7 +3,7 @@ title: "La Justice au Travail : Équilibre et Vérité Professionnelle"
 description: "Découvrez la signification de la carte La Justice du tarot dans le domaine professionnel. Apprenez-en plus sur l'équité, les décisions éthiques et l'équilibre entre donner et recevoir dans votre carrière."
 category: "travail"
 tags: ["la-justice-tarot", "tarot-travail", "arcanes-majeurs", "equilibre-professionnel", "ethique-professionnelle", "arcanes-majeurs", "la-justice", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-20"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

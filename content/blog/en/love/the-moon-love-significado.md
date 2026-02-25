@@ -3,7 +3,7 @@ title: "The Moon in Love: Tarot Meaning, Symbolism, and Guidance"
 description: "Discover the profound meaning of The Moon in love. Explore its symbolism of illusion, fear, and the subconscious to illuminate your relationships."
 category: "love"
 tags: ["the-moon-tarot-love", "the-moon-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-moon", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-25"
 image: "https://images.freetarot.fun/blog/la-luna__amor-significado.webp"
 locale: "en"
 readingTime: 5

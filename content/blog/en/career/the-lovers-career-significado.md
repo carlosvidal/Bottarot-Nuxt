@@ -3,7 +3,7 @@ title: "The Lovers at Work: Tarot Meaning and Career Guidance"
 description: "Discover the profound meaning of The Lovers card in a career context. Learn about harmony, conscious choices, and professional relationships in the workplace."
 category: "career"
 tags: ["the-lovers-tarot", "tarot-career", "tarot-meaning", "major-arcana", "workplace-harmony", "major-arcana", "the-lovers", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-23"
 image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

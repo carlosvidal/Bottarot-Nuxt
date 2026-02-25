@@ -3,7 +3,7 @@ title: "O Imperador no Futuro: Significado e Guia do Arcano Maior"
 description: "Descubra o significado de O Imperador no futuro. Aprenda como sua energia de autoridade e estrutura influencia o que está por vir."
 category: "futuro"
 tags: ["o-imperador", "tarot-futuro", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-imperador", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-13"
 image: "https://images.freetarot.fun/blog/el-emperador__futuro-significado.webp"
 locale: "pt"
 readingTime: 5

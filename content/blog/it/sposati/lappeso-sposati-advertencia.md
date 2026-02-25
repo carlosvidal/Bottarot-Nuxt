@@ -3,7 +3,7 @@ title: "L'Appeso nel 'Se Sono Sposato': Avvertimento e Riflessione"
 description: "Scopri il messaggio di avvertimento de L'Appeso nel contesto del 'se sono sposato'. Impara a interpretare i suoi segnali e a proteggere la tua energia."
 category: "sposati"
 tags: ["l-appeso", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "sacrificio-relazioni", "arcani-maggiori", "l-appeso", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-16"
 image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

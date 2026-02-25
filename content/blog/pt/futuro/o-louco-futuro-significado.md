@@ -3,7 +3,7 @@ title: "O Louco no Futuro: Significado de Novos Começos no Tarot"
 description: "Descubra o profundo significado de O Louco no futuro. Um guia sobre novos caminhos, confiança e a energia dos começos na sua leitura de tarot."
 category: "futuro"
 tags: ["o-louco-tarot", "significado-tarot", "arcanos-maiores", "futuro-tarot", "arcanos-maiores", "o-louco", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-15"
 image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "pt"
 readingTime: 6

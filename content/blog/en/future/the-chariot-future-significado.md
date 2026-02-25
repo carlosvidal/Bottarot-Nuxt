@@ -3,7 +3,7 @@ title: "The Chariot Tarot: Meaning for the Future and Message of Victory"
 description: "Discover the profound meaning of The Chariot for the future. Learn how this card symbolizes control, willpower, and the path to success ahead."
 category: "future"
 tags: ["the-chariot-tarot", "tarot-meaning", "major-arcana", "future-tarot", "major-arcana", "the-chariot", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-22"
 image: "https://images.freetarot.fun/blog/el-carro__futuro-significado.webp"
 locale: "en"
 readingTime: 5

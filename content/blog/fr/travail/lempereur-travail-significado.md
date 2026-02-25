@@ -3,7 +3,7 @@ title: "L'Empereur au Travail : Signification de l'Autorité et de la Structure"
 description: "Découvrez la signification profonde de la carte L'Empereur dans le contexte professionnel. Apprenez-en plus sur l'autorité, la structure et le contrôle dans votre carrière."
 category: "travail"
 tags: ["l-empereur", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "l-empereur", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-30"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

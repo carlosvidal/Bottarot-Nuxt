@@ -3,7 +3,7 @@ title: "A Lua no Amor: Significado, Simbolismo e Guia do Tarô"
 description: "Descubra o profundo significado de A Lua no amor. Explore seu simbolismo de ilusão, medo e subconsciente para iluminar seus relacionamentos."
 category: "amor"
 tags: ["a-lua-tarot-amor", "a-lua-significado", "tarot-amor", "arcanos-maiores", "a-lua", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-27"
 image: "https://images.freetarot.fun/blog/la-luna__amor-significado.webp"
 locale: "pt"
 readingTime: 6

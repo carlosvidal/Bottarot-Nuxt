@@ -3,7 +3,7 @@ title: "O Julgamento em Relacionamento à Distância: O Que Ele(a) Sente por Voc
 description: "Descubra a mensagem de O Julgamento (Arcano 20) no seu relacionamento à distância. Interprete os sentimentos, intenções e o renascimento energético que esta carta simboliza."
 category: "relacionamento-a-distancia"
 tags: ["o-julgamento-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-julgamento", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-17"
 image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

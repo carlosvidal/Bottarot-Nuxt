@@ -3,7 +3,7 @@ title: "Il Mondo nel Tarocchi: Significato per 'Il Mio Ex Tornerà'"
 description: "Scopri il profondo significato della carta Il Mondo nel contesto di 'il mio ex tornerà'. Interpretazione simbolica, consigli pratici e riflessione."
 category: "ex-partner"
 tags: ["il-mondo-tarocchi", "significato-il-mondo", "tarocchi-ex", "ex-tornera", "arcani-maggiori", "il-mondo", "ex-parte"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-02"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

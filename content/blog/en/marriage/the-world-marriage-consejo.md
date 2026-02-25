@@ -3,7 +3,7 @@ title: "The World in Marriage: Guidance for Achieving Marital Fulfillment"
 description: "Discover the meaning of The World card in the context of marriage. Practical advice and deep reflections for achieving true fulfillment in your relationship."
 category: "marriage"
 tags: ["the-world-tarot", "tarot-marriage", "major-arcana", "tarot-advice", "marital-fulfillment", "major-arcana", "the-world", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-20"
 image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 7

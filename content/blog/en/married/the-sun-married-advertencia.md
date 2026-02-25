@@ -3,7 +3,7 @@ title: "The Sun in Marriage: Warnings and Shadows in the Light"
 description: "Discover the meaning of The Sun tarot card in the context of marriage. A guide to its warnings, patterns to avoid, and how to protect your union."
 category: "married"
 tags: ["the-sun-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "marriage-tarot", "major-arcana", "the-sun", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-28"
 image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

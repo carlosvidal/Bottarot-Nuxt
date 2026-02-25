@@ -3,7 +3,7 @@ title: "L'Étoile au travail : signification et résultat probable"
 description: "Découvrez le message de L'Étoile dans le domaine professionnel. Un guide sur son énergie d'espoir, d'inspiration et le résultat probable pour votre carrière."
 category: "travail"
 tags: ["l-etoile-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-carriere", "arcanes-majeurs", "l-etoile", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-31"
 image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7

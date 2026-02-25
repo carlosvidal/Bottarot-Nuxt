@@ -3,7 +3,7 @@ title: "Il Carro e il tuo ex: cosa prova davvero per te?"
 description: "Scopri il significato de Il Carro nel contesto di un ex partner. Interpreta i suoi sentimenti, l'energia e il messaggio di questo Arcano Maggiore."
 category: "ex-partner"
 tags: ["il-carro-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "il-carro", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-17"
 image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 7

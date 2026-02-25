@@ -3,7 +3,7 @@ title: "La Emperatriz en el Amor: Significado, Abundancia y Conexión"
 description: "Descubre el profundo significado de La Emperatriz en el amor. Un arcano de creatividad, fertilidad y conexión íntima que nutre el corazón."
 category: "amor"
 tags: ["La Emperatriz tarot", "tarot amor", "arcanos mayores", "significado tarot", "amor y tarot", "arcanos-mayores", "la-emperatriz", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-17"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-significado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Luna en el Matrimonio: Advertencias y Señales del Subconsciente"
 description: "Descubre el significado de la carta La Luna en el contexto del matrimonio. Una advertencia sobre ilusiones, miedos ocultos y cómo proteger tu unión."
 category: "casados"
 tags: ["La Luna tarot", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "interpretación tarot", "arcanos-mayores", "la-luna", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-05"
 image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "es"
 readingTime: 7

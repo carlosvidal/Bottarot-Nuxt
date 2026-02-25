@@ -3,7 +3,7 @@ title: "Judgement in Tarot: A Warning for Important Decisions"
 description: "Discover the alert message of the Judgement card (Major Arcana 20) in crucial decisions. Learn to interpret its signals and protect your energy."
 category: "decisions"
 tags: ["judgement-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "spiritual-rebirth", "major-arcana", "judgement", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-17"
 image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

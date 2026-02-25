@@ -3,7 +3,7 @@ title: "El Diablo en el Futuro: Significado y Simbolismo en el Tarot"
 description: "Descubre el profundo significado de El Diablo (Arcano 15) en el contexto del futuro. Una guía sobre tentaciones, apegos y la liberación del alma."
 category: "futuro"
 tags: ["El Diablo tarot", "Arcanos Mayores", "significado tarot", "tarot futuro", "cartas de tarot", "arcanos-mayores", "el-diablo", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-20"
 image: "https://images.freetarot.fun/blog/el-diablo__futuro-significado.webp"
 locale: "es"
 readingTime: 5

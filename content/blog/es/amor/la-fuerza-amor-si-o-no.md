@@ -3,7 +3,7 @@ title: "La Fuerza en el Amor: ¿Es un Sí o un No? Significado Tarot"
 description: "Descubre el profundo significado de la carta La Fuerza en el amor. Una guía sobre su energía, consejos prácticos y una reflexión matizada sobre si representa un sí o un no."
 category: "amor"
 tags: ["La Fuerza tarot", "tarot amor", "arcanos mayores", "amor y relaciones", "tarot si o no", "arcanos-mayores", "la-fuerza", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-05"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7

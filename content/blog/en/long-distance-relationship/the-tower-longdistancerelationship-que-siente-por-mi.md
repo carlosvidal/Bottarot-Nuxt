@@ -3,7 +3,7 @@ title: "The Tower in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the profound meaning of The Tower tarot card for long-distance relationships. Interpret the feelings and energies this card reveals about the other person."
 category: "long-distance-relationship"
 tags: ["the-tower-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-tower", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-02"
 image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

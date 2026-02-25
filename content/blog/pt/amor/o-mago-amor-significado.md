@@ -3,7 +3,7 @@ title: "O Mago no Amor: Significado, Poder e Manifestação"
 description: "Descubra o profundo significado da carta O Mago no amor. Aprenda como sua energia de manifestação e vontade influencia seus relacionamentos e conexões."
 category: "amor"
 tags: ["o-mago-tarot-amor", "o-mago-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-mago", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-22"
 image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Emperor at Work: Probable Outcome and Energy of Authority"
 description: "Discover the meaning of The Emperor in a work context. We analyze the probable outcome, the energy of structure and control, and how to influence your professional path."
 category: "career"
 tags: ["the-emperor-tarot", "tarot-career", "major-arcana", "professional-tarot-meaning", "major-arcana", "the-emperor", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-08"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

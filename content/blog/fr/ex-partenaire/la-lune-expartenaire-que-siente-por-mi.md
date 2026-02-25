@@ -3,7 +3,7 @@ title: "La Lune et l'Ex-Partenaire : Que Ressent-il/elle pour Vous ?"
 description: "Découvrez la signification de La Lune dans le tarot concernant un ex. Interprétez ses sentiments cachés, ses peurs et l'énergie subconsciente qu'il/elle projette vers vous."
 category: "ex-partenaire"
 tags: ["la-lune-tarot", "tarot-ex-partenaire", "que-ressent-mon-ex", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-lune", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-16"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

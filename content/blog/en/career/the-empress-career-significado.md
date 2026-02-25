@@ -3,7 +3,7 @@ title: "The Empress at Work: Meaning of Abundance and Creativity"
 description: "Discover the profound meaning of The Empress in a career context. Learn how her energy of creativity and fertility can transform your professional life."
 category: "career"
 tags: ["the-empress", "tarot-career", "major-arcana", "tarot-meaning", "work-creativity", "major-arcana", "the-empress", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-08"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

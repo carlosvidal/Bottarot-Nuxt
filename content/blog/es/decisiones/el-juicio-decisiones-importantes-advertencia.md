@@ -3,7 +3,7 @@ title: "El Juicio en el Tarot: Advertencia ante Decisiones Importantes"
 description: "Descubre el mensaje de alerta de la carta El Juicio (Arcano 20) en decisiones cruciales. Aprende a interpretar sus señales y proteger tu energía."
 category: "decisiones"
 tags: ["El Juicio tarot", "decisiones importantes tarot", "arcanos mayores", "advertencia tarot", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-27"
 image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

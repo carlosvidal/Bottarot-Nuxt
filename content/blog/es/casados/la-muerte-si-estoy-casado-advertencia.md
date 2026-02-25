@@ -3,7 +3,7 @@ title: "La Muerte en el Si Estoy Casado: Advertencia y Transformación"
 description: "Descubre el significado de La Muerte en el contexto del si estoy casado. Una guía sobre las advertencias, ciclos que terminan y cómo navegar la transformación en tu relación."
 category: "casados"
 tags: ["La Muerte tarot", "si estoy casado", "advertencia tarot", "Arcanos Mayores", "transformación pareja", "arcanos-mayores", "la-muerte", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-26"
 image: "https://images.freetarot.fun/blog/la-muerte__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

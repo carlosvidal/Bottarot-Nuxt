@@ -3,7 +3,7 @@ title: "Justice Tarot Card: Feelings in a Long-Distance Relationship"
 description: "Discover the meaning of the Justice tarot card for long-distance love. Interpret their feelings for you and learn to manage emotional balance across the miles."
 category: "long-distance-relationship"
 tags: ["justice-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana-cards", "justice-card", "long-distance-love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-13"
 image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

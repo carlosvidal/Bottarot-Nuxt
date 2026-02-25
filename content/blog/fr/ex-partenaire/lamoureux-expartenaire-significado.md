@@ -3,7 +3,7 @@ title: "L'Amoureux et l'Ex : Signification au Tarot sur la Réconciliation"
 description: "Découvrez la signification profonde de la carte L'Amoureux dans le contexte 'mon ex va-t-il/elle revenir ?'. Un guide réflexif sur le choix, l'amour et la réconciliation."
 category: "ex-partenaire"
 tags: ["l-amoureux", "tarot-ex-petit-ami", "signification-tarot", "arcanes-majeurs", "amour-et-reconciliation", "arcanes-majeurs", "l-amoureux", "ex-petit-ami"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-01"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

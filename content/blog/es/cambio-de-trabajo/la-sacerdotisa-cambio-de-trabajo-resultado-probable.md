@@ -3,7 +3,7 @@ title: "La Sacerdotisa en Cambio de Trabajo: Resultado Probable"
 description: "Descubre el mensaje de La Sacerdotisa en un cambio laboral. Interpreta su energía de intuición y sabiduría interior para navegar tu transición profesional."
 category: "cambio-de-trabajo"
 tags: ["La Sacerdotisa", "tarot cambio de trabajo", "Arcanos Mayores", "intuición profesional", "arcanos-mayores", "la-sacerdotisa", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-17"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

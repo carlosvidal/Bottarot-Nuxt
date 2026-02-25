@@ -3,7 +3,7 @@ title: "La Papesse en Amour : Un Oui ou un Non ?"
 description: "Découvrez la signification de La Papesse en amour. Un guide profond sur l'intuition, le mystère et comment interpréter son message dans les relations."
 category: "amour"
 tags: ["la-papesse-tarot-amour", "la-papesse-oui-ou-non", "signification-la-papesse-en-amour", "tarot-amour", "arcanes-majeurs", "intuition-amoureuse", "arcanes-majeurs", "la-papesse", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-17"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

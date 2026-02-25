@@ -3,7 +3,7 @@ title: "Strength in Important Decisions: Tarot's Warning and Guidance"
 description: "Discover the warning message of the Strength card in crucial decisions. Learn to use your inner power wisely and avoid imbalances for sustainable choices."
 category: "decisions"
 tags: ["strength-tarot", "tarot-important-decisions", "major-arcana-8", "tarot-warning", "inner-strength", "major-arcana", "strength", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-28"
 image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5

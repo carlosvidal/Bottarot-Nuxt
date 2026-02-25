@@ -3,7 +3,7 @@ title: "El Mundo en el Matrimonio: Consejos para la Plenitud Conyugal"
 description: "Descubre el significado de la carta El Mundo en el contexto del matrimonio. Consejos prácticos y reflexiones profundas para alcanzar la plenitud en tu relación."
 category: "matrimonio"
 tags: ["El Mundo tarot", "tarot matrimonio", "arcanos mayores", "consejos tarot", "plenitud conyugal", "arcanos-mayores", "el-mundo", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-11"
 image: "https://images.freetarot.fun/blog/el-mundo__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7

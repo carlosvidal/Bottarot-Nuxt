@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote y el Ex: Significado en una Posible Reconciliación"
 description: "Descubre el profundo significado de El Sumo Sacerdote en el contexto de 'ex pareja volverá mi ex'. Una guía simbólica sobre tradición, estructura y consejo."
 category: "ex-pareja"
 tags: ["El Sumo Sacerdote", "tarot ex pareja", "significado tarot", "arcanos mayores", "reconciliación", "arcanos-mayores", "el-sumo-sacerdote", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-02"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

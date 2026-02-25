@@ -3,7 +3,7 @@ title: "A Justiça no Tarot: Alerta para Decisões Importantes"
 description: "Descubra a mensagem de alerta de A Justiça (Arcano 11) em decisões cruciais. Aprenda a reconhecer sinais, evitar desequilíbrios e agir com verdadeira equidade."
 category: "decisoes"
 tags: ["a-justica-tarot", "decisoes-importantes-tarot", "arcano-maior-11", "tarot-alerta", "arcanos-maiores", "a-justica", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-16"
 image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 7

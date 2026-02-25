@@ -3,7 +3,7 @@ title: "Il Diavolo in una relazione a distanza: cosa prova per te secondo il tar
 description: "Scopri il significato della carta Il Diavolo in una relazione a distanza. Interpretazione dei sentimenti, intenzioni e consigli pratici."
 category: "relazione-a-distanza"
 tags: ["il-diavolo-tarot", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "arcani-maggiori", "il-diavolo", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-19"
 image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

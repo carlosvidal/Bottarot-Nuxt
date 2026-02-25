@@ -3,7 +3,7 @@ title: "A Força no Amor: Significado e Simbolismo do Arcano Maior"
 description: "Descubra o profundo significado da carta A Força no amor. Aprenda sobre seu simbolismo de coragem interior, paciência e conexão autêntica nos relacionamentos."
 category: "amor"
 tags: ["a-forca-tarot", "tarot-amor", "significado-a-forca", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-forca", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-26"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-significado.webp"
 locale: "pt"
 readingTime: 6

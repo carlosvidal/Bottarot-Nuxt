@@ -3,7 +3,7 @@ title: "Le Monde Tarot en Relation à Distance : Que Ressent-il pour Moi ?"
 description: "Découvrez la signification profonde de la carte Le Monde dans le tarot pour les relations à distance. Interprétez ses messages de plénitude, d'accomplissement et de connexion spirituelle."
 category: "relation-a-distance"
 tags: ["le-monde-tarot", "relation-a-distance-tarot", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "le-monde", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-31"
 image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

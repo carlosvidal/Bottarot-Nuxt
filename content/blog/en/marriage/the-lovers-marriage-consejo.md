@@ -3,7 +3,7 @@ title: "The Lovers in Marriage: Tarot Guidance for Your Sacred Union"
 description: "Discover the profound guidance of The Lovers card for your marriage. Learn to interpret its message of love, conscious choice, and harmony in your partnership."
 category: "marriage"
 tags: ["the-lovers", "marriage-tarot", "tarot-guidance", "major-arcana", "love-and-relationships", "major-arcana", "the-lovers-card", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-18"
 image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

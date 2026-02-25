@@ -3,7 +3,7 @@ title: "L'Imperatrice nel Cambio Lavoro: Risultato Probabile e Abbondanza"
 description: "Scopri il significato de L'Imperatrice in un cambio di lavoro. Interpretazione dritta e rovesciata, consigli pratici e l'energia del risultato probabile."
 category: "cambio-lavoro"
 tags: ["l-imperatrice", "tarot-cambio-lavoro", "risultato-probabile-tarot", "arcani-maggiori", "significato-tarot-lavoro", "arcani-maggiori", "l-imperatrice", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-18"
 image: "https://images.freetarot.fun/blog/la-emperatriz__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

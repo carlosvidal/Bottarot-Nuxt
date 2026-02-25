@@ -3,7 +3,7 @@ title: "Le Monde dans un changement d'emploi : signification et résultat probab
 description: "Découvrez le message de la carte Le Monde dans un changement professionnel. Apprenez sa signification, son interprétation à l'endroit et à l'envers, et des conseils pratiques."
 category: "changement-emploi"
 tags: ["le-monde-tarot", "changement-d-emploi", "tarot-carriere", "arcanes-majeurs", "resultat-probable-tarot", "arcanes-majeurs", "le-monde", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-14"
 image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Papesse dans une relation à distance : Ce qu'elle ressent pour vous"
 description: "Découvrez le message de La Papesse dans votre relation à distance. Un guide sur l'intuition, le mystère et l'énergie émotionnelle qui existe entre vous."
 category: "relation-a-distance"
 tags: ["la-papesse-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-amour", "arcanes-majeurs", "la-papesse"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-09"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

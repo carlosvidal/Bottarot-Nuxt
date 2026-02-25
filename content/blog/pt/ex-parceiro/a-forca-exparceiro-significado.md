@@ -3,7 +3,7 @@ title: "A Força no Tarot: Significado sobre o Retorno de um Ex-Parceiro"
 description: "Descubra o profundo significado da carta A Força no contexto de 'ex vai voltar'. Um guia reflexivo sobre força interior e paciência."
 category: "ex-parceiro"
 tags: ["a-forca-tarot", "ex-vai-voltar", "significado-tarot", "arcano-maior", "tarot-relacionamentos", "arcanos-maiores", "a-forca", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-21"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

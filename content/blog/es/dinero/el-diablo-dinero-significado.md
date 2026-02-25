@@ -3,7 +3,7 @@ title: "El Diablo Tarot y Dinero: Significado de la Tentación Material"
 description: "Descubre el profundo significado de la carta El Diablo en el tarot en relación al dinero. Aprende sobre materialismo, ataduras financieras y liberación."
 category: "dinero"
 tags: ["El Diablo tarot", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-diablo", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-14"
 image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "es"
 readingTime: 6

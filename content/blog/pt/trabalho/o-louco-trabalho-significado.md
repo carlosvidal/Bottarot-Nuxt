@@ -3,7 +3,7 @@ title: "O Louco no Trabalho: Significado de Novos Começos Profissionais"
 description: "Descubra o profundo significado da carta O Louco do tarô no contexto profissional. Aprenda sobre novos caminhos, riscos calculados e a energia dos recomeços."
 category: "trabalho"
 tags: ["o-louco-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "novos-comecos", "arcanos-maiores", "o-louco", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-30"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5

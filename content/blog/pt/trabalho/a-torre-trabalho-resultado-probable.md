@@ -3,7 +3,7 @@ title: "A Torre no trabalho: significado e resultado provável no tarot"
 description: "Descubra o significado de A Torre no contexto profissional. Aprenda o resultado provável que esta carta sugere e como navegar mudanças súbitas."
 category: "trabalho"
 tags: ["a-torre-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "a-torre", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-16"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

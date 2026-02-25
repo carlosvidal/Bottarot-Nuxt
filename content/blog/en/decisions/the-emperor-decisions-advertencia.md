@@ -3,7 +3,7 @@ title: "The Emperor in Important Decisions: Warning and Precautions"
 description: "Discover the warning message of The Emperor in crucial decisions. Learn to recognize red flags and protect your energy from rigidity and excessive control."
 category: "decisions"
 tags: ["the-emperor-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-meaning", "major-arcana", "the-emperor", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-24"
 image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

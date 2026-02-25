@@ -3,7 +3,7 @@ title: "The Sun Tarot 2026: Meaning, Energy, and Cycle of Light"
 description: "Discover the meaning of The Sun card for 2026. Explore its energy of success, joy, and vitality in the context of the new cycle, without absolute predictions."
 category: "future"
 tags: ["the-sun-tarot", "tarot-2026", "major-arcana", "tarot-prediction", "major-arcana", "the-sun", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-25"
 image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "en"
 readingTime: 6

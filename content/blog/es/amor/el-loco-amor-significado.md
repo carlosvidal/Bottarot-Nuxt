@@ -3,7 +3,7 @@ title: "El Loco en el Amor: Significado de Nuevos Comienzos y Espontaneidad"
 description: "Descubre el profundo significado de El Loco en el amor. Un viaje simbólico sobre nuevos comienzos, inocencia y la aventura de abrir el corazón sin miedo."
 category: "amor"
 tags: ["El Loco tarot amor", "El Loco significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-loco", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-18"
 image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "es"
 readingTime: 6

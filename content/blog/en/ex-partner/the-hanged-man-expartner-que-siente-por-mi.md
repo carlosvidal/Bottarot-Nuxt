@@ -3,7 +3,7 @@ title: "The Hanged Man and Your Ex: What They Truly Feel for You"
 description: "Decode The Hanged Man's message regarding an ex-partner. Learn what feelings, intentions, and energy this major arcana projects in this context."
 category: "ex-partner"
 tags: ["the-hanged-man-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "major-arcana-cards", "the-hanged-man", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-05"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5

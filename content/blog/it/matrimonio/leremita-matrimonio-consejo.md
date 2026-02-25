@@ -3,7 +3,7 @@ title: "L'Eremita nel Matrimonio: Consiglio Interiore e Riflessione"
 description: "Scopri il significato della carta L'Eremita nel contesto del matrimonio. Trova consigli pratici e orientamento spirituale per la tua relazione."
 category: "matrimonio"
 tags: ["l-eremita-tarot-matrimonio", "l-eremita-consiglio", "significato-l-eremita-matrimonio", "tarot-matrimonio", "arcani-maggiori", "l-eremita", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-30"
 image: "https://images.freetarot.fun/blog/el-ermitano__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 5

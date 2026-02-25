@@ -3,7 +3,7 @@ title: "The Hierophant and Money: Meaning in the Tarot"
 description: "Discover the profound meaning of The Hierophant card in the context of money. Learn about tradition, financial wisdom, and established structures."
 category: "money"
 tags: ["the-hierophant-tarot", "tarot-money", "tarot-meaning", "major-arcana", "finance-tarot", "major-arcana", "the-hierophant", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-09"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "en"
 readingTime: 6

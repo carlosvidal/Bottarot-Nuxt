@@ -3,7 +3,7 @@ title: "L'Impératrice dans les Décisions Importantes : Avertissement et Préca
 description: "Découvrez le message d'alerte de L'Impératrice dans les décisions cruciales. Apprenez à reconnaître les excès et à protéger votre énergie pour choisir avec sagesse."
 category: "decisions"
 tags: ["l-imperatrice", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "symbolisme-tarot", "arcanes-majeurs", "l-imperatrice", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-24"
 image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

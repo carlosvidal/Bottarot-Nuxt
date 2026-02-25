@@ -3,7 +3,7 @@ title: "The Emperor in Marriage: Advice for Structure and Balance"
 description: "Discover the meaning of The Emperor in marriage. Practical advice and spiritual reflections for building a solid, balanced relationship."
 category: "marriage"
 tags: ["the-emperor", "marriage-tarot", "tarot-advice", "major-arcana", "relationships", "major-arcana", "the-emperor", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-21"
 image: "https://images.freetarot.fun/blog/el-emperador__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

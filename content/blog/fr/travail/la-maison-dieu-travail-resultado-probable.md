@@ -3,7 +3,7 @@ title: "La Maison Dieu au travail : signification et résultat probable en tarot
 description: "Découvrez la signification de la carte La Maison Dieu (La Tour) dans le contexte professionnel. Apprenez le résultat probable qu'elle suggère et comment naviguer les changements soudains."
 category: "travail"
 tags: ["la-maison-dieu-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "la-maison-dieu", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-08"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

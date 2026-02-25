@@ -3,7 +3,7 @@ title: "Death in Love: Yes or No? Embracing Transformation and Rebirth"
 description: "Discover the deep meaning of the Death card in love tarot. It's not an end, but a transformation. Learn its message for your emotional life."
 category: "love"
 tags: ["death-tarot-love", "love-tarot", "death-card-meaning-love", "major-arcana", "major-arcana-cards", "death-card", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-08"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "en"
 readingTime: 5

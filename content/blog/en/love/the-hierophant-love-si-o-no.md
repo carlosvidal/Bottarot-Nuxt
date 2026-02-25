@@ -3,7 +3,7 @@ title: "The Hierophant in Love: Is It a Yes or a No?"
 description: "Discover the meaning of The Hierophant in love. A deep guide on tradition, commitment, and the nuanced answer to your yes-or-no question."
 category: "love"
 tags: ["the-hierophant-tarot-love", "the-hierophant-yes-or-no", "the-hierophant-meaning-love", "tarot-love", "major-arcana", "the-hierophant", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-22"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

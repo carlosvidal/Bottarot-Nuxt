@@ -3,7 +3,7 @@ title: "La Templanza en relación a distancia: qué siente por ti"
 description: "Descubre el mensaje de La Templanza en relaciones a distancia. Interpretación emocional, qué siente la otra persona y consejos para el equilibrio."
 category: "relacion-a-distancia"
 tags: ["La Templanza tarot", "relación a distancia", "tarot emocional", "Arcanos Mayores", "arcanos-mayores", "la-templanza", "relacion-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-18"
 image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 5

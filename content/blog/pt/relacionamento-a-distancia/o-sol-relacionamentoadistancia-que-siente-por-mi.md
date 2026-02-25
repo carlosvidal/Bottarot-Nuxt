@@ -3,7 +3,7 @@ title: "O Sol no Tarot: O Que Ele Sente em uma Relação à Distância"
 description: "Descubra o significado da carta O Sol no tarot para relações à distância. Saiba que sentimentos e energia a outra pessoa projeta em sua direção."
 category: "relacionamento-a-distancia"
 tags: ["o-sol-tarot", "relacao-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-sol", "relacao-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-08"
 image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

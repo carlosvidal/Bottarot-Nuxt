@@ -3,7 +3,7 @@ title: "L'Appeso: Un Avvertimento per le Decisioni Importanti"
 description: "Scopri il messaggio di avvertimento de L'Appeso nelle decisioni cruciali. Impara a riconoscere i segnali d'allarme e come proteggere la tua energia."
 category: "decisioni"
 tags: ["l-appeso-tarocchi", "decisioni-importanti-tarocchi", "avvertimento-tarocchi", "arcani-maggiori", "arcani-maggiori", "l-appeso", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-06"
 image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

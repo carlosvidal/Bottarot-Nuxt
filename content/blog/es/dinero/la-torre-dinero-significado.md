@@ -3,7 +3,7 @@ title: "La Torre en Dinero: Significado y Simbolismo del Cambio"
 description: "Descubre el profundo significado de la carta La Torre en el contexto del dinero. Interpretación al derecho, invertida y consejos prácticos."
 category: "dinero"
 tags: ["La Torre tarot", "tarot dinero", "significado La Torre", "arcanos mayores", "tarot financiero", "arcanos-mayores", "la-torre", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-24"
 image: "https://images.freetarot.fun/blog/la-torre__dinero-significado.webp"
 locale: "es"
 readingTime: 6

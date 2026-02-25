@@ -3,7 +3,7 @@ title: "Il Carro nei Tarocchi: Significato nel Futuro e Messaggio di Vittoria"
 description: "Scopri il profondo significato de Il Carro nel futuro. Impara come questa carta simboleggi controllo, volontà e il cammino verso il successo che ti attende."
 category: "futuro"
 tags: ["il-carro-tarocchi", "significato-tarocchi", "arcani-maggiori", "futuro-tarocchi", "arcani-maggiori", "il-carro", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-20"
 image: "https://images.freetarot.fun/blog/el-carro__futuro-significado.webp"
 locale: "it"
 readingTime: 6

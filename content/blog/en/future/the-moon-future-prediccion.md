@@ -3,7 +3,7 @@ title: "The Moon Tarot 2026: Meaning and Subconscious Energies"
 description: "Discover the message of The Moon (Arcana 18) for 2026. Explore its symbolism of illusion, intuition, and the challenges of the subconscious in the coming year."
 category: "future"
 tags: ["the-moon-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "the-moon-meaning", "major-arcana", "the-moon", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-11"
 image: "https://images.freetarot.fun/blog/la-luna__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

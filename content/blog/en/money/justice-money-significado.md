@@ -3,7 +3,7 @@ title: "Justice in Tarot: Meaning for Money and Financial Balance"
 description: "Discover the profound meaning of the Justice card in the context of money. Learn about balance, financial decisions, and economic karma."
 category: "money"
 tags: ["justice-tarot", "tarot-money", "tarot-meaning", "major-arcana", "tarot-finances", "major-arcana", "justice", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-18"
 image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "en"
 readingTime: 6

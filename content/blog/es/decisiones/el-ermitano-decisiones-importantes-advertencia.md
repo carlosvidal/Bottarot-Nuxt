@@ -3,7 +3,7 @@ title: "El Ermitaño en Decisiones Importantes: Advertencia y Precaución"
 description: "Descubre el mensaje de alerta de El Ermitaño en decisiones cruciales. Aprende a reconocer las señales y proteger tu energía interior."
 category: "decisiones"
 tags: ["El Ermitaño", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "consejo espiritual", "arcanos-mayores", "el-ermitano", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-06"
 image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

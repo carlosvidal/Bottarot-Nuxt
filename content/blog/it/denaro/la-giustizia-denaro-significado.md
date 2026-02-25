@@ -3,7 +3,7 @@ title: "La Giustizia nel Tarocchi: Significato nel Denaro ed Equilibrio Financia
 description: "Scopri il profondo significato della carta La Giustizia nel contesto del denaro. Impara su equilibrio, decisioni finanziarie e karma economici."
 category: "denaro"
 tags: ["la-giustizia-tarocchi", "tarocchi-denaro", "significato-tarocchi", "arcani-maggiori", "finanze-tarocchi", "arcani-maggiori", "la-giustizia", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-13"
 image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "it"
 readingTime: 6

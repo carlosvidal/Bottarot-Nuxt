@@ -3,7 +3,7 @@ title: "O Imperador em Decisões Importantes: Advertência e Precauções"
 description: "Descubra a mensagem de advertência de O Imperador em decisões cruciais. Aprenda a reconhecer sinais de alerta e a proteger sua energia."
 category: "decisoes"
 tags: ["o-imperador-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "advertencia-tarot", "significado-tarot", "arcanos-maiores", "o-imperador", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-24"
 image: "https://images.freetarot.fun/blog/el-emperador__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

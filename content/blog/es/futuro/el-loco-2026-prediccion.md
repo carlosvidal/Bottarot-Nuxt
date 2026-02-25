@@ -3,7 +3,7 @@ title: "El Loco en 2026: Energía de Nuevos Comienzos y Cambio"
 description: "Explora el significado de El Loco en 2026. Descubre cómo su energía de nuevos comienzos y espontaneidad influye en las tendencias del año."
 category: "futuro"
 tags: ["El Loco tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "El Loco significado", "arcanos-mayores", "el-loco", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-19"
 image: "https://images.freetarot.fun/blog/el-loco__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

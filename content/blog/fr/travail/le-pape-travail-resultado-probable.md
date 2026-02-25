@@ -3,7 +3,7 @@ title: "Le Pape au travail : signification et résultat probable"
 description: "Découvrez le message du Pape (Arcane 5) dans votre vie professionnelle. Interprétez son énergie de tradition et de structure pour comprendre le résultat probable."
 category: "travail"
 tags: ["le-pape-tarot-travail", "tarot-travail", "signification-le-pape-en-travail", "arcanes-majeurs", "le-pape", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-08"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

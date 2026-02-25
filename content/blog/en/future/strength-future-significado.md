@@ -3,7 +3,7 @@ title: "Strength in the Future: Tarot Meaning and Message"
 description: "Discover the profound meaning of the Strength card (Major Arcana 8) in future readings. Learn about your inner power, patience, and courage for what lies ahead."
 category: "future"
 tags: ["strength-tarot", "tarot-meaning", "major-arcana", "future-tarot", "major-arcana-cards", "strength", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-26"
 image: "https://images.freetarot.fun/blog/la-fuerza__futuro-significado.webp"
 locale: "en"
 readingTime: 6

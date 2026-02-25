@@ -3,7 +3,7 @@ title: "O Sol no trabalho: significado e resultado provável"
 description: "Descubra o significado da carta O Sol no contexto profissional. Interprete sua energia de sucesso e vitalidade para sua carreira."
 category: "trabalho"
 tags: ["o-sol-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "cartas-de-tarot", "arcanos-maiores", "o-sol", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-18"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

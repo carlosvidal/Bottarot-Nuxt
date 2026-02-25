@@ -3,7 +3,7 @@ title: "Le Monde Tarot 2026 : Culmination et Nouveaux Cycles"
 description: "Découvrez la signification de la carte Le Monde pour 2026. Explorez son énergie de culmination et de plénitude comme guide symbolique pour l'année."
 category: "avenir"
 tags: ["le-monde-tarot", "tarot-2026", "arcanes-majeurs", "prediction-tarot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-20"
 image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

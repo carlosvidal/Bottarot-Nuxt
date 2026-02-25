@@ -3,7 +3,7 @@ title: "La Justice en Tarot : Équilibre et Vérité sur le Retour d'un Ex"
 description: "Découvrez la signification profonde de la Justice (Arcane 11) dans le contexte 'mon ex va-t-il/elle revenir ?'. Une analyse sur l'équilibre, la vérité et les dettes karmiques."
 category: "ex-partenaire"
 tags: ["la-justice-tarot", "ex-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "la-justice", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-20"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

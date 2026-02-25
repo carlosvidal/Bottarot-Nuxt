@@ -3,7 +3,7 @@ title: "L'Ermite dans le Futur : Signification et Guide Intérieur"
 description: "Découvrez la signification profonde de L'Ermite dans le futur. Apprenez comment cette carte symbolise la quête intérieure, la patience et la lumière qui guide votre chemin à venir."
 category: "avenir"
 tags: ["l-ermite-tarot", "tarot-futur", "signification-l-ermite", "arcanes-majeurs", "guide-tarot", "avenir", "introspection"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-06"
 image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

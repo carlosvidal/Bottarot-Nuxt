@@ -3,7 +3,7 @@ title: "The Magician and Your Ex: What Do They Truly Feel for You?"
 description: "Discover the meaning of The Magician card in the context of an ex-partner. A deep dive into their feelings, intentions, and the energy they project towards you."
 category: "ex-partner"
 tags: ["the-magician-tarot", "tarot-ex-partner", "the-magician-meaning", "what-does-my-ex-feel", "major-arcana"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-12"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

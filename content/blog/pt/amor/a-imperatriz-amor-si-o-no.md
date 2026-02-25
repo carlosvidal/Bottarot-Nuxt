@@ -3,7 +3,7 @@ title: "A Imperatriz no Amor: É um Sim ou um Não?"
 description: "Descubra o significado de A Imperatriz no amor. Um guia profundo sobre sua energia de fertilidade e abundância para relacionamentos, com uma resposta matizada à pergunta 'sim ou não?'."
 category: "amor"
 tags: ["a-imperatriz-tarot-amor", "a-imperatriz-sim-ou-nao", "significado-a-imperatriz-no-amor", "tarot-amor", "arcanos-maiores", "amor-e-tarot", "arcanos-maiores", "a-imperatriz", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-16"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6

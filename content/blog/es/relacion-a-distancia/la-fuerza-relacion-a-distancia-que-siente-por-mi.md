@@ -3,7 +3,7 @@ title: "La Fuerza en el Tarot: Qué Siente en una Relación a Distancia"
 description: "Descubre el mensaje de La Fuerza (Arcano 8) sobre los sentimientos, la paciencia y la energía emocional en una relación a distancia. Interpretación completa."
 category: "relacion-a-distancia"
 tags: ["La Fuerza tarot", "relación a distancia tarot", "qué siente por mí", "Arcanos Mayores", "tarot emocional", "arcanos-mayores", "la-fuerza", "relacion-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-21"
 image: "https://images.freetarot.fun/blog/la-fuerza__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6

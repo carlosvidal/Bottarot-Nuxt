@@ -3,7 +3,7 @@ title: "A Justiça no Trabalho: Equilíbrio e Verdade Profissional"
 description: "Descubra o significado de A Justiça do tarô no âmbito profissional. Aprenda sobre equidade, decisões éticas e o equilíbrio entre dar e receber na sua carreira."
 category: "trabalho"
 tags: ["a-justica-tarot", "tarot-trabalho", "arcanos-maiores", "equilibrio-profissional", "etica-profissional", "arcanos-maiores", "a-justica", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-04"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5

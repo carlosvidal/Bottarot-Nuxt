@@ -3,7 +3,7 @@ title: "El Sol en Tarot: ¿Significa que mi ex volverá? Significado Profundo"
 description: "Descubre el significado de la carta El Sol en el contexto de 'ex pareja volverá mi ex'. Una guía simbólica sobre claridad, sanación y renovación."
 category: "ex-pareja"
 tags: ["El Sol tarot", "ex pareja volverá mi ex", "significado tarot", "arcanos mayores", "tarot amor", "arcanos-mayores", "el-sol", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-22"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 7

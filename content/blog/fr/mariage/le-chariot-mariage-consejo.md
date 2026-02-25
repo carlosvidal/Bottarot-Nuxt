@@ -3,7 +3,7 @@ title: "Le Chariot dans le Mariage : Conseils pour le Contrôle et la Victoire"
 description: "Découvrez la signification du Chariot dans le contexte du mariage. Conseils pratiques et réflexions spirituelles pour naviguer votre union avec volonté et équilibre."
 category: "mariage"
 tags: ["le-chariot-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "relations", "arcanes-majeurs", "le-chariot", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-13"
 image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

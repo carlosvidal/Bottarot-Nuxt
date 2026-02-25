@@ -3,7 +3,7 @@ title: "El Ermitaño en el Futuro: Significado y Guía Interior"
 description: "Descubre el profundo significado de El Ermitaño en el futuro. Aprende cómo esta carta simboliza búsqueda interior, paciencia y la luz que guía tu camino por venir."
 category: "futuro"
 tags: ["El Ermitaño tarot", "tarot futuro", "significado El Ermitaño", "arcanos mayores", "tarot guía", "arcanos-mayores", "el-ermitano", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-04"
 image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "es"
 readingTime: 6

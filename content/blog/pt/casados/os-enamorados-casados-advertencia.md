@@ -3,7 +3,7 @@ title: "Os Enamorados no 'Se Estou Casado': Advertência e Significado"
 description: "Descubra a mensagem de alerta de Os Enamorados no contexto do 'se estou casado'. Aprenda a interpretar seus sinais e proteger seu relacionamento."
 category: "casados"
 tags: ["os-enamorados", "tarot-se-estou-casado", "advertencia-tarot", "arcanos-maiores", "relacoes-tarot", "arcanos-maiores", "os-enamorados", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-18"
 image: "https://images.freetarot.fun/blog/los-enamorados__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5

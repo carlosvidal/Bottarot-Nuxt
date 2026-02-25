@@ -3,7 +3,7 @@ title: "O Sol no Futuro: Significado de Alegria e Sucesso no Tarot"
 description: "Descubra o profundo significado da carta O Sol no futuro. Um guia sobre seu simbolismo de sucesso, vitalidade e clareza no seu caminho por vir."
 category: "futuro"
 tags: ["o-sol-tarot", "significado-tarot", "futuro-tarot", "arcanos-maiores", "o-sol", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-21"
 image: "https://images.freetarot.fun/blog/el-sol__futuro-significado.webp"
 locale: "pt"
 readingTime: 6

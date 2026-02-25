@@ -3,7 +3,7 @@ title: "Il Matto nel cambio di lavoro: significato ed esito probabile"
 description: "Scopri il messaggio de Il Matto (Arcano 0) per un cambio lavorativo. Interpretazione, energia di risultato e consigli pratici per il tuo nuovo cammino."
 category: "cambio-lavoro"
 tags: ["il-matto-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-lavoro", "nuovi-inizi", "arcani-maggiori", "il-matto", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-25"
 image: "https://images.freetarot.fun/blog/el-loco__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

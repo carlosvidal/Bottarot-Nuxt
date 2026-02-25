@@ -3,7 +3,7 @@ title: "L'Imperatrice e il Denaro: Significato di Abbondanza e Creatività"
 description: "Scopri il profondo significato de L'Imperatrice dei tarocchi nel contesto del denaro. Abbondanza, fertilità creativa e manifestazione materiale."
 category: "denaro"
 tags: ["l-imperatrice", "tarocchi-denaro", "significato-tarocchi", "arcani-maggiori", "abbondanza", "arcani-maggiori", "l-imperatrice", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-25"
 image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "it"
 readingTime: 5

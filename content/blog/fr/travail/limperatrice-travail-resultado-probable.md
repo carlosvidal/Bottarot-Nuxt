@@ -3,7 +3,7 @@ title: "L'Impératrice au Travail : Résultat Probable et Abondance"
 description: "Découvrez la signification de L'Impératrice dans le domaine professionnel. Interprétation, conseils pratiques et énergie de résultat probable pour votre carrière."
 category: "travail"
 tags: ["l-imperatrice-tarot-travail", "tarot-travail", "signification-l-imperatrice-travail", "arcanes-majeurs", "l-imperatrice", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-18"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

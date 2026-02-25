@@ -3,7 +3,7 @@ title: "The High Priestess in Love: Is It a Yes or a No?"
 description: "Discover the meaning of The High Priestess in love. A deep guide on intuition, mystery, and how to interpret her message in relationships."
 category: "love"
 tags: ["the-high-priestess-tarot-love", "the-high-priestess-yes-or-no", "the-high-priestess-love-meaning", "love-tarot", "major-arcana", "love-intuition", "major-arcana", "the-high-priestess", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-02"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

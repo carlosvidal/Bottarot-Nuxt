@@ -3,7 +3,7 @@ title: "La Mort au travail : Transformation et résultat probable"
 description: "Découvrez la signification de la carte La Mort dans le contexte professionnel. Elle ne prédit pas des licenciements, mais des transformations profondes, des fins nécessaires et des nouveaux départs."
 category: "travail"
 tags: ["la-mort-tarot", "tarot-travail", "arcanes-majeurs", "transformation-professionnelle", "resultat-probable-tarot", "arcanes-majeurs", "la-mort", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-31"
 image: "https://images.freetarot.fun/blog/la-muerte__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7

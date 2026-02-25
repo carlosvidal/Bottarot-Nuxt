@@ -3,7 +3,7 @@ title: "L'Empereur et votre ex : Que ressent-il pour vous selon le tarot ?"
 description: "Découvrez la signification de la carte L'Empereur dans le contexte d'un ex-partenaire. Une lecture profonde sur l'autorité, la structure et les sentiments cachés."
 category: "ex-partenaire"
 tags: ["l-empereur-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "que-ressent-mon-ex", "arcanes-majeurs", "l-empereur", "ex-partenaires"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-11"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Étoile Tarot 2026 : Signification et Énergie pour le Nouveau Cycle"
 description: "Découvrez le message de L'Étoile pour 2026 : espoir, inspiration et renouveau spirituel. Interprétation et conseils pratiques pour s'aligner."
 category: "avenir"
 tags: ["l-etoile-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "spiritualite", "avenir", "espoir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-02"
 image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

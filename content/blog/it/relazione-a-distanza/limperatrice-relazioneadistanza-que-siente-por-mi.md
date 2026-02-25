@@ -3,7 +3,7 @@ title: "L'Imperatrice in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il messaggio de L'Imperatrice nella tua relazione a distanza. Una guida sui suoi sentimenti, l'energia e il significato di questa carta nell'amore a distanza."
 category: "relazione-a-distanza"
 tags: ["l-imperatrice-tarocchi", "relazione-a-distanza", "cosa-prova-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "l-imperatrice", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-08"
 image: "https://images.freetarot.fun/blog/la-emperatriz__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5

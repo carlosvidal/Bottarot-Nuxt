@@ -3,7 +3,7 @@ title: "Temperance in Long-Distance Relationships: What They Feel for You"
 description: "Discover the message of the Temperance card in long-distance relationships. Emotional interpretation, what the other person feels, and advice for finding balance."
 category: "long-distance-relationship"
 tags: ["temperance-tarot", "long-distance-relationship", "emotional-tarot", "major-arcana", "temperance", "long-distance-love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-23"
 image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5

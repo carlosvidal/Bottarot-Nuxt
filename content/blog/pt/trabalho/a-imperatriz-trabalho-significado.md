@@ -3,7 +3,7 @@ title: "A Imperatriz no Trabalho: Significado de Abundância e Criatividade"
 description: "Descubra o profundo significado de A Imperatriz no contexto profissional. Aprenda como sua energia de criatividade e fertilidade pode transformar sua carreira."
 category: "trabalho"
 tags: ["a-imperatriz", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "criatividade-profissional", "arcanos-maiores", "a-imperatriz", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-12"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

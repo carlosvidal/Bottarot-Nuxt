@@ -3,7 +3,7 @@ title: "L'Imperatore e il tuo ex: Cosa prova per te secondo il tarot?"
 description: "Scopri il significato della carta L'Imperatore nel contesto di un ex partner. Una lettura profonda su autorità, struttura e sentimenti nascosti."
 category: "ex-partner"
 tags: ["l-imperatore-tarot", "tarot-ex-partner", "arcani-maggiori", "lettura-tarot", "cosa-sente-il-mio-ex", "arcani-maggiori", "l-imperatore", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-10"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

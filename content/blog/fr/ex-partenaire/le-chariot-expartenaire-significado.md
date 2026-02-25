@@ -3,7 +3,7 @@ title: "Le Chariot dans le Tarot : Signification sur le retour d'un ex-partenair
 description: "Découvrez la signification profonde de la carte du Chariot dans le contexte d'un ex-partenaire. Parle-t-elle de réconciliation, de contrôle ou d'un voyage intérieur ?"
 category: "ex-partenaire"
 tags: ["le-chariot-tarot", "signification-le-chariot", "tarot-ex-partenaire", "ex-partenaire-reviendra", "arcane-majeur-7", "arcanes-majeurs", "le-chariot", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-22"
 image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

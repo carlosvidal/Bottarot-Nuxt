@@ -3,7 +3,7 @@ title: "La Fuerza en el Tarot: Significado de Dinero y Abundancia"
 description: "Descubre el profundo significado de la carta La Fuerza en el contexto del dinero. Aprende sobre tu poder interior para crear abundancia y superar desafíos financieros."
 category: "dinero"
 tags: ["La Fuerza tarot", "tarot dinero", "significado La Fuerza", "arcanos mayores dinero", "abundancia tarot", "arcanos-mayores", "la-fuerza", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-02"
 image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "es"
 readingTime: 6

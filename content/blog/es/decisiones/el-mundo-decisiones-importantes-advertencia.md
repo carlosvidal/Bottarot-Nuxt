@@ -3,7 +3,7 @@ title: "El Mundo Tarot: Advertencia en Decisiones Importantes"
 description: "Descubre el significado de la carta El Mundo en decisiones cruciales. Una guía sobre las señales de alerta, patrones a evitar y protección energética."
 category: "decisiones"
 tags: ["El Mundo tarot", "decisiones importantes tarot", "Arcanos Mayores", "advertencia tarot", "arcanos-mayores", "el-mundo", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-02"
 image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

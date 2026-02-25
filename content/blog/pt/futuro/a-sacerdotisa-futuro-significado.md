@@ -3,7 +3,7 @@ title: "A Sacerdotisa e o Futuro: Significado e Intuição no Tarot"
 description: "Descubra o profundo significado de A Sacerdotisa no contexto do futuro. Aprenda a interpretar sua mensagem de intuição e sabedoria interior."
 category: "futuro"
 tags: ["a-sacerdotisa", "tarot-futuro", "arcanos-maiores", "intuição", "significado-tarot", "arcanos-maiores", "a-sacerdotisa", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-20"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "pt"
 readingTime: 5

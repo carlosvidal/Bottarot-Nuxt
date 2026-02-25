@@ -3,7 +3,7 @@ title: "O Mago na Mudança de Emprego: Resultado Provável e Energia"
 description: "Descubra o significado de O Mago em uma mudança de trabalho. Analisamos sua energia de manifestação e o resultado provável que sugere para sua carreira."
 category: "mudanca-de-emprego"
 tags: ["o-mago-tarot", "mudanca-de-trabalho-tarot", "arcanos-maiores", "resultado-provavel-tarot", "arcanos-maiores", "o-mago", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-09"
 image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

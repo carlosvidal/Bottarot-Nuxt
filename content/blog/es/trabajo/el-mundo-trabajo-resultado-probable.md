@@ -3,7 +3,7 @@ title: "El Mundo en el trabajo: significado y resultado probable en tu carrera"
 description: "Descubre el significado de la carta El Mundo en el contexto laboral. Aprende qué resultado probable sugiere y cómo aprovechar su energía de culminación."
 category: "trabajo"
 tags: ["El Mundo tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "cartas de tarot", "arcanos-mayores", "el-mundo", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-29"
 image: "https://images.freetarot.fun/blog/el-mundo__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

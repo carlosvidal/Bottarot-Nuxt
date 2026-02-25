@@ -3,7 +3,7 @@ title: "La Papessa e l'Ex: Intuizione e Saggezza Interiore"
 description: "Scopri il profondo significato de La Papessa nel contesto di 'ex tornerà'. Una guida riflessiva su intuizione e mistero."
 category: "ex-partner"
 tags: ["la-papessa", "tarot-ex", "significato-tarot", "arcani-maggiori", "intuizione", "ex-coppia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-15"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

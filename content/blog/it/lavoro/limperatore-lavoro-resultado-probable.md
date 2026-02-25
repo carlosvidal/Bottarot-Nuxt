@@ -3,7 +3,7 @@ title: "L'Imperatore nel Lavoro: Risultato Probabile ed Energia di Autorità"
 description: "Scopri il significato de L'Imperatore nel lavoro. Analizziamo il risultato probabile, l'energia di struttura e controllo, e come influenzare il tuo percorso professionale."
 category: "lavoro"
 tags: ["l-imperatore-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot-professionale", "arcani-maggiori", "l-imperatore", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-24"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

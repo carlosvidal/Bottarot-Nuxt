@@ -3,7 +3,7 @@ title: "O Louco em Decisões Importantes: Um Aviso do Tarot"
 description: "Descubra o significado de O Louco em decisões cruciais. Um guia sobre os avisos, riscos e como agir com sabedoria diante de novos começos."
 category: "decisoes"
 tags: ["o-louco-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "aviso-tarot", "novos-comecos", "arcanos-maiores", "o-louco", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-04"
 image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

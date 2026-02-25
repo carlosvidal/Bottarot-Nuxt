@@ -3,7 +3,7 @@ title: "The High Priestess and Money: Intuition and Financial Wisdom"
 description: "Discover the meaning of The High Priestess in a money context. Learn how her energy of intuition and mystery guides your financial decisions."
 category: "money"
 tags: ["the-high-priestess-tarot", "tarot-money", "tarot-meaning", "major-arcana", "financial-intuition", "major-arcana", "the-high-priestess", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-30"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "en"
 readingTime: 5

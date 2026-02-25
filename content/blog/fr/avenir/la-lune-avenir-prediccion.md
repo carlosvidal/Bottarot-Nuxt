@@ -3,7 +3,7 @@ title: "La Lune Tarot 2026 : Signification et Énergies du Subconscient"
 description: "Découvrez le message de La Lune (Arcane 18) pour 2026. Explorez son symbolisme d'illusion, d'intuition et les défis du subconscient pour l'année à venir."
 category: "avenir"
 tags: ["la-lune-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-la-lune", "arcanes-majeurs", "la-lune", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-23"
 image: "https://images.freetarot.fun/blog/la-luna__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5

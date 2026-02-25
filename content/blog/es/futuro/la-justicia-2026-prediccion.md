@@ -3,7 +3,7 @@ title: "La Justicia en 2026: Equilibrio y Verdad en el Ciclo del Tarot"
 description: "Descubre el mensaje de La Justicia (Arcano 11) para 2026. Exploramos su energía de equilibrio, verdad y ciclos kármicos sin predicciones absolutas."
 category: "futuro"
 tags: ["La Justicia tarot", "tarot 2026", "Arcanos Mayores", "predicción tarot", "justicia equilibrio", "arcanos-mayores", "la-justicia", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-12"
 image: "https://images.freetarot.fun/blog/la-justicia__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

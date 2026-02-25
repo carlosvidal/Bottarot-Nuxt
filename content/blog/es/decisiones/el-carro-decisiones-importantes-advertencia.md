@@ -3,7 +3,7 @@ title: "El Carro Tarot: Advertencia en Decisiones Importantes"
 description: "Descubre el mensaje de advertencia de El Carro (Arcano 7) en decisiones cruciales. Aprende a reconocer las señales de alerta y cómo proteger tu energía."
 category: "decisiones"
 tags: ["El Carro tarot", "decisiones importantes tarot", "Arcano Mayor 7", "advertencia tarot", "arcanos-mayores", "el-carro", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-15"
 image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

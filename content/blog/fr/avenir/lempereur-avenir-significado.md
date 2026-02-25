@@ -3,7 +3,7 @@ title: "L'Empereur dans le Futur : Signification et Guide de l'Arcane Majeur"
 description: "Découvrez la signification de L'Empereur dans le futur. Apprenez comment son énergie d'autorité et de structure influence ce qui est à venir."
 category: "avenir"
 tags: ["l-empereur", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-14"
 image: "https://images.freetarot.fun/blog/el-emperador__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Os Enamorados e seu ex: O que ele(a) realmente sente por você?"
 description: "Descubra o profundo significado da carta Os Enamorados no contexto de um ex-parceiro. Uma leitura energética sobre sentimentos e intenções."
 category: "ex-parceiro"
 tags: ["os-enamorados-tarot", "tarot-ex-parceiro", "interpretacao-tarot", "arcanos-maiores", "amor-e-relacoes", "arcanos-maiores", "os-enamorados", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-10"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 5

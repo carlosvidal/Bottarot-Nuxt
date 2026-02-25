@@ -3,7 +3,7 @@ title: "Gli Amanti nel 'Se Sono Sposato': Avvertimento e Significato"
 description: "Scopri il messaggio di allerta de Gli Amanti nel contesto del 'se sono sposato'. Impara a interpretare i suoi segnali e proteggere la tua relazione."
 category: "sposati"
 tags: ["gli-amanti", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "relazioni-tarot", "arcani-maggiori", "gli-amanti", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-07"
 image: "https://images.freetarot.fun/blog/los-enamorados__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

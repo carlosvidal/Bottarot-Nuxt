@@ -3,7 +3,7 @@ title: "The Fool in a Long-Distance Relationship: What Do They Feel for Me?"
 description: "Discover the meaning of The Fool tarot card for long-distance relationships. Interpret their feelings, energy, and the message of new beginnings."
 category: "long-distance-relationship"
 tags: ["the-fool-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-fool", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-04"
 image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Los Enamorados en 2026: Energía de Conexión y Elecciones del Corazón"
 description: "Descubre el mensaje del arcano Los Enamorados para 2026. Una guía sobre las energías de amor, armonía y decisiones importantes que podrían marcar el año."
 category: "futuro"
 tags: ["Los Enamorados", "tarot 2026", "predicción tarot", "arcanos mayores", "amor y relaciones", "arcanos-mayores", "los-enamorados", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-17"
 image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

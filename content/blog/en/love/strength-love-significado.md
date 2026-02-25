@@ -3,7 +3,7 @@ title: "Strength in Love: Meaning and Symbolism of the Major Arcana"
 description: "Discover the profound meaning of the Strength card in love. Learn about its symbolism of inner courage, patience, and authentic connection in relationships."
 category: "love"
 tags: ["strength-tarot", "tarot-love", "strength-meaning", "major-arcana", "love-and-tarot", "major-arcana", "strength", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-11"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-significado.webp"
 locale: "en"
 readingTime: 5

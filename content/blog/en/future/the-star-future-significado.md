@@ -3,7 +3,7 @@ title: "The Star in the Future: A Meaning of Hope and Guidance"
 description: "Discover the profound meaning of The Star in the future. A card of hope, inspiration, and spiritual connection that illuminates your path ahead."
 category: "future"
 tags: ["the-star-tarot", "future-tarot", "tarot-meaning", "major-arcana", "tarot-spirituality", "major-arcana", "the-star", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-29"
 image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "en"
 readingTime: 6

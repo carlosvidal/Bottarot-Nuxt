@@ -3,7 +3,7 @@ title: "Le Chariot en 2026 : Signification et Énergie de Contrôle et de Victoi
 description: "Découvrez le message de l'Arcane Majeur Le Chariot pour 2026. Explorez son symbolisme de volonté, de direction et de dépassement des défis pour l'année à venir."
 category: "avenir"
 tags: ["le-chariot-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-le-chariot", "arcanes-majeurs", "le-chariot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-06"
 image: "https://images.freetarot.fun/blog/el-carro__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5

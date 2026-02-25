@@ -3,7 +3,7 @@ title: "How to Read Tarot Cards: A Complete Beginner's Guide"
 description: "Learn how to read tarot cards step by step. This beginner-friendly guide covers everything from choosing your first deck to performing your first reading."
 category: "guides"
 tags: ["beginner", "how-to", "tarot-basics", "learning-tarot"]
-publishedAt: "2025-02-01"
+publishedAt: "2025-04-24"
 image: "/img/sm_RWSa-X-RL.webp"
 locale: "en"
 readingTime: 10

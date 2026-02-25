@@ -3,7 +3,7 @@ title: "The Hermit at Work: Meaning and Probable Outcome"
 description: "Discover the message of The Hermit (Major Arcana 9) in your career. Interpretation, practical advice, and reflection on the inner search for purpose."
 category: "career"
 tags: ["the-hermit-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana", "the-hermit", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-21"
 image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

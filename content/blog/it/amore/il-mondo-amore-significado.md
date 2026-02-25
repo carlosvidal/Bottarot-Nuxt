@@ -3,7 +3,7 @@ title: "Il Mondo nell'amore: significato di realizzazione e completezza"
 description: "Scopri il profondo significato della carta Il Mondo nell'amore. Un arcano di realizzazione, integrazione e compimento di un ciclo affettivo completo."
 category: "amore"
 tags: ["il-mondo-tarocchi-amore", "il-mondo-significato", "tarocchi-amore", "arcani-maggiori", "il-mondo", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-18"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "it"
 readingTime: 6

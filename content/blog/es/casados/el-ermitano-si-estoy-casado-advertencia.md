@@ -3,7 +3,7 @@ title: "El Ermitaño en el Si Estoy Casado: Una Advertencia del Tarot"
 description: "Descubre el mensaje de advertencia de El Ermitaño en el contexto del si estoy casado. Aprende a interpretar sus señales de alerta y a proteger tu energía."
 category: "casados"
 tags: ["El Ermitaño", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "interpretación tarot", "arcanos-mayores", "el-ermitano", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-23"
 image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

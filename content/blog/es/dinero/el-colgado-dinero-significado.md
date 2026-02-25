@@ -3,7 +3,7 @@ title: "El Colgado y el Dinero: Significado de la Suspensión Financiera"
 description: "Descubre el profundo significado de la carta El Colgado en el contexto del dinero. Una guía sobre sacrificio, perspectiva y transformación financiera."
 category: "dinero"
 tags: ["El Colgado", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas espirituales", "arcanos-mayores", "el-colgado", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-24"
 image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "es"
 readingTime: 5

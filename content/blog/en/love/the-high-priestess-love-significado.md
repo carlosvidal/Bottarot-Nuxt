@@ -3,7 +3,7 @@ title: "The High Priestess in Love: Intuition and Inner Wisdom"
 description: "Discover the profound meaning of The High Priestess in love. A guide to intuition, spiritual connection, and mystery in relationships."
 category: "love"
 tags: ["the-high-priestess", "love-tarot", "major-arcana", "intuition", "major-arcana-cards", "high-priestess", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-22"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-significado.webp"
 locale: "en"
 readingTime: 6

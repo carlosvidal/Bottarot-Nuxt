@@ -3,7 +3,7 @@ title: "The Star at Work: Meaning, Hope, and Professional Guidance"
 description: "Discover the profound meaning of The Star (Major Arcana 17) in a career context. A guide to hope, inspiration, and clarity on your professional path."
 category: "career"
 tags: ["the-star-tarot", "tarot-career", "the-star-meaning", "major-arcana", "tarot-career-guidance", "major-arcana", "the-star", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-30"
 image: "https://images.freetarot.fun/blog/la-estrella__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

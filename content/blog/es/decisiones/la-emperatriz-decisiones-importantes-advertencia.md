@@ -3,7 +3,7 @@ title: "La Emperatriz en Decisiones Importantes: Advertencia y Precauciones"
 description: "Descubre el mensaje de alerta de La Emperatriz en decisiones cruciales. Aprende a reconocer excesos y proteger tu energía para elegir con sabiduría."
 category: "decisiones"
 tags: ["La Emperatriz", "tarot decisiones importantes", "arcanos mayores", "advertencia tarot", "simbolismo tarot", "arcanos-mayores", "la-emperatriz", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-03"
 image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

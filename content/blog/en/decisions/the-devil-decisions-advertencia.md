@@ -3,7 +3,7 @@ title: "The Devil in Tarot: A Warning for Important Decisions"
 description: "Discover the meaning of The Devil in crucial decisions. A guide to recognizing temptations and bonds that can cloud your judgment."
 category: "decisions"
 tags: ["the-devil-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "the-devil-meaning", "major-arcana", "the-devil", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-03"
 image: "https://images.freetarot.fun/blog/el-diablo__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5

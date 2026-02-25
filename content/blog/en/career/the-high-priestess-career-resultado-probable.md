@@ -3,7 +3,7 @@ title: "The High Priestess at Work: Intuition and Probable Outcome"
 description: "Discover the meaning of The High Priestess in your career. Learn to interpret her energy to intuit the probable outcome of your professional projects."
 category: "career"
 tags: ["the-high-priestess", "tarot-career", "major-arcana", "work-intuition", "major-arcana", "the-high-priestess", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-05"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

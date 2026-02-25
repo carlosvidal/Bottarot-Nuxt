@@ -3,7 +3,7 @@ title: "The Hermit in 'Am I Married': A Tarot Warning for Your Union"
 description: "Discover the warning message of The Hermit tarot card in the context of marriage. Learn to interpret its alerts and protect your energy from emotional distance."
 category: "married"
 tags: ["the-hermit", "tarot-am-i-married", "tarot-warning", "major-arcana", "tarot-interpretation", "major-arcana", "the-hermit", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-31"
 image: "https://images.freetarot.fun/blog/el-ermitano__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

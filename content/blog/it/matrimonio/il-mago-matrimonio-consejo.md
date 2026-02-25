@@ -3,7 +3,7 @@ title: "Il Mago nel Matrimonio: Consigli per Manifestare la Tua Unione Ideale"
 description: "Scopri il significato de Il Mago nel contesto del matrimonio. Consigli pratici e riflessioni profonde per usare il tuo potere personale e co-creare."
 category: "matrimonio"
 tags: ["il-mago", "tarot-matrimonio", "arcani-maggiori", "consiglio-tarot", "potere-personale", "arcani-maggiori", "il-mago", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-21"
 image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 7

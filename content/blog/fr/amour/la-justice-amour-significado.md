@@ -3,7 +3,7 @@ title: "La Justice en Amour : Équilibre et Vérité dans les Relations"
 description: "Découvrez la signification profonde de la carte La Justice en amour. Apprenez-en plus sur l'équilibre, les décisions honnêtes et le karma dans les relations de couple."
 category: "amour"
 tags: ["la-justice-tarot-amour", "la-justice-signification", "tarot-amour", "arcanes-majeurs", "la-justice", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-26"
 image: "https://images.freetarot.fun/blog/la-justicia__amor-significado.webp"
 locale: "fr"
 readingTime: 7

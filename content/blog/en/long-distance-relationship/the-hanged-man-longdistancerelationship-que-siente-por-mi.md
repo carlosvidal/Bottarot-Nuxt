@@ -3,7 +3,7 @@ title: "The Hanged Man in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the meaning of The Hanged Man tarot card for long-distance relationships. Interpret their feelings for you and how to navigate the energy of suspension."
 category: "long-distance-relationship"
 tags: ["the-hanged-man-tarot", "long-distance-relationship", "what-they-feel-for-me", "emotional-tarot", "major-arcana", "major-arcana-cards", "the-hanged-man", "long-distance-love"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-20"
 image: "https://images.freetarot.fun/blog/el-colgado__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

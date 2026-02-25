@@ -3,7 +3,7 @@ title: "La Emperatriz en el Matrimonio: Advertencias y Protección"
 description: "Descubre el significado de La Emperatriz tarot si estoy casado. Una guía sobre las advertencias, patrones a evitar y protección energética en tu relación."
 category: "casados"
 tags: ["La Emperatriz", "tarot si estoy casado", "advertencia tarot", "arcanos mayores", "consejos tarot", "arcanos-mayores", "la-emperatriz", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-15"
 image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

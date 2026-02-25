@@ -3,7 +3,7 @@ title: "Le Soleil en Tarot : Ce qu'il Ressent dans une Relation à Distance"
 description: "Découvrez la signification de la carte Le Soleil dans le tarot pour les relations à distance. Interprétez les sentiments et l'énergie que l'autre personne projette vers vous."
 category: "relation-a-distance"
 tags: ["le-soleil-tarot", "relation-a-distance", "que-sent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-01"
 image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7

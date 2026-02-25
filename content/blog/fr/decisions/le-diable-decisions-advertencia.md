@@ -3,7 +3,7 @@ title: "Le Diable dans le Tarot : Avertissement face aux Décisions Importantes"
 description: "Découvrez la signification du Diable dans les décisions cruciales. Un guide pour reconnaître les tentations et les liens qui peuvent obscurcir votre jugement."
 category: "decisions"
 tags: ["le-diable-tarot", "tarot-decisons-importantes", "arcanes-majeurs", "avertissement-tarot", "signification-le-diable", "arcanes-majeurs", "le-diable", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-01"
 image: "https://images.freetarot.fun/blog/el-diablo__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

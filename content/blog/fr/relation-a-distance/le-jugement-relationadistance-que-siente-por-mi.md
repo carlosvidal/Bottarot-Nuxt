@@ -3,7 +3,7 @@ title: "Le Jugement en Relation à Distance : Ce qu'il Ressent pour Vous"
 description: "Découvrez le message du Jugement (Arcane 20) dans votre relation à distance. Interprétez ses sentiments, ses intentions et la renaissance énergétique symbolisée par cette carte."
 category: "relation-a-distance"
 tags: ["le-jugement-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "le-jugement", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-20"
 image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7

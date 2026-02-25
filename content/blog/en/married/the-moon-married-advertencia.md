@@ -3,7 +3,7 @@ title: "The Moon in Marriage: Warnings and Signals from the Subconscious"
 description: "Discover the meaning of The Moon card in the context of marriage. A warning about illusions, hidden fears, and how to protect your union."
 category: "married"
 tags: ["the-moon-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "tarot-interpretation", "major-arcana", "the-moon", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-17"
 image: "https://images.freetarot.fun/blog/la-luna__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

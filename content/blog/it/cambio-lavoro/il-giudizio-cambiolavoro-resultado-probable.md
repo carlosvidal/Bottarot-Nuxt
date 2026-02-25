@@ -3,7 +3,7 @@ title: "Il Giudizio nel cambio lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de Il Giudizio (Arcano 20) in un cambio lavorativo. Impara il suo significato, interpretazione e consigli pratici per la tua trasformazione professionale."
 category: "cambio-lavoro"
 tags: ["il-giudizio-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-professionali", "arcani-maggiori", "il-giudizio", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-14"
 image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

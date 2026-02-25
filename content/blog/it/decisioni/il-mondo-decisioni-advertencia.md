@@ -3,7 +3,7 @@ title: "Il Mondo Tarocchi: Avvertimento nelle Decisioni Importanti"
 description: "Scopri il significato della carta Il Mondo nelle decisioni cruciali. Una guida sui segnali d'allarme, gli schemi da evitare e la protezione energetica."
 category: "decisioni"
 tags: ["il-mondo-tarocchi", "decisioni-importanti-tarocchi", "arcani-maggiori", "avvertimento-tarocchi", "arcani-maggiori", "il-mondo", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-03"
 image: "https://images.freetarot.fun/blog/el-mundo__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Judgement Tarot Card: Does It Mean Your Ex Will Come Back?"
 description: "Discover the profound meaning of the Judgement card in the context of an ex-partner. It's not a prediction, but an invitation to personal rebirth."
 category: "ex-partner"
 tags: ["judgement-tarot", "judgement-meaning", "tarot-ex-partner", "major-arcana", "emotional-rebirth", "major-arcana", "judgement", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-05"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

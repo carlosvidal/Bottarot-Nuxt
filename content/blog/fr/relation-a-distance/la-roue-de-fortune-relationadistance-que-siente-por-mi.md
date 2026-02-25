@@ -3,7 +3,7 @@ title: "La Roue de Fortune dans une relation à distance : Que ressent-il/elle p
 description: "Décryptez le message de la Roue de Fortune sur les sentiments dans une relation à distance. Interprétation émotionnelle et conseils pratiques du tarot."
 category: "relation-a-distance"
 tags: ["la-roue-de-fortune", "tarot-relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "amour-a-distance", "arcanes-majeurs", "la-roue-de-fortune", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-30"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

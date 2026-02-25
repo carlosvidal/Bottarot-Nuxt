@@ -3,7 +3,7 @@ title: "Justice at Work: Probable Outcome and Meaning in Tarot"
 description: "Discover the message of the Justice card (Major Arcana 11) in your career. Interpretation, likely trends, and practical advice for acting with fairness."
 category: "career"
 tags: ["justice-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana-cards", "justice", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-16"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

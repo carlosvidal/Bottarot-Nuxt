@@ -3,7 +3,7 @@ title: "Strength Tarot Card: Meaning for Money and Abundance"
 description: "Discover the deep meaning of the Strength card in a money context. Learn about your inner power to create abundance and overcome financial challenges."
 category: "money"
 tags: ["strength-tarot", "tarot-money", "strength-meaning", "major-arcana-money", "abundance-tarot", "major-arcana", "strength", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-08"
 image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "en"
 readingTime: 6

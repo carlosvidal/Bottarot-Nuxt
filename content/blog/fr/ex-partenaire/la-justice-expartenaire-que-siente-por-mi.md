@@ -3,7 +3,7 @@ title: "La Justice Tarot et Ex-Partenaire : Ce Qu'il Ressent Pour Vous"
 description: "Découvrez la signification de la carte La Justice au tarot pour un ex-partenaire. Interprétez ce qu'il ressent pour vous selon cette carte d'équilibre et de vérité."
 category: "ex-partenaire"
 tags: ["la-justice-tarot", "tarot-ex-partenaire", "sentiments-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "la-justice", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-24"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7

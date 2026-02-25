@@ -3,7 +3,7 @@ title: "Il Papa nel 2026: Tradizione e Nuovi Codici"
 description: "Scopri il significato de Il Papa per il 2026. Una guida su tradizione, educazione e le strutture che daranno forma al prossimo ciclo."
 category: "futuro"
 tags: ["il-papa", "tarocchi-2026", "previsioni-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-papa", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-11"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

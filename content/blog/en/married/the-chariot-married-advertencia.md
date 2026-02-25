@@ -3,7 +3,7 @@ title: "The Chariot in 'Am I Married': A Warning About Control"
 description: "Discover the meaning of The Chariot as a warning in marriage. Learn to recognize signs of excessive control and protect your relationship's balance."
 category: "married"
 tags: ["the-chariot-tarot", "am-i-married", "tarot-warning", "major-arcana", "relationship-tarot", "major-arcana", "the-chariot", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-30"
 image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

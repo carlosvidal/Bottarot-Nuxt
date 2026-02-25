@@ -3,7 +3,7 @@ title: "L'Empereur en Amour : Un Oui ou un Non ? Signification et Conseils"
 description: "Découvrez la signification de la carte L'Empereur en amour. Est-ce un oui ou un non ? Analyse de son énergie d'autorité, de structure et d'engagement dans les relations."
 category: "amour"
 tags: ["l-empereur-tarot-amour", "l-empereur-oui-ou-non", "signification-l-empereur-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-tarot", "arcanes-majeurs", "l-empereur", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-03"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

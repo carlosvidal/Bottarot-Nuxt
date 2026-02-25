@@ -3,7 +3,7 @@ title: "La Muerte en el Matrimonio: Consejos para la Transformación"
 description: "Descubre el significado de la carta La Muerte en el contexto del matrimonio. Consejos prácticos y reflexiones profundas para navegar cambios y renacimientos en tu relación."
 category: "matrimonio"
 tags: ["La Muerte tarot", "tarot matrimonio", "consejo tarot", "Arcanos Mayores", "transformación", "arcanos-mayores", "la-muerte", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-29"
 image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

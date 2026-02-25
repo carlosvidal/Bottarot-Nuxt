@@ -3,7 +3,7 @@ title: "O Louco em Relacionamento à Distância: O Que Ele Sente por Mim?"
 description: "Descubra o significado de O Louco no tarot para relacionamentos à distância. Interprete seus sentimentos, energia e a mensagem de novos começos."
 category: "relacionamento-a-distancia"
 tags: ["o-louco-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-louco", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-07"
 image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

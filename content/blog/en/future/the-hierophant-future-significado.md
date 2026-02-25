@@ -3,7 +3,7 @@ title: "The Hierophant in the Future: Tarot Meaning and Message"
 description: "Discover the profound meaning of The Hierophant in the future. Learn how tradition and collective wisdom influence the path unfolding before you."
 category: "future"
 tags: ["the-hierophant", "future-tarot", "major-arcana", "tarot-meaning", "major-arcana", "the-hierophant", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-04"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "en"
 readingTime: 5

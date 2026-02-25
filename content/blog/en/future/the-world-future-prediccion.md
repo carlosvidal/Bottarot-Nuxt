@@ -3,7 +3,7 @@ title: "The World Tarot 2026: Culmination and New Cycles"
 description: "Discover the meaning of The World card for 2026. Explore its energy of culmination and wholeness as a symbolic guide for the year ahead."
 category: "future"
 tags: ["the-world-tarot", "tarot-2026", "major-arcana", "tarot-prediction", "major-arcana", "the-world", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-09"
 image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Tempérance dans une relation à distance : ce qu'il ressent pour vou
 description: "Découvrez le message de la carte La Tempérance pour les relations à distance. Interprétation émotionnelle, sentiments de l'autre et conseils pour l'équilibre."
 category: "relation-a-distance"
 tags: ["la-temperance-tarot", "relation-a-distance", "tarot-emotionnel", "arcanes-majeurs", "la-temperance", "sentiments-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-08"
 image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 5

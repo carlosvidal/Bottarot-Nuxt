@@ -3,7 +3,7 @@ title: "El Diablo en 2026: Energías de Transformación y Liberación"
 description: "Explora el significado de la carta El Diablo en el tarot para 2026. Descubre su mensaje sobre tentaciones, ataduras y el poder de la liberación personal."
 category: "futuro"
 tags: ["El Diablo tarot", "tarot 2026", "predicción tarot", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-diablo", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-24"
 image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Templanza en el Matrimonio: Advertencias y Equilibrio"
 description: "Descubre el mensaje de advertencia de La Templanza (Arcano 14) en tu matrimonio. Aprende a identificar desequilibrios y proteger tu unión con sabiduría."
 category: "casados"
 tags: ["La Templanza tarot", "tarot si estoy casado", "advertencia tarot matrimonio", "equilibrio conyugal", "arcanos mayores", "arcanos-mayores", "la-templanza", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-26"
 image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "El Mago en el trabajo: significado y resultado probable"
 description: "Descubre el mensaje de El Mago en una lectura laboral. Aprende sobre su energía de manifestación y qué resultado probable sugiere para tu carrera."
 category: "trabajo"
 tags: ["El Mago tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-mago", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-07"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5

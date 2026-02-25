@@ -3,7 +3,7 @@ title: "La Force au travail : signification, symbolisme et guide pratique"
 description: "Découvrez la signification profonde de la carte de La Force dans le contexte professionnel. Apprenez-en plus sur son symbolisme, son interprétation à l'endroit et à l'envers, et comment appliquer son énergie."
 category: "travail"
 tags: ["la-force-tarot", "tarot-travail", "signification-la-force", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-force", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-28"
 image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "fr"
 readingTime: 7

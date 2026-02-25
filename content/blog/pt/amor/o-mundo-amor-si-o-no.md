@@ -3,7 +3,7 @@ title: "O Mundo no amor: É um Sim ou um Não? Significado e conselhos"
 description: "Descubra o significado da carta O Mundo no amor. Ela anuncia um sim definitivo ou um não? Explicamos seu simbolismo e mensagem para sua vida afetiva."
 category: "amor"
 tags: ["o-mundo-tarot", "tarot-amor", "arcanos-maiores", "significado-tarot", "amor-e-tarot", "arcanos-maiores", "o-mundo", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-18"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Julgamento no Tarot: Significa que seu ex vai voltar?"
 description: "Descubra o profundo significado da carta O Julgamento no contexto de um ex-parceiro. Não é uma previsão, mas um convite ao renascimento pessoal."
 category: "ex-parceiro"
 tags: ["o-julgamento-tarot", "significado-o-julgamento", "tarot-ex-parceiro", "arcanos-maiores", "renascimento-emocional", "arcanos-maiores", "o-julgamento", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-16"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

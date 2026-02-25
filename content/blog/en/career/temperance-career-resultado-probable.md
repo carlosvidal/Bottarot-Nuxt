@@ -3,7 +3,7 @@ title: "Temperance at Work: Balance and the Likely Outcome"
 description: "Discover the meaning of the Temperance card in a career context. Upright and reversed interpretations, practical advice, and reflection on the likely outcome."
 category: "career"
 tags: ["temperance-tarot-work", "temperance-likely-outcome", "temperance-meaning-work", "tarot-career", "major-arcana", "work-balance", "major-arcana", "temperance", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-07"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

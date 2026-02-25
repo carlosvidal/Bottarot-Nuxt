@@ -3,7 +3,7 @@ title: "The Emperor in a Career Change: Likely Outcome and Energy"
 description: "Discover the meaning of The Emperor in a job change. Interpretation, practical advice, and the likely outcome energy this card suggests for your professional transition."
 category: "career-change"
 tags: ["the-emperor-tarot", "career-change", "likely-outcome-tarot", "major-arcana", "professional-career-tarot", "major-arcana", "the-emperor", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-05"
 image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

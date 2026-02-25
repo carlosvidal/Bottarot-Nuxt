@@ -3,7 +3,7 @@ title: "Gli Amanti e il tuo ex: cosa prova davvero per te?"
 description: "Scopri il profondo significato della carta Gli Amanti nel contesto di un ex partner. Una lettura energetica su sentimenti e intenzioni."
 category: "ex-partner"
 tags: ["gli-amanti-tarot", "tarot-ex-partner", "interpretazione-tarot", "arcani-maggiori", "amore-e-relazioni", "arcani-maggiori", "gli-amanti", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-25"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "Il Mago nel Matrimonio: Avvertimenti e Potere Personale"
 description: "Scopri il significato de Il Mago nel contesto del matrimonio. Una guida sugli avvertimenti, gli schemi da evitare e come proteggere l'energia di coppia."
 category: "sposati"
 tags: ["il-mago-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "consigli-tarocchi", "arcani-maggiori", "il-mago", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-28"
 image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "L'Imperatore nel 2026: Significato ed Energia del Tarocco"
 description: "Scopri il messaggio dell'Arcano Maggiore L'Imperatore per il 2026. Esploriamo il suo simbolismo di autorità e struttura nel contesto del nuovo ciclo."
 category: "futuro"
 tags: ["l-imperatore", "tarocchi-2026", "previsione-tarocchi", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "l-imperatore", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-17"
 image: "https://images.freetarot.fun/blog/el-emperador__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

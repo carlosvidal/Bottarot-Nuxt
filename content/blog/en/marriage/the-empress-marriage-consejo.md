@@ -3,7 +3,7 @@ title: "The Empress in Marriage: Advice for Abundance and Growth"
 description: "Discover The Empress's advice for your marriage. Learn how to nurture creativity, abundance, and deep connection in your partnership."
 category: "marriage"
 tags: ["the-empress", "marriage-tarot", "tarot-advice", "major-arcana", "creativity-in-relationships", "major-arcana", "the-empress", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-11"
 image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 5

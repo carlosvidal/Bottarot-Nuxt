@@ -3,7 +3,7 @@ title: "Il Sole nel lavoro: significato e risultato probabile"
 description: "Scopri il significato della carta Il Sole nel contesto lavorativo. Interpreta la sua energia di successo e vitalità per la tua carriera professionale."
 category: "lavoro"
 tags: ["il-sole-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "carte-tarot", "arcani-maggiori", "il-sole", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-10"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

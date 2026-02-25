@@ -3,7 +3,7 @@ title: "O Louco no Casamento: Avisos e Sinais de Alerta"
 description: "Descubra o significado de O Louco no contexto do casamento. Um guia sobre os avisos, padrões a evitar e como proteger seu relacionamento."
 category: "casados"
 tags: ["o-louco-tarot", "tarot-se-estou-casado", "arcanos-maiores", "aviso-tarot", "conselho-matrimonial", "arcanos-maiores", "o-louco", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-27"
 image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5

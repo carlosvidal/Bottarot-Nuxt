@@ -3,7 +3,7 @@ title: "La Mort dans le Tarot : Signification Argent et Transformation Financiè
 description: "Découvrez la signification profonde de la carte La Mort dans le contexte de l'argent. Elle ne prédit pas des pertes, mais une transformation, la fin des cycles et une renaissance financière."
 category: "argent"
 tags: ["la-mort-tarot-argent", "signification-la-mort", "tarot-argent", "arcanes-majeurs", "transformation-financiere", "arcane-majeur", "la-mort", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-04"
 image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

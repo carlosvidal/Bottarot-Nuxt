@@ -3,7 +3,7 @@ title: "A Torre no Casamento: Dicas para Enfrentar Mudanças Súbitas"
 description: "Descubra o significado de A Torre no contexto conjugal. Dicas práticas e reflexões espirituais para navegar crises e transformações no relacionamento."
 category: "casamento"
 tags: ["a-torre-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "crise-conjugal", "arcanos-maiores", "a-torre", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-04"
 image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7

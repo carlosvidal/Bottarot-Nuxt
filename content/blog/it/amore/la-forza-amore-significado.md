@@ -3,7 +3,7 @@ title: "La Forza nell'Amore: Significato e Simbolismo dell'Arcangelo Maggiore"
 description: "Scopri il profondo significato della carta La Forza in amore. Impara sul suo simbolismo di coraggio interiore, pazienza e connessione autentica nelle relazioni."
 category: "amore"
 tags: ["la-forza-tarocchi", "tarocchi-amore", "significato-la-forza", "arcani-maggiori", "amore-e-tarocchi", "arcani-maggiori", "la-forza", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-19"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-significado.webp"
 locale: "it"
 readingTime: 6

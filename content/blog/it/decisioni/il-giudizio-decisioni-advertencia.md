@@ -3,7 +3,7 @@ title: "Il Giudizio nel Tarocco: Avvertimento per Decisioni Importanti"
 description: "Scopri il messaggio di allerta della carta Il Giudizio (Arcano 20) nelle decisioni cruciali. Impara a interpretare i suoi segnali e proteggere la tua energia."
 category: "decisioni"
 tags: ["il-giudizio-tarocco", "decisioni-importanti-tarocco", "arcani-maggiori", "avvertimento-tarocco", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-28"
 image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Luna nel denaro: Significato del tarocco su finanze e illusione"
 description: "Scopri il profondo significato de La Luna nel contesto del denaro. Impara a interpretare i suoi messaggi su paure finanziarie, intuizione e realtà velata."
 category: "denaro"
 tags: ["la-luna-tarocco", "tarocco-denaro", "significato-la-luna", "arcani-maggiori-denaro", "finanze-e-tarocco", "arcani-maggiori", "la-luna", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-03"
 image: "https://images.freetarot.fun/blog/la-luna__dinero-significado.webp"
 locale: "it"
 readingTime: 6

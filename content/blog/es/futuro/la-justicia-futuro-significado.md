@@ -3,7 +3,7 @@ title: "La Justicia en el Futuro: Equilibrio y Consecuencias"
 description: "Descubre el profundo significado de la carta de La Justicia en el futuro. Aprende sobre equilibrio, karma y las decisiones que moldean tu porvenir."
 category: "futuro"
 tags: ["La Justicia tarot", "tarot futuro", "significado tarot", "arcanos mayores", "equilibrio karma", "arcanos-mayores", "la-justicia", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-02"
 image: "https://images.freetarot.fun/blog/la-justicia__futuro-significado.webp"
 locale: "es"
 readingTime: 5

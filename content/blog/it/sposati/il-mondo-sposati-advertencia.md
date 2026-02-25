@@ -3,7 +3,7 @@ title: "Il Mondo nel Matrimonio: Avvertimenti e Vera Completezza"
 description: "Scopri il significato della carta Il Mondo nel contesto del matrimonio. Una guida su segnali d'allarme, schemi da evitare e come proteggere la tua unione."
 category: "sposati"
 tags: ["il-mondo-tarot", "tarot-se-sono-sposato", "arcani-maggiori", "avvertimento-tarot", "matrimonio-tarot", "arcani-maggiori", "il-mondo", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-08"
 image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

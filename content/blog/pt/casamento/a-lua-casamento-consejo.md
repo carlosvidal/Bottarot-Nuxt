@@ -3,7 +3,7 @@ title: "A Lua no Casamento: Conselhos para a Sombra e a Luz"
 description: "Descubra o significado de A Lua no casamento. Conselhos práticos para navegar ilusões, medos e aprofundar a conexão a partir do subconsciente."
 category: "casamento"
 tags: ["a-lua-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "a-lua", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-23"
 image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

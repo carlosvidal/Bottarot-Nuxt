@@ -3,7 +3,7 @@ title: "The Lovers in Love: Is It a Yes or a No?"
 description: "Discover the deep meaning of The Lovers card in love readings. A guide to interpreting its message of harmony, choice, and soul connection."
 category: "love"
 tags: ["the-lovers-tarot-love", "tarot-love", "the-lovers-meaning-love", "the-lovers-yes-or-no", "major-arcana", "the-lovers", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-12"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

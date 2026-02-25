@@ -3,7 +3,7 @@ title: "Gli Amanti nel Futuro: Significato e Simbolismo Profondo"
 description: "Scopri il significato della carta Gli Amanti nel futuro. Una guida su amore, scelte e armonia nel cammino che ti attende."
 category: "futuro"
 tags: ["gli-amanti", "tarot-futuro", "significato-tarot", "arcani-maggiori", "amore-tarot", "arcani-maggiori", "gli-amanti", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-28"
 image: "https://images.freetarot.fun/blog/los-enamorados__futuro-significado.webp"
 locale: "it"
 readingTime: 6

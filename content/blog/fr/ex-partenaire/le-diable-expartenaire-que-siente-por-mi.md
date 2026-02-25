@@ -3,7 +3,7 @@ title: "Le Diable au Tarot : Ce que Ressent votre Ex-Partenaire pour Vous"
 description: "Découvrez la signification de la carte Le Diable dans le contexte d'un ex-partenaire. Une lecture profonde sur les liens, les désirs et l'énergie émotionnelle du passé."
 category: "ex-partenaire"
 tags: ["le-diable-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "amour-et-tarot", "interpretation-tarot", "arcanes-majeurs", "le-diable", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-12"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7

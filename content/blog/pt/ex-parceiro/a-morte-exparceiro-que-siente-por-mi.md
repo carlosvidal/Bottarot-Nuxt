@@ -3,7 +3,7 @@ title: "A Morte no Tarot: O Que Seu Ex Parceiro Sente por Você"
 description: "Descubra o profundo significado da carta A Morte no contexto de ex parceiros. Um guia sobre transformação emocional e que energia está sendo projetada."
 category: "ex-parceiro"
 tags: ["a-morte-tarot", "ex-parceiro-tarot", "arcano-maior-13", "transformacao-emocional", "arcanos-maiores", "a-morte", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-20"
 image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Sun in the Future: Meaning of Joy and Success in Tarot"
 description: "Discover the profound meaning of The Sun card in the future. A guide to its symbolism of success, vitality, and clarity on your path ahead."
 category: "future"
 tags: ["the-sun-tarot", "tarot-meaning", "future-tarot", "major-arcana", "major-arcana", "the-sun", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-21"
 image: "https://images.freetarot.fun/blog/el-sol__futuro-significado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Mat dans le Mariage : Avertissements et Signaux d'Alarme"
 description: "Découvrez la signification du Mat dans le contexte du mariage. Un guide sur les avertissements, les schémas à éviter et comment protéger votre relation."
 category: "maries"
 tags: ["le-mat-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "conseil-matrimonial", "arcanes-majeurs", "le-mat", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-02"
 image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

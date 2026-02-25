@@ -3,7 +3,7 @@ title: "La Emperatriz en el Matrimonio: Consejos de Abundancia y Crecimiento"
 description: "Descubre el consejo de La Emperatriz para tu matrimonio. Aprende a nutrir la creatividad, la abundancia y la conexión profunda en tu relación de pareja."
 category: "matrimonio"
 tags: ["La Emperatriz", "tarot matrimonio", "consejo tarot", "arcanos mayores", "creatividad en pareja", "arcanos-mayores", "la-emperatriz", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-12"
 image: "https://images.freetarot.fun/blog/la-emperatriz__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

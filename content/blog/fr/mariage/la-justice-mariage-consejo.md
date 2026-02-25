@@ -3,7 +3,7 @@ title: "La Justice dans le Mariage : Conseils pour l'Équilibre et la Vérité"
 description: "Découvrez le conseil profond de la carte La Justice pour votre mariage. Apprenez sur l'équilibre, l'équité et comment prendre des décisions conscientes dans votre relation."
 category: "mariage"
 tags: ["la-justice-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "equilibre-relation", "arcanes-majeurs", "la-justice", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-01"
 image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

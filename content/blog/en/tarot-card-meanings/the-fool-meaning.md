@@ -3,7 +3,7 @@ title: "The Fool Tarot Card Meaning: New Beginnings & Infinite Potential"
 description: "Discover the complete meaning of The Fool tarot card. Learn about its symbolism, upright and reversed interpretations, and what it means for love, career, and spiritual growth."
 category: "tarot-card-meanings"
 tags: ["major-arcana", "the-fool", "tarot-meanings", "new-beginnings"]
-publishedAt: "2025-01-15"
+publishedAt: "2025-04-23"
 updatedAt: "2025-06-10"
 image: "/img/Trumps-00.webp"
 locale: "en"

@@ -3,7 +3,7 @@ title: "The Emperor in Love: Is It a Yes or a No? Meaning and Advice"
 description: "Discover the meaning of The Emperor tarot card in love. Is it a yes or a no? We analyze its energy of authority, structure, and commitment in relationships."
 category: "love"
 tags: ["the-emperor-tarot-love", "the-emperor-yes-or-no", "meaning-the-emperor-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-emperor", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-30"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "en"
 readingTime: 5

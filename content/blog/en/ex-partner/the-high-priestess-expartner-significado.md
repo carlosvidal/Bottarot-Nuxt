@@ -3,7 +3,7 @@ title: "The High Priestess and the Ex: Intuition and Inner Wisdom"
 description: "Discover the deep meaning of The High Priestess in the context of 'will my ex come back'. A reflective guide on intuition and mystery."
 category: "ex-partner"
 tags: ["the-high-priestess", "tarot-ex-relationship", "tarot-meaning", "major-arcana", "intuition", "major-arcana-cards", "high-priestess", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-27"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

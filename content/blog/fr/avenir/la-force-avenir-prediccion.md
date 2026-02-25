@@ -3,7 +3,7 @@ title: "La Force en 2026 : Prédiction et Signification du Tarot"
 description: "Découvrez le message de l'Arcane Majeur La Force pour 2026. Explorez son symbolisme, son énergie et les tendances qu'il pourrait incarner pour l'année à venir."
 category: "avenir"
 tags: ["la-force-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "la-force", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-09"
 image: "https://images.freetarot.fun/blog/la-fuerza__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

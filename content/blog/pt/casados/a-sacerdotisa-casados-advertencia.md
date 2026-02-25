@@ -3,7 +3,7 @@ title: "A Sacerdotisa no Casamento: Advertências e Sabedoria Interior"
 description: "Descubra a mensagem de advertência de A Sacerdotisa no contexto do casamento. Aprenda a interpretar seus sinais intuitivos e proteger sua união."
 category: "casados"
 tags: ["a-sacerdotisa", "tarot-se-sou-casado", "advertencia-tarot", "arcanos-maiores", "intuição-no-casamento", "arcanos-maiores", "a-sacerdotisa", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-05"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

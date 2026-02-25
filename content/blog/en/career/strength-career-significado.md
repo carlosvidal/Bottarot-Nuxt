@@ -3,7 +3,7 @@ title: "Strength at Work: Meaning, Symbolism, and Practical Guidance"
 description: "Discover the deep meaning of the Strength tarot card in a career context. Learn its symbolism, upright and reversed interpretations, and how to apply its energy."
 category: "career"
 tags: ["strength-tarot", "career-tarot", "strength-meaning", "major-arcana", "professional-tarot", "major-arcana", "strength", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-17"
 image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

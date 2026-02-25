@@ -3,7 +3,7 @@ title: "Judgement at Work: Meaning, Reflection, and Rebirth"
 description: "Discover the profound meaning of the Judgement card in a career context. A guide on reflection, evaluation, and new professional beginnings."
 category: "career"
 tags: ["judgement-tarot", "career-tarot", "tarot-meaning", "major-arcana", "professional-tarot", "major-arcana", "judgement", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-26"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Giustizia al lavoro: Risultato probabile e significato"
 description: "Scopri il messaggio de La Giustizia (Arcano 11) nella tua vita professionale. Interpretazione, tendenze probabili e consigli pratici per agire con equità."
 category: "lavoro"
 tags: ["la-giustizia-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "la-giustizia", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-01"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

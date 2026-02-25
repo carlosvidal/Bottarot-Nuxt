@@ -3,7 +3,7 @@ title: "Le Pendu et votre ex-partenaire : ce qu'il ressent vraiment pour vous"
 description: "Déchiffrez le message du Pendu dans le contexte d'un ex-partenaire. Découvrez les sentiments, intentions et énergie projetés selon cet arcane majeur."
 category: "ex-partenaire"
 tags: ["le-pendu-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "le-pendu", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-04"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

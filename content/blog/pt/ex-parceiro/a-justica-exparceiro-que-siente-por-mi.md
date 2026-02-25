@@ -3,7 +3,7 @@ title: "A Justiça Tarot e Ex-Parceiro: O Que Ele(a) Sente por Você"
 description: "Descubra o significado de A Justiça no tarot para ex-parceiro. Interprete o que ele(a) sente por você segundo esta carta de equilíbrio e verdade."
 category: "ex-parceiro"
 tags: ["a-justica-tarot", "tarot-ex-parceiro", "o-que-sente-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "a-justica", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-09"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

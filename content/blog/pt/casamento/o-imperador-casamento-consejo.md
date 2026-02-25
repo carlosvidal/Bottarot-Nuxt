@@ -3,7 +3,7 @@ title: "O Imperador no Casamento: Conselhos para Estrutura e Equilíbrio"
 description: "Descubra o significado de O Imperador no casamento. Conselhos práticos e reflexões espirituais para construir um relacionamento sólido e equilibrado."
 category: "casamento"
 tags: ["o-imperador", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "relacionamentos", "arcanos-maiores", "o-imperador", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-05"
 image: "https://images.freetarot.fun/blog/el-emperador__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

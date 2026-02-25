@@ -3,7 +3,7 @@ title: "The Moon at Work: Meaning, Illusions, and the Subconscious"
 description: "Discover the deep meaning of The Moon card in a career context. Learn to navigate uncertainty, hidden fears, and intuition in your professional life."
 category: "career"
 tags: ["the-moon-tarot", "tarot-work", "the-moon-meaning", "major-arcana", "career-tarot", "major-arcana", "the-moon", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-07"
 image: "https://images.freetarot.fun/blog/la-luna__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

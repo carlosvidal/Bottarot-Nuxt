@@ -3,7 +3,7 @@ title: "El Ermitaño en el Amor: ¿Es un Sí o un No? Significado y Consejos"
 description: "Descubre el profundo significado de la carta El Ermitaño en el amor. ¿Es un sí o un no? Te explicamos su simbolismo y mensaje para tu vida afectiva."
 category: "amor"
 tags: ["El Ermitaño tarot amor", "El Ermitaño si o no", "significado El Ermitaño en el amor", "tarot amor", "arcanos mayores", "tarot lectura", "arcanos-mayores", "el-ermitano", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-07"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "es"
 readingTime: 5

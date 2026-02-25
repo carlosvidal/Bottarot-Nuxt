@@ -3,7 +3,7 @@ title: "A Força e seu ex-parceiro: O que ele(a) realmente sente por você?"
 description: "Descubra a mensagem de A Força no contexto de um ex-parceiro. Interprete sua energia, sentimentos e o que esta carta revela sobre a conexão de vocês."
 category: "ex-parceiro"
 tags: ["a-forca-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "o-que-ex-sente", "arcanos-maiores", "a-forca", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-25"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

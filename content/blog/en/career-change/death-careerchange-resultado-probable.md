@@ -3,7 +3,7 @@ title: "Death Card in a Career Change: Meaning and Probable Outcome"
 description: "Discover the profound meaning of the Death card in a career change. It doesn't predict layoffs, but rather transformation and professional rebirth."
 category: "career-change"
 tags: ["death-tarot", "career-change", "professional-tarot", "work-transformation", "major-arcana", "major-arcana-cards", "death", "job-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-08"
 image: "https://images.freetarot.fun/blog/la-muerte__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

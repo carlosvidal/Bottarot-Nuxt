@@ -3,7 +3,7 @@ title: "El Mago en el trabajo: significado y guía para tu vida profesional"
 description: "Descubre el profundo significado de la carta de El Mago en el contexto laboral. Aprende a canalizar su energía de manifestación y poder personal."
 category: "trabajo"
 tags: ["El Mago tarot trabajo", "El Mago significado", "tarot trabajo", "Arcanos Mayores", "arcanos-mayores", "el-mago", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-03"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Imperatriz no Trabalho: Resultado Provável e Abundância"
 description: "Descubra o significado de A Imperatriz no âmbito profissional. Interpretação, conselhos práticos e energia de resultado provável para sua carreira."
 category: "trabalho"
 tags: ["a-imperatriz-tarot-trabalho", "tarot-trabalho", "significado-a-imperatriz-no-trabalho", "arcanos-maiores", "arcanos-maiores", "a-imperatriz", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-16"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

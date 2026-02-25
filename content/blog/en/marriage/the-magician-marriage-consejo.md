@@ -3,7 +3,7 @@ title: "The Magician in Marriage: Tips to Manifest Your Ideal Union"
 description: "Discover the meaning of The Magician in the context of marriage. Practical advice and deep reflections to use your personal power and co-create your relationship."
 category: "marriage"
 tags: ["the-magician", "marriage-tarot", "major-arcana", "tarot-advice", "personal-power", "major-arcana-cards", "the-magician-tarot", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-08"
 image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

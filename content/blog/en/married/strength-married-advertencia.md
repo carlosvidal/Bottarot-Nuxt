@@ -3,7 +3,7 @@ title: "Strength in Marriage: A Warning and Call for Protection"
 description: "Discover the warning message of the Strength card in the context of marriage. Learn to recognize signs and protect your vital energy from depletion."
 category: "married"
 tags: ["strength-tarot", "tarot-marriage", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "strength", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-19"
 image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

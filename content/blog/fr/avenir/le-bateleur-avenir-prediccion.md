@@ -3,7 +3,7 @@ title: "Le Bateleur en 2026 : Énergie de Manifestation et Nouveaux Départs"
 description: "Découvrez la signification de la carte Le Bateleur pour 2026. Explorez son énergie de manifestation, de pouvoir personnel et les opportunités qu'elle symbolise pour le prochain cycle."
 category: "avenir"
 tags: ["le-bateleur-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir", "manifestation"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-26"
 image: "https://images.freetarot.fun/blog/el-mago__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

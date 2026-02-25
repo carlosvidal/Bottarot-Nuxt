@@ -3,7 +3,7 @@ title: "Le Diable dans le Mariage : Conseils pour Libérer les Liens"
 description: "Découvrez la signification de la carte Le Diable dans le contexte du mariage. Conseils pratiques et réflexions pour transformer les entraves en liberté."
 category: "mariage"
 tags: ["le-diable-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "relations-tarot", "arcanes-majeurs", "le-diable", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-03"
 image: "https://images.freetarot.fun/blog/el-diablo__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

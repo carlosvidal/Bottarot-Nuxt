@@ -3,7 +3,7 @@ title: "Le Bateleur et l'Argent : Signification et Symbolisme au Tarot"
 description: "Découvrez la signification profonde de la carte du Bateleur dans le contexte de l'argent. Apprenez à interpréter son énergie de manifestation et de pouvoir personnel pour vos finances."
 category: "argent"
 tags: ["le-bateleur-tarot", "tarot-argent", "signification-bateleur", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-bateleur", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-26"
 image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

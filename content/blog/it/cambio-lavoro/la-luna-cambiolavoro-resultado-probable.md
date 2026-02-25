@@ -3,7 +3,7 @@ title: "La Luna nel cambio di lavoro: risultato probabile e significato"
 description: "Scopri il messaggio de La Luna (Arcano 18) in un cambio di lavoro. Impara a interpretare le sue energie di illusione e subconscio per navigare la transizione."
 category: "cambio-lavoro"
 tags: ["la-luna-tarocchi", "cambio-lavoro-tarocchi", "arcani-maggiori", "tarocco-lavoro", "arcani-maggiori", "la-luna", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-26"
 image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

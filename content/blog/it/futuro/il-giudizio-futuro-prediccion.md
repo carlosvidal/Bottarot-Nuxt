@@ -3,7 +3,7 @@ title: "Il Giudizio Tarot 2026: Rinascita e Riflessione Collettiva"
 description: "Scopri il significato della carta Il Giudizio per il 2026. Un'analisi simbolica sui cicli di rinascita, valutazione collettiva e opportunità di trasformazione."
 category: "futuro"
 tags: ["il-giudizio-tarot", "tarot-2026", "previsione-tarot", "arcani-maggiori", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-08"
 image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

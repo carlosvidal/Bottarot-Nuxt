@@ -3,7 +3,7 @@ title: "La Justice dans un Changement d'Emploi : Équilibre et Résultat Probabl
 description: "Découvrez la signification de la carte La Justice dans un changement professionnel. Analyse de son énergie d'équilibre, de vérité et du résultat probable qu'elle suggère."
 category: "changement-emploi"
 tags: ["la-justice-tarot", "changement-de-travail", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "la-justice", "changement-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-05"
 image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

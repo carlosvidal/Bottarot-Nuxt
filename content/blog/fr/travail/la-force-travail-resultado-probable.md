@@ -3,7 +3,7 @@ title: "La Force au Travail : Résultat Probable et Énergies"
 description: "Découvrez la signification de La Force (Arcane 8) dans le domaine professionnel. Interprétation, conseils pratiques et énergie pour influencer votre résultat."
 category: "travail"
 tags: ["la-force-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot-professionnel", "arcanes-majeurs", "la-force", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-02"
 image: "https://images.freetarot.fun/blog/la-fuerza__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

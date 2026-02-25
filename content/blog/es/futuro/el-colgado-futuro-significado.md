@@ -3,7 +3,7 @@ title: "El Colgado en el Futuro: Significado y Mensaje de Suspensión"
 description: "Descubre el profundo significado de El Colgado en el futuro. Aprende cómo esta carta simboliza una pausa necesaria y un cambio de perspectiva."
 category: "futuro"
 tags: ["El Colgado", "tarot futuro", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-colgado", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-28"
 image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "es"
 readingTime: 5

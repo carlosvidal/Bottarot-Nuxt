@@ -3,7 +3,7 @@ title: "La Muerte en el Amor: ¿Es un Sí o un No? Transformación y Renacimient
 description: "Descubre el profundo significado de La Muerte en el tarot del amor. No es fin, sino transformación. Aprende su mensaje para tu vida afectiva."
 category: "amor"
 tags: ["La Muerte tarot amor", "tarot amor", "significado La Muerte en el amor", "arcanos mayores", "arcanos-mayores", "la-muerte", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-11"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

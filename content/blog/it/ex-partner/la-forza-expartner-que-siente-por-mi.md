@@ -3,7 +3,7 @@ title: "La Forza e il tuo ex: cosa prova davvero per te?"
 description: "Scopri il messaggio de La Forza nel contesto di un ex partner. Interpreta la sua energia, i sentimenti e ciò che questa carta rivela sulla vostra connessione."
 category: "ex-partner"
 tags: ["la-forza-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "cosa-sente-ex", "arcani-maggiori", "la-forza", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-13"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Judgement Tarot and Ex-Partner: What They Feel & Emotional Rebirth"
 description: "Discover the deep meaning of the Judgement card regarding your ex-partner. Learn what they feel, their reflection process, and the message of rebirth."
 category: "ex-partner"
 tags: ["judgement-tarot", "tarot-ex-partner", "what-ex-feels", "major-arcana", "emotional-rebirth"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-09"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

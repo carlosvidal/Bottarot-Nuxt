@@ -3,7 +3,7 @@ title: "O Hierofante no Relacionamento à Distância: O Que Ele Sente por Você"
 description: "Descubra a mensagem de O Hierofante para seu relacionamento à distância. Uma leitura profunda sobre sentimentos, intenções e a energia de compromisso."
 category: "relacionamento-a-distancia"
 tags: ["o-hierofante-tarot", "relacionamento-a-distancia-tarot", "o-que-sente-por-mim-tarot", "arcanos-maiores", "arcanos-maiores", "o-hierofante", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-11"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 5

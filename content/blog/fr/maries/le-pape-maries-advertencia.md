@@ -3,7 +3,7 @@ title: "Le Pape dans le Si Je Suis Marié(e) : Avertissement et Précautions"
 description: "Découvrez le message d'avertissement du Pape (Arcane 5) dans le contexte du si je suis marié(e). Apprenez à reconnaître les signes et à protéger votre énergie."
 category: "maries"
 tags: ["le-pape", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseil-tarot", "arcanes-majeurs", "le-pape", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-18"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "fr"
 readingTime: 5

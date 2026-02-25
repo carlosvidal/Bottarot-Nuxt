@@ -3,7 +3,7 @@ title: "A Lua Tarot 2026: Significado e Energias do Subconsciente"
 description: "Descubra a mensagem de A Lua (Arcano 18) para 2026. Explore seu simbolismo de ilusão, intuição e os desafios do subconsciente no próximo ano."
 category: "futuro"
 tags: ["a-lua-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-a-lua", "arcanos-maiores", "a-lua", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-08"
 image: "https://images.freetarot.fun/blog/la-luna__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "Judgement in Money: Meaning of Financial Rebirth"
 description: "Discover the profound meaning of the Judgement tarot card for your finances. A call to reflection, forgiveness, and financial rebirth."
 category: "money"
 tags: ["judgement-tarot", "tarot-money", "meaning-judgement", "major-arcana", "tarot-finances", "major-arcana", "judgement", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-28"
 image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Torre nel 'Se Sono Sposato': Avvertimento e Segnali d'Allarme"
 description: "Scopri il significato de La Torre nel contesto del 'se sono sposato'. Un avvertimento su strutture che possono crollare e come prepararti energeticamente."
 category: "sposati"
 tags: ["la-torre-tarot", "se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "tarot-relazionale", "arcani-maggiori", "la-torre", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-22"
 image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

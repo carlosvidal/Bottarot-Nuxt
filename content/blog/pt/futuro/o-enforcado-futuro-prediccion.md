@@ -3,7 +3,7 @@ title: "O Enforcado em 2026: Significado e Energia de Suspensão"
 description: "Descubra a mensagem de O Enforcado para 2026. Um guia sobre seu simbolismo de sacrifício e novas perspectivas para o próximo ano."
 category: "futuro"
 tags: ["o-enforcado", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-enforcado", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-22"
 image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5

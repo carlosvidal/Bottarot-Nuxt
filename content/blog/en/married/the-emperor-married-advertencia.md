@@ -3,7 +3,7 @@ title: "The Emperor in Marriage: Warnings and Finding Balance"
 description: "Discover the warning message of The Emperor in your marriage. Learn to identify power imbalances and protect the energy of your relationship."
 category: "married"
 tags: ["the-emperor-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "marriage-advice-tarot", "major-arcana", "the-emperor", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-10"
 image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

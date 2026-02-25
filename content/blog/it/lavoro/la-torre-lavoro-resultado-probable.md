@@ -3,7 +3,7 @@ title: "La Torre nel lavoro: significato e probabile esito nel tarocco"
 description: "Scopri il significato de La Torre nel contesto lavorativo. Impara quale probabile esito suggerisce questa carta e come navigare cambiamenti improvvisi."
 category: "lavoro"
 tags: ["la-torre-tarocco", "tarocco-lavoro", "arcani-maggiori", "significato-tarocco", "arcani-maggiori", "la-torre", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-18"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

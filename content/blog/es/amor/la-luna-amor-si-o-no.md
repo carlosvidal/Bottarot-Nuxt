@@ -3,7 +3,7 @@ title: "La Luna en el Amor: ¿Es un Sí o un No? Significado Tarot"
 description: "Descubre el profundo significado de La Luna tarot en el amor. Una guía sobre ilusiones, miedos y la respuesta matizada a tu pregunta de sí o no."
 category: "amor"
 tags: ["la luna tarot amor", "tarot amor", "arcanos mayores", "tarot si o no", "significado la luna", "arcanos-mayores", "la-luna", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-19"
 image: "https://images.freetarot.fun/blog/la-luna__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

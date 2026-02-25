@@ -3,7 +3,7 @@ title: "La Luna nel futuro: Significato e messaggio del tarot"
 description: "Scopri il profondo significato de La Luna nel futuro. Una guida su illusione, intuizione e il viaggio verso la tua verità interiore."
 category: "futuro"
 tags: ["la-luna-tarot", "tarot-futuro", "significato-la-luna", "arcani-maggiori", "tarot", "arcani-maggiori", "la-luna", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-13"
 image: "https://images.freetarot.fun/blog/la-luna__futuro-significado.webp"
 locale: "it"
 readingTime: 5

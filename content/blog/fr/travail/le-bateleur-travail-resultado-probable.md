@@ -3,7 +3,7 @@ title: "Le Bateleur au travail : signification et résultat probable"
 description: "Découvrez le message du Bateleur dans une lecture professionnelle. Apprenez-en plus sur son énergie de manifestation et le résultat probable qu'il suggère pour votre carrière."
 category: "travail"
 tags: ["le-bateleur-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "le-bateleur", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-29"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5

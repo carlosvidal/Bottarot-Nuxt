@@ -3,7 +3,7 @@ title: "L'Appeso nel cambio di lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de L'Appeso in un cambio lavorativo. Impara il suo significato, interpretazione e consigli pratici per navigare questa transizione."
 category: "cambio-lavoro"
 tags: ["l-appeso-tarocco", "cambio-di-lavoro", "arcani-maggiori", "tarocco-lavorativo", "risultato-probabile", "arcani-maggiori", "l-appeso", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-17"
 image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

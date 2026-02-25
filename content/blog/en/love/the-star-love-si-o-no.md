@@ -3,7 +3,7 @@ title: "The Star in Love: Is It a Yes or No? Complete Guide"
 description: "Discover the meaning of The Star in love. A deep guide on hope, healing, and the nuanced answer to your 'yes or no' question."
 category: "love"
 tags: ["the-star-tarot", "tarot-love", "major-arcana", "tarot-yes-or-no", "tarot-meaning", "major-arcana", "the-star", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-18"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "La Papesse au travail : intuition et résultat probable"
 description: "Découvrez la signification de La Papesse dans le domaine professionnel. Apprenez à interpréter son énergie pour pressentir le résultat probable de vos projets de carrière."
 category: "travail"
 tags: ["la-papesse", "tarot-travail", "arcanes-majeurs", "intuition-professionnelle", "arcanes-majeurs", "la-papesse", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-23"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

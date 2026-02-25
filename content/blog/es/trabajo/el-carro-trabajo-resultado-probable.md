@@ -3,7 +3,7 @@ title: "El Carro en el trabajo: significado y resultado probable"
 description: "Descubre el significado de El Carro en el contexto laboral. Aprende qué resultado probable sugiere esta carta y cómo influir en tu camino profesional."
 category: "trabajo"
 tags: ["El Carro tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot", "cartas de tarot", "arcanos-mayores", "el-carro", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-02"
 image: "https://images.freetarot.fun/blog/el-carro__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "El Mundo Tarot Trabajo: Significado de Culminación y Logro"
 description: "Descubre el profundo significado de la carta El Mundo en el contexto laboral. Aprende sobre su simbolismo de culminación, éxito profesional y plenitud en tu carrera."
 category: "trabajo"
 tags: ["El Mundo tarot", "tarot trabajo", "arcanos mayores", "significado tarot", "tarot carrera", "arcanos-mayores", "el-mundo", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-25"
 image: "https://images.freetarot.fun/blog/el-mundo__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

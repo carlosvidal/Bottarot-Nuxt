@@ -3,7 +3,7 @@ title: "The Moon in Tarot: A Warning for Important Decisions"
 description: "Discover the warning message of The Moon (Major Arcana 18) in crucial decisions. Learn to recognize illusions and protect your energy."
 category: "decisions"
 tags: ["the-moon-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "major-arcana", "the-moon", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-26"
 image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

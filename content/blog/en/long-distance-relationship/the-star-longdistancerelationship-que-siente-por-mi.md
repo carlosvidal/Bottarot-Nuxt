@@ -3,7 +3,7 @@ title: "The Star in Tarot: Feelings in a Long-Distance Relationship"
 description: "Discover the message of The Star (Arcana 17) about feelings, hope, and spiritual connection in a long-distance relationship. Detailed interpretation."
 category: "long-distance-relationship"
 tags: ["the-star-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-star", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-22"
 image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Diable en Amour : Un Oui ou un Non ? Signification au Tarot"
 description: "Découvrez la signification profonde de la carte Le Diable en amour. Un guide sur les tentations, les attachements et la réponse nuancée à votre question de oui ou non."
 category: "amour"
 tags: ["le-diable-tarot-amour", "le-diable-oui-ou-non", "signification-le-diable-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-de-tarot", "arcanes-majeurs", "le-diable", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-09"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

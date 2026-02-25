@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en el trabajo: significado y resultado probable"
 description: "Descubre el mensaje de El Sumo Sacerdote (Arcano 5) en tu vida laboral. Interpreta su energía de tradición y estructura para entender el resultado probable."
 category: "trabajo"
 tags: ["El Sumo Sacerdote tarot trabajo", "tarot trabajo", "significado El Sumo Sacerdote en el trabajo", "Arcanos Mayores", "arcanos-mayores", "el-sumo-sacerdote", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-27"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5

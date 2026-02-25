@@ -3,7 +3,7 @@ title: "La Muerte en el Futuro: Significado de Transformación y Renacimiento"
 description: "Descubre el profundo significado de la carta La Muerte en el futuro. No predice un final físico, sino una poderosa transformación y el inicio de nuevos ciclos."
 category: "futuro"
 tags: ["la muerte tarot", "tarot futuro", "arcano mayor", "transformación tarot", "significado tarot", "arcanos-mayores", "la-muerte", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-24"
 image: "https://images.freetarot.fun/blog/la-muerte__futuro-significado.webp"
 locale: "es"
 readingTime: 6

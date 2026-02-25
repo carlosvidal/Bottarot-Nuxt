@@ -3,7 +3,7 @@ title: "Il Carro nel Matrimonio: Consigli per il Controllo e la Vittoria"
 description: "Scopri il significato de Il Carro nel contesto del matrimonio. Consigli pratici e riflessioni spirituali per navigare la tua unione con volontà ed equilibrio."
 category: "matrimonio"
 tags: ["il-carro-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "relazioni", "arcani-maggiori", "il-carro", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-20"
 image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 7

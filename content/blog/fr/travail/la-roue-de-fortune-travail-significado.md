@@ -3,7 +3,7 @@ title: "La Roue de la Fortune au Travail : Signification et Cycles Professionnel
 description: "Découvrez la signification profonde de la Roue de la Fortune dans le contexte professionnel. Apprenez à naviguer les cycles de carrière avec sagesse et fluidité."
 category: "travail"
 tags: ["tarot-travail", "la-roue-de-la-fortune", "arcanes-majeurs", "signification-tarot", "changement-professionnel", "arcanes-majeurs", "la-roue-de-la-fortune", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-11"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "fr"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "The Moon in Marriage: Guidance for Shadow and Light"
 description: "Discover the meaning of The Moon in marriage. Practical advice for navigating illusions, fears, and deepening your connection from the subconscious."
 category: "marriage"
 tags: ["the-moon-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "relationship-tarot", "major-arcana", "the-moon", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-29"
 image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

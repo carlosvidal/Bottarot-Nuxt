@@ -3,7 +3,7 @@ title: "The Empress in Marriage: Warnings and Protection for Your Union"
 description: "Discover the meaning of The Empress tarot card if you are married. A guide on warnings, patterns to avoid, and energetic protection for your relationship."
 category: "married"
 tags: ["the-empress", "tarot-if-married", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "the-empress", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-30"
 image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

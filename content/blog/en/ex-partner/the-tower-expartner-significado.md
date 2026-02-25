@@ -3,7 +3,7 @@ title: "The Tower in Tarot: Meaning for 'Will My Ex Come Back'"
 description: "Discover the profound meaning of The Tower tarot card in the context of 'will my ex come back'. A reflective guide on sudden revelations and necessary change."
 category: "ex-partner"
 tags: ["the-tower-tarot", "will-my-ex-come-back", "the-tower-meaning", "tarot-ex-relationship", "major-arcana"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-06"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

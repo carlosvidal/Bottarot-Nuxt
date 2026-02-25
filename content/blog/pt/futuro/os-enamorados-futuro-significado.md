@@ -3,7 +3,7 @@ title: "Os Enamorados no Futuro: Significado e Simbolismo Profundo"
 description: "Descubra o significado da carta Os Enamorados no futuro. Um guia sobre amor, escolhas e harmonia no seu caminho por vir."
 category: "futuro"
 tags: ["os-enamorados", "tarot-futuro", "significado-tarot", "arcanos-maiores", "amor-tarot", "arcanos-maiores", "os-enamorados", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-13"
 image: "https://images.freetarot.fun/blog/los-enamorados__futuro-significado.webp"
 locale: "pt"
 readingTime: 6

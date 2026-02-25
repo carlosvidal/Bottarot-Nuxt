@@ -3,7 +3,7 @@ title: "Il Diavolo nell'Amore: Significato e Simbolismo nel Tarocchi"
 description: "Scopri il profondo significato della carta Il Diavolo in amore. Impara sui suoi simboli di tentazione, attaccamento e liberazione nelle relazioni."
 category: "amore"
 tags: ["il-diavolo-tarocchi-amore", "il-diavolo-significato", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "il-diavolo", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-06"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "it"
 readingTime: 5

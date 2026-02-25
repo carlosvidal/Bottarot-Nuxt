@@ -3,7 +3,7 @@ title: "Temperance in 2026: A Guide to Balance and Transformation"
 description: "Discover the message of the Temperance tarot card for 2026. A guide to the energies of balance, patience, and transformation that may define the year."
 category: "future"
 tags: ["temperance", "tarot-2026", "tarot-prediction", "major-arcana", "balance", "major-arcana", "temperance-card", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-21"
 image: "https://images.freetarot.fun/blog/la-templanza__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

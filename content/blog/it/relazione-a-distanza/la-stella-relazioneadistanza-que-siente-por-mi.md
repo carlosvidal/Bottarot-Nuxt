@@ -3,7 +3,7 @@ title: "La Stella nel Tarot: Cosa Prova in una Relazione a Distanza"
 description: "Scopri il messaggio de La Stella (Arcano 17) su sentimenti, speranza e connessione spirituale in una relazione a distanza. Interpretazione dettagliata."
 category: "relazione-a-distanza"
 tags: ["la-stella-tarot", "tarot-relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarot-emozionale", "arcani-maggiori", "la-stella", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-11"
 image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

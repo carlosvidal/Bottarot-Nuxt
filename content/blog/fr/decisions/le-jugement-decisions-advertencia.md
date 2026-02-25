@@ -3,7 +3,7 @@ title: "Le Jugement dans le Tarot : Avertissement face aux Décisions Importante
 description: "Découvrez le message d'alerte de la carte Le Jugement (Arcane 20) dans les décisions cruciales. Apprenez à interpréter ses signes et à protéger votre énergie."
 category: "decisions"
 tags: ["le-jugement-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "renaissance-spirituelle", "arcanes-majeurs", "le-jugement", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-22"
 image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

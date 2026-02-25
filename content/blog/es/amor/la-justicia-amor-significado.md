@@ -3,7 +3,7 @@ title: "La Justicia en el Amor: Equilibrio y Verdad en las Relaciones"
 description: "Descubre el profundo significado de La Justicia en el amor. Aprende sobre equilibrio, decisiones honestas y el karma en las relaciones de pareja."
 category: "amor"
 tags: ["La Justicia tarot amor", "La Justicia significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "la-justicia", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-23"
 image: "https://images.freetarot.fun/blog/la-justicia__amor-significado.webp"
 locale: "es"
 readingTime: 7

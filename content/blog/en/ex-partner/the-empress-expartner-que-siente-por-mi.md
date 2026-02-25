@@ -3,7 +3,7 @@ title: "The Empress and Your Ex: What Do They Truly Feel for You?"
 description: "Discover the message of The Empress in the context of an ex-partner. Interpret their feelings, energy, and the symbolism of this card of abundance."
 category: "ex-partner"
 tags: ["the-empress-tarot", "tarot-ex-partner", "tarot-interpretation", "major-arcana", "what-ex-feels", "major-arcana", "the-empress", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-14"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

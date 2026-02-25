@@ -3,7 +3,7 @@ title: "El Sol en cambio de trabajo: significado y resultado probable"
 description: "Descubre el mensaje de El Sol (Arcano 19) en un cambio laboral. Interpreta su energía de éxito, vitalidad y claridad para tu próximo paso profesional."
 category: "cambio-de-trabajo"
 tags: ["El Sol tarot", "cambio de trabajo", "tarot laboral", "Arcanos Mayores", "arcanos-mayores", "el-sol", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-16"
 image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Temperance and Your Ex: Tarot Meaning for Reconnections and Healing"
 description: "Discover the deep meaning of the Temperance card when asking 'will my ex come back?'. Learn about balance, patience, and emotional alchemy in love readings."
 category: "ex-partner"
 tags: ["temperance-tarot", "ex-partner-return", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana", "temperance", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-23"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

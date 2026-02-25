@@ -3,7 +3,7 @@ title: "The Empress and Your Ex: Tarot Meaning on Reconciliation"
 description: "Discover the profound meaning of The Empress in tarot when she appears in readings about 'will my ex come back'. A symbolic and reflective guide."
 category: "ex-partner"
 tags: ["the-empress", "tarot-ex-partner", "tarot-meaning", "major-arcana", "reconciliation", "major-arcana-cards", "ex-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-04"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

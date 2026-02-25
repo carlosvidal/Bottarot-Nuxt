@@ -3,7 +3,7 @@ title: "El Ermitaño en 2026: Guía Interior y Ciclos de Reflexión"
 description: "Descubre el significado de El Ermitaño para 2026. Una guía sobre búsqueda interior, orientación personal y las energías de reflexión colectiva que podrían marcar el año."
 category: "futuro"
 tags: ["El Ermitaño", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado tarot", "arcanos-mayores", "el-ermitano", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-08"
 image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

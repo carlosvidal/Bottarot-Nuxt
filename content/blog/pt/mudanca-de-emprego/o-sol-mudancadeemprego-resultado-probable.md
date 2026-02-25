@@ -3,7 +3,7 @@ title: "O Sol na mudança de emprego: significado e resultado provável"
 description: "Descubra a mensagem de O Sol (Arcano 19) em uma mudança profissional. Interprete sua energia de sucesso, vitalidade e clareza para o seu próximo passo na carreira."
 category: "mudanca-de-emprego"
 tags: ["o-sol-tarot", "mudanca-de-emprego", "tarot-profissional", "arcanos-maiores", "arcanos-maiores", "o-sol", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-20"
 image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

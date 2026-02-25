@@ -3,7 +3,7 @@ title: "The Lovers in Money: Tarot Meaning and Symbolism"
 description: "Discover the profound meaning of The Lovers card in the context of money. A guide to financial harmony and conscious decision-making."
 category: "money"
 tags: ["the-lovers-tarot", "tarot-money", "meaning-the-lovers", "major-arcana-money", "financial-tarot", "major-arcana", "the-lovers", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-20"
 image: "https://images.freetarot.fun/blog/los-enamorados__dinero-significado.webp"
 locale: "en"
 readingTime: 5

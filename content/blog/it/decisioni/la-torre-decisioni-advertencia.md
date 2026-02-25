@@ -3,7 +3,7 @@ title: "La Torre nelle decisioni importanti: l'avvertimento del tarocco"
 description: "Scopri il significato de La Torre nelle decisioni cruciali. Una guida per riconoscere i segnali d'allarme ed evitare rotture improvvise sul tuo cammino."
 category: "decisioni"
 tags: ["la-torre-tarocchi", "decisioni-importanti-tarocchi", "arcani-maggiori", "avvertimento-tarocchi", "tarocchi-guida-spirituale", "arcani-maggiori", "la-torre", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-16"
 image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

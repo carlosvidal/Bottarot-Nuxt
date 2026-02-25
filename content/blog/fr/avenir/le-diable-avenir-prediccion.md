@@ -3,7 +3,7 @@ title: "Le Diable en 2026 : Énergies de Transformation et de Libération"
 description: "Explorez la signification de la carte Le Diable dans le tarot pour 2026. Découvrez son message sur les tentations, les entraves et le pouvoir de la libération personnelle."
 category: "avenir"
 tags: ["le-diable-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir", "liberation"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-16"
 image: "https://images.freetarot.fun/blog/el-diablo__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

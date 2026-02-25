@@ -3,7 +3,7 @@ title: "Los Enamorados en el trabajo: significado y resultado probable"
 description: "Descubre el significado de la carta Los Enamorados en el ámbito laboral. Interpreta su energía de armonía y elección para influir en el resultado probable."
 category: "trabajo"
 tags: ["Los Enamorados tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot laboral", "arcanos-mayores", "los-enamorados", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-10"
 image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-resultado.webp"
 locale: "es"
 readingTime: 5

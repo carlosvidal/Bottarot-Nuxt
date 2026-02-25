@@ -3,7 +3,7 @@ title: "La Mort en Amour : Signification de Transformation et Renaissance"
 description: "Découvrez la signification profonde de la carte La Mort en amour. Elle ne prédit pas des fins, mais des transformations nécessaires pour une renaissance émotionnelle."
 category: "amour"
 tags: ["la-mort-tarot-amour", "signification-la-mort", "tarot-amour", "arcanes-majeurs", "la-mort", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-27"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-significado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Fool in Important Decisions: A Tarot Warning"
 description: "Discover the meaning of The Fool in crucial decisions. A guide on the warnings, risks, and how to act wisely when facing new beginnings."
 category: "decisions"
 tags: ["the-fool-tarot", "tarot-important-decisions", "major-arcana", "tarot-warning", "new-beginnings", "major-arcana", "the-fool", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-04"
 image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

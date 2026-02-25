@@ -3,7 +3,7 @@ title: "Le Mat et votre ex-partenaire : Que ressent-il vraiment pour vous ?"
 description: "Découvrez le message de l'Arcane Majeur Le Mat sur les sentiments de votre ex-partenaire. Une lecture profonde sur les nouvelles énergies et la libération émotionnelle."
 category: "ex-partenaire"
 tags: ["le-mat-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "que-ressent-mon-ex", "arcanes-majeurs", "le-mat", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-03"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

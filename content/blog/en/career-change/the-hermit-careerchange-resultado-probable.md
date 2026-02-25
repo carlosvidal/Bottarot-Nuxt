@@ -3,7 +3,7 @@ title: "The Hermit in Career Change: Likely Outcome and Guidance"
 description: "Discover the meaning of The Hermit in a career change. Interpretation, likely outcome, and practical advice for your professional journey."
 category: "career-change"
 tags: ["the-hermit-tarot", "career-change-tarot", "major-arcana", "professional-tarot", "tarot-likely-outcome", "major-arcana", "the-hermit", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-26"
 image: "https://images.freetarot.fun/blog/el-ermitano__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

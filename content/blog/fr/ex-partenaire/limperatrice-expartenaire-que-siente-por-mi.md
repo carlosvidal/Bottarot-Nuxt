@@ -3,7 +3,7 @@ title: "L'Impératrice et votre ex : Que ressent-il vraiment pour vous ?"
 description: "Découvrez le message de L'Impératrice dans le contexte d'un ex-partenaire. Interprétez ses sentiments, son énergie et le symbolisme de cette carte d'abondance."
 category: "ex-partenaire"
 tags: ["l-imperatrice-tarot", "tarot-ex-partenaire", "interpretation-tarot", "arcanes-majeurs", "sentiments-ex-partenaire", "arcanes-majeurs", "l-imperatrice", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-17"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

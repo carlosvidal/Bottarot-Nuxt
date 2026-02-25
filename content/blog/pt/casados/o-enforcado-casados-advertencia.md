@@ -3,7 +3,7 @@ title: "O Enforcado no Si Estou Casado: Advertência e Reflexão"
 description: "Descubra a mensagem de advertência de O Enforcado no contexto do si estou casado. Aprenda a interpretar seus sinais e proteger sua energia."
 category: "casados"
 tags: ["o-enforcado", "tarot-si-estou-casado", "advertencia-tarot", "arcanos-maiores", "sacrificio-em-relacoes", "arcanos-maiores", "o-enforcado", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-16"
 image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

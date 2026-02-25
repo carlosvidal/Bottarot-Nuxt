@@ -3,7 +3,7 @@ title: "La Sacerdotisa y el Ex: Intuición y Sabiduría Interior"
 description: "Descubre el profundo significado de La Sacerdotisa en el contexto de 'ex pareja volverá mi ex'. Una guía reflexiva sobre intuición y misterio."
 category: "ex-pareja"
 tags: ["La Sacerdotisa", "tarot ex pareja", "significado tarot", "arcanos mayores", "intuición", "arcanos-mayores", "la-sacerdotisa", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-30"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

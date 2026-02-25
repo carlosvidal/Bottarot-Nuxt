@@ -3,7 +3,7 @@ title: "El Loco en el Amor: ¿Es un Sí o un No? Significado Tarot"
 description: "Descubre el significado de El Loco en el amor. ¿Anuncia un nuevo comienzo o una aventura riesgosa? Te explicamos su mensaje para tu vida afectiva."
 category: "amor"
 tags: ["El Loco tarot amor", "tarot amor", "significado El Loco en el amor", "arcanos mayores", "arcanos-mayores", "el-loco", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-28"
 image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

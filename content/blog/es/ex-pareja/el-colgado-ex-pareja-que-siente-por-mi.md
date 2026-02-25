@@ -3,7 +3,7 @@ title: "El Colgado y tu ex pareja: qué siente realmente por ti"
 description: "Descifra el mensaje de El Colgado en el contexto de una ex pareja. Aprende qué sentimientos, intenciones y energía proyecta según este arcano mayor."
 category: "ex-pareja"
 tags: ["El Colgado tarot", "tarot ex pareja", "Arcanos Mayores", "interpretación tarot", "arcanos-mayores", "el-colgado", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-25"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

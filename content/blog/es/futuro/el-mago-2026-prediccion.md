@@ -3,7 +3,7 @@ title: "El Mago en 2026: Energía de Manifestación y Nuevos Comienzos"
 description: "Descubre el significado de la carta El Mago para 2026. Explora su energía de manifestación, poder personal y las oportunidades que simboliza para el próximo ciclo."
 category: "futuro"
 tags: ["El Mago tarot", "tarot 2026", "predicción tarot", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-mago", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-30"
 image: "https://images.freetarot.fun/blog/el-mago__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

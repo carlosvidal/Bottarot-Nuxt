@@ -3,7 +3,7 @@ title: "The Emperor in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the meaning of The Emperor card in a long-distance relationship. Interpret its energy of structure, protection, and serious intentions."
 category: "long-distance-relationship"
 tags: ["the-emperor-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana-cards", "the-emperor", "long-distance-love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-24"
 image: "https://images.freetarot.fun/blog/el-emperador__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

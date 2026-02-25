@@ -3,7 +3,7 @@ title: "The Empress and Money: Meaning of Abundance and Creativity"
 description: "Discover the deep meaning of The Empress tarot card in the context of money. Abundance, creative fertility, and material manifestation."
 category: "money"
 tags: ["the-empress", "tarot-money", "tarot-meaning", "major-arcana", "abundance", "major-arcana", "the-empress", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-19"
 image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "en"
 readingTime: 5

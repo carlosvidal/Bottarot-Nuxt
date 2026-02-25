@@ -3,7 +3,7 @@ title: "La Forza nel Cambio Lavoro: Risultato Probabile ed Energie"
 description: "Scopri il messaggio de La Forza (Arcano 8) in un cambio di lavoro. Interpretazione, risultato probabile e consigli pratici per navigare questa transizione con coraggio interiore."
 category: "cambio-lavoro"
 tags: ["la-forza-tarocchi", "cambio-lavoro-tarocchi", "arcani-maggiori", "tarocchi-lavoro", "risultato-probabile-tarocchi", "arcani-maggiori", "la-forza", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-16"
 image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

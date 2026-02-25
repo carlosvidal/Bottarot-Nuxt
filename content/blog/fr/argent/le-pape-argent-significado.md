@@ -3,7 +3,7 @@ title: "Le Pape et l'Argent : Signification dans le Tarot"
 description: "Découvrez la signification profonde de la carte du Pape dans le contexte de l'argent. Sagesse financière traditionnelle, structures et croyances."
 category: "argent"
 tags: ["le-pape-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "le-pape", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-27"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

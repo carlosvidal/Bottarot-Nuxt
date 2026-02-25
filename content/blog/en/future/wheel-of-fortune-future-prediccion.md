@@ -3,7 +3,7 @@ title: "Wheel of Fortune in 2026: Cycles and Changes in the Tarot"
 description: "Discover the meaning of the Wheel of Fortune for 2026. Explore the energies of change, cycles, and opportunities this Major Arcana suggests for the coming year."
 category: "future"
 tags: ["wheel-of-fortune", "tarot-2026", "tarot-prediction", "major-arcana", "destiny-cycles", "major-arcana", "wheel-of-fortune-tarot", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-01"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__2026-prediccion.webp"
 locale: "en"
 readingTime: 6

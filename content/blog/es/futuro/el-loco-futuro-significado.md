@@ -3,7 +3,7 @@ title: "El Loco en el Futuro: Significado de Nuevos Comienzos en el Tarot"
 description: "Descubre el profundo significado de El Loco en el futuro. Una guía sobre nuevos caminos, confianza y la energía de los comienzos en tu lectura de tarot."
 category: "futuro"
 tags: ["El Loco tarot", "significado tarot", "arcanos mayores", "futuro tarot", "arcanos-mayores", "el-loco", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-09"
 image: "https://images.freetarot.fun/blog/el-loco__futuro-significado.webp"
 locale: "es"
 readingTime: 6

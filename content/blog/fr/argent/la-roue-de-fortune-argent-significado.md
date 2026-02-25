@@ -3,7 +3,7 @@ title: "La Roue de la Fortune et l'Argent : Signification dans le Tarot"
 description: "Découvrez la signification profonde de la Roue de la Fortune dans le contexte de l'argent. Apprenez sur les cycles financiers, le changement et comment suivre le flux de la fortune."
 category: "argent"
 tags: ["la-roue-de-la-fortune", "tarot-argent", "arcanes-majeurs", "signification-tarot", "fortune-financiere", "arcanes-majeurs", "la-roue-de-la-fortune", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-15"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

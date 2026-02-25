@@ -3,7 +3,7 @@ title: "El Ermitaño en el Amor: Significado y Búsqueda Interior"
 description: "Descubre el profundo significado de la carta El Ermitaño en el amor. Una guía sobre introspección, soledad significativa y conexión auténtica."
 category: "amor"
 tags: ["El Ermitaño tarot amor", "El Ermitaño significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-ermitano", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-27"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-significado.webp"
 locale: "es"
 readingTime: 5

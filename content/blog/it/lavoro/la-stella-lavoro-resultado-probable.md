@@ -3,7 +3,7 @@ title: "La Stella nel lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de La Stella nel contesto lavorativo. Una guida sulla sua energia di speranza, ispirazione e sul probabile risultato nella tua carriera."
 category: "lavoro"
 tags: ["la-stella-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "significato-tarocchi", "tarocchi-carriera", "arcani-maggiori", "la-stella", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-23"
 image: "https://images.freetarot.fun/blog/la-estrella__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

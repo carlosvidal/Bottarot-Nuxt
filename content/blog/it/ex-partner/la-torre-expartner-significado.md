@@ -3,7 +3,7 @@ title: "La Torre nel Tarocchi: Significato sul ritorno di un ex partner"
 description: "Scopri il profondo significato de La Torre nel contesto 'ex partner tornerà'. Una guida riflessiva su rivelazioni e cambiamenti improvvisi."
 category: "ex-partner"
 tags: ["la-torre-tarocchi", "ex-partner-tornerà", "significato-la-torre", "tarocchi-ex-partner", "arcani-maggiori", "arcani-maggiori", "la-torre", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-30"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

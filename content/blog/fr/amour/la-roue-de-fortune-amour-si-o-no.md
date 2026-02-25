@@ -3,7 +3,7 @@ title: "La Roue de la Fortune en Amour : Un Oui ou un Non ?"
 description: "Découvrez la signification de la Roue de la Fortune en amour. Un guide complet sur les cycles, le destin et comment interpréter un 'oui' ou un 'non' dans vos relations."
 category: "amour"
 tags: ["la-roue-de-la-fortune", "tarot-amour", "arcanes-majeurs", "tarot-oui-ou-non", "amour-et-destin", "arcanes-majeurs", "la-roue-de-la-fortune", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-28"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

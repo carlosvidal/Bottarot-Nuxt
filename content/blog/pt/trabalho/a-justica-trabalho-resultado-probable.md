@@ -3,7 +3,7 @@ title: "A Justiça no trabalho: Resultado provável e significado no tarot"
 description: "Descubra a mensagem de A Justiça (Arcano 11) na sua vida profissional. Interpretação, tendências prováveis e conselhos práticos para agir com equidade."
 category: "trabalho"
 tags: ["a-justica-tarot", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "a-justica", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-08"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

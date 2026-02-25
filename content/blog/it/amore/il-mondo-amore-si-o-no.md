@@ -3,7 +3,7 @@ title: "Il Mondo nell'amore: È un Sì o un No? Significato e consigli"
 description: "Scopri il significato della carta Il Mondo nell'amore. Annuncia un sì definitivo o un no? Ti spieghiamo il suo simbolismo e il messaggio per la tua vita affettiva."
 category: "amore"
 tags: ["il-mondo-tarot", "tarot-amore", "arcani-maggiori", "significato-tarot", "amore-e-tarot", "arcani-maggiori", "il-mondo", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-28"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6

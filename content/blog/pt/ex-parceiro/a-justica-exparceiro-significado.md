@@ -3,7 +3,7 @@ title: "A Justiça no Tarot: Equilíbrio e Verdade sobre o Retorno de um Ex"
 description: "Descubra o profundo significado de A Justiça (Arcano 11) no contexto de 'ex vai voltar'. Uma análise sobre equilíbrio, verdade e karmas pendentes."
 category: "ex-parceiro"
 tags: ["a-justica-tarot", "ex-vai-voltar", "significado-tarot", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "a-justica", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-05"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

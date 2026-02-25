@@ -3,7 +3,7 @@ title: "O Louco no Dinheiro: Significado de Novos Começos Financeiros"
 description: "Descubra o profundo significado da carta O Louco do tarô no contexto do dinheiro. Aprenda sobre novos começos, riscos calculados e a energia da oportunidade."
 category: "dinheiro"
 tags: ["o-louco-tarot", "tarot-dinheiro", "significado-o-louco", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-louco", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-23"
 image: "https://images.freetarot.fun/blog/el-loco__dinero-significado.webp"
 locale: "pt"
 readingTime: 5

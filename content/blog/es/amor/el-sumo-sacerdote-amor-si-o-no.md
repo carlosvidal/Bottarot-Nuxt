@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en el Amor: ¿Es un Sí o un No?"
 description: "Descubre el significado de El Sumo Sacerdote en el amor. Una guía profunda sobre tradición, compromiso y la respuesta matizada a tu pregunta de sí o no."
 category: "amor"
 tags: ["El Sumo Sacerdote tarot amor", "El Sumo Sacerdote si o no", "significado El Sumo Sacerdote en el amor", "tarot amor", "arcanos-mayores", "el-sumo-sacerdote", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-09"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7

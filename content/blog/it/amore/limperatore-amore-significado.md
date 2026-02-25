@@ -3,7 +3,7 @@ title: "L'Imperatore nell'Amore: Significato di Autorità e Struttura"
 description: "Scopri il significato de L'Imperatore in amore. Una guida approfondita su come l'energia di autorità e struttura influenza le relazioni."
 category: "amore"
 tags: ["l-imperatore-tarocchi", "tarocchi-amore", "significato-tarocchi", "arcani-maggiori", "amore-e-tarocchi", "arcani-maggiori", "l-imperatore", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-06"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-significado.webp"
 locale: "it"
 readingTime: 5

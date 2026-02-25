@@ -3,7 +3,7 @@ title: "La Lune dans le Tarot : Signification sur le retour d'un ex-partenaire"
 description: "Découvrez la signification profonde de La Lune dans le tarot lorsque vous vous demandez si votre ex-partenaire reviendra. Un guide sur les illusions, les peurs et l'inconscient."
 category: "ex-partenaire"
 tags: ["la-lune-tarot", "ex-partenaire-reviendra", "signification-la-lune", "tarot-ex-partenaire", "arcane-majeur", "arcanes-majeurs", "la-lune", "ex-partenaires"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-12"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

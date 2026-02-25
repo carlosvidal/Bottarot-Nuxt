@@ -3,7 +3,7 @@ title: "Le Pendu et l'Argent : Signification de la Suspension Financière"
 description: "Découvrez la signification profonde de la carte Le Pendu dans le contexte de l'argent. Un guide sur le sacrifice, la perspective et la transformation financière."
 category: "argent"
 tags: ["le-pendu", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-spirituelles", "arcanes-majeurs", "le-pendu", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-17"
 image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

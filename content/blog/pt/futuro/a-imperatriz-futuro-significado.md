@@ -3,7 +3,7 @@ title: "A Imperatriz no Futuro: Significado de Abundância e Criação"
 description: "Descubra o profundo significado de A Imperatriz no futuro. Uma análise do Arcano Maior #3 sobre criatividade, fertilidade e a manifestação dos seus projetos."
 category: "futuro"
 tags: ["a-imperatriz", "tarot-futuro", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "a-imperatriz", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-20"
 image: "https://images.freetarot.fun/blog/la-emperatriz__futuro-significado.webp"
 locale: "pt"
 readingTime: 6

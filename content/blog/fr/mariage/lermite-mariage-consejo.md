@@ -3,7 +3,7 @@ title: "L'Ermite dans le Mariage : Conseil Intérieur et Réflexion"
 description: "Découvrez la signification de la carte L'Ermite dans le contexte du mariage. Trouvez des conseils pratiques et un guide spirituel pour votre relation."
 category: "mariage"
 tags: ["l-ermite-tarot-mariage", "l-ermite-conseil", "signification-l-ermite-mariage", "tarot-mariage", "arcanes-majeurs", "l-ermite", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-21"
 image: "https://images.freetarot.fun/blog/el-ermitano__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

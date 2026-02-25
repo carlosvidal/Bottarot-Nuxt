@@ -3,7 +3,7 @@ title: "La Torre y tu ex pareja: qué siente por ti según el tarot"
 description: "Descubre el significado de La Torre en el contexto de una ex pareja. Una lectura profunda sobre los sentimientos, la energía y las revelaciones que esta carta simboliza."
 category: "ex-pareja"
 tags: ["la torre tarot", "tarot ex pareja", "arcanos mayores", "lectura de tarot", "qué siente mi ex", "arcanos-mayores", "la-torre", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-18"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

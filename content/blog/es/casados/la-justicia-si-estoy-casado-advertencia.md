@@ -3,7 +3,7 @@ title: "La Justicia en el Tarot: Advertencia para Matrimonios"
 description: "Descubre el mensaje de advertencia de La Justicia (Arcano 11) en el contexto del matrimonio. Aprende a reconocer desequilibrios y proteger tu unión."
 category: "casados"
 tags: ["La Justicia tarot", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "matrimonio tarot", "arcanos-mayores", "la-justicia", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-15"
 image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

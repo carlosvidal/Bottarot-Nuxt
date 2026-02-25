@@ -3,7 +3,7 @@ title: "Death Tarot Card: Meaning in Money and Financial Transformation"
 description: "Discover the profound meaning of the Death card in a money context. It doesn't predict loss, but transformation, the end of cycles, and financial rebirth."
 category: "money"
 tags: ["death-tarot-money", "death-card-meaning", "tarot-money", "major-arcana", "financial-transformation", "major-arcana", "death", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-07"
 image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "en"
 readingTime: 6

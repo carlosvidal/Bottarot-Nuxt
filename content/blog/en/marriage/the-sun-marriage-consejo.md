@@ -3,7 +3,7 @@ title: "The Sun in Marriage: Advice for Cultivating Marital Joy"
 description: "Discover the meaning of The Sun tarot card for marriage. Practical tips and reflections to cultivate joy and vitality in your relationship."
 category: "marriage"
 tags: ["the-sun-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "love-tarot", "major-arcana", "the-sun", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-09"
 image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

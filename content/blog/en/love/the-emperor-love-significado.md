@@ -3,7 +3,7 @@ title: "The Emperor in Love: Meaning of Authority and Structure"
 description: "Discover the meaning of The Emperor in love. A deep guide on how the energy of authority and structure influences relationships."
 category: "love"
 tags: ["the-emperor-tarot", "love-tarot", "tarot-meaning", "major-arcana", "love-and-tarot", "major-arcana", "the-emperor", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-20"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-significado.webp"
 locale: "en"
 readingTime: 5

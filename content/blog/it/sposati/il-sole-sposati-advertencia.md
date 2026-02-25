@@ -3,7 +3,7 @@ title: "Il Sole nel Matrimonio: Avvertimenti e Ombra nella Luce"
 description: "Scopri il significato della carta Il Sole nel contesto del matrimonio. Una guida sui suoi avvertimenti, schemi da evitare e come proteggere la tua unione."
 category: "sposati"
 tags: ["il-sole-tarocchi", "tarocchi-se-sono-sposato", "arcani-maggiori", "avvertimento-tarocchi", "matrimonio-tarocchi", "arcani-maggiori", "il-sole", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-19"
 image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

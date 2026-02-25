@@ -3,7 +3,7 @@ title: "L'Étoile dans le Tarot : Ce qu'elle ressent dans une relation à distan
 description: "Découvrez le message de L'Étoile (Arcane 17) sur les sentiments, l'espoir et la connexion spirituelle dans une relation à distance. Interprétation détaillée."
 category: "relation-a-distance"
 tags: ["l-etoile-tarot", "tarot-relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "l-etoile", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-28"
 image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7

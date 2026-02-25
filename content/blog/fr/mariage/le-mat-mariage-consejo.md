@@ -3,7 +3,7 @@ title: "Le Mat dans le Mariage : Conseils pour des Débuts Audacieux"
 description: "Découvrez la signification du Mat dans le mariage. Conseils pratiques et réflexion spirituelle pour aborder la vie à deux avec innocence et courage."
 category: "mariage"
 tags: ["le-mat-tarot", "tarot-mariage", "arcanes-majeurs", "conseil-tarot", "arcanes-majeurs", "le-mat", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-19"
 image: "https://images.freetarot.fun/blog/el-loco__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

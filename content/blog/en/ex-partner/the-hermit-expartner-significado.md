@@ -3,7 +3,7 @@ title: "The Hermit and Your Ex: Meaning in the Inner Search"
 description: "Discover the profound meaning of The Hermit in the context of 'will my ex come back'. A reflective guide on introspection and healing."
 category: "ex-partner"
 tags: ["the-hermit", "tarot-ex-partner", "tarot-meaning", "major-arcana", "introspection", "major-arcana-cards", "hermit-card", "ex-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-05"
 image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

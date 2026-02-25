@@ -3,7 +3,7 @@ title: "La Forza nel Tarocchi: Significato sul Ritorno di un Ex Partner"
 description: "Scopri il profondo significato della carta La Forza nel contesto del 'ritorno di un ex'. Una guida riflessiva su forza interiore e pazienza."
 category: "ex-partner"
 tags: ["la-forza-tarocchi", "ex-tornera", "significato-tarocchi", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "la-forza", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-03"
 image: "https://images.freetarot.fun/blog/la-fuerza__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

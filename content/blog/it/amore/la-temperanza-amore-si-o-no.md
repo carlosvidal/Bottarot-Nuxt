@@ -3,7 +3,7 @@ title: "La Temperanza nell'Amore: È un Sì o un No? Significato nel Tarocco"
 description: "Scopri il messaggio de La Temperanza in amore. È un sì o un no? Impara il suo significato, interpretazione e consigli pratici per le relazioni."
 category: "amore"
 tags: ["la-temperanza-tarocco-amore", "la-temperanza-si-o-no", "significato-la-temperanza-in-amore", "tarocco-amore", "arcani-maggiori", "lettura-tarocco", "arcani-maggiori", "la-temperanza", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-11"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-si-o-no.webp"
 locale: "it"
 readingTime: 5

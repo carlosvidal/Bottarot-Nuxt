@@ -3,7 +3,7 @@ title: "Il Giudizio Tarocchi ed Ex Partner: Cosa Prova per Te e Rinascita"
 description: "Scopri il profondo significato de Il Giudizio nei tarocchi riguardo al tuo ex partner. Impara cosa prova per te, il suo processo di riflessione e il messaggio di rinascita."
 category: "ex-partner"
 tags: ["il-giudizio-tarocchi", "tarocchi-ex-partner", "cosa-sente-ex-partner", "arcani-maggiori", "rinascita-emotiva", "arcani-maggiori", "il-giudizio", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-01"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

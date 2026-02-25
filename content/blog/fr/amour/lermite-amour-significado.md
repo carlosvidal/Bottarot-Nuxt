@@ -3,7 +3,7 @@ title: "L'Ermite en Amour : Signification et Quête Intérieure"
 description: "Découvrez la signification profonde de la carte L'Ermite en amour. Un guide sur l'introspection, la solitude féconde et la connexion authentique."
 category: "amour"
 tags: ["l-ermite-tarot-amour", "l-ermite-signification", "tarot-amour", "arcanes-majeurs", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-22"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-significado.webp"
 locale: "fr"
 readingTime: 6

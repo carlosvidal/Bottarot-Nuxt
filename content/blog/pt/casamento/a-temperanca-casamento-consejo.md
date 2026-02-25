@@ -3,7 +3,7 @@ title: "A Temperança no Casamento: Conselhos para Encontrar Equilíbrio"
 description: "Descubra o significado de A Temperança no casamento. Conselhos práticos e reflexões profundas para encontrar equilíbrio e harmonia na sua relação."
 category: "casamento"
 tags: ["a-temperanca-tarot-casamento", "a-temperanca-conselho", "significado-a-temperanca-casamento", "tarot-casamento", "arcanos-maiores", "a-temperanca", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-14"
 image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7

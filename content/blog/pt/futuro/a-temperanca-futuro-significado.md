@@ -3,7 +3,7 @@ title: "A Temperança no Futuro: Significado e Mensagem de Equilíbrio"
 description: "Descubra o profundo significado de A Temperança (Arcano 14) em leituras de futuro. Aprenda sobre equilíbrio, paciência e a alquimia interna que esta carta simboliza."
 category: "futuro"
 tags: ["a-temperanca-tarot", "tarot-futuro", "arcanos-maiores", "equilibrio-tarot", "significado-tarot", "arcanos-maiores", "a-temperanca", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-31"
 image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Roue de Fortune et votre ex : Que ressent-il/elle pour vous ?"
 description: "Découvrez la signification de la carte La Roue de Fortune dans le contexte d'un ex-partenaire. Interprétation émotionnelle et énergétique de ses sentiments."
 category: "ex-partenaire"
 tags: ["la-roue-de-fortune", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcanes-majeurs", "la-roue-de-fortune", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-31"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

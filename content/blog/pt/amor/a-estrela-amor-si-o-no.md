@@ -3,7 +3,7 @@ title: "A Estrela no Amor: É um Sim ou um Não? Guia Completa"
 description: "Descubra o significado de A Estrela no amor. Um guia profundo sobre esperança, cura e a resposta matizada para sua pergunta de 'sim ou não'."
 category: "amor"
 tags: ["a-estrela-tarot", "tarot-amor", "arcanos-maiores", "tarot-sim-ou-nao", "significado-tarot", "arcanos-maiores", "a-estrela", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-25"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7

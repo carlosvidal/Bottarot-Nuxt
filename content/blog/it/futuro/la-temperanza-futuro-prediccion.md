@@ -3,7 +3,7 @@ title: "La Temperanza nel 2026: Equilibrio e Trasformazione"
 description: "Scopri il messaggio dell'Arcano Maggiore La Temperanza per il 2026. Una guida sulle energie di equilibrio, pazienza e trasformazione che potrebbero caratterizzare l'anno."
 category: "futuro"
 tags: ["la-temperanza", "tarot-2026", "previsione-tarot", "arcani-maggiori", "equilibrio", "arcani-maggiori", "la-temperanza", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-19"
 image: "https://images.freetarot.fun/blog/la-templanza__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "El Mago en Cambio de Trabajo: Resultado Probable y Energía"
 description: "Descubre el significado de El Mago en un cambio laboral. Analizamos su energía de manifestación y el resultado probable que sugiere para tu carrera."
 category: "cambio-de-trabajo"
 tags: ["El Mago tarot", "cambio de trabajo tarot", "Arcanos Mayores", "resultado probable tarot", "arcanos-mayores", "el-mago", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-05"
 image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

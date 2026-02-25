@@ -3,7 +3,7 @@ title: "La Maison Dieu dans le Si Je Suis Marié : Avertissement et Signaux d'Al
 description: "Découvrez la signification de la carte La Maison Dieu dans le contexte du si je suis marié. Un avertissement sur les structures qui peuvent s'effondrer et comment vous y préparer énergétiquement."
 category: "maries"
 tags: ["la-maison-dieu-tarot", "si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "tarot-relationnel", "arcanes-majeurs", "la-maison-dieu", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-31"
 image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7

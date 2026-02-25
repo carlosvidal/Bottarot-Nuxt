@@ -3,7 +3,7 @@ title: "Il Mago nel lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de Il Mago in una lettura sul lavoro. Impara della sua energia di manifestazione e quale risultato probabile suggerisce per la tua carriera."
 category: "lavoro"
 tags: ["il-mago-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "significato-tarocchi", "arcani-maggiori", "il-mago", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-07"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

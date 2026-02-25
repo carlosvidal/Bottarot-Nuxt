@@ -3,7 +3,7 @@ title: "La Papesse au Travail : Signification et Interprétation Profonde"
 description: "Découvrez la signification de La Papesse dans le contexte professionnel. Apprenez à interpréter son message d'intuition, de sagesse intérieure et de mystère pour votre carrière."
 category: "travail"
 tags: ["la-papesse", "tarot-travail", "arcanes-majeurs", "intuition-professionnelle", "arcanes-majeurs", "la-papesse", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-19"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-significado.webp"
 locale: "fr"
 readingTime: 7

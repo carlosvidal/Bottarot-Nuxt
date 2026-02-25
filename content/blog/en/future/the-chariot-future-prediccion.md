@@ -3,7 +3,7 @@ title: "The Chariot in 2026: Meaning and Energy of Control and Victory"
 description: "Discover the message of The Chariot Major Arcana for 2026. Explore its symbolism of willpower, direction, and overcoming challenges in the coming year."
 category: "future"
 tags: ["the-chariot-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "the-chariot-meaning", "major-arcana", "the-chariot", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-01"
 image: "https://images.freetarot.fun/blog/el-carro__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

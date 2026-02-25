@@ -3,7 +3,7 @@ title: "Gli Amanti nel lavoro: significato e probabile esito"
 description: "Scopri il significato della carta Gli Amanti nel contesto lavorativo. Interpreta la sua energia di armonia e scelta per influenzare il probabile esito."
 category: "lavoro"
 tags: ["gli-amanti-tarot", "tarot-lavoro", "arcani-maggiori", "significato-tarot-lavoro", "arcani-maggiori", "gli-amanti", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-08"
 image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-resultado.webp"
 locale: "it"
 readingTime: 5

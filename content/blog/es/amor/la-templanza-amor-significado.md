@@ -3,7 +3,7 @@ title: "La Templanza en el Amor: Equilibrio y Paciencia en las Relaciones"
 description: "Descubre el profundo significado de la carta de La Templanza en el amor. Aprende sobre equilibrio, moderación y la alquimia emocional que propone este arcano mayor."
 category: "amor"
 tags: ["La Templanza tarot amor", "La Templanza significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "la-templanza", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-14"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-significado.webp"
 locale: "es"
 readingTime: 6

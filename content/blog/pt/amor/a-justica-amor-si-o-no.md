@@ -3,7 +3,7 @@ title: "A Justiça no Amor: Equilíbrio e Verdade no seu Relacionamento"
 description: "Descubra o significado da carta A Justiça no amor. Aprenda sua mensagem sobre equilíbrio, decisões justas e como interpretar sua energia para um 'sim' ou um 'não'."
 category: "amor"
 tags: ["a-justica-tarot-amor", "tarot-amor", "significado-a-justica-no-amor", "arcanos-maiores", "arcanos-maiores", "a-justica", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-27"
 image: "https://images.freetarot.fun/blog/la-justicia__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Stella e il tuo ex: cosa prova davvero per te?"
 description: "Scopri il messaggio de La Stella (Arcano 17) sui sentimenti del tuo ex. Una lettura profonda su speranza, guarigione e connessione spirituale."
 category: "ex-partner"
 tags: ["la-stella-tarot", "tarot-ex", "arcani-maggiori", "interpretazione-tarot", "guarigione-emotiva", "arcani-maggiori", "la-stella", "ex"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-20"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

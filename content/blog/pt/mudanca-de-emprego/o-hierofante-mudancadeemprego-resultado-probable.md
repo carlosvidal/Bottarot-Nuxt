@@ -3,7 +3,7 @@ title: "O Hierofante na Mudança de Emprego: Resultado Provável"
 description: "Descubra o significado de O Hierofante em uma mudança de trabalho. Analisamos sua energia de tradição e estrutura para revelar o resultado provável da sua transição profissional."
 category: "mudanca-de-emprego"
 tags: ["o-hierofante", "tarot-mudanca-de-emprego", "arcano-maior-5", "resultado-provavel-tarot", "arcanos-maiores", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-18"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

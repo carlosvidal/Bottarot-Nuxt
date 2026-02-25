@@ -3,7 +3,7 @@ title: "A Morte no Tarot: Significado em Dinheiro e Transformação Financeira"
 description: "Descubra o profundo significado da carta A Morte no contexto do dinheiro. Ela não prevê perdas, mas sim transformação, fim de ciclos e renascimento financeiro."
 category: "dinheiro"
 tags: ["a-morte-tarot-dinheiro", "significado-a-morte", "tarot-dinheiro", "arcanos-maiores", "transformacao-financeira", "arcanos-maiores", "a-morte", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-15"
 image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

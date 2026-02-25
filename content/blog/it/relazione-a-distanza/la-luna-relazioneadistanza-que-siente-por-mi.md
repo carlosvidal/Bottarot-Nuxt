@@ -3,7 +3,7 @@ title: "La Luna in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il significato de La Luna nei tarocchi per le relazioni a distanza. Interpreta i suoi messaggi su emozioni, paure e l'energia inconscia."
 category: "relazione-a-distanza"
 tags: ["la-luna-tarocchi", "relazione-a-distanza", "cosa-sente-per-me", "tarocco-emotivo", "arcani-maggiori", "arcani-maggiori", "la-luna", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-20"
 image: "https://images.freetarot.fun/blog/la-luna__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

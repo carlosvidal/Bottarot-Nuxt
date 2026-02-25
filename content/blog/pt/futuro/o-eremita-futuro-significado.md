@@ -3,7 +3,7 @@ title: "O Eremita no Futuro: Significado e Guia Interior"
 description: "Descubra o profundo significado de O Eremita no futuro. Aprenda como esta carta simboliza busca interior, paciência e a luz que guia seu caminho por vir."
 category: "futuro"
 tags: ["o-eremita-tarot", "tarot-futuro", "significado-o-eremita", "arcanos-maiores", "tarot-guia", "arcanos-maiores", "o-eremita", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-22"
 image: "https://images.freetarot.fun/blog/el-ermitano__futuro-significado.webp"
 locale: "pt"
 readingTime: 6

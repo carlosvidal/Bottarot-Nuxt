@@ -3,7 +3,7 @@ title: "Strength in 2026: Tarot Prediction and Meaning for the Coming Year"
 description: "Discover the message of the Strength card for 2026. Explore its symbolism, energy, and the trends it may represent for the collective and individual journey ahead."
 category: "future"
 tags: ["strength-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "tarot-meaning", "major-arcana", "strength", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-30"
 image: "https://images.freetarot.fun/blog/la-fuerza__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

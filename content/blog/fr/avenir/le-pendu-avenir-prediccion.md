@@ -3,7 +3,7 @@ title: "Le Pendu en 2026 : Signification et Énergie de Suspension"
 description: "Découvrez le message du Pendu pour 2026. Un guide sur son symbolisme de sacrifice et de nouvelles perspectives pour l'année à venir."
 category: "avenir"
 tags: ["le-pendu", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-04"
 image: "https://images.freetarot.fun/blog/el-colgado__2026-prediccion.webp"
 locale: "fr"
 readingTime: 5

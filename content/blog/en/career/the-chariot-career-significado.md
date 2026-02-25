@@ -3,7 +3,7 @@ title: "The Chariot at Work: Meaning of Control and Professional Victory"
 description: "Discover the deep meaning of The Chariot card in a work context. Learn about control, willpower, and how to advance toward professional success."
 category: "career"
 tags: ["the-chariot-tarot", "tarot-career", "tarot-meaning", "major-arcana", "tarot-cards", "major-arcana", "the-chariot", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-07"
 image: "https://images.freetarot.fun/blog/el-carro__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Roda da Fortuna e seu ex: O que ele(a) sente por você?"
 description: "Descubra o significado da carta A Roda da Fortuna no contexto de um ex-parceiro. Interpretação emocional e energética sobre os sentimentos dele(a)."
 category: "ex-parceiro"
 tags: ["a-roda-da-fortuna", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "o-que-ex-sente", "arcanos-maiores", "a-roda-da-fortuna", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-31"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

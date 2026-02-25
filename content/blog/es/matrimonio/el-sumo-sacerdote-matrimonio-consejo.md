@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en el Matrimonio: Guía y Consejo Espiritual"
 description: "Descubre el profundo significado de El Sumo Sacerdote en el contexto del matrimonio. Aprende su mensaje de tradición, consejo y crecimiento espiritual para tu relación."
 category: "matrimonio"
 tags: ["El Sumo Sacerdote", "tarot matrimonio", "consejo tarot", "arcanos mayores", "espiritualidad pareja", "arcanos-mayores", "el-sumo-sacerdote", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-22"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Carro no Trabalho: Significado de Controle e Vitória Profissional"
 description: "Descubra o profundo significado da carta O Carro no contexto profissional. Aprenda sobre controle, vontade e como avançar em direção ao sucesso na carreira."
 category: "trabalho"
 tags: ["o-carro-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "cartas-de-tarot", "arcanos-maiores", "o-carro", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-17"
 image: "https://images.freetarot.fun/blog/el-carro__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

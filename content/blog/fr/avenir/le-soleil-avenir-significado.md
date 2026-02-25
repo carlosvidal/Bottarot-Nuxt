@@ -3,7 +3,7 @@ title: "Le Soleil dans le Futur : Signification de Joie et de Succès en Tarot"
 description: "Découvrez la signification profonde de la carte Le Soleil pour l'avenir. Un guide sur son symbolisme de succès, vitalité et clarté sur votre chemin à venir."
 category: "avenir"
 tags: ["le-soleil-tarot", "signification-tarot", "avenir-tarot", "arcanes-majeurs", "le-soleil", "futur"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-22"
 image: "https://images.freetarot.fun/blog/el-sol__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

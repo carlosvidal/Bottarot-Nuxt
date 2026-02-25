@@ -3,7 +3,7 @@ title: "Il Papa nelle decisioni importanti: Avvertimento del tarot"
 description: "Scopri il messaggio di avvertimento de Il Papa nelle decisioni cruciali. Impara a identificare segnali d'allerta e schemi da evitare."
 category: "decisioni"
 tags: ["il-papa", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "consiglio-spirituale"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-24"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Force dans le Mariage : Conseils du Tarot pour l'Union Conjugale"
 description: "Découvrez la signification de la carte La Force dans le contexte du mariage. Conseils pratiques et réflexions profondes pour renforcer votre lien."
 category: "mariage"
 tags: ["la-force-tarot", "tarot-mariage", "conseils-tarot", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "la-force", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-11"
 image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

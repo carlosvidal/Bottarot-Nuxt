@@ -3,7 +3,7 @@ title: "El Juicio en Dinero: Significado de Renacimiento Financiero"
 description: "Descubre el profundo significado de la carta El Juicio en el tarot para tu economía. Un llamado a la reflexión, el perdón y el renacimiento financiero."
 category: "dinero"
 tags: ["El Juicio tarot", "tarot dinero", "significado El Juicio", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-juicio", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-15"
 image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "es"
 readingTime: 5

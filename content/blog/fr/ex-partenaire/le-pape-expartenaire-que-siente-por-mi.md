@@ -3,7 +3,7 @@ title: "Le Pape et votre ex : Que ressent-il vraiment pour vous ?"
 description: "Découvrez la signification du Pape dans le contexte d'un ex-partenaire. Une lecture approfondie sur ses sentiments, ses intentions et l'énergie qu'il projette vers vous."
 category: "ex-partenaire"
 tags: ["le-pape-tarot-ex-partenaire", "le-pape-que-ressent-pour-moi", "signification-le-pape-ex-partenaire", "tarot-ex-partenaire", "arcanes-majeurs", "lecture-de-tarot", "arcanes-majeurs", "le-pape", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-24"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7

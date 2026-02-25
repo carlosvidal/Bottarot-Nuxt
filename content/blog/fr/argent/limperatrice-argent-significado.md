@@ -3,7 +3,7 @@ title: "L'Impératrice et l'Argent : Signification d'Abondance et de Créativit�
 description: "Découvrez la signification profonde de L'Impératrice du tarot dans le contexte de l'argent. Abondance, fertilité créative et manifestation matérielle."
 category: "argent"
 tags: ["l-imperatrice", "tarot-argent", "signification-tarot", "arcanes-majeurs", "abondance", "arcanes-majeurs", "l-imperatrice", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-28"
 image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

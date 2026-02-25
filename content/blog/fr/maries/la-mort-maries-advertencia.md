@@ -3,7 +3,7 @@ title: "La Mort dans le Si Je Suis Marié : Avertissement et Transformation"
 description: "Découvrez la signification de la carte La Mort dans le contexte du si je suis marié. Un guide sur les avertissements, les cycles qui s'achèvent et comment naviguer la transformation dans votre relation."
 category: "maries"
 tags: ["la-mort-tarot", "si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "transformation-couple", "arcanes-majeurs", "la-mort", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-21"
 image: "https://images.freetarot.fun/blog/la-muerte__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

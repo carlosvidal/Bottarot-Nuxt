@@ -3,7 +3,7 @@ title: "The High Priestess in a Long-Distance Relationship: What They Feel for Y
 description: "Discover the message of The High Priestess in your long-distance relationship. A guide on intuition, mystery, and the emotional energy that exists between you."
 category: "long-distance-relationship"
 tags: ["the-high-priestess-tarot", "long-distance-relationship", "what-they-feel-for-me", "love-tarot", "major-arcana", "major-arcana-cards", "the-high-priestess", "long-distance-love"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-21"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

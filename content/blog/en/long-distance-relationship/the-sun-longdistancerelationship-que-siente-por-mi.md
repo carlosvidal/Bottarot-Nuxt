@@ -3,7 +3,7 @@ title: "The Sun in Tarot: Feelings in a Long-Distance Relationship"
 description: "Discover the meaning of The Sun tarot card for long-distance relationships. Interpret the feelings and energy the other person projects toward you."
 category: "long-distance-relationship"
 tags: ["the-sun-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-sun", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-12"
 image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

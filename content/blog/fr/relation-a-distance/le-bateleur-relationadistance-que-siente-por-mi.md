@@ -3,7 +3,7 @@ title: "Le Bateleur dans une Relation à Distance : Ce qu'il Ressent pour Toi"
 description: "Décryptez le message du Bateleur dans votre relation à distance. Interprétez ses sentiments, ses intentions et l'énergie de manifestation qu'il projette vers vous."
 category: "relation-a-distance"
 tags: ["le-bateleur-tarot", "relation-a-distance", "ce-qu-il-ressent", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "le-bateleur", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-20"
 image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 5

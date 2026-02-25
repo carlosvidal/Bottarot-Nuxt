@@ -3,7 +3,7 @@ title: "Le Soleil Tarot 2026 : Signification, Énergie et Cycle de Lumière"
 description: "Découvrez la signification de la carte Le Soleil pour 2026. Explorez son énergie de succès, de joie et de vitalité dans le contexte du nouveau cycle, sans prédictions absolues."
 category: "avenir"
 tags: ["le-soleil-tarot", "tarot-2026", "arcanes-majeurs", "prediction-tarot", "avenir", "energie-positive"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-26"
 image: "https://images.freetarot.fun/blog/el-sol__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

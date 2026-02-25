@@ -3,7 +3,7 @@ title: "Strength in Marriage: Tarot Guidance for a Lasting Union"
 description: "Discover the meaning of the Strength card in the context of marriage. Find practical advice and deep reflections to fortify your bond and navigate challenges with compassion."
 category: "marriage"
 tags: ["strength-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "love-and-tarot", "major-arcana", "strength", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-31"
 image: "https://images.freetarot.fun/blog/la-fuerza__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

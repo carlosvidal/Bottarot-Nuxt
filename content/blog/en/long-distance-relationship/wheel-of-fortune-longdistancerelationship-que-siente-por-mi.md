@@ -3,7 +3,7 @@ title: "Wheel of Fortune in a Long-Distance Relationship: What Do They Feel?"
 description: "Discover the Wheel of Fortune's message about feelings in a long-distance relationship. Emotional interpretation and practical advice from the tarot."
 category: "long-distance-relationship"
 tags: ["wheel-of-fortune", "long-distance-relationship-tarot", "what-do-they-feel-for-me", "major-arcana", "long-distance-love", "major-arcana", "wheel-of-fortune-tarot", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-12"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

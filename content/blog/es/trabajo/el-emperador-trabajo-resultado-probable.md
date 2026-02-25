@@ -3,7 +3,7 @@ title: "El Emperador en el Trabajo: Resultado Probable y Energía de Autoridad"
 description: "Descubre el significado de El Emperador en el trabajo. Analizamos el resultado probable, la energía de estructura y control, y cómo influir en tu camino profesional."
 category: "trabajo"
 tags: ["El Emperador tarot", "tarot trabajo", "Arcanos Mayores", "significado tarot profesional", "arcanos-mayores", "el-emperador", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-08"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Sol no Casamento: Advertências e Sombra na Luz"
 description: "Descubra o significado da carta O Sol no contexto do casamento. Um guia sobre suas advertências, padrões a evitar e como proteger sua união."
 category: "casados"
 tags: ["o-sol-tarot", "tarot-se-estou-casado", "arcanos-maiores", "advertencia-tarot", "casamento-tarot", "arcanos-maiores", "o-sol", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-28"
 image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5

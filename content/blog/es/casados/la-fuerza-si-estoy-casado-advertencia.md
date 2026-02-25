@@ -3,7 +3,7 @@ title: "La Fuerza en el si estoy casado: Advertencia y Protección"
 description: "Descubre el mensaje de advertencia de La Fuerza en el contexto del si estoy casado. Aprende a reconocer señales y proteger tu energía vital."
 category: "casados"
 tags: ["La Fuerza tarot", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "consejo tarot", "arcanos-mayores", "la-fuerza", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-25"
 image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

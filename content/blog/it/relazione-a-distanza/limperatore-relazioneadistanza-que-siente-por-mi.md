@@ -3,7 +3,7 @@ title: "L'Imperatore in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il significato de L'Imperatore in una relazione a distanza. Interpreta la sua energia di struttura, protezione e intenzioni serie."
 category: "relazione-a-distanza"
 tags: ["l-imperatore-tarocchi", "relazione-a-distanza", "cosa-sente-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "l-imperatore", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-18"
 image: "https://images.freetarot.fun/blog/el-emperador__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Matto e il tuo ex: cosa prova davvero per te?"
 description: "Scopri il messaggio dell'Arcano Maggiore Il Matto sui sentimenti del tuo ex. Una lettura profonda su nuove energie e liberazione emotiva."
 category: "ex-partner"
 tags: ["il-matto-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "lettura-tarocchi", "cosa-sente-il-mio-ex", "arcani-maggiori", "il-matto", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-01"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

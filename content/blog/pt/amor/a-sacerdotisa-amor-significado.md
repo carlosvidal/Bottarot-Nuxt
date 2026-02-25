@@ -3,7 +3,7 @@ title: "A Sacerdotisa no Amor: Intuição e Sabedoria Interior"
 description: "Descubra o profundo significado de A Sacerdotisa no amor. Um guia sobre intuição, conexão espiritual e mistério nos relacionamentos."
 category: "amor"
 tags: ["a-sacerdotisa", "tarot-amor", "arcanos-maiores", "intuição", "arcanos-maiores", "a-sacerdotisa", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-28"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-significado.webp"
 locale: "pt"
 readingTime: 6

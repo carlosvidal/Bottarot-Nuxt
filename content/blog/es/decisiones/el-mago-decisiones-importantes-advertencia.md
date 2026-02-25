@@ -3,7 +3,7 @@ title: "El Mago Tarot: Advertencia en Decisiones Importantes"
 description: "Descubre el mensaje de advertencia de El Mago en decisiones cruciales. Aprende a usar tu poder personal con sabiduría y evita las trampas del ego."
 category: "decisiones"
 tags: ["El Mago tarot", "tarot decisiones importantes", "Arcanos Mayores", "advertencia tarot", "poder personal", "arcanos-mayores", "el-mago", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-12"
 image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

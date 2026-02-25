@@ -3,7 +3,7 @@ title: "The Tower at Work: Meaning and Professional Transformation"
 description: "Discover the profound meaning of The Tower card in a career context. Learn to interpret its message of sudden change and renewal in your professional life."
 category: "career"
 tags: ["the-tower-tarot-work", "the-tower-meaning", "tarot-career", "major-arcana", "major-arcana-cards", "the-tower", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-14"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

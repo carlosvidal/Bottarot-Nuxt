@@ -3,7 +3,7 @@ title: "The World at Work: Meaning and Probable Outcome for Your Career"
 description: "Discover the meaning of The World card in a career context. Learn the probable outcome it suggests and how to harness its energy of culmination."
 category: "career"
 tags: ["the-world-tarot", "tarot-career", "major-arcana", "tarot-meaning", "tarot-cards", "major-arcana", "the-world", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-10"
 image: "https://images.freetarot.fun/blog/el-mundo__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Hanged Man at Work: Meaning and Probable Outcome"
 description: "Discover the message of The Hanged Man in the workplace. Learn about its meaning, interpretation, and the probable outcome this card suggests."
 category: "career"
 tags: ["the-hanged-man-tarot-work", "the-hanged-man-probable-outcome", "meaning-the-hanged-man-at-work", "tarot-work", "major-arcana", "career-tarot", "major-arcana", "the-hanged-man", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-09"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

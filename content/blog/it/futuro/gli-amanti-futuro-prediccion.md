@@ -3,7 +3,7 @@ title: "Gli Amanti nel 2026: Energia di Connessione e Scelte del Cuore"
 description: "Scopri il messaggio dell'arcano Gli Amanti per il 2026. Una guida sulle energie d'amore, armonia e decisioni importanti che potrebbero segnare l'anno."
 category: "futuro"
 tags: ["gli-amanti", "tarot-2026", "previsione-tarot", "arcani-maggiori", "amore-e-relazioni", "arcani-maggiori", "gli-amanti", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-01"
 image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

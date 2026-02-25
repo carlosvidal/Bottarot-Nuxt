@@ -3,7 +3,7 @@ title: "La Rueda de la Fortuna en el Matrimonio: Guía de Consejos y Ciclos"
 description: "Descubre el significado de La Rueda de la Fortuna en el matrimonio. Consejos prácticos y reflexiones espirituales para navegar los ciclos del amor."
 category: "matrimonio"
 tags: ["La Rueda de la Fortuna", "tarot matrimonio", "consejo tarot", "arcanos mayores", "ciclos del amor", "arcanos-mayores", "la-rueda-de-la-fortuna", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-19"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Torre no Relacionamento à Distância: O Que Ele(a) Sente por Você"
 description: "Descubra o profundo significado de A Torre no tarot para relacionamentos à distância. Interprete quais sentimentos e energias esta carta revela sobre a outra pessoa."
 category: "relacionamento-a-distancia"
 tags: ["a-torre-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-torre", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-30"
 image: "https://images.freetarot.fun/blog/la-torre__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

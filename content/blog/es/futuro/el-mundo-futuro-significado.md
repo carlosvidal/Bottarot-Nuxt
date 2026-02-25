@@ -3,7 +3,7 @@ title: "El Mundo Tarot Futuro: Significado de Culminación y Plenitud"
 description: "Descubre el profundo significado de la carta El Mundo en el contexto del futuro. Una guía sobre su simbolismo de logro, ciclos completados y nueva plenitud."
 category: "futuro"
 tags: ["El Mundo tarot", "tarot futuro", "significado El Mundo", "arcanos mayores", "tarot significado", "arcanos-mayores", "el-mundo", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-31"
 image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "es"
 readingTime: 5

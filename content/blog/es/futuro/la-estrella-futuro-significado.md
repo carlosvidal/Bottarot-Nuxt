@@ -3,7 +3,7 @@ title: "La Estrella en el Futuro: Significado de Esperanza y Guía"
 description: "Descubre el profundo significado de La Estrella en el futuro. Una carta de esperanza, inspiración y conexión espiritual que ilumina tu camino."
 category: "futuro"
 tags: ["La Estrella tarot", "tarot futuro", "significado tarot", "arcanos mayores", "espiritualidad tarot", "arcanos-mayores", "la-estrella", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-12"
 image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Morte nell'Amore: È un Sì o un No? Trasformazione e Rinascita"
 description: "Scopri il profondo significato de La Morte nel tarocco dell'amore. Non è una fine, ma una trasformazione. Impara il suo messaggio per la tua vita affettiva."
 category: "amore"
 tags: ["la-morte-tarocco-amore", "tarocco-amore", "significato-la-morte-amore", "arcani-maggiori", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-13"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "it"
 readingTime: 5

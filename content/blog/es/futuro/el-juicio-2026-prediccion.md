@@ -3,7 +3,7 @@ title: "El Juicio Tarot 2026: Renacimiento y Reflexión Colectiva"
 description: "Descubre el significado de la carta El Juicio para 2026. Un análisis simbólico sobre ciclos de renacimiento, evaluación colectiva y oportunidades de transformación."
 category: "futuro"
 tags: ["El Juicio tarot", "tarot 2026", "predicción tarot", "arcanos mayores", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-30"
 image: "https://images.freetarot.fun/blog/el-juicio__2026-prediccion.webp"
 locale: "es"
 readingTime: 5

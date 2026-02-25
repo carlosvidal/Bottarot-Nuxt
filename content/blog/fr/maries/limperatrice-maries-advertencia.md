@@ -3,7 +3,7 @@ title: "L'Impératrice dans le Mariage : Avertissements et Protection"
 description: "Découvrez la signification de la carte L'Impératrice au tarot dans le contexte du mariage. Un guide sur les avertissements, les schémas à éviter et la protection énergétique pour votre relation."
 category: "maries"
 tags: ["l-imperatrice", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseils-tarot", "arcanes-majeurs", "l-imperatrice", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-20"
 image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

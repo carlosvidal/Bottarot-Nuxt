@@ -3,7 +3,7 @@ title: "O Diabo no Amor: Significado e Simbolismo no Tarot"
 description: "Descubra o profundo significado da carta O Diabo no amor. Entenda seus símbolos de tentação, apego e liberação nos relacionamentos."
 category: "amor"
 tags: ["o-diabo-tarot-amor", "o-diabo-significado", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-diabo", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-17"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-significado.webp"
 locale: "pt"
 readingTime: 5

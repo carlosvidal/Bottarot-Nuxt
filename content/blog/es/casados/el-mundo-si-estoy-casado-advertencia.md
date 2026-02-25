@@ -3,7 +3,7 @@ title: "El Mundo en el Matrimonio: Advertencias y Plenitud Real"
 description: "Descubre el significado de la carta El Mundo en el contexto del matrimonio. Una guía sobre señales de alerta, patrones a evitar y cómo proteger tu unión."
 category: "casados"
 tags: ["El Mundo tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "matrimonio tarot", "arcanos-mayores", "el-mundo", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-14"
 image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Luna en el Tarot: Advertencia ante Decisiones Importantes"
 description: "Descubre el mensaje de advertencia de La Luna (Arcano 18) en decisiones cruciales. Aprende a reconocer ilusiones y proteger tu energía."
 category: "decisiones"
 tags: ["La Luna tarot", "tarot decisiones importantes", "Arcanos Mayores", "advertencia tarot", "arcanos-mayores", "la-luna", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-24"
 image: "https://images.freetarot.fun/blog/la-luna__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 6

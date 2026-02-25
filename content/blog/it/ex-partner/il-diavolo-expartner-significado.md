@@ -3,7 +3,7 @@ title: "Il Diavolo nel Tarocchi: Significato su 'il mio ex tornerà'"
 description: "Scopri il profondo significato de Il Diavolo nei tarocchi quando sorge la domanda 'il mio ex tornerà'. Interpretazione simbolica e riflessioni."
 category: "ex-partner"
 tags: ["il-diavolo-tarocchi", "ex-tornera", "significato-tarocchi", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "il-diavolo", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-05"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "La Morte nel Tarocchi: Significato nel Denaro e Trasformazione Finanziar
 description: "Scopri il profondo significato della carta La Morte nel contesto del denaro. Non predice perdite, ma trasformazione, fine di cicli e rinascita finanziaria."
 category: "denaro"
 tags: ["la-morte-tarocchi-denaro", "significato-la-morte", "tarocchi-denaro", "arcani-maggiori", "trasformazione-finanziaria", "arcani-maggiori", "la-morte", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-24"
 image: "https://images.freetarot.fun/blog/la-muerte__dinero-significado.webp"
 locale: "it"
 readingTime: 6

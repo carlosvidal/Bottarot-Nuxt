@@ -3,7 +3,7 @@ title: "O Imperador no Trabalho: Significado de Autoridade e Estrutura"
 description: "Descubra o profundo significado da carta O Imperador no contexto profissional. Aprenda sobre autoridade, estrutura e controle na sua carreira."
 category: "trabalho"
 tags: ["o-imperador", "tarot-trabalho", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-imperador", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-09"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

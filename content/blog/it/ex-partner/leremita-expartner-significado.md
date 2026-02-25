@@ -3,7 +3,7 @@ title: "L'Eremita e l'Ex: Significato nella Ricerca Interiore"
 description: "Scopri il profondo significato de L'Eremita nel contesto di 'ex partner tornerà'. Una guida riflessiva su introspezione e guarigione."
 category: "ex-partner"
 tags: ["l-eremita", "tarot-ex-partner", "significato-tarot", "arcani-maggiori", "introspezione", "arcani-maggiori", "ex-parte"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-14"
 image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

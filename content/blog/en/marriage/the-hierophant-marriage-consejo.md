@@ -3,7 +3,7 @@ title: "The Hierophant in Marriage: A Guide to Spiritual Counsel and Tradition"
 description: "Discover the profound meaning of The Hierophant tarot card in the context of marriage. Learn its message of tradition, wise counsel, and spiritual growth for your relationship."
 category: "marriage"
 tags: ["the-hierophant", "marriage-tarot", "tarot-advice", "major-arcana", "couple-spirituality", "major-arcana", "the-hierophant", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-02"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

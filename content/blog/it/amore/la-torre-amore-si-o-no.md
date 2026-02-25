@@ -3,7 +3,7 @@ title: "La Torre nell'Amore: È un Sì o un No? Significato e Consigli"
 description: "Scopri il profondo significato de La Torre nell'amore. È un sì o un no? Impara a interpretare il suo messaggio di cambiamento improvviso e trasformazione nelle tue relazioni."
 category: "amore"
 tags: ["la-torre-tarot-amore", "la-torre-si-o-no", "significato-la-torre-amore", "tarot-amore", "arcani-maggiori", "la-torre", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-03"
 image: "https://images.freetarot.fun/blog/la-torre__amor-si-o-no.webp"
 locale: "it"
 readingTime: 5

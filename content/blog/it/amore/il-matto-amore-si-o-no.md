@@ -3,7 +3,7 @@ title: "Il Matto nell'Amore: È un Sì o un No? Significato nel Tarocchi"
 description: "Scopri il significato de Il Matto in amore. Annuncia un nuovo inizio o un'avventura rischiosa? Ti spieghiamo il suo messaggio per la tua vita affettiva."
 category: "amore"
 tags: ["il-matto-tarocchi-amore", "tarocchi-amore", "significato-il-matto-in-amore", "arcani-maggiori", "arcani-maggiori", "il-matto", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-17"
 image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6

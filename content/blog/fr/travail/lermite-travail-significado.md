@@ -3,7 +3,7 @@ title: "L'Ermite au travail : signification et guide intérieur"
 description: "Découvrez la signification profonde de la carte L'Ermite dans le contexte professionnel. Guide, introspection et sagesse pour votre chemin de carrière."
 category: "travail"
 tags: ["l-ermite-tarot", "tarot-travail", "signification-l-ermite", "arcanes-majeurs", "introspection-professionnelle", "arcanes-majeurs", "l-ermite", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-10"
 image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Lua na mudança de emprego: resultado provável e significado"
 description: "Descubra a mensagem de A Lua (Arcano 18) em uma mudança de trabalho. Aprenda a interpretar suas energias de ilusão e subconsciente para navegar a transição."
 category: "mudanca-de-emprego"
 tags: ["a-lua-tarot", "mudanca-de-trabalho-tarot", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "a-lua", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-21"
 image: "https://images.freetarot.fun/blog/la-luna__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

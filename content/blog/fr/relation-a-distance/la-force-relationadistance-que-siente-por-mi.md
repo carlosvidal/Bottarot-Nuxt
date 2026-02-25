@@ -3,7 +3,7 @@ title: "La Force dans le Tarot : Ce qu'elle Ressent dans une Relation à Distanc
 description: "Découvrez le message de La Force (Arcane 8) sur les sentiments, la patience et l'énergie émotionnelle dans une relation à distance. Interprétation complète."
 category: "relation-a-distance"
 tags: ["la-force-tarot", "relation-a-distance-tarot", "que-ressent-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "la-force", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-29"
 image: "https://images.freetarot.fun/blog/la-fuerza__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "L'Impératrice en Amour : Signification, Abondance et Connexion"
 description: "Découvrez la signification profonde de L'Impératrice en amour. Un arcane de créativité, de fertilité et de connexion intime qui nourrit le cœur."
 category: "amour"
 tags: ["l-imperatrice-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "amour-et-tarot", "arcanes-majeurs", "l-imperatrice", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-06"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-significado.webp"
 locale: "fr"
 readingTime: 6

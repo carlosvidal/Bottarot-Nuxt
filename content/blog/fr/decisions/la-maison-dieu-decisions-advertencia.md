@@ -3,7 +3,7 @@ title: "La Maison Dieu dans les décisions importantes : l'avertissement du taro
 description: "Découvrez la signification de l'arcane La Maison Dieu dans les décisions cruciales. Un guide pour reconnaître les signaux d'alerte et éviter les ruptures soudaines sur votre chemin."
 category: "decisions"
 tags: ["la-maison-dieu-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "tarot-guide-spirituel", "arcanes-majeurs", "la-maison-dieu", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-04"
 image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

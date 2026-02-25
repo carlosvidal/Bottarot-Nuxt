@@ -3,7 +3,7 @@ title: "L'Amoureux en Amour : Signification Profonde de l'Arcane Majeur"
 description: "Découvrez la signification de la carte L'Amoureux dans le contexte de l'amour. Un guide complet sur son symbolisme, son interprétation et son message pour vos relations."
 category: "amour"
 tags: ["l-amoureux-tarot", "tarot-amour", "signification-tarot", "arcanes-majeurs", "relations-tarot", "arcanes-majeurs", "l-amoureux", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-28"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "fr"
 readingTime: 6

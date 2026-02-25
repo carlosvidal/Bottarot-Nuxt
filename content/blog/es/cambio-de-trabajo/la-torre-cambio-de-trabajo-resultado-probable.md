@@ -3,7 +3,7 @@ title: "La Torre en cambio de trabajo: significado y resultado probable"
 description: "Descubre el significado de La Torre del tarot en un cambio de trabajo. Interpreta su energía de transformación súbita y cómo influir en el resultado probable."
 category: "cambio-de-trabajo"
 tags: ["La Torre tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot profesional", "arcanos-mayores", "la-torre", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-28"
 image: "https://images.freetarot.fun/blog/la-torre__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 5

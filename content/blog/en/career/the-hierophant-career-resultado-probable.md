@@ -3,7 +3,7 @@ title: "The Hierophant at Work: Meaning and Probable Outcome"
 description: "Discover the message of The Hierophant (Major Arcana 5) in your career. Interpret its energy of tradition and structure to understand the probable outcome."
 category: "career"
 tags: ["the-hierophant-tarot-work", "tarot-career", "the-hierophant-meaning-work", "major-arcana", "major-arcana", "the-hierophant", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-13"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "O Enforcado no Futuro: Significado e Mensagem de Suspensão"
 description: "Descubra o profundo significado de O Enforcado no futuro. Aprenda como esta carta simboliza uma pausa necessária e uma mudança de perspectiva."
 category: "futuro"
 tags: ["o-enforcado", "tarot-futuro", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-enforcado", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-12"
 image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "pt"
 readingTime: 5

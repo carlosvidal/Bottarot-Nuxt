@@ -3,7 +3,7 @@ title: "The Magician in a Long-Distance Relationship: What They Feel for You"
 description: "Discover The Magician's message for your long-distance relationship. Interpret their feelings, intentions, and the manifestation energy they project toward you."
 category: "long-distance-relationship"
 tags: ["the-magician-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-magician", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-11"
 image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Fool at Work: Meaning and Probable Outcome in Your Career"
 description: "Discover the meaning of The Fool in a work context. Interpret its message about new beginnings, risks, and the probable outcome for your career path."
 category: "career"
 tags: ["the-fool-tarot-work", "the-fool-probable-outcome", "meaning-the-fool-at-work", "tarot-work", "major-arcana", "tarot-career", "major-arcana", "the-fool", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-29"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

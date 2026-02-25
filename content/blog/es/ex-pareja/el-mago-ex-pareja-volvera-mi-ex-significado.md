@@ -3,7 +3,7 @@ title: "El Mago en el Tarot: Significado sobre si tu ex pareja volverá"
 description: "Descubre el profundo significado de El Mago en el contexto de 'ex pareja volverá mi ex'. Una guía simbólica sobre manifestación y poder personal."
 category: "ex-pareja"
 tags: ["El Mago tarot", "ex pareja volverá mi ex", "significado El Mago", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-mago", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-01"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

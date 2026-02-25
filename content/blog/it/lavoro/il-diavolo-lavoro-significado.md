@@ -3,7 +3,7 @@ title: "Il Diavolo nel lavoro: significato e simbolismo nel tarocchi"
 description: "Scopri il profondo significato della carta Il Diavolo nel contesto lavorativo. Impara su tentazioni, legami e la liberazione del potere personale."
 category: "lavoro"
 tags: ["il-diavolo-tarocchi", "tarocchi-lavoro", "significato-tarocchi", "arcani-maggiori", "tarocchi-professionale", "arcani-maggiori", "il-diavolo", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-19"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-significado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Papa nell'Amore: È un Sì o un No?"
 description: "Scopri il significato de Il Papa nell'amore. Una guida approfondita su tradizione, impegno e la risposta sfumata alla tua domanda di sì o no."
 category: "amore"
 tags: ["il-papa-tarocchi-amore", "il-papa-si-o-no", "significato-il-papa-amore", "tarocchi-amore", "arcani-maggiori", "il-papa", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-08"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7

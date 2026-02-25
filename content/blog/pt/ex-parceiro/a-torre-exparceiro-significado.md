@@ -3,7 +3,7 @@ title: "A Torre no Tarot: Significado sobre se seu ex vai voltar"
 description: "Descubra o profundo significado de A Torre no contexto de 'ex vai voltar'. Um guia reflexivo sobre revelações e mudanças súbitas."
 category: "ex-parceiro"
 tags: ["a-torre-tarot", "ex-voltar", "significado-a-torre", "tarot-ex", "arcanos-maiores", "arcanos-maiores", "a-torre", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-22"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5

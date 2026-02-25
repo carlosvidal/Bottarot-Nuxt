@@ -3,7 +3,7 @@ title: "O Julgamento no trabalho: significado, reflexão e renascimento"
 description: "Descubra o profundo significado da carta O Julgamento no contexto profissional. Um guia sobre reflexão, avaliação e novos começos na carreira."
 category: "trabalho"
 tags: ["o-julgamento-tarot", "tarot-trabalho", "significado-tarot", "arcanos-maiores", "tarot-profissional", "arcanos-maiores", "o-julgamento", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-19"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-significado.webp"
 locale: "pt"
 readingTime: 5

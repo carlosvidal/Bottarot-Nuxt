@@ -3,7 +3,7 @@ title: "L'Ermite dans les Décisions Importantes : Avertissement et Prudence"
 description: "Découvrez le message d'alerte de L'Ermite dans les décisions cruciales. Apprenez à reconnaître les signes et à protéger votre énergie intérieure."
 category: "decisions"
 tags: ["l-ermite", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "conseil-spirituel", "arcanes-majeurs", "l-ermite", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-13"
 image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

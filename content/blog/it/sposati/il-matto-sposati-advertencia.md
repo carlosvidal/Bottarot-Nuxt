@@ -3,7 +3,7 @@ title: "Il Matto nel Matrimonio: Avvertimenti e Segnali d'Allarme"
 description: "Scopri il significato de Il Matto nel contesto del matrimonio. Una guida sugli avvertimenti, gli schemi da evitare e come proteggere la tua relazione."
 category: "sposati"
 tags: ["il-matto-tarot", "tarot-matrimonio", "arcani-maggiori", "avvertimento-tarot", "consiglio-matrimoniale", "arcani-maggiori", "il-matto", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-18"
 image: "https://images.freetarot.fun/blog/el-loco__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

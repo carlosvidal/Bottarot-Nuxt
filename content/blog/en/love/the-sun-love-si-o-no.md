@@ -3,7 +3,7 @@ title: "The Sun in Love: Is It a Yes or a No? Tarot Meaning"
 description: "Discover the profound meaning of The Sun card in love. Learn its message of joy and success, and how to interpret if it's a yes or a no in your reading."
 category: "love"
 tags: ["the-sun-tarot", "love-tarot", "major-arcana", "tarot-meaning", "the-sun-yes-or-no", "major-arcana", "the-sun", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-10"
 image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

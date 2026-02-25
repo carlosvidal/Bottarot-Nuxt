@@ -3,7 +3,7 @@ title: "Gli Amanti nel Matrimonio: Consigli del Tarot per l'Unione"
 description: "Scopri il profondo consiglio della carta Gli Amanti per il tuo matrimonio. Impara a interpretare il suo messaggio d'amore, scelta e armonia nella tua relazione di coppia."
 category: "matrimonio"
 tags: ["gli-amanti", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "amore-e-relazioni", "arcani-maggiori", "gli-amanti", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-30"
 image: "https://images.freetarot.fun/blog/los-enamorados__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 5

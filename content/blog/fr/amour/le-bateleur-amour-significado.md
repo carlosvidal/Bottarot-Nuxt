@@ -3,7 +3,7 @@ title: "Le Bateleur en Amour : Signification, Pouvoir et Manifestation"
 description: "Découvrez la signification profonde de la carte Le Bateleur en amour. Apprenez comment son énergie de manifestation et de volonté influence vos relations et connexions."
 category: "amour"
 tags: ["le-bateleur-tarot-amour", "le-bateleur-signification", "tarot-amour", "arcanes-majeurs", "le-bateleur", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-08"
 image: "https://images.freetarot.fun/blog/el-mago__amor-significado.webp"
 locale: "fr"
 readingTime: 6

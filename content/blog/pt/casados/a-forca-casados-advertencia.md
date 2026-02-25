@@ -3,7 +3,7 @@ title: "A Força no 'casados': Advertência e Proteção para o Relacionamento"
 description: "Descubra a mensagem de advertência da carta A Força no contexto do 'casados'. Aprenda a reconhecer sinais de desgaste e proteger sua energia vital no casamento."
 category: "casados"
 tags: ["a-forca-tarot", "tarot-casados", "advertencia-tarot", "arcanos-maiores", "conselho-tarot", "arcanos-maiores", "a-forca", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-29"
 image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Sole nel Tarocco: Significa che il mio ex tornerà? Significato Profo
 description: "Scopri il significato della carta Il Sole nel contesto 'ex partner tornerà'. Una guida simbolica su chiarezza, guarigione e rinnovamento."
 category: "ex-partner"
 tags: ["il-sole-tarocco", "ex-partner-tornera", "significato-tarocco", "arcani-maggiori", "tarocco-amore", "arcani-maggiori", "il-sole", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-23"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

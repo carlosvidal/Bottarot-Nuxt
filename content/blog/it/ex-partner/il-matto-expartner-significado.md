@@ -3,7 +3,7 @@ title: "Il Matto e l'Ex: Significato in una Possibile Riconciliazione"
 description: "Scopri il profondo significato de Il Matto nei tarocchi quando sorge la domanda 'il mio ex tornerà?'. Uno sguardo al simbolismo di nuovi inizi."
 category: "ex-partner"
 tags: ["il-matto", "tarocchi-ex", "significato-tarocchi", "arcani-maggiori", "riconciliazione", "arcani-maggiori", "il-matto", "ex"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-22"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

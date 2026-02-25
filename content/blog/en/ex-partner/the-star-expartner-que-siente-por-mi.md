@@ -3,7 +3,7 @@ title: "The Star and Your Ex: What Do They Truly Feel for You?"
 description: "Discover The Star's (Arcana 17) message about your ex's feelings. A deep reading on hope, healing, and spiritual connection."
 category: "ex-partner"
 tags: ["the-star-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "emotional-healing", "major-arcana", "the-star", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-26"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

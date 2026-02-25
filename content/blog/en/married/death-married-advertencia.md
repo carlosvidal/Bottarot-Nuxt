@@ -3,7 +3,7 @@ title: "Death in Marriage: A Warning and a Call to Transform"
 description: "Discover the meaning of the Death card in the context of marriage. A guide to its warnings, ending cycles, and navigating profound transformation in your relationship."
 category: "married"
 tags: ["death-tarot", "marriage", "tarot-warning", "major-arcana", "relationship-transformation", "major-arcana", "death", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-19"
 image: "https://images.freetarot.fun/blog/la-muerte__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

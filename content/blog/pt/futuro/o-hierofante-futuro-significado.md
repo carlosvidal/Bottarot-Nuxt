@@ -3,7 +3,7 @@ title: "O Hierofante no Futuro: Significado e Mensagem do Tarot"
 description: "Descubra o profundo significado de O Hierofante no futuro. Aprenda como a tradição e a sabedoria coletiva influenciam o caminho que está por vir."
 category: "futuro"
 tags: ["o-hierofante", "tarot-futuro", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-hierofante", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-02"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "pt"
 readingTime: 5

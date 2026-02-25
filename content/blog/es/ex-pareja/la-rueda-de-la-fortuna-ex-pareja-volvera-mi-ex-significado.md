@@ -3,7 +3,7 @@ title: "La Rueda de la Fortuna y el Ex: Significado en el Tarot"
 description: "Descubre el profundo significado de La Rueda de la Fortuna en el contexto de una ex pareja. Aprende sobre ciclos, destino y el mensaje del tarot."
 category: "ex-pareja"
 tags: ["La Rueda de la Fortuna", "tarot ex pareja", "significado tarot", "arcanos mayores", "amor y tarot", "arcanos-mayores", "la-rueda-de-la-fortuna", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-08"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

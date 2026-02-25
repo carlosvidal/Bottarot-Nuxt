@@ -3,7 +3,7 @@ title: "A Estrela no Casamento: Conselhos de Esperança e Renovação"
 description: "Descubra o significado de A Estrela do tarô no casamento. Encontre conselhos práticos e orientação espiritual para renovar a esperança e a conexão em seu relacionamento."
 category: "casamento"
 tags: ["a-estrela-tarot", "tarot-casamento", "conselhos-tarot", "arcanos-maiores", "espiritualidade-a-dois", "arcanos-maiores", "a-estrela", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-27"
 image: "https://images.freetarot.fun/blog/la-estrella__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

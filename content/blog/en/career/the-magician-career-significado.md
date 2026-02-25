@@ -3,7 +3,7 @@ title: "The Magician at Work: Meaning and Guide for Your Professional Life"
 description: "Discover the deep meaning of The Magician card in a career context. Learn to channel its energy of manifestation and personal power for professional growth."
 category: "career"
 tags: ["the-magician-tarot-work", "the-magician-meaning", "tarot-career", "major-arcana", "major-arcana-cards", "the-magician", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-15"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

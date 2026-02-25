@@ -3,7 +3,7 @@ title: "L'Ermite et votre ex : Ce qu'il ressent pour vous selon le tarot"
 description: "Découvrez la signification de la carte L'Ermite dans le contexte d'un ex-partenaire. Une lecture profonde sur ses sentiments et son énergie actuelle."
 category: "ex-partenaire"
 tags: ["l-ermite-tarot-ex", "l-ermite-sentiments", "signification-l-ermite-ex", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "l-ermite", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-03"
 image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 5

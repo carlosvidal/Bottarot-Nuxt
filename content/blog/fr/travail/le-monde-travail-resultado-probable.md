@@ -3,7 +3,7 @@ title: "Le Monde au travail : signification et résultat probable pour votre car
 description: "Découvrez la signification de la carte Le Monde dans le contexte professionnel. Apprenez le résultat probable qu'elle suggère et comment utiliser son énergie de culmination."
 category: "travail"
 tags: ["le-monde-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "cartes-de-tarot", "arcanes-majeurs", "le-monde", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-28"
 image: "https://images.freetarot.fun/blog/el-mundo__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

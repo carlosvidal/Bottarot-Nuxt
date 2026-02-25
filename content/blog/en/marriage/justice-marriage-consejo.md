@@ -3,7 +3,7 @@ title: "Justice in Marriage: Advice for Balance and Truth in Your Relationship"
 description: "Discover the profound advice of the Justice tarot card for your marriage. Learn about balance, fairness, and how to make conscious decisions in your partnership."
 category: "marriage"
 tags: ["justice-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "relationship-balance", "major-arcana", "justice", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-10"
 image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

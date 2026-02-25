@@ -3,7 +3,7 @@ title: "The Lovers in 2026: Energy of Connection and Heartfelt Choices"
 description: "Discover the message of The Lovers tarot card for 2026. A guide to the energies of love, harmony, and important decisions that could define the year."
 category: "future"
 tags: ["the-lovers", "tarot-2026", "tarot-prediction", "major-arcana", "love-and-relationships", "major-arcana", "the-lovers", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-05"
 image: "https://images.freetarot.fun/blog/los-enamorados__2026-prediccion.webp"
 locale: "en"
 readingTime: 5

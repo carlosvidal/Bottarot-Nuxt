@@ -3,7 +3,7 @@ title: "Le Chariot au travail : maîtrise et victoire sur le chemin professionne
 description: "Découvrez la signification profonde de la carte du Chariot dans le contexte professionnel. Apprenez-en plus sur le contrôle, la volonté et comment avancer vers le succès."
 category: "travail"
 tags: ["le-chariot-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "cartes-de-tarot", "le-chariot", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-06"
 image: "https://images.freetarot.fun/blog/el-carro__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Matto in una Relazione a Distanza: Cosa Prova per Me?"
 description: "Scopri il significato de Il Matto nel tarot per le relazioni a distanza. Interpreta i suoi sentimenti, l'energia e il messaggio di nuovi inizi."
 category: "relazione-a-distanza"
 tags: ["il-matto-tarot", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarot-emozionale", "arcani-maggiori", "il-matto", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-19"
 image: "https://images.freetarot.fun/blog/el-loco__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

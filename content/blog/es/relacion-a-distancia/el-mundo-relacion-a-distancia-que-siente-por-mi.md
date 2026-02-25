@@ -3,7 +3,7 @@ title: "El Mundo Tarot en Relación a Distancia: ¿Qué Siente por Mí?"
 description: "Descubre el profundo significado de la carta El Mundo en el tarot para relaciones a distancia. Interpreta sus mensajes de plenitud, logro y conexión espiritual."
 category: "relacion-a-distancia"
 tags: ["El Mundo tarot", "relación a distancia tarot", "qué siente por mí", "arcanos mayores", "tarot emocional", "arcanos-mayores", "el-mundo", "relacion-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-10"
 image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 6

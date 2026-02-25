@@ -3,7 +3,7 @@ title: "Il Diavolo nel cambio lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de Il Diavolo (Arcano 15) in un cambio di lavoro. Interpreta la sua energia di tentazione e materialismo per prendere decisioni consapevoli."
 category: "cambio-lavoro"
 tags: ["il-diavolo-tarocchi", "cambio-lavoro", "arcani-maggiori", "tarocchi-lavoro", "arcani-maggiori", "il-diavolo", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-24"
 image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

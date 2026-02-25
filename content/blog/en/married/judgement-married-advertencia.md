@@ -3,7 +3,7 @@ title: "Judgement in Marriage: Tarot Warnings and Reflections for the Committed"
 description: "Discover the meaning of the Judgement card in the context of marriage. A guide to its warnings, patterns to avoid, and energetic protection for your sacred bond."
 category: "married"
 tags: ["judgement-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "tarot-interpretation", "major-arcana", "judgement", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-09"
 image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

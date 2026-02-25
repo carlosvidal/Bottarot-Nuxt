@@ -3,7 +3,7 @@ title: "La Mort en Amour : Oui ou Non ? Transformation et Renaissance"
 description: "Découvrez la signification profonde de la carte La Mort dans le tarot de l'amour. Ce n'est pas une fin, mais une transformation. Apprenez son message pour votre vie affective."
 category: "amour"
 tags: ["la-mort-tarot-amour", "tarot-amour", "signification-la-mort-en-amour", "arcanes-majeurs", "la-mort", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-07"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

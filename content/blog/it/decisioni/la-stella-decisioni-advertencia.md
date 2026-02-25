@@ -3,7 +3,7 @@ title: "La Stella nelle decisioni importanti: avvertimento e guida"
 description: "Scopri il messaggio di avvertimento de La Stella nelle decisioni cruciali. Impara a interpretare i suoi segnali e proteggere la tua energia."
 category: "decisioni"
 tags: ["la-stella-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "avvertimento-tarocchi", "spiritualita-tarocchi", "arcani-maggiori", "la-stella", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-05"
 image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

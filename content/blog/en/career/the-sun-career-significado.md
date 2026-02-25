@@ -3,7 +3,7 @@ title: "The Sun at Work: Meaning of Success and Professional Vitality"
 description: "Discover the meaning of The Sun card in a work context. A symbol of success, clarity, and professional joy in the tarot."
 category: "career"
 tags: ["the-sun-tarot", "tarot-career", "the-sun-meaning", "major-arcana", "professional-success", "major-arcana", "the-sun", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-22"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

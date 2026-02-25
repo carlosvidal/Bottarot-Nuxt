@@ -3,7 +3,7 @@ title: "Il Mago in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il messaggio de Il Mago nella tua relazione a distanza. Interpreta i suoi sentimenti, le intenzioni e l'energia di manifestazione che proietta verso di te."
 category: "relazione-a-distanza"
 tags: ["il-mago-tarot", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarot-emozionale", "arcani-maggiori", "il-mago", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-29"
 image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "Le Chariot et votre ex-partenaire : Que ressent-il vraiment pour vous ?"
 description: "Découvrez la signification du Chariot dans le contexte d'un ex-partenaire. Interprétez ses sentiments, son énergie et le message de cet Arcane Majeur."
 category: "ex-partenaire"
 tags: ["le-chariot-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "arcanes-majeurs", "le-chariot", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-02"
 image: "https://images.freetarot.fun/blog/el-carro__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "Il Sole nel Matrimonio: Consigli per la Gioia Coniugale"
 description: "Scopri il significato de Il Sole nei tarocchi per il matrimonio. Consigli pratici e riflessioni per coltivare gioia e vitalità nella tua relazione."
 category: "matrimonio"
 tags: ["il-sole-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "amore-tarocchi", "arcani-maggiori", "il-sole", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-11"
 image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6

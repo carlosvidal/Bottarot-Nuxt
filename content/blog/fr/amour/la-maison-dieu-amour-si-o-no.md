@@ -3,7 +3,7 @@ title: "La Maison Dieu en amour : Oui ou non ? Signification et conseils"
 description: "Découvrez la signification profonde de La Maison Dieu en amour. Est-ce un oui ou un non ? Apprenez à interpréter son message de changement soudain et de transformation dans vos relations."
 category: "amour"
 tags: ["la-maison-dieu tarot amour", "la-maison-dieu oui ou non", "signification la-maison-dieu en amour", "tarot amour", "arcanes-majeurs", "la-maison-dieu", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-27"
 image: "https://images.freetarot.fun/blog/la-torre__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 5

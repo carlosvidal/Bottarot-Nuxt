@@ -3,7 +3,7 @@ title: "L'Imperatore nel Matrimonio: Avvertimenti ed Equilibrio"
 description: "Scopri il messaggio di avvertimento de L'Imperatore nel tuo matrimonio. Impara a identificare gli squilibri di potere e a proteggere l'energia della tua relazione."
 category: "sposati"
 tags: ["l-imperatore-tarot", "tarot-se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consigli-matrimonio-tarot", "arcani-maggiori", "l-imperatore", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-27"
 image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Templanza en el Futuro: Significado y Mensaje de Equilibrio"
 description: "Descubre el profundo significado de La Templanza (Arcano 14) en lecturas de futuro. Aprende sobre equilibrio, paciencia y la alquimia interna que esta carta simboliza."
 category: "futuro"
 tags: ["La Templanza tarot", "tarot futuro", "arcanos mayores", "equilibrio tarot", "significado tarot", "arcanos-mayores", "la-templanza", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-29"
 image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "L'Étoile en Mariage : Conseils d'Espoir et de Renouveau"
 description: "Découvrez la signification de la carte de L'Étoile du tarot dans le mariage. Trouvez des conseils pratiques et un guide spirituel pour renouveler l'espoir et la connexion dans votre relation."
 category: "mariage"
 tags: ["l-etoile-tarot", "tarot-mariage", "conseils-tarot", "arcanes-majeurs", "spiritualite-en-couple", "arcanes-majeurs", "l-etoile", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-11"
 image: "https://images.freetarot.fun/blog/la-estrella__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

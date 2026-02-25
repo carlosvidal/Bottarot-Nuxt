@@ -3,7 +3,7 @@ title: "The Moon at Work: Meaning and Probable Outcome"
 description: "Discover the meaning of The Moon tarot card for work. Interpret its energy of illusion and the subconscious to understand the probable outcome in your career."
 category: "career"
 tags: ["the-moon-tarot-work", "the-moon-probable-outcome", "meaning-the-moon-at-work", "tarot-career", "major-arcana", "the-moon", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-11"
 image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

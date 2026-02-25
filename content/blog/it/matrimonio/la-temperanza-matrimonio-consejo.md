@@ -3,7 +3,7 @@ title: "La Temperanza nel Matrimonio: Consigli per Trovare Equilibrio"
 description: "Scopri il significato de La Temperanza nel matrimonio. Consigli pratici e riflessioni profonde per trovare equilibrio e armonia nella tua relazione."
 category: "matrimonio"
 tags: ["la-temperanza-tarocchi-matrimonio", "la-temperanza-consiglio", "significato-temperanza-matrimonio", "tarocchi-matrimonio", "arcani-maggiori", "la-temperanza", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-29"
 image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 7

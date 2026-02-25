@@ -3,7 +3,7 @@ title: "Le Soleil en Amour : Est-ce un Oui ou un Non ? Signification Tarot"
 description: "Découvrez la signification profonde de la carte Le Soleil en amour. Apprenez son message de joie et de succès, et comment interpréter si c'est un oui ou un non dans votre consultation."
 category: "amour"
 tags: ["le-soleil-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "le-soleil-oui-non", "arcanes-majeurs", "le-soleil", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-11"
 image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Imperador no Amor: É um Sim ou um Não? Significado e Conselhos"
 description: "Descubra o significado de O Imperador no tarot do amor. É um sim ou um não? Analisamos sua energia de autoridade, estrutura e compromisso nos relacionamentos."
 category: "amor"
 tags: ["o-imperador-tarot-amor", "o-imperador-sim-ou-nao", "significado-o-imperador-no-amor", "tarot-amor", "arcanos-maiores", "tarot-leitura", "arcanos-maiores", "o-imperador", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-19"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 5

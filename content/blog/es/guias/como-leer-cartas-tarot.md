@@ -3,7 +3,7 @@ title: "Como Leer las Cartas del Tarot: Guia Completa para Principiantes"
 description: "Aprende a leer las cartas del tarot paso a paso. Esta guia para principiantes cubre todo desde elegir tu primer mazo hasta realizar tu primera lectura."
 category: "guias"
 tags: ["principiante", "como-leer", "tarot-basico", "aprender-tarot"]
-publishedAt: "2025-02-01"
+publishedAt: "2025-04-24"
 image: "/img/sm_RWSa-X-RL.webp"
 locale: "es"
 readingTime: 10

@@ -3,7 +3,7 @@ title: "El Colgado en el Amor: Significado Profundo y Simbolismo"
 description: "Descubre el significado de El Colgado en el amor. Una carta de suspensión y sacrificio que invita a la reflexión profunda sobre las relaciones."
 category: "amor"
 tags: ["El Colgado tarot amor", "El Colgado significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-colgado", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-26"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Emperor and Your Ex: What Do They Feel According to Tarot?"
 description: "Discover the meaning of The Emperor card in the context of an ex-partner. A deep reading on authority, structure, and hidden feelings."
 category: "ex-partner"
 tags: ["the-emperor-tarot", "tarot-ex-partner", "major-arcana", "tarot-reading", "what-does-my-ex-feel", "major-arcana", "the-emperor", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-04"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

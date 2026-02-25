@@ -3,7 +3,7 @@ title: "Death Card Tarot: What Your Ex-Partner Feels for You"
 description: "Discover the profound meaning of the Death card in the context of ex-partners. A guide on emotional transformation and the energy projected."
 category: "ex-partner"
 tags: ["death-tarot", "ex-partner-tarot", "major-arcana-13", "emotional-transformation", "major-arcana", "death-card", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-17"
 image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5

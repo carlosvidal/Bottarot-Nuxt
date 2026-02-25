@@ -3,7 +3,7 @@ title: "L'Étoile en Amour : Signification, Espoir et Renaissance"
 description: "Découvrez la signification profonde de la carte L'Étoile en amour. Un message d'espoir, de guérison et de connexion spirituelle dans vos relations."
 category: "amour"
 tags: ["l-etoile-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "amour-et-spiritualite", "arcanes-majeurs", "l-etoile", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-14"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "fr"
 readingTime: 6

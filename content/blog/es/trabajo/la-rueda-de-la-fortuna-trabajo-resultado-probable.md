@@ -3,7 +3,7 @@ title: "La Rueda de la Fortuna en el Trabajo: Resultado Probable"
 description: "Descubre el significado de La Rueda de la Fortuna en el contexto laboral. Interpreta las tendencias de cambio y ciclos para influir en tu resultado probable."
 category: "trabajo"
 tags: ["La Rueda de la Fortuna", "tarot trabajo", "arcanos mayores", "resultado probable tarot", "cambio laboral", "arcanos-mayores", "la-rueda-de-la-fortuna", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-09"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Tower in Marriage: Navigating Sudden Change and Transformation"
 description: "Discover the meaning of The Tower tarot card in marriage. Practical advice and spiritual reflections for navigating crises and profound transformations in your partnership."
 category: "marriage"
 tags: ["the-tower-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "marriage-crisis", "major-arcana", "the-tower", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-30"
 image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

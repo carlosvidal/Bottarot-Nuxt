@@ -3,7 +3,7 @@ title: "La Morte nel Tarocchi: Cosa Prova in una Relazione a Distanza"
 description: "Scopri il profondo significato della carta La Morte nei tarocchi per le relazioni a distanza. Una guida sulla trasformazione emotiva e su ciò che prova per te."
 category: "relazione-a-distanza"
 tags: ["tarocchi-relazione-a-distanza", "la-morte-tarocchi", "cosa-prova-per-me", "arcani-maggiori", "tarocchi-emotivi", "arcani-maggiori", "la-morte", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-10"
 image: "https://images.freetarot.fun/blog/la-muerte__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

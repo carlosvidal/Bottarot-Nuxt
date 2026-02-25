@@ -3,7 +3,7 @@ title: "Le Mat dans les Décisions Importantes : Un Avertissement du Tarot"
 description: "Découvrez la signification du Mat face aux choix cruciaux. Un guide sur les avertissements, les risques et comment agir avec sagesse lors de nouveaux départs."
 category: "decisions"
 tags: ["le-mat-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "nouveaux-commencements", "arcanes-majeurs", "le-mat", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-12"
 image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

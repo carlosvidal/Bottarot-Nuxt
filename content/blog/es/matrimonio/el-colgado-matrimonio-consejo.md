@@ -3,7 +3,7 @@ title: "El Colgado en Matrimonio: Consejo para la Transformación"
 description: "Descubre el significado de El Colgado en el matrimonio. Consejos prácticos y reflexión profunda para transformar tu relación desde la perspectiva del tarot."
 category: "matrimonio"
 tags: ["El Colgado tarot matrimonio", "El Colgado consejo", "significado El Colgado en el matrimonio", "tarot matrimonio", "arcano mayor 12", "consejos tarot", "arcanos-mayores", "el-colgado", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-20"
 image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 5

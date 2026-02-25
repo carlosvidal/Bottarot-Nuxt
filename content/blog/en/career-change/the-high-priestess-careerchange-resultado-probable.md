@@ -3,7 +3,7 @@ title: "The High Priestess in a Career Change: Probable Outcome"
 description: "Discover the message of The High Priestess in a job change. Interpret her energy of intuition and inner wisdom to navigate your professional transition."
 category: "career-change"
 tags: ["the-high-priestess", "tarot-career-change", "major-arcana", "professional-intuition", "major-arcana", "the-high-priestess", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-06"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

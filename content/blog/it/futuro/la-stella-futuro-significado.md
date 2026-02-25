@@ -3,7 +3,7 @@ title: "La Stella nel Futuro: Significato di Speranza e Guida"
 description: "Scopri il profondo significato de La Stella nel futuro. Una carta di speranza, ispirazione e connessione spirituale che illumina il tuo cammino."
 category: "futuro"
 tags: ["la-stella-tarocchi", "tarocchi-futuro", "significato-tarocchi", "arcani-maggiori", "spiritualità-tarocchi", "arcani-maggiori", "la-stella", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-25"
 image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "it"
 readingTime: 6

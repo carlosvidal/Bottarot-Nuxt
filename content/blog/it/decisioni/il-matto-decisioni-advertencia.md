@@ -3,7 +3,7 @@ title: "Il Matto nelle Decisioni Importanti: Un Avvertimento dal Tarot"
 description: "Scopri il significato de Il Matto nelle decisioni cruciali. Una guida sugli avvertimenti, i rischi e come agire con saggezza davanti a nuovi inizi."
 category: "decisioni"
 tags: ["il-matto-tarot", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "nuovi-inizi", "arcani-maggiori", "il-matto", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-13"
 image: "https://images.freetarot.fun/blog/el-loco__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

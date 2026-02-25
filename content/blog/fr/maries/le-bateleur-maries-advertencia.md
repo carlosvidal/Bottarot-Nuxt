@@ -3,7 +3,7 @@ title: "Le Bateleur dans le Mariage : Avertissements et Pouvoir Personnel"
 description: "Découvrez la signification du Bateleur dans le contexte du mariage. Un guide sur les avertissements, les schémas à éviter et comment protéger l'énergie de votre couple."
 category: "maries"
 tags: ["le-bateleur-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseils-tarot", "arcanes-majeurs", "le-bateleur", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-11"
 image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

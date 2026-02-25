@@ -3,7 +3,7 @@ title: "The Hermit and Money: Deep Meaning in Tarot"
 description: "Discover the meaning of The Hermit card in the context of money. A guide to financial introspection, real value, and practical wisdom."
 category: "money"
 tags: ["the-hermit-tarot-money", "the-hermit-meaning", "tarot-money", "major-arcana-money", "major-arcana", "the-hermit", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-19"
 image: "https://images.freetarot.fun/blog/el-ermitano__dinero-significado.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "Le Pape dans le Futur : Signification et Message du Tarot"
 description: "Découvrez la signification profonde du Pape dans le futur. Apprenez comment la tradition et la sagesse collective influencent le chemin à venir."
 category: "avenir"
 tags: ["le-pape", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir-tarot", "arcane-v"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-08"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__futuro-significado.webp"
 locale: "fr"
 readingTime: 5

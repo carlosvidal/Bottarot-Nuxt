@@ -3,7 +3,7 @@ title: "A Morte no trabalho: significado e resultado provável na mudança de em
 description: "Descubra o profundo significado da carta A Morte em uma mudança de trabalho. Ela não prevê demissões, mas sim transformação e renascimento profissional."
 category: "mudanca-de-emprego"
 tags: ["a-morte-tarot", "mudanca-de-emprego", "tarot-profissional", "transformacao-laboral", "arcanos-maiores", "arcanos-maiores", "a-morte", "mudanca-de-trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-11"
 image: "https://images.freetarot.fun/blog/la-muerte__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Papessa e il Denaro: Intuizione e Saggezza Finanziaria"
 description: "Scopri il significato de La Papessa nel contesto del denaro. Impara come la sua energia di intuizione e mistero guida le tue decisioni finanziarie."
 category: "denaro"
 tags: ["la-papessa-tarot", "tarot-denaro", "significato-tarot", "arcani-maggiori", "intuizione-finanziaria", "arcani-maggiori", "la-papessa", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-14"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "it"
 readingTime: 5

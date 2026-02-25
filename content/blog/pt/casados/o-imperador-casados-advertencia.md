@@ -3,7 +3,7 @@ title: "O Imperador no Casamento: Advertências e Equilíbrio"
 description: "Descubra a mensagem de advertência de O Imperador no seu casamento. Aprenda a identificar desequilíbrios de poder e a proteger a energia do seu relacionamento."
 category: "casados"
 tags: ["o-imperador-tarot", "tarot-se-estou-casado", "advertencia-tarot", "arcanos-maiores", "conselhos-casamento-tarot", "arcanos-maiores", "o-imperador", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-17"
 image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

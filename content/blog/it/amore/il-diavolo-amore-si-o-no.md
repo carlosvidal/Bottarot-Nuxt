@@ -3,7 +3,7 @@ title: "Il Diavolo nell'Amore: È un Sì o un No? Significato nel Tarot"
 description: "Scopri il profondo significato della carta Il Diavolo in amore. Una guida su tentazioni, attaccamenti e la risposta sfumata alla tua domanda di sì o no."
 category: "amore"
 tags: ["il-diavolo-tarot-amore", "il-diavolo-si-o-no", "significato-il-diavolo-in-amore", "tarot-amore", "arcani-maggiori", "lettura-di-tarot", "arcani-maggiori", "il-diavolo", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-16"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7

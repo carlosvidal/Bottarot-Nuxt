@@ -3,7 +3,7 @@ title: "La Emperatriz en 2026: Abundancia y Creatividad en el Nuevo Ciclo"
 description: "Descubre el significado de La Emperatriz para 2026. Explora su mensaje de fertilidad, creatividad y abundancia en el contexto del nuevo ciclo energético."
 category: "futuro"
 tags: ["La Emperatriz", "tarot 2026", "predicción tarot", "Arcanos Mayores", "abundancia", "arcanos-mayores", "la-emperatriz", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-11"
 image: "https://images.freetarot.fun/blog/la-emperatriz__2026-prediccion.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Empereur dans le Mariage : Conseils pour la Structure et l'Équilibre"
 description: "Découvrez la signification de L'Empereur dans le mariage. Conseils pratiques et réflexions spirituelles pour construire une relation solide et équilibrée."
 category: "mariage"
 tags: ["l-empereur", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "relations", "arcanes-majeurs", "l-empereur", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-31"
 image: "https://images.freetarot.fun/blog/el-emperador__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

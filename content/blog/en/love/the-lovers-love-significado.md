@@ -3,7 +3,7 @@ title: "The Lovers in Love: Deep Meaning of the Major Arcana"
 description: "Discover the meaning of The Lovers card in the context of love. A complete guide to its symbolism, interpretation, and message for your relationships."
 category: "love"
 tags: ["the-lovers-tarot", "tarot-love", "tarot-meaning", "major-arcana", "relationship-tarot", "major-arcana", "the-lovers", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-02"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-significado.webp"
 locale: "en"
 readingTime: 6

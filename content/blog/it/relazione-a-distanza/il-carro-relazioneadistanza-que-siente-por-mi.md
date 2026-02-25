@@ -3,7 +3,7 @@ title: "Il Carro in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il significato de Il Carro nei tarocchi per le relazioni a distanza. Interpreta i sentimenti, l'energia e le intenzioni che l'altra persona proietta verso di te."
 category: "relazione-a-distanza"
 tags: ["il-carro-tarocchi", "relazione-a-distanza", "cosa-sente-per-me", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "il-carro", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-29"
 image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5

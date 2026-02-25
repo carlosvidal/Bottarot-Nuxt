@@ -3,7 +3,7 @@ title: "Le Pendu dans un changement d'emploi : signification et résultat probab
 description: "Découvrez le message du Pendu dans un changement professionnel. Apprenez sa signification, son interprétation et des conseils pratiques pour naviguer cette transition."
 category: "changement-emploi"
 tags: ["le-pendu-tarot", "changement-d-emploi", "arcanes-majeurs", "tarot-professionnel", "resultat-probable", "arcanes-majeurs", "le-pendu", "changement-de-travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-24"
 image: "https://images.freetarot.fun/blog/el-colgado__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 5

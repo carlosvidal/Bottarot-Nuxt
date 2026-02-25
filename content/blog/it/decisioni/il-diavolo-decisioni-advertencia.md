@@ -3,7 +3,7 @@ title: "Il Diavolo nel Tarot: Avvertimento per Decisioni Importanti"
 description: "Scopri il significato de Il Diavolo nelle decisioni cruciali. Una guida per riconoscere tentazioni e legami che possono offuscare il tuo giudizio."
 category: "decisioni"
 tags: ["il-diavolo-tarot", "tarot-decisioni-importanti", "arcani-maggiori", "avvertimento-tarot", "significato-il-diavolo", "arcani-maggiori", "il-diavolo", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-07"
 image: "https://images.freetarot.fun/blog/el-diablo__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Tower and Your Ex: What They Feel According to Tarot"
 description: "Discover the meaning of The Tower in the context of an ex-partner. A deep reading on the feelings, energy, and revelations this card symbolizes."
 category: "ex-partner"
 tags: ["the-tower-tarot", "tarot-ex-partner", "major-arcana", "tarot-reading", "what-does-my-ex-feel", "major-arcana", "the-tower", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-10"
 image: "https://images.freetarot.fun/blog/la-torre__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

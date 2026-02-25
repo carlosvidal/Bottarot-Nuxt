@@ -3,7 +3,7 @@ title: "L'Amoureux dans le Si Je Suis Marié : Avertissement et Signification"
 description: "Découvrez le message d'avertissement de L'Amoureux dans le contexte du si je suis marié. Apprenez à interpréter ses signes et à protéger votre relation."
 category: "maries"
 tags: ["l-amoureux", "tarot si je suis marié", "avertissement tarot", "arcanes majeurs", "relations tarot", "arcanes-majeurs", "l-amoureux", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-21"
 image: "https://images.freetarot.fun/blog/los-enamorados__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

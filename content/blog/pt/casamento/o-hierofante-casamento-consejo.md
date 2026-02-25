@@ -3,7 +3,7 @@ title: "O Hierofante no Casamento: Guia e Conselho Espiritual"
 description: "Descubra o profundo significado de O Hierofante no contexto do casamento. Aprenda sua mensagem de tradição, conselho e crescimento espiritual para seu relacionamento."
 category: "casamento"
 tags: ["o-hierofante", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "espiritualidade-casal", "arcanos-maiores", "o-hierofante", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-15"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

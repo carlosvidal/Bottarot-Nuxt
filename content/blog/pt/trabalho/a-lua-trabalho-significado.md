@@ -3,7 +3,7 @@ title: "A Lua no trabalho: significado, ilusões e subconsciente"
 description: "Descubra o profundo significado da carta A Lua no contexto profissional. Aprenda a navegar a incerteza, os medos e as intuições na sua carreira."
 category: "trabalho"
 tags: ["a-lua-tarot", "tarot-trabalho", "significado-a-lua", "arcanos-maiores", "tarot-carreira", "arcanos-maiores", "a-lua", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-27"
 image: "https://images.freetarot.fun/blog/la-luna__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

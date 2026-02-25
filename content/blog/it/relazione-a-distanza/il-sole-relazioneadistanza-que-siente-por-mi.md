@@ -3,7 +3,7 @@ title: "Il Sole nel Tarocco: Cosa Prova in una Relazione a Distanza"
 description: "Scopri il significato della carta Il Sole nel tarocco per le relazioni a distanza. Interpreta quali sentimenti ed energia l'altra persona proietta verso di te."
 category: "relazione-a-distanza"
 tags: ["il-sole-tarocco", "relazione-a-distanza", "cosa-sente-per-me", "arcani-maggiori", "tarocco-emotivo", "arcani-maggiori", "il-sole", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-20"
 image: "https://images.freetarot.fun/blog/el-sol__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

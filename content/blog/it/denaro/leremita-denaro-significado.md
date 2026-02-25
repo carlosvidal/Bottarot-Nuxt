@@ -3,7 +3,7 @@ title: "L'Eremita e il Denaro: Significato Profondo nel Tarot"
 description: "Scopri il significato della carta L'Eremita nel contesto del denaro. Una guida su introspezione finanziaria, valore reale e saggezza pratica."
 category: "denaro"
 tags: ["l-eremita-tarot-denaro", "l-eremita-significato", "tarot-denaro", "arcani-maggiori-denaro", "arcani-maggiori", "l-eremita", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-15"
 image: "https://images.freetarot.fun/blog/el-ermitano__dinero-significado.webp"
 locale: "it"
 readingTime: 5

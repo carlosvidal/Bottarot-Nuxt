@@ -3,7 +3,7 @@ title: "O Julgamento no Casamento: Conselhos para Renascerem Juntos"
 description: "Descubra o significado da carta O Julgamento no contexto do casamento. Encontre conselhos práticos para reflexão, perdão e renascimento a dois."
 category: "casamento"
 tags: ["o-julgamento-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-26"
 image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Tempérance dans un changement d'emploi : équilibre et résultat pro
 description: "Découvrez la signification de la carte La Tempérance dans un changement professionnel. Interprétation droite et inversée, conseils pratiques et énergie du résultat probable."
 category: "changement-emploi"
 tags: ["la-temperance-tarot", "changement-d-emploi", "tarot-professionnel", "arcanes-majeurs", "la-temperance", "changement-de-travail", "resultat-probable"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-25"
 image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7

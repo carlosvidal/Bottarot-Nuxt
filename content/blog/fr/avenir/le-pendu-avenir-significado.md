@@ -3,7 +3,7 @@ title: "Le Pendu dans le futur : Signification et message de suspension"
 description: "Découvrez la signification profonde du Pendu dans le futur. Apprenez comment cette carte symbolise une pause nécessaire et un changement de perspective."
 category: "avenir"
 tags: ["le-pendu", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-30"
 image: "https://images.freetarot.fun/blog/el-colgado__futuro-significado.webp"
 locale: "fr"
 readingTime: 5

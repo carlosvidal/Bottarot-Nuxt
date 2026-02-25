@@ -3,7 +3,7 @@ title: "L'Appeso e il tuo ex: cosa prova veramente per te"
 description: "Decifra il messaggio de L'Appeso nel contesto di un ex partner. Scopri i sentimenti, le intenzioni e l'energia che proietta secondo questo arcano maggiore."
 category: "ex-partner"
 tags: ["l-appeso-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "arcani-maggiori", "l-appeso", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-26"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 5

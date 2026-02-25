@@ -3,7 +3,7 @@ title: "L'Ermite dans une relation à distance : Ce qu'il ressent pour vous"
 description: "Découvrez le message de L'Ermite dans votre relation à distance. Un guide profond sur ses sentiments, ses intentions et l'énergie d'introspection."
 category: "relation-a-distance"
 tags: ["l-ermite-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "arcanes-majeurs", "tarot-emotionnel", "arcanes-majeurs", "l-ermite", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-07"
 image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

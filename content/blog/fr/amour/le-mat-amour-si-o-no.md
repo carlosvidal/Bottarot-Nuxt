@@ -3,7 +3,7 @@ title: "Le Mat en Amour : Un Oui ou un Non ? Signification au Tarot"
 description: "Découvrez la signification du Mat en amour. Annonce-t-il un nouveau départ ou une aventure risquée ? Nous expliquons son message pour votre vie affective."
 category: "amour"
 tags: ["le-mat-tarot-amour", "tarot-amour", "signification-le-mat-en-amour", "arcanes-majeurs", "le-mat", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-13"
 image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

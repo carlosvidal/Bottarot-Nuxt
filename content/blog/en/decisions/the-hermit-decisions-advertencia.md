@@ -3,7 +3,7 @@ title: "The Hermit in Important Decisions: A Warning and Precaution"
 description: "Discover The Hermit's alert message in crucial decisions. Learn to recognize the signs and protect your inner energy for wiser choices."
 category: "decisions"
 tags: ["the-hermit", "important-decisions-tarot", "major-arcana", "tarot-warning", "spiritual-advice", "major-arcana", "the-hermit", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-15"
 image: "https://images.freetarot.fun/blog/el-ermitano__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

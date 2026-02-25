@@ -3,7 +3,7 @@ title: "El Emperador en Dinero: Significado de Autoridad y Estructura"
 description: "Descubre el profundo significado de la carta El Emperador en el contexto del dinero. Aprende sobre estructura financiera, control y la energía del Arcano Mayor 4."
 category: "dinero"
 tags: ["El Emperador tarot", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "el-emperador", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-04"
 image: "https://images.freetarot.fun/blog/el-emperador__dinero-significado.webp"
 locale: "es"
 readingTime: 6

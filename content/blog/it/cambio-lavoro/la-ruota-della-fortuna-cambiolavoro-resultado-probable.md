@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna nel cambio lavoro: risultato probabile"
 description: "Scopri il significato de La Ruota della Fortuna in un cambio lavorativo. Interpretazione, consigli pratici e come navigare questo ciclo di trasformazione."
 category: "cambio-lavoro"
 tags: ["la-ruota-della-fortuna", "tarot-cambio-lavoro", "arcani-maggiori", "risultato-probabile-tarot", "tarot-lavoro", "arcani-maggiori", "la-ruota-della-fortuna", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-27"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

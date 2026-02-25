@@ -3,7 +3,7 @@ title: "Il Giudizio nel Matrimonio: Consigli per Rinascere Insieme"
 description: "Scopri il significato della carta Il Giudizio nel contesto del matrimonio. Trova consigli pratici per la riflessione, il perdono e la rinascita di coppia."
 category: "matrimonio"
 tags: ["il-giudizio-tarot", "tarot-matrimonio", "consiglio-tarot", "arcani-maggiori", "rinascita-spirituale", "arcani-maggiori", "il-giudizio", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-31"
 image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Bateleur dans un Changement d'Emploi : Résultat Probable et Énergie
 description: "Découvrez la signification du Bateleur dans un changement professionnel. Analyse de son énergie de manifestation et du résultat probable qu'il suggère pour votre carrière."
 category: "changement-emploi"
 tags: ["le-bateleur-tarot", "changement-de-travail-tarot", "arcanes-majeurs", "resultat-probable-tarot", "arcanes-majeurs", "le-bateleur", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-02"
 image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Forza nel Tarocchi: Significato di Denaro e Abbondanza"
 description: "Scopri il profondo significato della carta La Forza nel contesto del denaro. Impara sul tuo potere interiore per creare abbondanza e superare le sfide finanziarie."
 category: "denaro"
 tags: ["la-forza-tarocchi", "tarocchi-denaro", "significato-la-forza", "arcani-maggiori-denaro", "abbondanza-tarocchi", "arcani-maggiori", "la-forza", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-23"
 image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Empereur dans le Mariage : Avertissements et Équilibre"
 description: "Découvrez le message d'avertissement de L'Empereur dans votre mariage. Apprenez à identifier les déséquilibres de pouvoir et à protéger l'énergie de votre relation."
 category: "maries"
 tags: ["l-empereur-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "conseils-mariage-tarot", "arcanes-majeurs", "l-empereur", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-19"
 image: "https://images.freetarot.fun/blog/el-emperador__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

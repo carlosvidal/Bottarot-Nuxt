@@ -3,7 +3,7 @@ title: "Gli Amanti nell'Amore: È un Sì o un No?"
 description: "Scopri il profondo significato della carta Gli Amanti nelle consultazioni d'amore. Una guida per interpretare il suo messaggio di armonia, scelta e connessione."
 category: "amore"
 tags: ["gli-amanti-tarocchi-amore", "tarocchi-amore", "significato-gli-amanti-in-amore", "gli-amanti-si-o-no", "arcani-maggiori", "gli-amanti", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-25"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "Death Tarot Card: Transformation and the Ex-Partner"
 description: "Discover the profound meaning of the Death card in the context of an ex-partner. It's not an end, but an essential transformation for your path."
 category: "ex-partner"
 tags: ["death-tarot", "ex-partner-tarot", "tarot-meaning", "major-arcana", "major-arcana-cards", "death-card", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-13"
 image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

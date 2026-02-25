@@ -3,7 +3,7 @@ title: "La Maison Dieu en 2026 : Signification et Énergie de Changement Soudain
 description: "Explorez la signification de La Maison Dieu (La Tour) dans le tarot pour 2026. Découvrez son message sur les cycles de rupture, de révélation et de transformation collective."
 category: "avenir"
 tags: ["la-maison-dieu-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "changement-tarot", "arcanes-majeurs", "la-maison-dieu", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-03"
 image: "https://images.freetarot.fun/blog/la-torre__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

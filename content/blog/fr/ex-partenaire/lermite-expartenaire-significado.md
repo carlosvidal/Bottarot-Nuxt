@@ -3,7 +3,7 @@ title: "L'Ermite et l'Ex : Signification dans la Quête Intérieure"
 description: "Découvrez la signification profonde de L'Ermite dans le contexte 'mon ex va-t-il/elle revenir ?'. Un guide réflexif sur l'introspection et la guérison."
 category: "ex-partenaire"
 tags: ["l-ermite", "tarot-ex", "signification-tarot", "arcanes-majeurs", "introspection", "arcane-majeur", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-29"
 image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

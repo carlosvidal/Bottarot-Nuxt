@@ -3,7 +3,7 @@ title: "La Morte nel 2026: Trasformazione e Rinascita nel Tarocco"
 description: "Scopri il significato della carta La Morte per il 2026. Un'analisi simbolica sui cicli che finiscono, la trasformazione profonda e le nuove opportunità."
 category: "futuro"
 tags: ["la-morte-tarocco", "tarocco-2026", "previsione-tarocco", "arcani-maggiori", "trasformazione", "arcani-maggiori", "la-morte", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-03"
 image: "https://images.freetarot.fun/blog/la-muerte__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

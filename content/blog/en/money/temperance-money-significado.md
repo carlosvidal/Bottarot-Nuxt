@@ -3,7 +3,7 @@ title: "Temperance in Money: Meaning of Balance and Moderation"
 description: "Discover the profound meaning of the Temperance card in money readings. Learn how this Major Arcana speaks of balance, patience, and wise resource management."
 category: "money"
 tags: ["temperance-tarot-money", "temperance-meaning", "tarot-money", "major-arcana-money", "major-arcana", "temperance", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-28"
 image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "en"
 readingTime: 5

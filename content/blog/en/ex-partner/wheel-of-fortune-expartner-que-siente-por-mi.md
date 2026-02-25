@@ -3,7 +3,7 @@ title: "The Wheel of Fortune and Your Ex: What Do They Feel for You?"
 description: "Discover the meaning of the Wheel of Fortune card in the context of an ex-partner. Emotional and energetic interpretation of their feelings."
 category: "ex-partner"
 tags: ["wheel-of-fortune", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "ex-feelings", "major-arcana-cards", "wheel-of-fortune-tarot", "ex-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-25"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

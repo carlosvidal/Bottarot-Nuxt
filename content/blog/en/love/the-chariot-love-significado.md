@@ -3,7 +3,7 @@ title: "The Chariot in Love: Meaning, Control, and Emotional Victory"
 description: "Discover the deep meaning of The Chariot in love. Learn about control, willpower, and victory in your relationships from a tarot perspective."
 category: "love"
 tags: ["the-chariot-tarot-love", "the-chariot-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-chariot", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-25"
 image: "https://images.freetarot.fun/blog/el-carro__amor-significado.webp"
 locale: "en"
 readingTime: 5

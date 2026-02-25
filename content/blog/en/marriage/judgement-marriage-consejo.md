@@ -3,7 +3,7 @@ title: "Judgement in Marriage: Advice for Rebirth Together"
 description: "Discover the meaning of the Judgement card in the context of marriage. Find practical advice for reflection, forgiveness, and rebirth as a couple."
 category: "marriage"
 tags: ["judgement-tarot", "tarot-marriage", "tarot-advice", "major-arcana", "spiritual-rebirth", "major-arcana", "judgement", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-20"
 image: "https://images.freetarot.fun/blog/el-juicio__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Papessa nel 2026: Intuizione e Saggezza Interiore"
 description: "Scopri il significato de La Papessa per il 2026. Esplora come la sua energia di intuizione e mistero può guidare i cicli dell'anno prossimo."
 category: "futuro"
 tags: ["la-papessa", "tarocchi-2026", "previsioni-tarocchi", "arcani-maggiori", "intuizione", "arcani-maggiori", "la-papessa", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-13"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__2026-prediccion.webp"
 locale: "it"
 readingTime: 5

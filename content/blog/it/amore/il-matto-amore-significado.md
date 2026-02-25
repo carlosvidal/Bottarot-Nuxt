@@ -3,7 +3,7 @@ title: "Il Matto nell'Amore: Significato di Nuovi Inizi e Spontaneità"
 description: "Scopri il profondo significato de Il Matto in amore. Un viaggio simbolico su nuovi inizi, innocenza e l'avventura di aprire il cuore senza paura."
 category: "amore"
 tags: ["il-matto-tarot-amore", "il-matto-significato", "tarot-amore", "arcani-maggiori", "il-matto", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-07"
 image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "it"
 readingTime: 6

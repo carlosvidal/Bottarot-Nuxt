@@ -3,7 +3,7 @@ title: "L'Appeso e il Denaro: Il Significato della Sospensione Finanziaria"
 description: "Scopri il profondo significato della carta de L'Appeso nel contesto del denaro. Una guida su sacrificio, prospettiva e trasformazione finanziaria."
 category: "denaro"
 tags: ["l-appeso", "tarot-denaro", "significato-tarot", "arcani-maggiori", "finanza-spirituale", "arcani-maggiori", "l-appeso", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-25"
 image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "it"
 readingTime: 5

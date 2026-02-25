@@ -3,7 +3,7 @@ title: "L'Amoureux en Amour : Un Oui ou un Non ?"
 description: "Découvrez la signification profonde de la carte L'Amoureux dans les tirages amoureux. Un guide pour interpréter son message d'harmonie, de choix et de connexion."
 category: "amour"
 tags: ["l-amoureux-tarot-amour", "tarot-amour", "signification-l-amoureux-en-amour", "l-amoureux-oui-ou-non", "arcanes-majeurs", "l-amoureux", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-08"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "The Sun in Ex-Partner Readings: What They Feel & Its Meaning"
 description: "Discover The Sun tarot card's message about your ex-partner. Learn what feelings and energy they project towards you according to this arcana of joy and success."
 category: "ex-partner"
 tags: ["the-sun-tarot", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "what-ex-feels", "major-arcana", "the-sun", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-18"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

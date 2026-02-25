@@ -3,7 +3,7 @@ title: "L'Imperatrice nel Lavoro: Significato di Abbondanza e Creatività"
 description: "Scopri il profondo significato de L'Imperatrice nel contesto lavorativo. Impara come la sua energia di creatività e fertilità può trasformare la tua carriera."
 category: "lavoro"
 tags: ["l-imperatrice", "tarot-lavoro", "arcani-maggiori", "significato-tarot", "creativita-lavorativa", "arcani-maggiori", "l-imperatrice", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-12"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "it"
 readingTime: 6

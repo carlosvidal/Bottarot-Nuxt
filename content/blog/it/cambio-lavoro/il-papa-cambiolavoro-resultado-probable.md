@@ -3,7 +3,7 @@ title: "Il Papa nel Cambio Lavoro: Risultato Probabile"
 description: "Scopri il significato de Il Papa in un cambio di lavoro. Analizziamo la sua energia di tradizione e struttura per rivelare il probabile esito della tua transizione professionale."
 category: "cambio-lavoro"
 tags: ["il-papa", "tarot-cambio-lavoro", "arcano-maggiore-5", "risultato-probabile-tarot", "arcani-maggiori", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-05"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Carro dei Tarocchi: Avvertimento nelle Decisioni Importanti"
 description: "Scopri il messaggio di avvertimento de Il Carro (Arcano 7) nelle decisioni cruciali. Impara a riconoscere i segnali d'allerta e come proteggere la tua energia."
 category: "decisioni"
 tags: ["il-carro-tarocchi", "decisioni-importanti-tarocchi", "arcano-maggiore-7", "avvertimento-tarocchi", "arcani-maggiori", "il-carro", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-17"
 image: "https://images.freetarot.fun/blog/el-carro__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

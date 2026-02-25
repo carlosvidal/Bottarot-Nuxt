@@ -3,7 +3,7 @@ title: "Justice in 2026: Balance and Truth in the Tarot Cycle"
 description: "Discover the message of Justice (Arcana 11) for 2026. We explore its energy of balance, truth, and karmic cycles without absolute predictions."
 category: "future"
 tags: ["justice-tarot", "tarot-2026", "major-arcana", "tarot-prediction", "balance-justice", "major-arcana", "justice", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-08"
 image: "https://images.freetarot.fun/blog/la-justicia__2026-prediccion.webp"
 locale: "en"
 readingTime: 6

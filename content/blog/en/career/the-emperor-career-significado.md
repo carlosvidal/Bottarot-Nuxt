@@ -3,7 +3,7 @@ title: "The Emperor at Work: Meaning of Authority and Structure"
 description: "Discover the profound meaning of The Emperor card in a career context. Learn about authority, structure, and control in your professional life."
 category: "career"
 tags: ["the-emperor", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana-cards", "the-emperor-tarot", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-28"
 image: "https://images.freetarot.fun/blog/el-emperador__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

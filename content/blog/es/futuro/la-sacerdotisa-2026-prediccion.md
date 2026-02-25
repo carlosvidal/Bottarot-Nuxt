@@ -3,7 +3,7 @@ title: "La Sacerdotisa en 2026: Intuición y Sabiduría Interior"
 description: "Descubre el significado de La Sacerdotisa para 2026. Explora cómo su energía de intuición y misterio puede guiar los ciclos del próximo año."
 category: "futuro"
 tags: ["La Sacerdotisa", "tarot 2026", "predicción tarot", "arcanos mayores", "intuición", "arcanos-mayores", "la-sacerdotisa", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-11"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__2026-prediccion.webp"
 locale: "es"
 readingTime: 5

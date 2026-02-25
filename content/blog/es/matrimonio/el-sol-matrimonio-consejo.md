@@ -3,7 +3,7 @@ title: "El Sol en el Matrimonio: Consejos para la Alegría Conyugal"
 description: "Descubre el significado de la carta El Sol en el tarot para el matrimonio. Consejos prácticos y reflexiones para cultivar la alegría y vitalidad en tu relación."
 category: "matrimonio"
 tags: ["El Sol tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "amor tarot", "arcanos-mayores", "el-sol", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-01"
 image: "https://images.freetarot.fun/blog/el-sol__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7

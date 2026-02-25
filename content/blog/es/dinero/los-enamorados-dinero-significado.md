@@ -3,7 +3,7 @@ title: "Los Enamorados en Dinero: Significado y Simbolismo del Tarot"
 description: "Descubre el profundo significado de la carta Los Enamorados en el contexto del dinero. Una guía sobre armonía financiera y decisiones conscientes."
 category: "dinero"
 tags: ["Los Enamorados tarot", "tarot dinero", "significado Los Enamorados", "Arcanos Mayores dinero", "tarot financiero", "arcanos-mayores", "los-enamorados", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-14"
 image: "https://images.freetarot.fun/blog/los-enamorados__dinero-significado.webp"
 locale: "es"
 readingTime: 6

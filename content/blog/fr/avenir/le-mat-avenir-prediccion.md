@@ -3,7 +3,7 @@ title: "Le Mat en 2026 : Énergie de Nouveaux Départs et de Changement"
 description: "Explorez la signification du Mat en 2026. Découvrez comment son énergie de nouveaux départs et de spontanéité influence les tendances de l'année."
 category: "avenir"
 tags: ["le-mat-tarot", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-le-mat", "arcanes-majeurs", "le-mat", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-07"
 image: "https://images.freetarot.fun/blog/el-loco__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

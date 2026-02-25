@@ -3,7 +3,7 @@ title: "Il Papa in una Relazione a Distanza: Cosa Prova per Te"
 description: "Scopri il messaggio de Il Papa nella tua relazione a distanza. Una lettura profonda sui suoi sentimenti, intenzioni e l'energia di impegno."
 category: "relazione-a-distanza"
 tags: ["il-papa-tarocchi", "relazione-a-distanza-tarocchi", "cosa-sente-per-me-tarocchi", "arcani-maggiori", "arcani-maggiori", "il-papa", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-30"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5

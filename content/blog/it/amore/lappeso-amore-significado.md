@@ -3,7 +3,7 @@ title: "L'Appeso nell'Amore: Significato Profondo e Simbolismo"
 description: "Scopri il significato de L'Appeso in amore. Una carta di sospensione e sacrificio che invita a una profonda riflessione sulle relazioni."
 category: "amore"
 tags: ["l-appeso-tarot-amore", "l-appeso-significato", "tarot-amore", "arcani-maggiori", "arcani-maggiori", "l-appeso", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-22"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-significado.webp"
 locale: "it"
 readingTime: 5

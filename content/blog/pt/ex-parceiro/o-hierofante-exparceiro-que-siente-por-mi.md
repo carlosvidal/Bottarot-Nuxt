@@ -3,7 +3,7 @@ title: "O Hierofante e seu ex: O que ele(a) realmente sente por você?"
 description: "Descubra o significado de O Hierofante no contexto de um ex-parceiro. Uma leitura profunda sobre seus sentimentos, intenções e a energia que ele projeta em sua direção."
 category: "ex-parceiro"
 tags: ["o-hierofante-tarot-ex-parceiro", "o-hierofante-o-que-sente-por-mim", "significado-o-hierofante-ex-parceiro", "tarot-ex-parceiro", "arcanos-maiores", "leitura-de-tarot", "arcanos-maiores", "o-hierofante", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-24"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

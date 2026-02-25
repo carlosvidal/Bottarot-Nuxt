@@ -3,7 +3,7 @@ title: "La Mort au Tarot : Ce que Ressent Votre Ex-Partenaire pour Vous"
 description: "Découvrez la signification profonde de la carte La Mort dans le contexte des ex-partenaires. Un guide sur la transformation émotionnelle et l'énergie projetée."
 category: "ex-partenaire"
 tags: ["la-mort-tarot", "ex-partenaire-tarot", "arcane-majeur-13", "transformation-emotionnelle", "arcanes-majeurs", "la-mort", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-30"
 image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

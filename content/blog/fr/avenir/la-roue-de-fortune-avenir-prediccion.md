@@ -3,7 +3,7 @@ title: "La Roue de la Fortune en 2026 : Cycles et Changements dans le Tarot"
 description: "Découvrez la signification de la Roue de la Fortune pour 2026. Explorez les énergies de changement, de cycles et d'opportunités que cet Arcane Majeur suggère pour l'année à venir."
 category: "avenir"
 tags: ["la-roue-de-la-fortune", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "cycles-du-destin", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-05"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

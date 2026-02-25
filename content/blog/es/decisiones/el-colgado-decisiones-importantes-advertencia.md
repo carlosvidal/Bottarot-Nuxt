@@ -3,7 +3,7 @@ title: "El Colgado: Advertencia en Decisiones Importantes"
 description: "Descubre el mensaje de advertencia de El Colgado en decisiones cruciales. Aprende a reconocer las señales de alerta y cómo proteger tu energía."
 category: "decisiones"
 tags: ["El Colgado tarot", "decisiones importantes tarot", "advertencia tarot", "Arcanos Mayores", "arcanos-mayores", "el-colgado", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-05"
 image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5

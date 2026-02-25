@@ -3,7 +3,7 @@ title: "Le Pape au travail : signification et guide du tarot"
 description: "Découvrez la signification profonde du Pape dans le contexte professionnel. Apprenez-en plus sur la tradition, le mentorat et la structure dans votre carrière."
 category: "travail"
 tags: ["le-pape", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-professionnel", "arcanes-majeurs", "le-pape", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-29"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "fr"
 readingTime: 5

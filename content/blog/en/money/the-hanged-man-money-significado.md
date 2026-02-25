@@ -3,7 +3,7 @@ title: "The Hanged Man and Money: Meaning of Financial Suspension"
 description: "Discover the deep meaning of The Hanged Man card in the context of money. A guide on sacrifice, perspective, and financial transformation."
 category: "money"
 tags: ["the-hanged-man", "tarot-money", "tarot-meaning", "major-arcana", "spiritual-finances", "major-arcana", "the-hanged-man", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-29"
 image: "https://images.freetarot.fun/blog/el-colgado__dinero-significado.webp"
 locale: "en"
 readingTime: 5

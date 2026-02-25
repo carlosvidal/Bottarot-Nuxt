@@ -3,7 +3,7 @@ title: "El Juicio en el Futuro: Significado de Renacimiento y Llamado"
 description: "Descubre el profundo significado de la carta El Juicio en el futuro. Un análisis sobre su simbolismo de reflexión, perdón y renacimiento en tu camino."
 category: "futuro"
 tags: ["El Juicio tarot", "tarot futuro", "significado tarot", "arcanos mayores", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-26"
 image: "https://images.freetarot.fun/blog/el-juicio__futuro-significado.webp"
 locale: "es"
 readingTime: 5

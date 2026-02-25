@@ -3,7 +3,7 @@ title: "Gli Amanti nel Denaro: Significato e Simbolismo nel Tarot"
 description: "Scopri il profondo significato della carta Gli Amanti nel contesto del denaro. Una guida sull'armonia finanziaria e sulle scelte consapevoli."
 category: "denaro"
 tags: ["gli-amanti-tarot", "tarot-denaro", "significato-gli-amanti", "arcani-maggiori-denaro", "tarot-finanziario", "arcani-maggiori", "gli-amanti", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-15"
 image: "https://images.freetarot.fun/blog/los-enamorados__dinero-significado.webp"
 locale: "it"
 readingTime: 6

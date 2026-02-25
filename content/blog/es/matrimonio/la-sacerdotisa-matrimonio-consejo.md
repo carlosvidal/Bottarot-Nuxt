@@ -3,7 +3,7 @@ title: "La Sacerdotisa en el Matrimonio: Consejos de Sabiduría Interior"
 description: "Descubre el consejo de La Sacerdotisa para tu matrimonio. Aprende a escuchar tu intuición y profundizar en la conexión espiritual de tu relación."
 category: "matrimonio"
 tags: ["La Sacerdotisa", "tarot matrimonio", "consejo tarot", "arcanos mayores", "intuición en pareja", "arcanos-mayores", "la-sacerdotisa", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-09"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

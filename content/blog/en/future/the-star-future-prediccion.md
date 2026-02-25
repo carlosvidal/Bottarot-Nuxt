@@ -3,7 +3,7 @@ title: "The Star Tarot 2026: Meaning and Energy for the New Cycle"
 description: "Discover The Star's message for 2026: hope, inspiration, and spiritual renewal. Interpretation and practical advice for the coming year."
 category: "future"
 tags: ["the-star-tarot", "tarot-2026", "tarot-prediction", "major-arcana", "spirituality", "major-arcana", "the-star", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-03"
 image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "en"
 readingTime: 6

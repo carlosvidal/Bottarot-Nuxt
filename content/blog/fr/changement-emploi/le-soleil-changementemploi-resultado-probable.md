@@ -3,7 +3,7 @@ title: "Le Soleil en changement d'emploi : signification et résultat probable"
 description: "Découvrez le message du Soleil (Arcane 19) dans un changement professionnel. Interprétez son énergie de succès, de vitalité et de clarté pour votre prochaine étape de carrière."
 category: "changement-emploi"
 tags: ["le-soleil-tarot", "changement-d-emploi", "tarot-professionnel", "arcanes-majeurs", "arcane-19", "consultation-tarot"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-14"
 image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

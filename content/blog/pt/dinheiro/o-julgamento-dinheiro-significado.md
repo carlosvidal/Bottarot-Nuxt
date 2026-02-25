@@ -3,7 +3,7 @@ title: "O Julgamento no Dinheiro: Significado de Renascimento Financeiro"
 description: "Descubra o profundo significado da carta O Julgamento no tarot para sua economia. Um chamado à reflexão, ao perdão e ao renascimento financeiro."
 category: "dinheiro"
 tags: ["o-julgamento-tarot", "tarot-dinheiro", "significado-o-julgamento", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-julgamento", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-03"
 image: "https://images.freetarot.fun/blog/el-juicio__dinero-significado.webp"
 locale: "pt"
 readingTime: 5

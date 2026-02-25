@@ -3,7 +3,7 @@ title: "El Carro en 2026: Significado y Energía de Control y Victoria"
 description: "Descubre el mensaje del Arcano Mayor El Carro para 2026. Explora su simbolismo de voluntad, dirección y superación de desafíos en el año que viene."
 category: "futuro"
 tags: ["El Carro tarot", "tarot 2026", "predicción tarot", "Arcanos Mayores", "significado El Carro", "arcanos-mayores", "el-carro", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-09"
 image: "https://images.freetarot.fun/blog/el-carro__2026-prediccion.webp"
 locale: "es"
 readingTime: 5

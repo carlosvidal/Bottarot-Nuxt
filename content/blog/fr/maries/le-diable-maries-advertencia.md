@@ -3,7 +3,7 @@ title: "Le Diable dans le Tarot si je suis marié : Avertissement et Signes"
 description: "Découvrez la signification du Diable dans le contexte du mariage. Un avertissement sur les tentations, les attachements et comment protéger votre relation."
 category: "maries"
 tags: ["le-diable-tarot", "tarot-si-je-suis-marie", "arcanes-majeurs", "avertissement-tarot", "signification-le-diable", "arcanes-majeurs", "le-diable", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-22"
 image: "https://images.freetarot.fun/blog/el-diablo__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7

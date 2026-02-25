@@ -3,7 +3,7 @@ title: "Le Jugement dans un changement de travail : signification et résultat p
 description: "Découvrez le message du Jugement (Arcane 20) dans un changement professionnel. Apprenez sa signification, son interprétation et des conseils pratiques pour votre transformation."
 category: "changement-emploi"
 tags: ["le-jugement-tarot", "changement-de-travail", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-jugement", "changement-de-travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-03"
 image: "https://images.freetarot.fun/blog/el-juicio__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

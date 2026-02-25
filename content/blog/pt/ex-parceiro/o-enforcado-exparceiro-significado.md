@@ -3,7 +3,7 @@ title: "O Enforcado e o ex: significado no tarot sobre reconciliação"
 description: "Descubra o profundo significado de O Enforcado no tarot quando você pergunta se seu ex-parceiro voltará. Um guia simbólico sobre suspensão e perspectiva."
 category: "ex-parceiro"
 tags: ["o-enforcado-tarot", "ex-parceiro-voltara", "significado-tarot", "arcanos-maiores", "tarot-amor", "arcanos-maiores", "o-enforcado", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-23"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5

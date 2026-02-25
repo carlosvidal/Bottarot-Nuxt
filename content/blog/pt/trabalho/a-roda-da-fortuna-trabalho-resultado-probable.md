@@ -3,7 +3,7 @@ title: "A Roda da Fortuna no Trabalho: Resultado Provável e Ciclos de Mudança"
 description: "Descubra o significado da Roda da Fortuna no contexto profissional. Interprete tendências de mudança e ciclos para influenciar seu resultado provável no trabalho."
 category: "trabalho"
 tags: ["a-roda-da-fortuna", "tarot-trabalho", "arcanos-maiores", "resultado-provavel-tarot", "mudanca-profissional", "arcanos-maiores", "a-roda-da-fortuna", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-15"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

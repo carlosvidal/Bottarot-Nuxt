@@ -3,7 +3,7 @@ title: "La Roue de Fortune en Amour : Signification et Cycles du Destin"
 description: "Découvrez la signification profonde de la Roue de Fortune en amour. Apprenez comment les cycles du destin influencent les relations, les connexions et les transformations affectives."
 category: "amour"
 tags: ["la-roue-de-fortune", "tarot-amour", "arcanes-majeurs", "signification-tarot", "cycles-amoureux", "arcanes-majeurs", "la-roue-de-fortune", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-18"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-significado.webp"
 locale: "fr"
 readingTime: 6

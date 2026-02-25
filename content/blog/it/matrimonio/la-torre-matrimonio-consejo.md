@@ -3,7 +3,7 @@ title: "La Torre nel matrimonio: consigli per affrontare cambi improvvisi"
 description: "Scopri il significato de La Torre nel contesto matrimoniale. Consigli pratici e riflessioni spirituali per navigare crisi e trasformazioni."
 category: "matrimonio"
 tags: ["la-torre-tarocchi", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "crisi-matrimoniale", "arcani-maggiori", "la-torre", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-19"
 image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6

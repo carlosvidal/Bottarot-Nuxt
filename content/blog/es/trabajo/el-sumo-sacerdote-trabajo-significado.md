@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en el trabajo: significado y guía del tarot"
 description: "Descubre el profundo significado de El Sumo Sacerdote en el contexto laboral. Aprende sobre tradición, mentoría y estructura en tu carrera."
 category: "trabajo"
 tags: ["El Sumo Sacerdote", "tarot trabajo", "arcanos mayores", "significado tarot", "tarot profesional", "arcanos-mayores", "el-sumo-sacerdote", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-17"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "es"
 readingTime: 5

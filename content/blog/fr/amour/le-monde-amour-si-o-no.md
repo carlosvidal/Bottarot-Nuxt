@@ -3,7 +3,7 @@ title: "Le Monde en amour : Est-ce un Oui ou un Non ? Signification et conseils"
 description: "Découvrez la signification de la carte Le Monde en amour. Annonce-t-elle un oui définitif ou un non ? Explications de son symbolisme et message pour votre vie affective."
 category: "amour"
 tags: ["le-monde-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "amour-et-tarot", "arcanes-majeurs", "le-monde", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-05"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

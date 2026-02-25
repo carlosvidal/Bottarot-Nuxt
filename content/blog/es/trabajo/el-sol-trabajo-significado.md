@@ -3,7 +3,7 @@ title: "El Sol en el trabajo: significado de éxito y vitalidad profesional"
 description: "Descubre el significado de la carta El Sol en el contexto laboral. Un símbolo de éxito, claridad y alegría profesional en el tarot."
 category: "trabajo"
 tags: ["El Sol tarot", "tarot trabajo", "significado El Sol", "arcanos mayores", "éxito profesional", "arcanos-mayores", "el-sol", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-06"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

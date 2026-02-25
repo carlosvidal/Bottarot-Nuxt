@@ -3,7 +3,7 @@ title: "L'Impératrice dans le Futur : Signification d'Abondance et de Création
 description: "Découvrez la signification profonde de L'Impératrice dans le futur. Une analyse de l'Arcane Majeur #3 sur la créativité, la fertilité et la manifestation de vos projets."
 category: "avenir"
 tags: ["limperatrice", "tarot-futur", "arcanes-majeurs", "signification-tarot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-21"
 image: "https://images.freetarot.fun/blog/la-emperatriz__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

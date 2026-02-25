@@ -3,7 +3,7 @@ title: "La Forza nel Tarot: Cosa Prova in una Relazione a Distanza"
 description: "Scopri il messaggio de La Forza (Arcano 8) sui sentimenti, la pazienza e l'energia emotiva in una relazione a distanza. Interpretazione completa."
 category: "relazione-a-distanza"
 tags: ["la-forza-tarot", "relazione-a-distanza-tarot", "cosa-sente-per-me", "arcani-maggiori", "tarot-emotivo", "arcani-maggiori", "la-forza", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-10"
 image: "https://images.freetarot.fun/blog/la-fuerza__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

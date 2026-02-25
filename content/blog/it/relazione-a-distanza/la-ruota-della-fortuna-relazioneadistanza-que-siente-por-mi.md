@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna in una Relazione a Distanza: Cosa Prova per Me?"
 description: "Scopri il messaggio della Ruota della Fortuna sui sentimenti in una relazione a distanza. Interpretazione emotiva e consigli pratici dal tarot."
 category: "relazione-a-distanza"
 tags: ["la-ruota-della-fortuna", "tarot-relazione-a-distanza", "cosa-prova-per-me", "arcani-maggiori", "amore-a-distanza", "arcani-maggiori", "la-ruota-della-fortuna", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-21"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Chariot au travail : signification et résultat probable"
 description: "Découvrez la signification du Chariot dans le contexte professionnel. Apprenez le résultat probable suggéré par cette carte et comment influencer votre parcours de carrière."
 category: "travail"
 tags: ["le-chariot-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "cartes-de-tarot", "arcanes-majeurs", "le-chariot", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-16"
 image: "https://images.freetarot.fun/blog/el-carro__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Força na Mudança de Emprego: Resultado Provável e Energias"
 description: "Descubra a mensagem de A Força (Arcano 8) em uma mudança de trabalho. Interpretação, resultado provável e conselhos práticos para navegar essa transição com coragem interior."
 category: "mudanca-de-emprego"
 tags: ["a-forca-tarot", "mudanca-de-trabalho-tarot", "arcanos-maiores", "tarot-laboral", "resultado-provavel-tarot", "arcanos-maiores", "a-forca", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-20"
 image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

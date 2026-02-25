@@ -3,7 +3,7 @@ title: "La Emperatriz en el Trabajo: Significado de Abundancia y Creatividad"
 description: "Descubre el profundo significado de La Emperatriz en el contexto laboral. Aprende cómo su energía de creatividad y fertilidad puede transformar tu carrera."
 category: "trabajo"
 tags: ["La Emperatriz", "tarot trabajo", "arcanos mayores", "significado tarot", "creatividad laboral", "arcanos-mayores", "la-emperatriz", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-28"
 image: "https://images.freetarot.fun/blog/la-emperatriz__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Fool in Love: Meaning of New Beginnings and Spontaneity"
 description: "Discover the profound meaning of The Fool in love. A symbolic journey about new beginnings, innocence, and the adventure of opening your heart without fear."
 category: "love"
 tags: ["the-fool-tarot-love", "the-fool-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-fool", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-11"
 image: "https://images.freetarot.fun/blog/el-loco__amor-significado.webp"
 locale: "en"
 readingTime: 6

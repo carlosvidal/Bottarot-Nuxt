@@ -3,7 +3,7 @@ title: "La Mort dans le Tarot : Avertissement face aux Décisions Importantes"
 description: "Découvrez le message d'avertissement de La Mort (Arcane 13) dans les décisions cruciales. Apprenez à reconnaître les signes d'une transformation forcée et comment naviguer ces cycles."
 category: "decisions"
 tags: ["la-mort-tarot", "decisions-importantes-tarot", "arcane-majeur-13", "transformation-tarot", "avertissement-tarot", "arcanes-majeurs", "la-mort", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-25"
 image: "https://images.freetarot.fun/blog/la-muerte__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

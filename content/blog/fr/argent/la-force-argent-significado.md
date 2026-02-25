@@ -3,7 +3,7 @@ title: "La Force dans le Tarot : Signification Argent et Abondance"
 description: "Découvrez la signification profonde de la carte La Force dans le contexte de l'argent. Apprenez à utiliser votre pouvoir intérieur pour créer l'abondance et surmonter les défis financiers."
 category: "argent"
 tags: ["la-force-tarot", "tarot-argent", "signification-la-force", "arcanes-majeurs-argent", "abondance-tarot", "arcanes-majeurs", "la-force", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-08"
 image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "fr"
 readingTime: 7

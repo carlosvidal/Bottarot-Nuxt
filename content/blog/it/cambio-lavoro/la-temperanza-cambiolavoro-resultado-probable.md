@@ -3,7 +3,7 @@ title: "La Temperanza nel cambio di lavoro: equilibrio e risultato probabile"
 description: "Scopri il significato de La Temperanza in un cambio lavorativo. Interpretazione dritta e rovesciata, consigli pratici e l'energia del risultato probabile."
 category: "cambio-lavoro"
 tags: ["la-temperanza-tarocchi", "cambio-lavoro", "tarocchi-lavoro", "arcani-maggiori", "la-temperanza", "risultato-probabile"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-07"
 image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Mundo Tarot 2026: Culminação e Novos Ciclos"
 description: "Descubra o significado da carta O Mundo para 2026. Explore sua energia de culminação e plenitude como guia simbólica para o ano."
 category: "futuro"
 tags: ["o-mundo-tarot", "tarot-2026", "arcanos-maiores", "previsao-tarot", "arcanos-maiores", "o-mundo", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-03"
 image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6

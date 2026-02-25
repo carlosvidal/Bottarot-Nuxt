@@ -3,7 +3,7 @@ title: "Strength in Love: Is It a Yes or a No? Tarot Meaning"
 description: "Discover the profound meaning of the Strength card in love. A guide to its energy, practical advice, and a nuanced reflection on whether it represents a yes or a no."
 category: "love"
 tags: ["strength-tarot", "love-tarot", "major-arcana", "love-and-relationships", "tarot-yes-or-no", "major-arcana", "strength", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-15"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

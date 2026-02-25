@@ -3,7 +3,7 @@ title: "The Empress in Love: Is It a Yes or a No?"
 description: "Discover the meaning of The Empress in love. A deep guide on her fertility and abundance energy for relationships, with a nuanced answer to the 'yes or no?' question."
 category: "love"
 tags: ["the-empress-tarot-love", "the-empress-yes-or-no", "meaning-the-empress-in-love", "tarot-love", "major-arcana", "love-and-tarot", "major-arcana", "the-empress", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-10"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

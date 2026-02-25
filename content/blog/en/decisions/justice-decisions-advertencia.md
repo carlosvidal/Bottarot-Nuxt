@@ -3,7 +3,7 @@ title: "Justice in Tarot: A Warning for Important Decisions"
 description: "Discover the alert message of Justice (Arcana 11) in crucial decisions. Learn to recognize signs, avoid imbalances, and act with true fairness."
 category: "decisions"
 tags: ["justice-tarot", "important-decisions-tarot", "major-arcana-11", "tarot-warning", "major-arcana", "justice", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-07"
 image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 7

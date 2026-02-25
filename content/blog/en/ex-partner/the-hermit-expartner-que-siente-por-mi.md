@@ -3,7 +3,7 @@ title: "The Hermit and Your Ex: What They Feel According to Tarot"
 description: "Discover the meaning of The Hermit card in the context of an ex-partner. A deep reading on their current feelings and energy."
 category: "ex-partner"
 tags: ["the-hermit-tarot-ex", "the-hermit-what-they-feel", "the-hermit-ex-partner-meaning", "tarot-ex-partner", "major-arcana", "tarot-interpretation", "major-arcana-cards", "the-hermit", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-15"
 image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5

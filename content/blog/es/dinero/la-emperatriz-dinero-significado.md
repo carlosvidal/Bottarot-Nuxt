@@ -3,7 +3,7 @@ title: "La Emperatriz y el Dinero: Significado de Abundancia y Creatividad"
 description: "Descubre el profundo significado de La Emperatriz del tarot en el contexto del dinero. Abundancia, fertilidad creativa y manifestación material."
 category: "dinero"
 tags: ["La Emperatriz", "tarot dinero", "significado tarot", "arcanos mayores", "abundancia", "arcanos-mayores", "la-emperatriz", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-22"
 image: "https://images.freetarot.fun/blog/la-emperatriz__dinero-significado.webp"
 locale: "es"
 readingTime: 5

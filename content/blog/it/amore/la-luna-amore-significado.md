@@ -3,7 +3,7 @@ title: "La Luna nell'Amore: Significato, Simbologia e Guida del Tarot"
 description: "Scopri il profondo significato de La Luna nell'amore. Esplora il suo simbolismo di illusione, paura e subconscio per illuminare le tue relazioni."
 category: "amore"
 tags: ["la-luna-tarot-amore", "la-luna-significato", "tarot-amore", "arcani-maggiori", "la-luna", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-17"
 image: "https://images.freetarot.fun/blog/la-luna__amor-significado.webp"
 locale: "it"
 readingTime: 5

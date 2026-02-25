@@ -3,7 +3,7 @@ title: "Temperance in a Career Change: Balance and Probable Outcome"
 description: "Discover the meaning of the Temperance card in a job change. Upright and reversed interpretations, practical advice, and the energy of the probable outcome."
 category: "career-change"
 tags: ["temperance-tarot", "career-change", "tarot-career", "major-arcana", "major-arcana", "temperance", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-04"
 image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

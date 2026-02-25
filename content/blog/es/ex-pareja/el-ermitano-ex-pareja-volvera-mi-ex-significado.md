@@ -3,7 +3,7 @@ title: "El Ermitaño y el Ex: Significado en la Búsqueda Interior"
 description: "Descubre el profundo significado de El Ermitaño en el contexto de 'ex pareja volverá mi ex'. Una guía reflexiva sobre introspección y sanación."
 category: "ex-pareja"
 tags: ["El Ermitaño", "tarot ex pareja", "significado tarot", "arcanos mayores", "introspección", "arcanos-mayores", "el-ermitano", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-27"
 image: "https://images.freetarot.fun/blog/el-ermitano__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

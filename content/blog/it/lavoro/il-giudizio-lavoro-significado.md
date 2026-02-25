@@ -3,7 +3,7 @@ title: "Il Giudizio nel lavoro: significato, riflessione e rinascita"
 description: "Scopri il profondo significato della carta Il Giudizio nel contesto lavorativo. Una guida su riflessione, valutazione e nuovi inizi professionali."
 category: "lavoro"
 tags: ["il-giudizio-tarot", "tarot-lavoro", "significato-tarot", "arcani-maggiori", "tarot-professionale", "arcani-maggiori", "il-giudizio", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-11"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-significado.webp"
 locale: "it"
 readingTime: 5

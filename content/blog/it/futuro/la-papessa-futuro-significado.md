@@ -3,7 +3,7 @@ title: "La Papessa e il Futuro: Significato e Intuizione nel Tarocchi"
 description: "Scopri il profondo significato de La Papessa nel contesto del futuro. Impara a interpretare il suo messaggio di intuizione e saggezza interiore."
 category: "futuro"
 tags: ["la-papessa", "tarocchi-futuro", "arcani-maggiori", "intuizione", "significato-tarocchi", "arcani-maggiori", "la-papessa", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-03"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__futuro-significado.webp"
 locale: "it"
 readingTime: 5

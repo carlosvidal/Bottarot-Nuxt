@@ -3,7 +3,7 @@ title: "El Sol en el Amor: ¿Es un Sí o un No? Significado Tarot"
 description: "Descubre el profundo significado de la carta El Sol en el amor. Aprende su mensaje de alegría y éxito, y cómo interpretar si es un sí o un no en tu consulta."
 category: "amor"
 tags: ["El Sol tarot", "tarot amor", "arcanos mayores", "significado tarot", "El Sol si o no", "arcanos-mayores", "el-sol", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-29"
 image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

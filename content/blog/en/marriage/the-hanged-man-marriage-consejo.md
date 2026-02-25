@@ -3,7 +3,7 @@ title: "The Hanged Man in Marriage: Advice for Transformation"
 description: "Discover the meaning of The Hanged Man in marriage. Practical advice and deep reflection to transform your relationship from a tarot perspective."
 category: "marriage"
 tags: ["the-hanged-man-tarot-marriage", "the-hanged-man-advice", "meaning-the-hanged-man-in-marriage", "tarot-marriage", "major-arcana-12", "tarot-advice", "major-arcana", "the-hanged-man", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-22"
 image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 5

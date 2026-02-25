@@ -3,7 +3,7 @@ title: "A Lua no Tarot: Significado sobre ex-parceiro voltará meu ex"
 description: "Descubra o profundo significado de A Lua no tarot ao perguntar se seu ex-parceiro voltará. Um guia sobre ilusões, medos e o subconsciente."
 category: "ex-parceiro"
 tags: ["a-lua-tarot", "ex-parceiro-voltara", "significado-a-lua", "tarot-ex-parceiro", "arcano-maior", "arcanos-maiores", "a-lua", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-27"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

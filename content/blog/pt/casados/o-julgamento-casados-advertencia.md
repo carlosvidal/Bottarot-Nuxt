@@ -3,7 +3,7 @@ title: "O Julgamento no Casamento: Advertências e Reflexões do Tarô"
 description: "Descubra o significado da carta O Julgamento no contexto do casamento. Um guia sobre suas advertências, padrões a evitar e proteção energética."
 category: "casados"
 tags: ["o-julgamento-tarot", "tarot-se-estou-casado", "arcanos-maiores", "advertencia-tarot", "interpretacao-tarot", "arcanos-maiores", "o-julgamento", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-07"
 image: "https://images.freetarot.fun/blog/el-juicio__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

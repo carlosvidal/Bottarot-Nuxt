@@ -3,7 +3,7 @@ title: "Le Jugement au travail : signification et résultat probable en tarot"
 description: "Découvrez la signification de la carte Le Jugement dans le contexte professionnel. Apprenez quel résultat probable elle suggère et comment influencer votre parcours."
 category: "travail"
 tags: ["le-jugement-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "tarot-professionnel", "arcanes-majeurs", "le-jugement", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-07"
 image: "https://images.freetarot.fun/blog/el-juicio__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Force dans le 'suis-je marié' : Avertissement et Protection"
 description: "Découvrez le message d'avertissement de La Force dans le contexte du 'suis-je marié'. Apprenez à reconnaître les signes et à protéger votre énergie vitale."
 category: "maries"
 tags: ["la-force-tarot", "tarot-suis-je-marie", "avertissement-tarot", "arcanes-majeurs", "conseil-tarot", "arcanes-majeurs", "la-force", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-30"
 image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

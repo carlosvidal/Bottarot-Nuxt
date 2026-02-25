@@ -3,7 +3,7 @@ title: "Gli Amanti e l'Ex: Significato nel Tarocco sulla Riconciliazione"
 description: "Scopri il profondo significato della carta Gli Amanti nel contesto 'ex tornerà da me'. Una guida riflessiva su scelta, amore e riconciliazione."
 category: "ex-partner"
 tags: ["gli-amanti", "tarocco-ex", "significato-tarocco", "arcani-maggiori", "amore-e-riconciliazione", "arcani-maggiori", "gli-amanti", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-21"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

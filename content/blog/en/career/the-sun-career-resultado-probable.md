@@ -3,7 +3,7 @@ title: "The Sun at Work: Meaning and Probable Outcome"
 description: "Discover the meaning of The Sun card in a career context. Interpret its energy of success and vitality for your professional life."
 category: "career"
 tags: ["the-sun-tarot", "tarot-career", "major-arcana", "tarot-meaning", "tarot-cards", "major-arcana", "the-sun", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-26"
 image: "https://images.freetarot.fun/blog/el-sol__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

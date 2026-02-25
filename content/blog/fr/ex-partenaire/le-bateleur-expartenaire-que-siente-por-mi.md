@@ -3,7 +3,7 @@ title: "Le Bateleur et votre ex-partenaire : Que ressent-il vraiment pour vous ?
 description: "Découvrez la signification de la carte Le Bateleur dans le contexte d'un ex-partenaire. Une lecture approfondie sur ses sentiments, ses intentions et l'énergie qu'il projette vers vous."
 category: "ex-partenaire"
 tags: ["le-bateleur-tarot", "tarot-ex-partenaire", "signification-le-bateleur", "que-ressent-mon-ex", "arcanes-majeurs", "le-bateleur", "ex-partenaires"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-22"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7

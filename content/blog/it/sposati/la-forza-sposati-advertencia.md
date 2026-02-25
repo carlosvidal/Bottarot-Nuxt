@@ -3,7 +3,7 @@ title: "La Forza nel si sono sposato: Avvertimento e Protezione"
 description: "Scopri il messaggio di avvertimento de La Forza nel contesto del si sono sposato. Impara a riconoscere i segnali e proteggere la tua energia vitale."
 category: "sposati"
 tags: ["la-forza-tarot", "tarot-si-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consiglio-tarot", "arcani-maggiori", "la-forza", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-09"
 image: "https://images.freetarot.fun/blog/la-fuerza__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

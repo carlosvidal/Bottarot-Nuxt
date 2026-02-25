@@ -3,7 +3,7 @@ title: "Le Pendu en Mariage : Un Conseil pour la Transformation"
 description: "Découvrez la signification du Pendu dans le mariage. Conseils pratiques et réflexion profonde pour transformer votre relation selon la perspective du tarot."
 category: "mariage"
 tags: ["le-pendu-tarot-mariage", "le-pendu-conseil", "signification-le-pendu-mariage", "tarot-mariage", "arcane-majeur-12", "conseils-tarot", "arcanes-majeurs", "le-pendu", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-20"
 image: "https://images.freetarot.fun/blog/el-colgado__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

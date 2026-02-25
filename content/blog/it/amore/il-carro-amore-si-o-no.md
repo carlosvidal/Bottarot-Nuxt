@@ -3,7 +3,7 @@ title: "Il Carro nell'Amore: È un Sì o un No? Significato e Consigli"
 description: "Scopri il significato della carta Il Carro nell'amore. Una guida approfondita sul suo messaggio di controllo, volontà e su come interpretare un 'sì' o 'no' nella tua vita affettiva."
 category: "amore"
 tags: ["il-carro-tarocchi-amore", "il-carro-si-o-no", "significato-il-carro-amore", "tarocchi-amore", "arcani-maggiori", "lettura-tarocchi", "arcani-maggiori", "il-carro", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-05"
 image: "https://images.freetarot.fun/blog/el-carro__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7

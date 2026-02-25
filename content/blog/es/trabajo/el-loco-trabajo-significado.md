@@ -3,7 +3,7 @@ title: "El Loco en el Trabajo: Significado de Nuevos Comienzos Laborales"
 description: "Descubre el profundo significado de la carta El Loco del tarot en el contexto laboral. Aprende sobre nuevos caminos, riesgos calculados y la energía de los comienzos."
 category: "trabajo"
 tags: ["El Loco tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "nuevos comienzos", "arcanos-mayores", "el-loco", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-11"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-significado.webp"
 locale: "es"
 readingTime: 5

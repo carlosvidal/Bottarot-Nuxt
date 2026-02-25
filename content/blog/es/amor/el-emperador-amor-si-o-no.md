@@ -3,7 +3,7 @@ title: "El Emperador en el Amor: ¿Es un Sí o un No? Significado y Consejos"
 description: "Descubre el significado de El Emperador tarot en el amor. ¿Es un sí o un no? Analizamos su energía de autoridad, estructura y compromiso en las relaciones."
 category: "amor"
 tags: ["El Emperador tarot amor", "El Emperador si o no", "significado El Emperador en el amor", "tarot amor", "arcanos mayores", "tarot lectura", "arcanos-mayores", "el-emperador", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-27"
 image: "https://images.freetarot.fun/blog/el-emperador__amor-si-o-no.webp"
 locale: "es"
 readingTime: 6

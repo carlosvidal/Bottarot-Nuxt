@@ -3,7 +3,7 @@ title: "Temperance in Marriage: A Guide to Finding Balance and Harmony"
 description: "Discover the meaning of the Temperance tarot card in marriage. Find practical advice and deep reflections for achieving lasting equilibrium and harmony in your relationship."
 category: "marriage"
 tags: ["temperance-tarot-marriage", "temperance-advice", "temperance-meaning-marriage", "marriage-tarot", "major-arcana", "temperance", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-21"
 image: "https://images.freetarot.fun/blog/la-templanza__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "El Colgado en el Trabajo: Significado y Simbolismo Profundo"
 description: "Descubre el significado de El Colgado en el contexto laboral. Una guía sobre suspensión, perspectiva y sacrificio para transformar tu carrera."
 category: "trabajo"
 tags: ["El Colgado tarot trabajo", "El Colgado significado", "tarot trabajo", "arcanos mayores", "arcanos-mayores", "el-colgado", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-20"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

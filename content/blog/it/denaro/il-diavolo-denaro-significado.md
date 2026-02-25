@@ -3,7 +3,7 @@ title: "Il Diavolo Tarocchi e Denaro: Significato della Tentazione Materiale"
 description: "Scopri il profondo significato della carta Il Diavolo nei tarocchi in relazione al denaro. Impara su materialismo, legami finanziari e liberazione."
 category: "denaro"
 tags: ["il-diavolo-tarocchi", "tarocchi-denaro", "significato-tarocchi", "arcani-maggiori", "finanze-tarocchi", "arcani-maggiori", "il-diavolo", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-26"
 image: "https://images.freetarot.fun/blog/el-diablo__dinero-significado.webp"
 locale: "it"
 readingTime: 6

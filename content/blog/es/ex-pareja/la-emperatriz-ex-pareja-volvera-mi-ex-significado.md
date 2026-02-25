@@ -3,7 +3,7 @@ title: "La Emperatriz y el Ex: Significado en el Tarot sobre Reconciliación"
 description: "Descubre el profundo significado de La Emperatriz en el tarot cuando surge en lecturas sobre 'ex pareja volverá mi ex'. Una guía simbólica y reflexiva."
 category: "ex-pareja"
 tags: ["La Emperatriz", "tarot ex pareja", "significado tarot", "arcanos mayores", "reconciliación", "arcanos-mayores", "la-emperatriz", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-13"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 6

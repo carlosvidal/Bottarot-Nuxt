@@ -3,7 +3,7 @@ title: "Le Monde Tarot Futur : Signification d'Aboutissement et de Plénitude"
 description: "Découvrez la signification profonde de la carte Le Monde dans le contexte du futur. Un guide sur son symbolisme d'accomplissement, de cycles achevés et d'une nouvelle plénitude."
 category: "avenir"
 tags: ["le-monde-tarot", "tarot-futur", "signification-le-monde", "arcanes-majeurs", "signification-tarot", "arcane-majeur", "le-monde", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-16"
 image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "fr"
 readingTime: 5

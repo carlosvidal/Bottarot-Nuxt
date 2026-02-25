@@ -3,7 +3,7 @@ title: "O Eremita no Amor: É um Sim ou um Não? Significado e Conselhos"
 description: "Descubra o profundo significado da carta O Eremita no amor. É um sim ou um não? Explicamos seu simbolismo e mensagem para sua vida afetiva."
 category: "amor"
 tags: ["o-eremita-tarot-amor", "o-eremita-sim-ou-nao", "significado-o-eremita-no-amor", "tarot-amor", "arcanos-maiores", "tarot-leitura", "arcanos-maiores", "o-eremita", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-05"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 5

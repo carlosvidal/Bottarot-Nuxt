@@ -3,7 +3,7 @@ title: "La Luna en el Matrimonio: Consejos para la Sombra y la Luz"
 description: "Descubre el significado de La Luna en el matrimonio. Consejos prácticos para navegar ilusiones, miedos y profundizar la conexión desde el subconsciente."
 category: "matrimonio"
 tags: ["La Luna tarot", "tarot matrimonio", "consejo tarot", "arcanos mayores", "tarot relaciones", "arcanos-mayores", "la-luna", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-08"
 image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 6

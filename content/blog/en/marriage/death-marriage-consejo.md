@@ -3,7 +3,7 @@ title: "Death in Marriage: Guidance for Transformation and Renewal"
 description: "Discover the meaning of the Death card in the context of marriage. Practical advice and deep reflections to navigate change and rebirth in your relationship."
 category: "marriage"
 tags: ["death-tarot", "marriage-tarot", "tarot-advice", "major-arcana", "transformation", "major-arcana", "death", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-30"
 image: "https://images.freetarot.fun/blog/la-muerte__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

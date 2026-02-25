@@ -3,7 +3,7 @@ title: "The World in Marriage: Warnings and True Fulfillment"
 description: "Discover the meaning of The World card in the context of marriage. A guide on warning signs, patterns to avoid, and how to protect your union."
 category: "married"
 tags: ["the-world-tarot", "tarot-if-married", "major-arcana", "tarot-warning", "marriage-tarot", "major-arcana", "the-world", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-08"
 image: "https://images.freetarot.fun/blog/el-mundo__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

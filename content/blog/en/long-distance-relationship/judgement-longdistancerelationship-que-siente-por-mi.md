@@ -3,7 +3,7 @@ title: "Judgement in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the message of the Judgement card (Major Arcana 20) in your long-distance relationship. Interpret their feelings, intentions, and the energetic rebirth this card symbolizes."
 category: "long-distance-relationship"
 tags: ["judgement-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "judgement", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-23"
 image: "https://images.freetarot.fun/blog/el-juicio__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

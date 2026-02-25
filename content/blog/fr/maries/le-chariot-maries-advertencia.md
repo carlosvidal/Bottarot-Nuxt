@@ -3,7 +3,7 @@ title: "Le Chariot dans le 'suis-je marié' : Avertissement et Contrôle"
 description: "Découvrez la signification du Chariot dans le 'suis-je marié' comme avertissement. Apprenez à reconnaître les signaux d'alerte et à protéger votre relation."
 category: "maries"
 tags: ["le-chariot-tarot", "suis-je-marie", "avertissement-tarot", "arcanes-majeurs", "tarot-relation", "arcanes-majeurs", "le-chariot", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-01"
 image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "fr"
 readingTime: 5

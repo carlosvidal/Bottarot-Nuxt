@@ -3,7 +3,7 @@ title: "Il Carro nel 'sono sposato': Avvertimento e Controllo nella Coppia"
 description: "Scopri il significato de Il Carro nel 'sono sposato' come avvertimento. Impara a riconoscere i segnali d'allarme e a proteggere la tua relazione."
 category: "sposati"
 tags: ["il-carro-tarocchi", "sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "tarocchi-relazione", "arcani-maggiori", "il-carro", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-28"
 image: "https://images.freetarot.fun/blog/el-carro__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

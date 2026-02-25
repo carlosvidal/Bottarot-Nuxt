@@ -3,7 +3,7 @@ title: "The High Priestess in Marriage: Warnings and Inner Wisdom"
 description: "Discover the warning message of The High Priestess in the context of marriage. Learn to interpret her intuitive signals and protect your union."
 category: "married"
 tags: ["the-high-priestess", "tarot-if-i-am-married", "tarot-warning", "major-arcana", "intuition-in-marriage", "major-arcana", "the-high-priestess", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-11"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

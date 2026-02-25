@@ -3,7 +3,7 @@ title: "The Hierophant in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the message of The Hierophant in your long-distance relationship. A deep reading on their feelings, intentions, and the energy of commitment."
 category: "long-distance-relationship"
 tags: ["the-hierophant-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me-tarot", "major-arcana", "major-arcana-cards", "the-hierophant", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-31"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 5

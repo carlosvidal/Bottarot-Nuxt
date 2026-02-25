@@ -3,7 +3,7 @@ title: "Il Diavolo nel Tarocco: Cosa Prova la Tua Ex per Te"
 description: "Scopri il significato della carta Il Diavolo nel contesto di un ex partner. Una lettura profonda su legami, desideri e l'energia emotiva del passato."
 category: "ex-partner"
 tags: ["il-diavolo-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "amore-e-tarocchi", "interpretazione-tarocchi", "arcani-maggiori", "il-diavolo", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-09"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 7

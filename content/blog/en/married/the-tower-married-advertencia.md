@@ -3,7 +3,7 @@ title: "The Tower in Marriage: A Warning and Signs to Heed"
 description: "Discover the meaning of The Tower card in the context of marriage. A warning about structures that may fall and how to prepare yourself energetically."
 category: "married"
 tags: ["the-tower-tarot", "marriage", "tarot-warning", "major-arcana", "relationship-tarot", "major-arcana", "the-tower", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-18"
 image: "https://images.freetarot.fun/blog/la-torre__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

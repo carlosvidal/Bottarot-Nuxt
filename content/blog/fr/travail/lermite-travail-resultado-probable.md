@@ -3,7 +3,7 @@ title: "L'Ermite au travail : signification et résultat probable"
 description: "Découvrez le message de L'Ermite (Arcane 9) dans votre vie professionnelle. Interprétation, conseils pratiques et réflexion sur la quête intérieure."
 category: "travail"
 tags: ["l-ermite-tarot", "tarot-travail", "arcanes-majeurs", "signification-tarot", "arcanes-majeurs", "l-ermite", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-20"
 image: "https://images.freetarot.fun/blog/el-ermitano__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

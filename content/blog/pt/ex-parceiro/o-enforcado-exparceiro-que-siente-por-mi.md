@@ -3,7 +3,7 @@ title: "O Enforcado e seu ex-parceiro: o que ele(a) realmente sente por você"
 description: "Decifre a mensagem de O Enforcado no contexto de um ex-parceiro. Descubra quais sentimentos, intenções e energias este arcano maior projeta."
 category: "ex-parceiro"
 tags: ["o-enforcado-tarot", "tarot-ex-parceiro", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "o-enforcado", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-03"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

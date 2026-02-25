@@ -3,7 +3,7 @@ title: "La Estrella en Cambio de Trabajo: Resultado Probable y Energía"
 description: "Descubre el mensaje de La Estrella (Arcano 17) en tu cambio laboral. Interpretación, resultado probable y consejos prácticos para navegar esta transición con esperanza."
 category: "cambio-de-trabajo"
 tags: ["La Estrella tarot", "cambio de trabajo tarot", "Arcanos Mayores", "tarot profesional", "resultado probable tarot", "arcanos-mayores", "la-estrella", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-16"
 image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "Le Diable dans un changement d'emploi : signification et résultat proba
 description: "Découvrez le message du Diable (Arcane 15) dans un changement professionnel. Interprétez son énergie de tentation et de matérialisme pour prendre des décisions conscientes."
 category: "changement-emploi"
 tags: ["le-diable-tarot", "changement-d-emploi", "arcanes-majeurs", "tarot-professionnel", "arcanes-majeurs", "le-diable", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-13"
 image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7

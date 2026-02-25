@@ -3,7 +3,7 @@ title: "La Justice dans le Tarot : Avertissement pour les Décisions Importantes
 description: "Découvrez le message d'alerte de La Justice (Arcane 11) face aux décisions cruciales. Apprenez à reconnaître les signes, éviter les déséquilibres et agir avec une véritable équité."
 category: "decisions"
 tags: ["la-justice-tarot", "decisions-importantes-tarot", "arcane-majeur-11", "tarot-avertissement", "arcanes-majeurs", "la-justice", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-24"
 image: "https://images.freetarot.fun/blog/la-justicia__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 7

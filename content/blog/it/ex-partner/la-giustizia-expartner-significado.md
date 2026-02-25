@@ -3,7 +3,7 @@ title: "La Giustizia nel Tarocchi: Equilibrio e Verità sul Ritorno di un Ex"
 description: "Scopri il profondo significato de La Giustizia (Arcano 11) nel contesto 'tornerà il mio ex'. Un'analisi su equilibrio, verità e karma pendente."
 category: "ex-partner"
 tags: ["la-giustizia-tarocchi", "tornera-il-mio-ex", "significato-tarocchi", "arcani-maggiori", "tarocchi-relazioni", "arcani-maggiori", "la-giustizia", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-14"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

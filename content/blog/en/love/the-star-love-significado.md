@@ -3,7 +3,7 @@ title: "The Star in Love: Meaning, Hope, and Spiritual Rebirth"
 description: "Discover the profound meaning of The Star tarot card in love. A message of hope, healing, and spiritual connection for your relationships."
 category: "love"
 tags: ["the-star-tarot", "tarot-love", "major-arcana", "tarot-meaning", "love-and-spirituality", "major-arcana", "the-star", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-14"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-significado.webp"
 locale: "en"
 readingTime: 6

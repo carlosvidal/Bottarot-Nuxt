@@ -3,7 +3,7 @@ title: "Wheel of Fortune: Meaning for the Future and Upcoming Changes"
 description: "Discover the profound meaning of the Wheel of Fortune for the future. Learn to interpret the cycles, fate shifts, and opportunities on the horizon."
 category: "future"
 tags: ["wheel-of-fortune", "future-tarot", "major-arcana", "tarot-meaning", "life-cycles", "major-arcana", "wheel-of-fortune-tarot", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-28"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "en"
 readingTime: 5

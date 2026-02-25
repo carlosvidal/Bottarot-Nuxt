@@ -3,7 +3,7 @@ title: "Le Jugement dans le Tarot : Votre ex va-t-il revenir ?"
 description: "Découvrez la signification profonde de la carte Le Jugement dans le contexte d'un ex-partenaire. Non pas une prédiction, mais une invitation à la renaissance personnelle."
 category: "ex-partenaire"
 tags: ["le-jugement-tarot", "signification-le-jugement", "tarot-ex-partenaire", "arcanes-majeurs", "renaissance-emotionnelle", "arcanes-majeurs", "le-jugement", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-13"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Pendu et l'ex : signification en tarot sur la réconciliation"
 description: "Découvrez la signification profonde du Pendu au tarot lorsque vous vous demandez si votre ex-partenaire reviendra. Un guide symbolique sur la suspension et la perspective."
 category: "ex-partenaire"
 tags: ["le-pendu-tarot", "ex-partenaire-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-amour", "arcanes-majeurs", "le-pendu", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-25"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 5

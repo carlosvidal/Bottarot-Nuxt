@@ -3,7 +3,7 @@ title: "A Sacerdotisa no Trabalho: Significado e Interpretação Profunda"
 description: "Descubra o significado de A Sacerdotisa no contexto profissional. Aprenda a interpretar sua mensagem de intuição, sabedoria interior e mistério para sua carreira."
 category: "trabalho"
 tags: ["a-sacerdotisa", "tarot-trabalho", "arcanos-maiores", "intuição-profissional", "arcanos-maiores", "a-sacerdotisa", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-03"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-significado.webp"
 locale: "pt"
 readingTime: 6

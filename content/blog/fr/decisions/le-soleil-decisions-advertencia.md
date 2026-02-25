@@ -3,7 +3,7 @@ title: "Le Soleil dans les décisions importantes : avertissements et précautio
 description: "Découvrez la face moins connue du Soleil au tarot. Un guide sur les avertissements et les schémas à éviter lorsque cette carte apparaît dans des choix cruciaux."
 category: "decisions"
 tags: ["le-soleil-tarot", "decisions-importantes-tarot", "arcanes-majeurs", "avertissement-tarot", "arcanes-majeurs", "le-soleil", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-03"
 image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 5

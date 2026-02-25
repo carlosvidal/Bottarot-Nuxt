@@ -3,7 +3,7 @@ title: "The Magician in the Future: Meaning and Manifestation Power"
 description: "Discover the deep meaning of The Magician card in the context of the future. Learn how its energy of will and personal power influences what is to come."
 category: "future"
 tags: ["the-magician-tarot", "the-magician-meaning", "tarot-future", "major-arcana", "major-arcana-cards", "the-magician", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-15"
 image: "https://images.freetarot.fun/blog/el-mago__futuro-significado.webp"
 locale: "en"
 readingTime: 6

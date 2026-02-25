@@ -3,7 +3,7 @@ title: "The Star in Career Change: Probable Outcome and Guiding Energy"
 description: "Discover the message of The Star (Major Arcana 17) in your career change. Interpretation, probable outcome, and practical advice to navigate this transition with hope."
 category: "career-change"
 tags: ["the-star-tarot", "career-change-tarot", "major-arcana", "professional-tarot", "probable-outcome-tarot", "major-arcana", "the-star", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-27"
 image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

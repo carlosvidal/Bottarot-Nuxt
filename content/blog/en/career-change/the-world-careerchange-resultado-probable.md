@@ -3,7 +3,7 @@ title: "The World in a Career Change: Meaning and Probable Outcome"
 description: "Discover the message of The World card in a job change. Learn its meaning, upright and reversed interpretations, and practical advice for navigating this transition."
 category: "career-change"
 tags: ["the-world-tarot", "career-change", "tarot-career", "major-arcana", "tarot-probable-outcome", "major-arcana", "the-world", "job-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-28"
 image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

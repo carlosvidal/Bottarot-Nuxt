@@ -3,7 +3,7 @@ title: "A Força no Tarot: Significado para Dinheiro e Abundância"
 description: "Descubra o profundo significado da carta A Força no contexto do dinheiro. Aprenda sobre seu poder interior para criar abundância e superar desafios financeiros."
 category: "dinheiro"
 tags: ["a-forca-tarot", "tarot-dinheiro", "significado-a-forca", "arcanos-maiores-dinheiro", "abundancia-tarot", "arcanos-maiores", "a-forca", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-24"
 image: "https://images.freetarot.fun/blog/la-fuerza__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

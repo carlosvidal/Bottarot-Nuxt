@@ -3,7 +3,7 @@ title: "La Temperanza nel Denaro: Significato di Equilibrio e Moderazione"
 description: "Scopri il profondo significato de La Temperanza nel denaro. Impara come questo arcano maggiore parla di equilibrio, pazienza e gestione saggia delle risorse."
 category: "denaro"
 tags: ["la-temperanza-tarocchi-denaro", "la-temperanza-significato", "tarocchi-denaro", "arcani-maggiori-denaro", "arcani-maggiori", "la-temperanza", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-14"
 image: "https://images.freetarot.fun/blog/la-templanza__dinero-significado.webp"
 locale: "it"
 readingTime: 5

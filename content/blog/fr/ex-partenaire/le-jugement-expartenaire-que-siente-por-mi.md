@@ -3,7 +3,7 @@ title: "Le Jugement Tarot et Ex-Partenaire : Ses Sentiments et le Renouveau"
 description: "Découvrez la signification profonde du Jugement au tarot concernant votre ex. Apprenez ce qu'il/elle ressent, son processus de réflexion et le message de renaissance."
 category: "ex-partenaire"
 tags: ["le-jugement-tarot", "tarot-ex-partenaire", "sentiments-ex-partenaire", "arcanes-majeurs", "renaissance-emotionnelle", "arcanes-majeurs", "le-jugement", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-23"
 image: "https://images.freetarot.fun/blog/el-juicio__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Carro em Relacionamento à Distância: O Que Ele Sente por Você"
 description: "Descubra o significado de O Carro no tarot para relacionamentos à distância. Interprete os sentimentos, a energia e as intenções que a outra pessoa projeta em sua direção."
 category: "relacionamento-a-distancia"
 tags: ["o-carro-tarot", "relacionamento-a-distancia", "o-que-sente-por-mim", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-carro", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-20"
 image: "https://images.freetarot.fun/blog/el-carro__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 5

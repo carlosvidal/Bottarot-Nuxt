@@ -3,7 +3,7 @@ title: "The Hermit in Love: Meaning and the Inner Journey"
 description: "Discover the profound meaning of The Hermit card in love. A guide to introspection, meaningful solitude, and authentic connection in relationships."
 category: "love"
 tags: ["the-hermit-tarot-love", "the-hermit-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-hermit", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-01"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-significado.webp"
 locale: "en"
 readingTime: 5

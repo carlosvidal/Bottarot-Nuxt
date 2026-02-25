@@ -3,7 +3,7 @@ title: "L'Étoile dans le Futur : Signification d'Espoir et de Guide"
 description: "Découvrez la signification profonde de L'Étoile dans le futur. Une carte d'espoir, d'inspiration et de connexion spirituelle qui illumine votre chemin."
 category: "avenir"
 tags: ["l-etoile-tarot", "tarot-avenir", "signification-tarot", "arcanes-majeurs", "spiritualite-tarot", "arcanes-majeurs", "l-etoile", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-29"
 image: "https://images.freetarot.fun/blog/la-estrella__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

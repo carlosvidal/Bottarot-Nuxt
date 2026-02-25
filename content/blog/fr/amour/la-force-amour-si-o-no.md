@@ -3,7 +3,7 @@ title: "La Force en Amour : Un Oui ou un Non ? Signification au Tarot"
 description: "Découvrez la signification profonde de la carte La Force en amour. Un guide sur son énergie, des conseils pratiques et une réflexion nuancée sur sa réponse."
 category: "amour"
 tags: ["la-force-tarot", "tarot-amour", "arcanes-majeurs", "amour-et-relations", "tarot-oui-ou-non", "arcanes-majeurs", "la-force", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-25"
 image: "https://images.freetarot.fun/blog/la-fuerza__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

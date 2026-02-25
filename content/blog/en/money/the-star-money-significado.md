@@ -3,7 +3,7 @@ title: "The Star in Money: Meaning, Hope, and Abundance"
 description: "Discover the profound meaning of The Star card in the context of money. A guide to hope, inspiration, and the energy of spiritual and material abundance."
 category: "money"
 tags: ["the-star-tarot", "tarot-money", "the-star-meaning", "major-arcana", "abundance", "major-arcana", "the-star", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-22"
 image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "en"
 readingTime: 6

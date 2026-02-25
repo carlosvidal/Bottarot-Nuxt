@@ -3,7 +3,7 @@ title: "O Louco no Casamento: Conselhos para Novos Começos"
 description: "Descubra o significado de O Louco no casamento. Conselhos práticos e reflexão espiritual para abordar a vida a dois com inocência e coragem."
 category: "casamento"
 tags: ["o-louco-tarot", "tarot-casamento", "arcanos-maiores", "conselho-tarot", "arcanos-maiores", "o-louco", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-16"
 image: "https://images.freetarot.fun/blog/el-loco__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7

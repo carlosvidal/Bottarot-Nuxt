@@ -3,7 +3,7 @@ title: "A Roda da Fortuna no Trabalho: Significado e Ciclos Profissionais"
 description: "Descubra o profundo significado de A Roda da Fortuna no contexto profissional. Aprenda a navegar os ciclos da carreira com sabedoria e fluidez."
 category: "trabalho"
 tags: ["tarot-trabalho", "a-roda-da-fortuna", "arcanos-maiores", "significado-tarot", "mudanca-profissional", "arcanos-maiores", "a-roda-da-fortuna", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-11"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__trabajo-significado.webp"
 locale: "pt"
 readingTime: 7

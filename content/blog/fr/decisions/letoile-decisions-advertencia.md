@@ -3,7 +3,7 @@ title: "L'Étoile dans les décisions importantes : avertissement et guide"
 description: "Découvrez le message d'avertissement de L'Étoile dans les décisions cruciales. Apprenez à interpréter ses signes et à protéger votre énergie."
 category: "decisions"
 tags: ["l-etoile-tarot", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "spiritualite-tarot", "arcanes-majeurs", "l-etoile", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-03"
 image: "https://images.freetarot.fun/blog/la-estrella__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

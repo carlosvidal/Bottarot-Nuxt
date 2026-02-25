@@ -3,7 +3,7 @@ title: "The Magician in Marriage: Warnings and Personal Power"
 description: "Discover the meaning of The Magician tarot card in the context of marriage. A guide on warnings, patterns to avoid, and how to protect your couple's energy."
 category: "married"
 tags: ["the-magician-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "tarot-advice", "major-arcana", "the-magician", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-23"
 image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

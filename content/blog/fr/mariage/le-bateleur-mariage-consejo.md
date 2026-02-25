@@ -3,7 +3,7 @@ title: "Le Bateleur dans le Mariage : Conseils pour Manifester Votre Union Idéa
 description: "Découvrez la signification du Bateleur dans le contexte du mariage. Conseils pratiques et réflexions profondes pour utiliser votre pouvoir personnel et co-créer."
 category: "mariage"
 tags: ["le-bateleur", "tarot-mariage", "arcanes-majeurs", "conseil-tarot", "pouvoir-personnel", "arcanes-majeurs", "le-bateleur", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-23"
 image: "https://images.freetarot.fun/blog/el-mago__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

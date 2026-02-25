@@ -3,7 +3,7 @@ title: "The Fool in Love: Yes or No? Tarot Meaning for Relationships"
 description: "Discover the meaning of The Fool in love. Does it herald a new beginning or a risky adventure? We explain its message for your emotional life."
 category: "love"
 tags: ["the-fool-tarot-love", "tarot-love", "the-fool-meaning-love", "major-arcana", "major-arcana-cards", "the-fool", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-21"
 image: "https://images.freetarot.fun/blog/el-loco__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

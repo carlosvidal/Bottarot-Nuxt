@@ -3,7 +3,7 @@ title: "O Mago no Tarot: Significado sobre se seu ex-parceiro vai voltar"
 description: "Descubra o profundo significado de O Mago no contexto de 'ex vai voltar'. Um guia simbólico sobre manifestação e poder pessoal no amor."
 category: "ex-parceiro"
 tags: ["o-mago-tarot", "ex-voltar", "significado-o-mago", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "o-mago", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-30"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "A Torre em decisões importantes: o aviso do arcano maior"
 description: "Descubra o significado de A Torre em decisões cruciais. Um guia para reconhecer sinais de alerta e evitar rupturas súbitas no seu caminho."
 category: "decisoes"
 tags: ["a-torre-tarot", "decisoes-importantes-tarot", "arcanos-maiores", "aviso-tarot", "tarot-guia-espiritual", "arcanos-maiores", "a-torre", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-23"
 image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

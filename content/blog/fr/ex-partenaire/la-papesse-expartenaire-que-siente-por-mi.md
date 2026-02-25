@@ -3,7 +3,7 @@ title: "La Papesse et votre ex-partenaire : ce qu'il ressent vraiment pour vous"
 description: "Découvrez la signification de La Papesse dans le contexte d'une ex-relation. Un guide profond sur ses sentiments, l'intuition et l'énergie cachée dans cette connexion."
 category: "ex-partenaire"
 tags: ["la-papesse-tarot", "tarot-ex-partenaire", "signification-la-papesse", "que-ressent-mon-ex", "arcanes-majeurs", "la-papesse", "ex-relation"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-20"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 7

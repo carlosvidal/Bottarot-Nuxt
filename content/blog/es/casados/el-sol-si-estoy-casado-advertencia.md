@@ -3,7 +3,7 @@ title: "El Sol en el Matrimonio: Advertencias y Sombra en la Luz"
 description: "Descubre el significado de la carta El Sol en el contexto del matrimonio. Una guía sobre sus advertencias, patrones a evitar y cómo proteger tu unión."
 category: "casados"
 tags: ["El Sol tarot", "tarot si estoy casado", "arcanos mayores", "advertencia tarot", "matrimonio tarot", "arcanos-mayores", "el-sol", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-04"
 image: "https://images.freetarot.fun/blog/el-sol__casados-advertencia.webp"
 locale: "es"
 readingTime: 6

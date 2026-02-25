@@ -3,7 +3,7 @@ title: "A Temperança e seu ex-parceiro: o que ele sente por você segundo o tar
 description: "Descubra a mensagem de A Temperança no contexto de um ex-parceiro. Interprete seus sentimentos de equilíbrio, paciência e cura emocional."
 category: "ex-parceiro"
 tags: ["a-temperanca-tarot", "tarot-ex-parceiro", "o-que-sente-meu-ex", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-temperanca", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-22"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 6

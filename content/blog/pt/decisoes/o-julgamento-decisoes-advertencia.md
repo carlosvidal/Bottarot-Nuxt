@@ -3,7 +3,7 @@ title: "O Julgamento no Tarot: Alerta para Decisões Importantes"
 description: "Descubra a mensagem de alerta da carta O Julgamento (Arcano 20) em decisões cruciais. Aprenda a interpretar seus sinais e proteger sua energia."
 category: "decisoes"
 tags: ["o-julgamento-tarot", "decisoes-importantes-tarot", "arcanos-maiores", "alerta-tarot", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-14"
 image: "https://images.freetarot.fun/blog/el-juicio__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 6

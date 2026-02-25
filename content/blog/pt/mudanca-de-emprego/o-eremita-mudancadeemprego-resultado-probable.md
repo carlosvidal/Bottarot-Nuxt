@@ -3,7 +3,7 @@ title: "O Eremita na Mudança de Emprego: Resultado Provável e Guia"
 description: "Descubra o significado de O Eremita em uma mudança de trabalho. Interpretação, resultado provável e conselhos práticos para o seu caminho profissional."
 category: "mudanca-de-emprego"
 tags: ["o-eremita-tarot", "mudanca-de-emprego-tarot", "arcanos-maiores", "tarot-profissional", "resultado-provavel-tarot", "arcanos-maiores", "o-eremita", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-23"
 image: "https://images.freetarot.fun/blog/el-ermitano__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

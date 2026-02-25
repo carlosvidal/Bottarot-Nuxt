@@ -3,7 +3,7 @@ title: "L'Étoile en Argent : Signification, Espoir et Abondance"
 description: "Découvrez la signification profonde de la carte L'Étoile dans le contexte de l'argent. Un guide sur l'espoir, l'inspiration et l'énergie de l'abondance spirituelle et matérielle."
 category: "argent"
 tags: ["l-etoile-tarot", "tarot-argent", "signification-l-etoile", "arcanes-majeurs", "abondance", "arcanes-majeurs", "l-etoile", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-07"
 image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "A Justiça no Casamento: Conselhos para Equilíbrio e Verdade"
 description: "Descubra o profundo conselho da carta A Justiça para seu casamento. Aprenda sobre equilíbrio, equidade e como tomar decisões conscientes em seu relacionamento."
 category: "casamento"
 tags: ["a-justica-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "equilibrio-relacao", "arcanos-maiores", "a-justica", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-28"
 image: "https://images.freetarot.fun/blog/la-justicia__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

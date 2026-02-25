@@ -3,7 +3,7 @@ title: "O Carro no Casamento: Controle e Vitória na Vida a Dois"
 description: "Descubra o significado de O Carro do tarot no contexto do casamento. Reflexões espirituais e conselhos práticos para navegar sua união com vontade e equilíbrio."
 category: "casamento"
 tags: ["o-carro-tarot", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "relacoes", "arcanos-maiores", "o-carro", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-25"
 image: "https://images.freetarot.fun/blog/el-carro__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 7

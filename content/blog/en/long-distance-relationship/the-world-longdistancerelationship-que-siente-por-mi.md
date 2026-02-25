@@ -3,7 +3,7 @@ title: "The World Tarot in Long-Distance Relationships: What Do They Feel for Me
 description: "Discover the profound meaning of The World tarot card for long-distance relationships. Interpret its messages of fulfillment, achievement, and spiritual connection."
 category: "long-distance-relationship"
 tags: ["the-world-tarot", "long-distance-relationship-tarot", "what-do-they-feel-for-me", "major-arcana", "emotional-tarot", "major-arcana", "the-world", "long-distance-relationship"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-22"
 image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

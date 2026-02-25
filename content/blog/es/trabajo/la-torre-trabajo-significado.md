@@ -3,7 +3,7 @@ title: "La Torre en el trabajo: significado y transformación profesional"
 description: "Descubre el profundo significado de la carta La Torre en el contexto laboral. Aprende a interpretar su mensaje de cambio súbito y renovación en tu carrera."
 category: "trabajo"
 tags: ["La Torre tarot trabajo", "La Torre significado", "tarot trabajo", "arcanos mayores", "arcanos-mayores", "la-torre", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-14"
 image: "https://images.freetarot.fun/blog/la-torre__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

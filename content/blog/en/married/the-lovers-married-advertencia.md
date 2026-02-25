@@ -3,7 +3,7 @@ title: "The Lovers in Marriage: A Warning and Its Meaning"
 description: "Discover the cautionary message of The Lovers card in the context of marriage. Learn to interpret its signals and protect your committed relationship."
 category: "married"
 tags: ["the-lovers", "tarot-for-marriage", "tarot-warning", "major-arcana", "relationship-tarot", "major-arcana", "the-lovers-card", "married-life"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-01"
 image: "https://images.freetarot.fun/blog/los-enamorados__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Lovers at Work: Meaning and Probable Outcome"
 description: "Discover the meaning of The Lovers card in a career context. Interpret its energy of harmony and choice to influence the probable outcome."
 category: "career"
 tags: ["the-lovers-tarot", "tarot-career", "major-arcana", "tarot-career-meaning", "major-arcana", "the-lovers", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-27"
 image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

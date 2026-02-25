@@ -3,7 +3,7 @@ title: "L'Eremita nell'Amore: Significato e Ricerca Interiore"
 description: "Scopri il profondo significato della carta de L'Eremita nell'amore. Una guida su introspezione, solitudine significativa e connessione autentica."
 category: "amore"
 tags: ["l-eremita-tarocchi-amore", "l-eremita-significato", "tarocchi-amore", "arcani-maggiori", "arcani-maggiori", "l-eremita", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-14"
 image: "https://images.freetarot.fun/blog/el-ermitano__amor-significado.webp"
 locale: "it"
 readingTime: 5

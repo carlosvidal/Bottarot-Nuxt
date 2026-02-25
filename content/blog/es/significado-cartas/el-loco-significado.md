@@ -3,7 +3,7 @@ title: "El Loco en el Tarot: Significado, Simbolismo y Nuevos Comienzos"
 description: "Descubre el significado completo de la carta El Loco del tarot. Aprende sobre su simbolismo, interpretacion al derecho y al reves, y que significa para el amor, trabajo y crecimiento espiritual."
 category: "significado-cartas"
 tags: ["arcanos-mayores", "el-loco", "significado-tarot", "nuevos-comienzos"]
-publishedAt: "2025-01-15"
+publishedAt: "2025-04-23"
 updatedAt: "2025-06-10"
 image: "/img/Trumps-00.webp"
 locale: "es"

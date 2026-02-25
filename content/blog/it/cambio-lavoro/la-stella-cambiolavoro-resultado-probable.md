@@ -3,7 +3,7 @@ title: "La Stella nel Cambio Lavoro: Risultato Probabile ed Energia"
 description: "Scopri il messaggio de La Stella (Arcano 17) nel tuo cambio lavorativo. Interpretazione, risultato probabile e consigli pratici per navigare questa transizione con speranza."
 category: "cambio-lavoro"
 tags: ["la-stella-tarocchi", "cambio-lavoro-tarocchi", "arcani-maggiori", "tarocchi-professionali", "risultato-probabile-tarocchi", "arcani-maggiori", "la-stella", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-17"
 image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 7

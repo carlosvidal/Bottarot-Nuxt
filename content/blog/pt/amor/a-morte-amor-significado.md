@@ -3,7 +3,7 @@ title: "A Morte no Amor: Significado de Transformação e Renascimento"
 description: "Descubra o profundo significado da carta A Morte no amor. Ela não prevê finais, mas sim transformações necessárias para um renascimento emocional."
 category: "amor"
 tags: ["a-morte-tarot-amor", "significado-a-morte", "tarot-amor", "arcanos-maiores", "a-morte", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-07"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-significado.webp"
 locale: "pt"
 readingTime: 6

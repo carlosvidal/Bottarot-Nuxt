@@ -3,7 +3,7 @@ title: "A Imperatriz no Casamento: Advertências e Proteção para o Relacioname
 description: "Descubra o significado da carta A Imperatriz no tarot para quem é casado. Um guia sobre advertências, padrões a evitar e proteção energética no seu relacionamento."
 category: "casados"
 tags: ["a-imperatriz", "tarot-se-sou-casado", "advertencia-tarot", "arcanos-maiores", "conselhos-tarot", "arcanos-maiores", "a-imperatriz", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-24"
 image: "https://images.freetarot.fun/blog/la-emperatriz__casados-advertencia.webp"
 locale: "pt"
 readingTime: 6

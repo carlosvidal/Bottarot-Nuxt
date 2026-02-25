@@ -3,7 +3,7 @@ title: "Justice Tarot: Balance and Truth About an Ex's Return"
 description: "Discover the deep meaning of Justice (Arcana 11) in the context of 'will my ex come back'. An analysis of balance, truth, and pending karma."
 category: "ex-partner"
 tags: ["justice-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "tarot-relationships", "major-arcana", "justice", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-27"
 image: "https://images.freetarot.fun/blog/la-justicia__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

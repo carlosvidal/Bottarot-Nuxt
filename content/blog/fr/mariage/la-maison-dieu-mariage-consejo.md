@@ -3,7 +3,7 @@ title: "La Maison Dieu dans le mariage : conseils pour affronter les changements
 description: "Découvrez la signification de la carte La Maison Dieu (La Tour) dans le contexte conjugal. Conseils pratiques et réflexions spirituelles pour naviguer les crises et transformations."
 category: "mariage"
 tags: ["la-maison-dieu-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "crise-conjugale", "arcanes-majeurs", "la-maison-dieu", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-12"
 image: "https://images.freetarot.fun/blog/la-torre__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 7

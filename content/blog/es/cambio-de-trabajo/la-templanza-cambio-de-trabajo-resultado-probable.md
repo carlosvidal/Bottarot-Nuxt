@@ -3,7 +3,7 @@ title: "La Templanza en cambio de trabajo: equilibrio y resultado probable"
 description: "Descubre el significado de La Templanza en un cambio laboral. Interpretación al derecho e invertida, consejos prácticos y la energía de resultado probable."
 category: "cambio-de-trabajo"
 tags: ["La Templanza tarot", "cambio de trabajo", "tarot laboral", "Arcanos Mayores", "arcanos-mayores", "la-templanza", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-07"
 image: "https://images.freetarot.fun/blog/la-templanza__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Maison Dieu en Amour : Signification de Rupture et de Renaissance"
 description: "Découvrez la signification profonde de la carte La Maison Dieu (La Tour) en amour. Bien plus qu'une destruction, c'est une invitation à la vérité et à la transformation radicale de vos relations."
 category: "amour"
 tags: ["la-maison-dieu-tarot-amour", "la-maison-dieu-signification", "signification-la-maison-dieu-en-amour", "tarot-amour", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "la-maison-dieu", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-17"
 image: "https://images.freetarot.fun/blog/la-torre__amor-significado.webp"
 locale: "fr"
 readingTime: 6

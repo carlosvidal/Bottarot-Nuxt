@@ -3,7 +3,7 @@ title: "El Mundo en el amor: significado de culminación y plenitud"
 description: "Descubre el profundo significado de la carta El Mundo en el amor. Un arcano de culminación, integración y la realización de un ciclo afectivo completo."
 category: "amor"
 tags: ["El Mundo tarot amor", "El Mundo significado", "tarot amor", "arcanos mayores", "arcanos-mayores", "el-mundo", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-08"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "es"
 readingTime: 6

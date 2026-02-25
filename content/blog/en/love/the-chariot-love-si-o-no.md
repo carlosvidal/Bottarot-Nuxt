@@ -3,7 +3,7 @@ title: "The Chariot in Love: Is It a Yes or a No? Meaning and Advice"
 description: "Discover the meaning of The Chariot card in love. A deep guide on its message of control, willpower, and how to interpret a 'yes' or 'no' in your love life."
 category: "love"
 tags: ["the-chariot-tarot-love", "the-chariot-yes-or-no", "meaning-the-chariot-in-love", "tarot-love", "major-arcana", "tarot-reading", "major-arcana-cards", "the-chariot", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-29"
 image: "https://images.freetarot.fun/blog/el-carro__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

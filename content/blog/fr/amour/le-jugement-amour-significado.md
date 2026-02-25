@@ -3,7 +3,7 @@ title: "Le Jugement en Amour : Signification de Renaissance et Pardon"
 description: "Découvrez la signification profonde de la carte du Jugement en amour. Un appel au réveil intérieur, à l'évaluation honnête et à la guérison des liens affectifs."
 category: "amour"
 tags: ["le-jugement-tarot", "tarot-amour", "arcanes-majeurs", "signification-tarot", "renaissance-spirituelle", "arcane-majeur", "le-jugement", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-17"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "fr"
 readingTime: 6

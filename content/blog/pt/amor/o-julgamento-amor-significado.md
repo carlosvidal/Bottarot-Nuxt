@@ -3,7 +3,7 @@ title: "O Julgamento no Amor: Significado de Renascimento e Perdão"
 description: "Descubra o profundo significado da carta O Julgamento no amor. Um chamado ao renascimento, à reflexão honesta e à cura dos vínculos afetivos."
 category: "amor"
 tags: ["o-julgamento-tarot", "tarot-amor", "arcanos-maiores", "significado-tarot", "renascimento-espiritual", "arcanos-maiores", "o-julgamento", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-07"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "pt"
 readingTime: 6

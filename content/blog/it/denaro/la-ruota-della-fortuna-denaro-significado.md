@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna e il Denaro: Significato nel Tarocchi"
 description: "Scopri il profondo significato de La Ruota della Fortuna nel contesto del denaro. Impara sui cicli finanziari, il cambiamento e come fluire con la fortuna."
 category: "denaro"
 tags: ["la-ruota-della-fortuna", "tarocchi-denaro", "arcani-maggiori", "significato-tarocchi", "fortuna-finanziaria", "arcani-maggiori", "la-ruota-della-fortuna", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-04"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__dinero-significado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Jugement en Amour : Un Oui ou un Non ? Réflexion et Renaissance"
 description: "Découvrez la signification de la carte Le Jugement en amour. Un guide profond sur son message de réflexion, de pardon et la réponse nuancée à votre question de oui ou non."
 category: "amour"
 tags: ["le-jugement-tarot-amour", "le-jugement-oui-ou-non", "signification-le-jugement-en-amour", "tarot-amour", "arcanes-majeurs", "renaissance-amoureuse", "arcanes-majeurs", "le-jugement", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-21"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

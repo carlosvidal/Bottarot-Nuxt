@@ -3,7 +3,7 @@ title: "El Mago en Relación a Distancia: Qué Siente por Ti"
 description: "Descubre el mensaje de El Mago en tu relación a distancia. Interpreta sus sentimientos, intenciones y la energía de manifestación que proyecta hacia ti."
 category: "relacion-a-distancia"
 tags: ["El Mago tarot", "relación a distancia", "qué siente por mí", "Arcanos Mayores", "tarot emocional", "arcanos-mayores", "el-mago", "relacion-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-20"
 image: "https://images.freetarot.fun/blog/el-mago__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 5

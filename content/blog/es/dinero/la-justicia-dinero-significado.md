@@ -3,7 +3,7 @@ title: "La Justicia en el Tarot: Significado en Dinero y Equilibrio Financiero"
 description: "Descubre el profundo significado de la carta La Justicia en el contexto del dinero. Aprende sobre equilibrio, decisiones financieras y karmas económicos."
 category: "dinero"
 tags: ["La Justicia tarot", "tarot dinero", "significado tarot", "arcanos mayores", "finanzas tarot", "arcanos-mayores", "la-justicia", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-23"
 image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "es"
 readingTime: 6

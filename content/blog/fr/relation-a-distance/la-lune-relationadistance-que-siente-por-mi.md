@@ -3,7 +3,7 @@ title: "La Lune en Relation à Distance : Ce qu'Elle Ressent pour Toi"
 description: "Découvrez la signification de La Lune dans le tarot pour les relations à distance. Interprétez ses messages sur les émotions, les peurs et l'énergie subconsciente."
 category: "relation-a-distance"
 tags: ["la-lune-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-emotionnel", "arcanes-majeurs", "la-lune", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-09"
 image: "https://images.freetarot.fun/blog/la-luna__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7

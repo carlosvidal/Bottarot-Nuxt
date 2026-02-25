@@ -3,7 +3,7 @@ title: "The Star and Your Ex: A Tarot Guide to Hope and Renewal"
 description: "Discover the profound meaning of The Star tarot card in the context of an ex-partner. It's not a prediction, but a guide to hope and self-discovery."
 category: "ex-partner"
 tags: ["the-star-tarot", "ex-partner-return", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana-cards", "the-star", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-22"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

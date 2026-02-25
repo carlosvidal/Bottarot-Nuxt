@@ -3,7 +3,7 @@ title: "Le Pape dans une relation à distance : Ce qu'il ressent pour vous"
 description: "Découvrez le message du Pape dans votre relation à distance. Une lecture approfondie sur ses sentiments, ses intentions et l'énergie d'engagement."
 category: "relation-a-distance"
 tags: ["le-pape-tarot", "relation-a-distance-tarot", "ce-qu-il-ressent-tarot", "arcanes-majeurs", "arcanes-majeurs", "le-pape", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-21"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Le Mat au travail : signification et résultat probable"
 description: "Découvrez la signification du Mat dans le contexte professionnel. Interprétez son message sur les nouveaux départs, les risques et le résultat probable pour votre carrière."
 category: "travail"
 tags: ["le-mat-tarot-travail", "le-mat-resultat-probable", "signification-le-mat-travail", "tarot-travail", "arcanes-majeurs", "tarot-carriere", "arcanes-majeurs", "le-mat", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-18"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Appeso nel Lavoro: Significato e Simbolismo Profondo"
 description: "Scopri il significato de L'Appeso nel contesto lavorativo. Una guida su sospensione, prospettiva e sacrificio per trasformare la tua carriera."
 category: "lavoro"
 tags: ["l-appeso-tarot-lavoro", "l-appeso-significato", "tarot-lavoro", "arcani-maggiori", "arcani-maggiori", "l-appeso", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-06"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "it"
 readingTime: 6

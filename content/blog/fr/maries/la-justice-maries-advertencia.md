@@ -3,7 +3,7 @@ title: "La Justice dans le Tarot : Avertissement pour les Mariages"
 description: "Découvrez le message d'avertissement de La Justice (Arcane 11) dans le contexte du mariage. Apprenez à reconnaître les déséquilibres et à protéger votre union."
 category: "maries"
 tags: ["la-justice-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "mariage-tarot", "arcanes-majeurs", "la-justice", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-20"
 image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

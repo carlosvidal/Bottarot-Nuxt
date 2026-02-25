@@ -3,7 +3,7 @@ title: "The Lovers in the Future: Meaning and Deep Symbolism"
 description: "Discover the meaning of The Lovers card in the future. A guide on love, choices, and harmony on your path ahead."
 category: "future"
 tags: ["the-lovers", "future-tarot", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana", "the-lovers", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-26"
 image: "https://images.freetarot.fun/blog/los-enamorados__futuro-significado.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Torre en el Futuro: Significado y Mensaje del Tarot"
 description: "Descubre el profundo significado de La Torre en el futuro. No es destrucción, sino una revelación necesaria que allana el camino para un nuevo comienzo."
 category: "futuro"
 tags: ["La Torre tarot", "tarot futuro", "significado La Torre", "arcanos mayores", "tarot interpretación", "arcanos-mayores", "la-torre", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-21"
 image: "https://images.freetarot.fun/blog/la-torre__futuro-significado.webp"
 locale: "es"
 readingTime: 5

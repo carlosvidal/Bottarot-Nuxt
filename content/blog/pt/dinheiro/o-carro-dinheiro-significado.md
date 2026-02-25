@@ -3,7 +3,7 @@ title: "O Carro no Dinheiro: Significado de Vitória e Controle Financeiro"
 description: "Descubra o profundo significado da carta O Carro no contexto do dinheiro. Aprenda sobre controle, vontade e o caminho para a vitória financeira."
 category: "dinheiro"
 tags: ["o-carro-tarot", "tarot-dinheiro", "significado-o-carro", "arcanos-maiores-dinheiro", "controle-financeiro", "arcanos-maiores", "o-carro", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-01"
 image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "pt"
 readingTime: 5

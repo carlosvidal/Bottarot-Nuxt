@@ -3,7 +3,7 @@ title: "L'Étoile dans un Changement d'Emploi : Résultat Probable et Énergie"
 description: "Découvrez le message de L'Étoile (Arcane 17) dans votre changement professionnel. Interprétation, résultat probable et conseils pratiques pour naviguer cette transition avec espoir."
 category: "changement-emploi"
 tags: ["l-etoile-tarot", "changement-d-emploi-tarot", "arcanes-majeurs", "tarot-professionnel", "resultat-probable-tarot", "arcanes-majeurs", "l-etoile", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-15"
 image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 7

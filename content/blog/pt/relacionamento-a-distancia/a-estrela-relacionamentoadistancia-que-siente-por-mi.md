@@ -3,7 +3,7 @@ title: "A Estrela no Tarot: O Que Ela Sente em uma Relação à Distância"
 description: "Descubra a mensagem de A Estrela (Arcano 17) sobre sentimentos, esperança e conexão espiritual em um relacionamento à distância. Interpretação detalhada."
 category: "relacionamento-a-distancia"
 tags: ["a-estrela-tarot", "tarot-relacao-a-distancia", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-estrela", "relacao-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-29"
 image: "https://images.freetarot.fun/blog/la-estrella__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

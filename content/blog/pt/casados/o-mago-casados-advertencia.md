@@ -3,7 +3,7 @@ title: "O Mago no Casamento: Advertências e Poder Pessoal"
 description: "Descubra o significado de O Mago no contexto do casamento. Um guia sobre advertências, padrões a evitar e como proteger a energia do casal."
 category: "casados"
 tags: ["o-mago-tarot", "tarot-se-sou-casado", "advertencia-tarot", "arcanos-maiores", "conselhos-tarot", "arcanos-maiores", "o-mago", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-17"
 image: "https://images.freetarot.fun/blog/el-mago__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5

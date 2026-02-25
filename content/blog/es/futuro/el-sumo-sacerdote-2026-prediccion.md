@@ -3,7 +3,7 @@ title: "El Sumo Sacerdote en 2026: Tradición y Nuevos Códigos"
 description: "Descubre el significado de El Sumo Sacerdote para 2026. Una guía sobre tradición, educación y las estructuras que darán forma al próximo ciclo."
 category: "futuro"
 tags: ["El Sumo Sacerdote", "tarot 2026", "predicción tarot", "arcanos mayores", "significado tarot", "arcanos-mayores", "el-sumo-sacerdote", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-01"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "es"
 readingTime: 5

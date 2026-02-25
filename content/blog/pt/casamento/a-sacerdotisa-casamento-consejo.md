@@ -3,7 +3,7 @@ title: "A Sacerdotisa no Casamento: Conselhos da Sabedoria Interior"
 description: "Descubra o conselho de A Sacerdotisa para seu casamento. Aprenda a ouvir sua intuição e aprofundar a conexão espiritual da sua relação."
 category: "casamento"
 tags: ["a-sacerdotisa", "tarot-casamento", "conselho-tarot", "arcanos-maiores", "intuição-casal", "arcanos-maiores", "a-sacerdotisa", "casamento"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-24"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__matrimonio-consejo.webp"
 locale: "pt"
 readingTime: 6

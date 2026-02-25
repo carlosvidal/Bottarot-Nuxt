@@ -3,7 +3,7 @@ title: "O Mago no Dinheiro: Significado e Simbolismo no Tarot"
 description: "Descubra o profundo significado da carta O Mago no contexto do dinheiro. Aprenda a interpretar sua energia de manifestação e poder pessoal nas suas finanças."
 category: "dinheiro"
 tags: ["o-mago-tarot", "tarot-dinheiro", "significado-o-mago", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-mago", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-13"
 image: "https://images.freetarot.fun/blog/el-mago__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

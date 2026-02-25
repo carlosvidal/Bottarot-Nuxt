@@ -3,7 +3,7 @@ title: "La Maison Dieu en Argent : Signification et Symbolisme du Changement"
 description: "Découvrez la signification profonde de la carte La Maison Dieu dans le contexte de l'argent. Interprétation à l'endroit, à l'envers et conseils pratiques."
 category: "argent"
 tags: ["la-maison-dieu-tarot", "tarot-argent", "signification-la-maison-dieu", "arcanes-majeurs", "tarot-financier", "arcanes-majeurs", "la-maison-dieu", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-14"
 image: "https://images.freetarot.fun/blog/la-torre__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

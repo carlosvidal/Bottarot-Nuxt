@@ -3,7 +3,7 @@ title: "La Emperatriz y tu ex: ¿Qué siente realmente por ti?"
 description: "Descubre el mensaje de La Emperatriz en el contexto de una ex pareja. Interpreta sus sentimientos, energía y el simbolismo de esta carta de abundancia."
 category: "ex-pareja"
 tags: ["La Emperatriz tarot", "tarot ex pareja", "interpretación tarot", "arcanos mayores", "qué siente ex pareja", "arcanos-mayores", "la-emperatriz", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-23"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

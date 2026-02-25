@@ -3,7 +3,7 @@ title: "Judgement in Love: Meaning of Rebirth and Forgiveness"
 description: "Discover the profound meaning of the Judgement card in love. A call to rebirth, honest reflection, and the healing of bonds for a more authentic connection."
 category: "love"
 tags: ["judgement-tarot", "tarot-love", "major-arcana", "tarot-meaning", "spiritual-rebirth", "major-arcana", "judgement", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-27"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "en"
 readingTime: 6

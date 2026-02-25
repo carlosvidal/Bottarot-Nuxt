@@ -3,7 +3,7 @@ title: "L'Imperatore nel Tarocco: Significato su Ex Partner e Riconciliazione"
 description: "Scopri il profondo significato de L'Imperatore nel contesto 'tornerà il mio ex'. Interpretazione simbolica, consigli pratici e riflessione."
 category: "ex-partner"
 tags: ["l-imperatore-tarocco", "significato-tarocco-ex-partner", "tarocco-ex-tornera", "arcano-maggiore-4", "arcani-maggiori", "l-imperatore", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-06"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

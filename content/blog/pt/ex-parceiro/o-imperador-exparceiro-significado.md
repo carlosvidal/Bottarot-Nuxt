@@ -3,7 +3,7 @@ title: "O Imperador no Tarot: Significado sobre Ex-Parceiro e Reconciliação"
 description: "Descubra o profundo significado de O Imperador no contexto de 'ex-parceiro voltará'. Interpretação simbólica, conselhos práticos e reflexão sobre o Arcano Maior 4."
 category: "ex-parceiro"
 tags: ["o-imperador-tarot", "significado-tarot-ex-parceiro", "tarot-ex-parceiro-voltara", "arcano-maior-4", "arcanos-maiores", "o-imperador", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-25"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5

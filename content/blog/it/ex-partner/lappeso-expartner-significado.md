@@ -3,7 +3,7 @@ title: "L'Appeso e l'ex: significato nel tarocco sulla riconciliazione"
 description: "Scopri il profondo significato de L'Appeso nel tarocco quando ti chiedi se la tua ex tornerà. Una guida simbolica su sospensione e prospettiva."
 category: "ex-partner"
 tags: ["l-appeso-tarocco", "ex-tornera", "significato-tarocco", "arcani-maggiori", "tarocco-amore", "arcani-maggiori", "l-appeso", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-22"
 image: "https://images.freetarot.fun/blog/el-colgado__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

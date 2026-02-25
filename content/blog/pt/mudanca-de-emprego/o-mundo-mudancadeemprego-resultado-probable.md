@@ -3,7 +3,7 @@ title: "O Mundo na mudança de emprego: significado e resultado provável"
 description: "Descubra a mensagem da carta O Mundo em uma mudança profissional. Aprenda seu significado, interpretação direta e invertida, e conselhos práticos."
 category: "mudanca-de-emprego"
 tags: ["o-mundo-tarot", "mudanca-de-emprego", "tarot-carreira", "arcanos-maiores", "resultado-provavel-tarot", "arcanos-maiores", "o-mundo", "mudanca-de-trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-30"
 image: "https://images.freetarot.fun/blog/el-mundo__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

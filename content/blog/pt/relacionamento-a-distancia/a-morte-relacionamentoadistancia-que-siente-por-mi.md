@@ -3,7 +3,7 @@ title: "A Morte no Tarot: O Que Ela Sente em uma Relação à Distância"
 description: "Descubra o profundo significado da carta A Morte no tarot para relações à distância. Um guia sobre transformação emocional e o que ela sente por você."
 category: "relacionamento-a-distancia"
 tags: ["tarot-relacao-a-distancia", "a-morte-tarot", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "a-morte", "relacao-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-09"
 image: "https://images.freetarot.fun/blog/la-muerte__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

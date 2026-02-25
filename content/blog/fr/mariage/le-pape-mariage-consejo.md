@@ -3,7 +3,7 @@ title: "Le Pape dans le Mariage : Guide et Conseil Spirituel"
 description: "Découvrez la signification profonde du Pape dans le contexte du mariage. Apprenez son message de tradition, de conseil et de croissance spirituelle pour votre relation."
 category: "mariage"
 tags: ["le-pape", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "spiritualite-couple", "arcanes-majeurs", "le-pape", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-30"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

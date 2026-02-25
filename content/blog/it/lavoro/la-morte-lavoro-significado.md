@@ -3,7 +3,7 @@ title: "La Morte nel Lavoro: Significato di Trasformazione Professionale"
 description: "Scopri il vero significato della carta La Morte nel contesto lavorativo. Non è una fine, ma un potente invito alla trasformazione e alla rinascita professionale."
 category: "lavoro"
 tags: ["la-morte-tarot-lavoro", "significato-la-morte", "tarot-lavoro", "arcani-maggiori", "trasformazione-professionale", "arcani-maggiori", "la-morte", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-12"
 image: "https://images.freetarot.fun/blog/la-muerte__trabajo-significado.webp"
 locale: "it"
 readingTime: 5

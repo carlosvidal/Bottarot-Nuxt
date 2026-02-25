@@ -3,7 +3,7 @@ title: "La Papesse en Amour : Intuition et Sagesse Intérieure"
 description: "Découvrez la signification profonde de La Papesse en amour. Un guide sur l'intuition, la connexion spirituelle et le mystère dans les relations."
 category: "amour"
 tags: ["la-papesse", "tarot-amour", "arcanes-majeurs", "intuition", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-07"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__amor-significado.webp"
 locale: "fr"
 readingTime: 6

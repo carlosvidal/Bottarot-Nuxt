@@ -3,7 +3,7 @@ title: "O Hierofante e o Dinheiro: Significado no Tarot"
 description: "Descubra o profundo significado da carta O Hierofante no contexto do dinheiro. Aprenda sobre tradição, sabedoria financeira e estruturas."
 category: "dinheiro"
 tags: ["o-hierofante-tarot", "tarot-dinheiro", "significado-tarot", "arcanos-maiores", "financas-tarot", "arcanos-maiores", "o-hierofante", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-23"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

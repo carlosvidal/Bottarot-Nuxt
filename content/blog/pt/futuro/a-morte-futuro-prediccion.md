@@ -3,7 +3,7 @@ title: "A Morte em 2026: Transformação e Renascimento no Tarot"
 description: "Descubra o significado da carta A Morte para 2026. Uma análise simbólica sobre ciclos que terminam, transformação profunda e novas oportunidades."
 category: "futuro"
 tags: ["a-morte-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "transformacao", "arcanos-maiores", "a-morte", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-30"
 image: "https://images.freetarot.fun/blog/la-muerte__2026-prediccion.webp"
 locale: "pt"
 readingTime: 5

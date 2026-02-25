@@ -3,7 +3,7 @@ title: "The High Priestess at Work: Meaning and Deep Interpretation"
 description: "Discover the meaning of The High Priestess in a career context. Learn to interpret her message of intuition, inner wisdom, and mystery for your professional path."
 category: "career"
 tags: ["the-high-priestess", "career-tarot", "major-arcana", "work-intuition", "major-arcana", "the-high-priestess", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-01"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-significado.webp"
 locale: "en"
 readingTime: 6

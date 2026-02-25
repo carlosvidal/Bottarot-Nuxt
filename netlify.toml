@@ -4,5 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "20"
+  # Netlify preset for Nitro (SSG → CDN, SSR → Functions)
+  NITRO_PRESET = "netlify"
   # 4GB heap needed for prerendering 1,500+ blog articles
   NODE_OPTIONS = "--max-old-space-size=4096"

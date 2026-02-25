@@ -3,7 +3,7 @@ title: "La Roue de la Fortune : Signification dans le Futur et Changements"
 description: "Découvrez la signification profonde de la Roue de la Fortune pour l'avenir. Apprenez à interpréter les cycles, les changements de destin et les opportunités à venir."
 category: "avenir"
 tags: ["la-roue-de-la-fortune", "tarot-futur", "arcanes-majeurs", "signification-tarot", "cycles-de-la-vie", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-25"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__futuro-significado.webp"
 locale: "fr"
 readingTime: 6

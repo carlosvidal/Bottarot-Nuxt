@@ -3,7 +3,7 @@ title: "L'Impératrice en Amour : Un Oui ou un Non ?"
 description: "Découvrez la signification de L'Impératrice en amour. Un guide complet sur son énergie de fertilité et d'abondance pour les relations, avec une réponse nuancée à la question 'oui ou non ?'."
 category: "amour"
 tags: ["l-imperatrice-tarot-amour", "l-imperatrice-oui-ou-non", "signification-l-imperatrice-en-amour", "tarot-amour", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "l-imperatrice", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-10"
 image: "https://images.freetarot.fun/blog/la-emperatriz__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

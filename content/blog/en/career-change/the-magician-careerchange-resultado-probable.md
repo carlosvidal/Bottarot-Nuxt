@@ -3,7 +3,7 @@ title: "The Magician in a Career Change: Probable Outcome and Energy"
 description: "Discover the meaning of The Magician in a job change. We analyze its manifestation energy and the probable outcome it suggests for your career path."
 category: "career-change"
 tags: ["the-magician-tarot", "career-change-tarot", "major-arcana", "probable-outcome-tarot", "major-arcana", "the-magician", "career-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-17"
 image: "https://images.freetarot.fun/blog/el-mago__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

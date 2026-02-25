@@ -3,7 +3,7 @@ title: "Le Pape en Amour : Signification et Symbolisme"
 description: "Découvrez la signification profonde du Pape en amour. Explorez la tradition, l'engagement et les énergies qui guident les relations durables."
 category: "amour"
 tags: ["le-pape-tarot-amour", "le-pape-signification", "tarot-amour", "arcanes-majeurs", "le-pape", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-23"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-significado.webp"
 locale: "fr"
 readingTime: 6

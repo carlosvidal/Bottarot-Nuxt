@@ -3,7 +3,7 @@ title: "A Justiça na Mudança de Emprego: Equilíbrio e Resultado Provável"
 description: "Descubra o significado da carta A Justiça em uma mudança de trabalho. Analisamos sua energia de equilíbrio, verdade e o resultado provável que sugere."
 category: "mudanca-de-emprego"
 tags: ["a-justica-tarot", "mudanca-de-trabalho", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "a-justica", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-31"
 image: "https://images.freetarot.fun/blog/la-justicia__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The High Priestess and Your Ex: What They Truly Feel for You"
 description: "Discover the meaning of The High Priestess in the context of an ex-partner. A deep guide on their feelings, intuition, and the hidden energy in this connection."
 category: "ex-partner"
 tags: ["the-high-priestess-tarot", "tarot-ex-partner", "the-high-priestess-meaning", "what-does-my-ex-feel", "major-arcana", "major-arcana-cards", "the-high-priestess", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-06"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

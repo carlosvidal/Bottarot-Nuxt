@@ -3,7 +3,7 @@ title: "Le Pape et l'Ex : Signification dans une Éventuelle Réconciliation"
 description: "Découvrez la signification profonde du Pape dans le contexte 'mon ex va-t-il/elle revenir ?'. Un guide symbolique sur la tradition, la structure et le conseil."
 category: "ex-partenaire"
 tags: ["le-pape", "tarot-ex", "signification-tarot", "arcanes-majeurs", "reconciliation", "arcanes-majeurs", "le-pape-tarot", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-14"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

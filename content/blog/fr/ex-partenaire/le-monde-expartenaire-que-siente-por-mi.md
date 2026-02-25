@@ -3,7 +3,7 @@ title: "Le Monde Tarot et Ex-Partenaire : Ce qu'il Ressent pour Vous"
 description: "Découvrez la signification de la carte Le Monde dans le contexte d'un ex-partenaire. Interprétez ce qu'il ressent pour vous selon cet Arcane Majeur de culmination."
 category: "ex-partenaire"
 tags: ["le-monde-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "sentiments-ex-partenaire", "arcanes-majeurs", "le-monde", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-13"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

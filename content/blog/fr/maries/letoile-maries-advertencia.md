@@ -3,7 +3,7 @@ title: "L'Étoile dans le Mariage : Avertissements et Protection Énergétique"
 description: "Découvrez le message d'avertissement de la carte L'Étoile si vous êtes marié. Apprenez à reconnaître les signes et à protéger votre union avec sagesse spirituelle."
 category: "maries"
 tags: ["l-etoile-tarot", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "protection-energetique", "arcanes-majeurs", "l-etoile", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-30"
 image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "fr"
 readingTime: 7

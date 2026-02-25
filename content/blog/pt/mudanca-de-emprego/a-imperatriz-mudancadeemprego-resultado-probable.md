@@ -3,7 +3,7 @@ title: "A Imperatriz na Mudança de Emprego: Resultado Provável e Abundância"
 description: "Descubra o significado de A Imperatriz em uma mudança de trabalho. Interpretação direta e invertida, conselhos práticos e a energia do resultado provável."
 category: "mudanca-de-emprego"
 tags: ["a-imperatriz", "tarot-mudanca-de-emprego", "resultado-provavel-tarot", "arcanos-maiores", "significado-tarot-profissional", "arcanos-maiores", "a-imperatriz", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-10"
 image: "https://images.freetarot.fun/blog/la-emperatriz__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

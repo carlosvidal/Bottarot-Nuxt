@@ -3,7 +3,7 @@ title: "La Morte nel 'Se Sono Sposato': Avvertimento e Trasformazione"
 description: "Scopri il significato de La Morte nel contesto del 'se sono sposato'. Una guida sugli avvertimenti, i cicli che terminano e come navigare la trasformazione nella tua relazione."
 category: "sposati"
 tags: ["la-morte-tarot", "se-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "trasformazione-coppia", "arcani-maggiori", "la-morte", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-09"
 image: "https://images.freetarot.fun/blog/la-muerte__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

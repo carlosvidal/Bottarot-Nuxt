@@ -3,7 +3,7 @@ title: "L'Appeso nel lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de L'Appeso nell'ambito lavorativo. Impara il suo significato, interpretazione e il risultato probabile suggerito da questa carta."
 category: "lavoro"
 tags: ["l-appeso-tarocchi-lavoro", "l-appeso-risultato-probabile", "significato-l-appeso-nel-lavoro", "tarocchi-lavoro", "arcani-maggiori", "tarocchi-lavorativo", "arcani-maggiori", "l-appeso", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-10"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

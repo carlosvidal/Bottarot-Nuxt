@@ -3,7 +3,7 @@ title: "La Force dans les décisions importantes : avertissement et guide du tar
 description: "Découvrez le message d'avertissement de la carte La Force dans les décisions cruciales. Apprenez à utiliser votre pouvoir intérieur avec sagesse et évitez les déséquilibres."
 category: "decisions"
 tags: ["la-force-tarot", "tarot-decisions-importantes", "arcane-majeur-8", "avertissement-tarot", "force-interieure", "arcanes-majeurs", "la-force", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-04"
 image: "https://images.freetarot.fun/blog/la-fuerza__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

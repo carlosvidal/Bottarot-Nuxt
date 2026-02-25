@@ -3,7 +3,7 @@ title: "O Mundo no Tarot: Significado em 'Ex Parceiro Voltará'"
 description: "Descubra o profundo significado da carta O Mundo no contexto de 'ex parceiro voltará'. Interpretação simbólica, conselhos práticos e reflexão sobre ciclos e plenitude."
 category: "ex-parceiro"
 tags: ["o-mundo-tarot", "significado-o-mundo", "tarot-ex-parceiro", "ex-parceiro-voltara", "arcanos-maiores", "arcanos-maiores", "o-mundo", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-22"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

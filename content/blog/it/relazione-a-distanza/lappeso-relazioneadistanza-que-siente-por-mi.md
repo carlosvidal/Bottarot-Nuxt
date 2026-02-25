@@ -3,7 +3,7 @@ title: "L'Appeso nelle relazioni a distanza: cosa prova per te"
 description: "Scopri il significato de L'Appeso nel tarot per le relazioni a distanza. Interpreta cosa prova per te e come gestire l'energia della sospensione."
 category: "relazione-a-distanza"
 tags: ["l-appeso-tarot", "relazione-a-distanza", "cosa-prova-per-me", "tarot-emozionale", "arcani-maggiori", "arcani-maggiori", "l-appeso", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-07"
 image: "https://images.freetarot.fun/blog/el-colgado__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 6

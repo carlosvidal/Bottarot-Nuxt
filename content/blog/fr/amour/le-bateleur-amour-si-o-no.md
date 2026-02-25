@@ -3,7 +3,7 @@ title: "Le Bateleur en Amour : Un Oui ou un Non ? Signification et Conseils"
 description: "Découvrez la signification du Bateleur en amour. Est-ce un oui ou un non ? Explications sur son symbolisme, son interprétation droite et inversée, et conseils pratiques."
 category: "amour"
 tags: ["le-bateleur-tarot-amour", "le-bateleur-oui-ou-non", "signification-bateleur-amour", "tarot-amour", "arcanes-majeurs", "amour-et-tarot", "arcanes-majeurs", "le-bateleur", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-18"
 image: "https://images.freetarot.fun/blog/el-mago__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

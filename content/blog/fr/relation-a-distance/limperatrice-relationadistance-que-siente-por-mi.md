@@ -3,7 +3,7 @@ title: "L'Impératrice en Relation à Distance : Ce Qu'elle Ressent pour Vous"
 description: "Découvrez le message de L'Impératrice dans votre relation à distance. Un guide sur ses sentiments, son énergie et la signification de cette carte dans l'amour éloigné."
 category: "relation-a-distance"
 tags: ["l-imperatrice-tarot", "relation-a-distance", "que-ressent-il-pour-moi", "tarot-amour", "arcanes-majeurs", "arcanes-majeurs", "l-imperatrice", "relation-a-distance"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-18"
 image: "https://images.freetarot.fun/blog/la-emperatriz__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "O Diabo no Tarot: Significado sobre 'ex vai voltar' e reflexões"
 description: "Descubra o profundo significado de O Diabo no tarot quando surge a pergunta 'ex vai voltar'. Interpretação simbólica e reflexões sobre vínculos e libertação."
 category: "ex-parceiro"
 tags: ["o-diabo-tarot", "ex-vai-voltar", "significado-tarot", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "o-diabo", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-13"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Lovers and Your Ex: What Do They Really Feel for You?"
 description: "Discover the deep meaning of The Lovers card in the context of an ex-partner. An energetic reading about lingering feelings and unspoken intentions."
 category: "ex-partner"
 tags: ["the-lovers-tarot", "tarot-ex-partner", "tarot-interpretation", "major-arcana", "love-and-relationships", "major-arcana", "the-lovers", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-20"
 image: "https://images.freetarot.fun/blog/los-enamorados__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5

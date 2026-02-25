@@ -3,7 +3,7 @@ title: "Le Bateleur dans le Tarot : Signification sur le retour d'un ex-partenai
 description: "Découvrez la signification profonde du Bateleur dans le contexte 'mon ex va-t-il revenir'. Un guide symbolique sur la manifestation et le pouvoir personnel."
 category: "ex-partenaire"
 tags: ["le-bateleur-tarot", "ex-reviendra", "signification-le-bateleur", "tarot-amour", "arcanes-majeurs", "le-bateleur", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-12"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

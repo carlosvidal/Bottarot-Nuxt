@@ -3,7 +3,7 @@ title: "A Temperança e o Ex: Significado no Tarot para Reconexões"
 description: "Descubra o profundo significado de A Temperança no tarot quando surge a pergunta 'meu ex vai voltar?'. Aprenda sobre equilíbrio, paciência e cura."
 category: "ex-parceiro"
 tags: ["a-temperanca-tarot", "ex-voltara", "significado-tarot", "arcanos-maiores", "tarot-amor", "arcanos-maiores", "a-temperanca", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-12"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

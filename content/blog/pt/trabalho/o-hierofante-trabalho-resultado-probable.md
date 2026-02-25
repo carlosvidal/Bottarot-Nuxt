@@ -3,7 +3,7 @@ title: "O Hierofante no trabalho: significado e resultado provável"
 description: "Descubra a mensagem de O Hierofante (Arcano 5) na sua vida profissional. Interprete sua energia de tradição e estrutura para entender o resultado provável."
 category: "trabalho"
 tags: ["o-hierofante-tarot-trabalho", "tarot-trabalho", "significado-o-hierofante-no-trabalho", "arcanos-maiores", "arcanos-majores", "o-hierofante", "trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-08"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

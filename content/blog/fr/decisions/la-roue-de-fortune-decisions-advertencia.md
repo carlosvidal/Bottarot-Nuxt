@@ -3,7 +3,7 @@ title: "La Roue de la Fortune : Avertissement pour les Décisions Importantes"
 description: "Décryptez le message d'alerte de la Roue de la Fortune face aux choix cruciaux. Apprenez à reconnaître les cycles du destin et à protéger votre énergie."
 category: "decisions"
 tags: ["la-roue-de-fortune", "tarot-decisions-importantes", "arcanes-majeurs", "avertissement-tarot", "cycles-du-destin", "arcanes-majeurs", "la-roue-de-fortune", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-05"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

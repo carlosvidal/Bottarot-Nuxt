@@ -3,7 +3,7 @@ title: "La Morte al lavoro: Trasformazione e risultato probabile"
 description: "Scopri il significato della carta La Morte nel contesto lavorativo. Non predice licenziamenti, ma profonde trasformazioni, finali necessari e nuovi inizi."
 category: "lavoro"
 tags: ["la-morte-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "trasformazione-lavorativa", "risultato-probabile-tarocchi", "arcani-maggiori", "la-morte", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-22"
 image: "https://images.freetarot.fun/blog/la-muerte__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

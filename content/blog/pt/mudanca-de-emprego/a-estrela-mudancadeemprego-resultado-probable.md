@@ -3,7 +3,7 @@ title: "A Estrela na Mudança de Emprego: Resultado Provável e Energia"
 description: "Descubra a mensagem de A Estrela (Arcano 17) na sua mudança profissional. Interpretação, resultado provável e conselhos práticos para navegar esta transição com esperança."
 category: "mudanca-de-emprego"
 tags: ["a-estrela-tarot", "mudanca-de-emprego-tarot", "arcanos-maiores", "tarot-profissional", "resultado-provavel-tarot", "arcanos-maiores", "a-estrela", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-30"
 image: "https://images.freetarot.fun/blog/la-estrella__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 7

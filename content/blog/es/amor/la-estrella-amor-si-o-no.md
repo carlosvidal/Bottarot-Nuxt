@@ -3,7 +3,7 @@ title: "La Estrella en el Amor: ¿Es un Sí o un No? Guía Completa"
 description: "Descubre el significado de La Estrella en el amor. Una guía profunda sobre esperanza, sanación y la respuesta matizada a tu pregunta de 'sí o no'."
 category: "amor"
 tags: ["La Estrella tarot", "tarot amor", "arcanos mayores", "tarot si o no", "significado tarot", "arcanos-mayores", "la-estrella", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-13"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7

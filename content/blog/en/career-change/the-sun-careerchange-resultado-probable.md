@@ -3,7 +3,7 @@ title: "The Sun in a Career Change: Meaning and Probable Outcome"
 description: "Discover the message of The Sun (Major Arcana 19) in a job change. Interpret its energy of success, vitality, and clarity for your next professional step."
 category: "career-change"
 tags: ["the-sun-tarot", "career-change", "tarot-career", "major-arcana", "major-arcana", "the-sun", "job-change"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-17"
 image: "https://images.freetarot.fun/blog/el-sol__cambio-trabajo-resultado.webp"
 locale: "en"
 readingTime: 6

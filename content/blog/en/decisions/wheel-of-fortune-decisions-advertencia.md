@@ -3,7 +3,7 @@ title: "Wheel of Fortune: A Warning for Important Decisions"
 description: "Discover the Wheel of Fortune's alert message in crucial decisions. Learn to recognize the cycles of destiny and protect your energy."
 category: "decisions"
 tags: ["wheel-of-fortune", "important-tarot-decisions", "major-arcana", "tarot-warning", "destiny-cycles", "major-arcana", "wheel-of-fortune-tarot", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-06"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

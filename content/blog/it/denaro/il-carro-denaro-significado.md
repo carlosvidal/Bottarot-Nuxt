@@ -3,7 +3,7 @@ title: "Il Carro nei Soldi: Significato di Vittoria e Controllo Financiario"
 description: "Scopri il profondo significato della carta de Il Carro nel contesto del denaro. Impara sul controllo, la volontà e il cammino verso la vittoria finanziaria."
 category: "denaro"
 tags: ["il-carro-tarocchi", "tarocchi-denaro", "significato-il-carro", "arcani-maggiori-denaro", "controllo-finanziario", "arcani-maggiori", "il-carro", "denaro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-05"
 image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "it"
 readingTime: 5

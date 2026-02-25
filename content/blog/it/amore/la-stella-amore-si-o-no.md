@@ -3,7 +3,7 @@ title: "La Stella nell'Amore: È un Sì o un No? Guida Completa"
 description: "Scopri il significato de La Stella nell'amore. Una guida approfondita su speranza, guarigione e la risposta sfumata alla tua domanda di 'sì o no'."
 category: "amore"
 tags: ["la-stella-tarocchi", "tarocchi-amore", "arcani-maggiori", "tarocchi-si-o-no", "significato-tarocchi", "arcani-maggiori", "la-stella", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-19"
 image: "https://images.freetarot.fun/blog/la-estrella__amor-si-o-no.webp"
 locale: "it"
 readingTime: 7

@@ -3,7 +3,7 @@ title: "L'Impératrice en 2026 : Abondance et Créativité dans le Nouveau Cycle
 description: "Découvrez la signification de L'Impératrice pour 2026. Explorez son message de fertilité, créativité et abondance dans le contexte du nouveau cycle énergétique."
 category: "avenir"
 tags: ["l-imperatrice", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "abondance", "avenir", "creativite"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-25"
 image: "https://images.freetarot.fun/blog/la-emperatriz__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

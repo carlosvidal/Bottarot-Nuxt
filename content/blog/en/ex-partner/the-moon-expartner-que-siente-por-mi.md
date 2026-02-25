@@ -3,7 +3,7 @@ title: "The Moon Tarot and an Ex: What They Feel for You"
 description: "Discover The Moon tarot's meaning regarding an ex. Interpret their hidden feelings, fears, and the subconscious energy they project toward you."
 category: "ex-partner"
 tags: ["the-moon-tarot", "tarot-ex-partner", "what-does-my-ex-feel", "major-arcana", "tarot-interpretation", "major-arcana", "the-moon", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-04"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 5

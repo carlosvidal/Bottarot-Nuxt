@@ -3,7 +3,7 @@ title: "The Moon in Love: Is It a Yes or No? Tarot Meaning"
 description: "Discover the profound meaning of The Moon tarot card in love. A guide on illusions, fears, and the nuanced answer to your yes or no question."
 category: "love"
 tags: ["the-moon-tarot-love", "love-tarot", "major-arcana", "tarot-yes-or-no", "the-moon-meaning", "major-arcana", "the-moon", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-03"
 image: "https://images.freetarot.fun/blog/la-luna__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Empereur dans une relation à distance : Ce qu'il ressent pour vous"
 description: "Découvrez la signification de la carte L'Empereur dans une relation à distance. Interprétez son énergie de structure, de protection et d'intentions sérieuses."
 category: "relation-a-distance"
 tags: ["l-empereur-tarot", "relation-a-distance", "ce-qu-il-ressent", "tarot-amour", "arcanes-majeurs"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-17"
 image: "https://images.freetarot.fun/blog/el-emperador__relacion-distancia-siente.webp"
 locale: "fr"
 readingTime: 7

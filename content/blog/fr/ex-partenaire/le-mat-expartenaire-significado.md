@@ -3,7 +3,7 @@ title: "Le Mat et l'Ex : Signification pour une Éventuelle Réconciliation"
 description: "Découvrez la signification profonde du Mat dans le tarot face à la question 'mon ex va-t-il/elle revenir ?'. Un regard sur le symbolisme des nouveaux départs."
 category: "ex-partenaire"
 tags: ["le-mat", "tarot-ex", "signification-tarot", "arcanes-majeurs", "reconciliation", "arcanes-majeurs", "le-mat", "ex-partenaires"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-23"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 5

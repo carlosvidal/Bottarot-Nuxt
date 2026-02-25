@@ -3,7 +3,7 @@ title: "El Colgado en el Si Estoy Casado: Advertencia y Reflexión"
 description: "Descubre el mensaje de advertencia de El Colgado en el contexto del si estoy casado. Aprende a interpretar sus señales y proteger tu energía."
 category: "casados"
 tags: ["El Colgado", "tarot si estoy casado", "advertencia tarot", "Arcanos Mayores", "sacrificio en relaciones", "arcanos-mayores", "el-colgado", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-17"
 image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "es"
 readingTime: 7

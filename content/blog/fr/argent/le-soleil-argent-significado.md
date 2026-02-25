@@ -3,7 +3,7 @@ title: "Le Soleil au Tarot : Signification pour l'Argent et l'Abondance"
 description: "Découvrez la signification profonde de la carte Le Soleil au tarot pour l'argent. Interprétation à l'endroit et à l'envers, conseils pratiques et réflexion sur l'abondance."
 category: "argent"
 tags: ["le-soleil-tarot", "tarot-argent", "signification-le-soleil", "arcanes-majeurs", "abondance-tarot", "arcanes-majeurs", "le-soleil", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-07"
 image: "https://images.freetarot.fun/blog/el-sol__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

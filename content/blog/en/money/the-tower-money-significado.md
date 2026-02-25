@@ -3,7 +3,7 @@ title: "The Tower in Money: Meaning and Symbolism of Financial Upheaval"
 description: "Discover the profound meaning of The Tower card in the context of money. Upright and reversed interpretations, plus practical advice for navigating financial change."
 category: "money"
 tags: ["the-tower-tarot", "tarot-money", "the-tower-meaning", "major-arcana", "financial-tarot", "major-arcana", "the-tower", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-06"
 image: "https://images.freetarot.fun/blog/la-torre__dinero-significado.webp"
 locale: "en"
 readingTime: 6

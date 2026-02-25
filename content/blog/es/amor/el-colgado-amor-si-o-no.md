@@ -3,7 +3,7 @@ title: "El Colgado en el Amor: ¿Es un Sí o un No? Significado y Consejos"
 description: "Descubre el profundo significado de El Colgado en el amor. Aprende a interpretar su mensaje de suspensión y sacrificio para tu vida afectiva."
 category: "amor"
 tags: ["El Colgado tarot amor", "El Colgado si o no", "significado El Colgado en el amor", "tarot amor", "arcanos mayores", "tarot lectura", "arcanos-mayores", "el-colgado", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-05"
 image: "https://images.freetarot.fun/blog/el-colgado__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7

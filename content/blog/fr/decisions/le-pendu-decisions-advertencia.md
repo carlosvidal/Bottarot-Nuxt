@@ -3,7 +3,7 @@ title: "Le Pendu : Avertissement dans les Décisions Importantes"
 description: "Découvrez le message d'avertissement du Pendu dans les décisions cruciales. Apprenez à reconnaître les signaux d'alerte et à protéger votre énergie."
 category: "decisions"
 tags: ["le-pendu-tarot", "decisions-importantes-tarot", "avertissement-tarot", "arcanes-majeurs", "le-pendu", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-13"
 image: "https://images.freetarot.fun/blog/el-colgado__decisiones-advertencia.webp"
 locale: "fr"
 readingTime: 6

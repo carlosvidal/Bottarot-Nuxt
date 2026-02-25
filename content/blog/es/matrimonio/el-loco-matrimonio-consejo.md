@@ -3,7 +3,7 @@ title: "El Loco en el Matrimonio: Consejos para Nuevos Comienzos"
 description: "Descubre el significado de El Loco en el matrimonio. Consejos prácticos y reflexión espiritual para abordar la vida en pareja con inocencia y valentía."
 category: "matrimonio"
 tags: ["El Loco tarot", "tarot matrimonio", "Arcanos Mayores", "consejo tarot", "arcanos-mayores", "el-loco", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-01"
 image: "https://images.freetarot.fun/blog/el-loco__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 7

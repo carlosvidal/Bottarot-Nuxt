@@ -3,7 +3,7 @@ title: "El Ermitaño en Relación a Distancia: Qué Siente por Ti"
 description: "Descubre el mensaje de El Ermitaño en tu relación a distancia. Una guía profunda sobre sus sentimientos, intenciones y la energía de introspección."
 category: "relacion-a-distancia"
 tags: ["El Ermitaño tarot", "relación a distancia", "qué siente por mí", "Arcanos Mayores", "tarot emocional", "arcanos-mayores", "el-ermitano", "relacion-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-19"
 image: "https://images.freetarot.fun/blog/el-ermitano__relacion-distancia-siente.webp"
 locale: "es"
 readingTime: 5

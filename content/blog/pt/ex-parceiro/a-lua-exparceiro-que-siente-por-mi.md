@@ -3,7 +3,7 @@ title: "A Lua no Tarot e Ex-Parceiro: O Que Ele(a) Sente por Você"
 description: "Descubra o significado de A Lua no tarot sobre um ex. Interprete os sentimentos ocultos, medos e a energia subconsciente que ele(a) projeta em você."
 category: "ex-parceiro"
 tags: ["a-lua-tarot", "tarot-ex-parceiro", "o-que-sente-meu-ex", "arcanos-maiores", "interpretacao-tarot", "arcanos-maiores", "a-lua", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-01"
 image: "https://images.freetarot.fun/blog/la-luna__ex-pareja-que-siente.webp"
 locale: "pt"
 readingTime: 5

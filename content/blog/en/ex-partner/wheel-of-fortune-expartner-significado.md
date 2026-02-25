@@ -3,7 +3,7 @@ title: "Wheel of Fortune and Your Ex: Tarot Meaning for Past Relationships"
 description: "Discover the deep meaning of the Wheel of Fortune tarot card in the context of an ex-partner. Learn about cycles, destiny, and the card's message for love."
 category: "ex-partner"
 tags: ["wheel-of-fortune", "tarot-ex-partner", "tarot-meaning", "major-arcana", "love-and-tarot", "major-arcana", "wheel-of-fortune-tarot", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-21"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

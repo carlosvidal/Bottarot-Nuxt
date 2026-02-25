@@ -3,7 +3,7 @@ title: "La Templanza en el Amor: ¿Es un Sí o un No? Significado Tarot"
 description: "Descubre el mensaje de La Templanza en el amor. ¿Es un sí o un no? Aprende su significado, interpretación y consejos prácticos para relaciones."
 category: "amor"
 tags: ["La Templanza tarot amor", "La Templanza si o no", "significado La Templanza en el amor", "tarot amor", "arcanos mayores", "lectura de tarot", "arcanos-mayores", "la-templanza", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-18"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-si-o-no.webp"
 locale: "es"
 readingTime: 5

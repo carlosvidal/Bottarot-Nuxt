@@ -3,7 +3,7 @@ title: "Le Bateleur au travail : signification et guide pour votre vie professio
 description: "Découvrez la signification profonde de la carte du Bateleur dans le contexte professionnel. Apprenez à canaliser son énergie de manifestation et de pouvoir personnel."
 category: "travail"
 tags: ["le-bateleur-tarot-travail", "le-bateleur-signification", "tarot-travail", "arcanes-majeurs", "le-bateleur", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-04-25"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

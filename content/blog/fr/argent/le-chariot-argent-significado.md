@@ -3,7 +3,7 @@ title: "Le Chariot en Argent : Signification de Victoire et Contrôle Financier"
 description: "Découvrez la signification profonde de la carte du Chariot dans le contexte de l'argent. Apprenez-en plus sur le contrôle, la volonté et le chemin vers la victoire financière."
 category: "argent"
 tags: ["le-chariot-tarot", "tarot-argent", "signification-le-chariot", "arcanes-majeurs-argent", "controle-financier", "arcanes-majeurs", "le-chariot", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-16"
 image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "fr"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "Judgement in Love: Is It a Yes or No? Reflection and Rebirth"
 description: "Discover the meaning of the Judgement card in love. A deep guide on its message of reflection, forgiveness, and the nuanced answer to your yes-or-no question."
 category: "love"
 tags: ["judgement-tarot-love", "judgement-yes-or-no", "meaning-judgement-in-love", "love-tarot", "major-arcana", "love-rebirth", "major-arcana", "judgement", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-31"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-si-o-no.webp"
 locale: "en"
 readingTime: 6

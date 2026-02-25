@@ -3,7 +3,7 @@ title: "La Emperatriz en Cambio de Trabajo: Resultado Probable y Abundancia"
 description: "Descubre el significado de La Emperatriz en un cambio laboral. Interpretación al derecho e invertida, consejos prácticos y la energía de resultado probable."
 category: "cambio-de-trabajo"
 tags: ["La Emperatriz", "tarot cambio de trabajo", "resultado probable tarot", "arcanos mayores", "significado tarot laboral", "arcanos-mayores", "la-emperatriz", "cambio-de-trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-26"
 image: "https://images.freetarot.fun/blog/la-emperatriz__cambio-trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

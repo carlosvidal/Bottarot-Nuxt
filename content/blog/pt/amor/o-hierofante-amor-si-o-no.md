@@ -3,7 +3,7 @@ title: "O Hierofante no Amor: É um Sim ou um Não?"
 description: "Descubra o significado de O Hierofante no amor. Um guia profundo sobre tradição, compromisso e a resposta matizada para sua pergunta de sim ou não."
 category: "amor"
 tags: ["o-hierofante-tarot-amor", "o-hierofante-sim-ou-nao", "significado-o-hierofante-no-amor", "tarot-amor", "arcanos-maiores", "o-hierofante", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-27"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7

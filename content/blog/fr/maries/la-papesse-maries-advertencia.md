@@ -3,7 +3,7 @@ title: "La Papesse dans le Mariage : Avertissements et Sagesse Intérieure"
 description: "Découvrez le message d'avertissement de La Papesse dans le contexte du mariage. Apprenez à interpréter ses signes intuitifs et à protéger votre union."
 category: "maries"
 tags: ["la-papesse", "tarot-si-je-suis-marie", "avertissement-tarot", "arcanes-majeurs", "intuition-dans-le-mariage", "arcanes-majeurs", "la-papesse", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-11"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

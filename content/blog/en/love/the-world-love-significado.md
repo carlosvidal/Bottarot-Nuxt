@@ -3,7 +3,7 @@ title: "The World in Love: Meaning of Culmination and Wholeness"
 description: "Discover the profound meaning of The World card in love. An arcana of culmination, integration, and the fulfillment of a complete emotional cycle."
 category: "love"
 tags: ["the-world-tarot-love", "the-world-meaning", "tarot-love", "major-arcana", "major-arcana-cards", "the-world", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-20"
 image: "https://images.freetarot.fun/blog/el-mundo__amor-significado.webp"
 locale: "en"
 readingTime: 6

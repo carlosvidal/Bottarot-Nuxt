@@ -3,7 +3,7 @@ title: "Le Pendu au Travail : Signification et Symbolisme Profond"
 description: "Découvrez la signification du Pendu dans le contexte professionnel. Un guide sur la suspension, la perspective et le sacrifice pour transformer votre carrière."
 category: "travail"
 tags: ["le-pendu-tarot-travail", "le-pendu-signification", "tarot-travail", "arcanes-majeurs", "le-pendu", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-09"
 image: "https://images.freetarot.fun/blog/el-colgado__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

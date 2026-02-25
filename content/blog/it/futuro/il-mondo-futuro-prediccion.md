@@ -3,7 +3,7 @@ title: "Il Mondo Tarocchi 2026: Culminazione e Nuovi Cicli"
 description: "Scopri il significato della carta Il Mondo per il 2026. Esplora la sua energia di culminazione e pienezza come guida simbolica per l'anno."
 category: "futuro"
 tags: ["il-mondo-tarocchi", "tarocchi-2026", "arcani-maggiori", "predizione-tarocchi", "arcani-maggiori", "il-mondo", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-31"
 image: "https://images.freetarot.fun/blog/el-mundo__2026-prediccion.webp"
 locale: "it"
 readingTime: 6

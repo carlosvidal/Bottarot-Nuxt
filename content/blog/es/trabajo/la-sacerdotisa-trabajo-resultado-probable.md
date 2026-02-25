@@ -3,7 +3,7 @@ title: "La Sacerdotisa en el trabajo: intuición y resultado probable"
 description: "Descubre el significado de La Sacerdotisa en el ámbito laboral. Aprende a interpretar su energía para intuir el resultado probable de tus proyectos profesionales."
 category: "trabajo"
 tags: ["La Sacerdotisa", "tarot trabajo", "Arcanos Mayores", "intuición laboral", "arcanos-mayores", "la-sacerdotisa", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-20"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

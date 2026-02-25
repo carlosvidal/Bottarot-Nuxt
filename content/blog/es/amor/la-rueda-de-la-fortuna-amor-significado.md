@@ -3,7 +3,7 @@ title: "La Rueda de la Fortuna en el Amor: Significado y Ciclos del Destino"
 description: "Descubre el profundo significado de La Rueda de la Fortuna en el amor. Aprende cómo los ciclos del destino influyen en relaciones, conexiones y transformaciones afectivas."
 category: "amor"
 tags: ["La Rueda de la Fortuna", "tarot amor", "arcanos mayores", "significado tarot", "ciclos amorosos", "arcanos-mayores", "la-rueda-de-la-fortuna", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-30"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-significado.webp"
 locale: "es"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "A Torre no Amor: Significado de Ruptura e Renascimento"
 description: "Descubra o profundo significado de A Torre no amor. Não é apenas destruição, mas um convite à verdade e à transformação radical dos seus relacionamentos."
 category: "amor"
 tags: ["a-torre-tarot-amor", "a-torre-significado", "significado-a-torre-no-amor", "tarot-amor", "arcanos-maiores", "tarot-relacionamentos", "arcanos-maiores", "a-torre", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-19"
 image: "https://images.freetarot.fun/blog/la-torre__amor-significado.webp"
 locale: "pt"
 readingTime: 6

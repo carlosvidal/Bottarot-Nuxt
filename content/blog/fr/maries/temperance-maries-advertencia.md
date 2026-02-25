@@ -3,7 +3,7 @@ title: "La Tempérance dans le Mariage : Avertissements et Équilibre"
 description: "Découvrez le message d'avertissement de La Tempérance (Arcane 14) pour votre mariage. Apprenez à identifier les déséquilibres et à protéger votre union avec sagesse."
 category: "maries"
 tags: ["la-temperance-tarot", "tarot-si-je-suis-marie", "avertissement-tarot-mariage", "equilibre-conjugal", "arcanes-majeurs", "la-temperance", "maries"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-10"
 image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "fr"
 readingTime: 6

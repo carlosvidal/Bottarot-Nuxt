@@ -3,7 +3,7 @@ title: "O Imperador na Mudança de Emprego: Resultado Provável e Energia"
 description: "Descubra o significado de O Imperador em uma mudança de trabalho. Interpretação, conselhos práticos e a energia de resultado provável que esta carta sugere."
 category: "mudanca-de-emprego"
 tags: ["o-imperador-tarot", "mudanca-de-emprego", "resultado-provavel-tarot", "arcanos-maiores", "tarot-carreira-profissional", "arcanos-maiores", "o-imperador", "mudanca-de-emprego"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-08"
 image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 5

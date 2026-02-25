@@ -3,7 +3,7 @@ title: "Il Mago e il tuo ex: cosa prova davvero per te?"
 description: "Scopri il significato della carta Il Mago nel contesto di un ex partner. Una lettura profonda sui suoi sentimenti, intenzioni e l'energia che proietta verso di te."
 category: "ex-partner"
 tags: ["il-mago-tarot", "tarot-ex-partner", "significato-il-mago", "cosa-sente-il-mio-ex", "arcani-maggiori", "arcani-maggiori", "il-mago", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-21"
 image: "https://images.freetarot.fun/blog/el-mago__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Sole nell'Amore: È un Sì o un No? Significato nel Tarocchi"
 description: "Scopri il profondo significato della carta Il Sole in amore. Impara il suo messaggio di gioia e successo e come interpretare se è un sì o un no nella tua lettura."
 category: "amore"
 tags: ["il-sole-tarocchi", "tarocchi-amore", "arcani-maggiori", "significato-tarocchi", "il-sole-si-o-no", "arcani-maggiori", "il-sole", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-18"
 image: "https://images.freetarot.fun/blog/el-sol__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "El Sol en decisiones importantes: advertencia y precauciones"
 description: "Descubre el lado menos conocido de El Sol en el tarot. Una guía sobre las advertencias y patrones a evitar cuando esta carta aparece en decisiones cruciales."
 category: "decisiones"
 tags: ["El Sol tarot", "decisiones importantes tarot", "Arcanos Mayores", "advertencia tarot", "arcanos-mayores", "el-sol", "decisiones"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-23"
 image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "es"
 readingTime: 5

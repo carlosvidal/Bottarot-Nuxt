@@ -3,7 +3,7 @@ title: "Le Soleil au Tarot : Signifie-t-il le retour de mon ex ? Signification P
 description: "Découvrez la signification de la carte Le Soleil dans le contexte 'mon ex va-t-il revenir ?'. Un guide symbolique sur la clarté, la guérison et le renouveau."
 category: "ex-partenaire"
 tags: ["le-soleil-tarot", "ex-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-amour", "arcanes-majeurs", "le-soleil", "ex-partenaires"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-15"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 7

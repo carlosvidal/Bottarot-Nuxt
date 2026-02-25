@@ -3,7 +3,7 @@ title: "La Ruota della Fortuna in Amore: È un Sì o un No?"
 description: "Scopri il significato de La Ruota della Fortuna in amore. Una guida profonda su cicli, destino e come interpretare un 'sì' o 'no' nelle tue relazioni."
 category: "amore"
 tags: ["la-ruota-della-fortuna", "tarocchi-amore", "arcani-maggiori", "tarocchi-si-o-no", "amore-e-destino", "arcani-maggiori", "la-ruota-della-fortuna", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-27"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-si-o-no.webp"
 locale: "it"
 readingTime: 6

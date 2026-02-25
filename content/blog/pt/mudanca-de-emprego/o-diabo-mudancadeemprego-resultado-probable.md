@@ -3,7 +3,7 @@ title: "O Diabo na mudança de emprego: significado e resultado provável"
 description: "Descubra a mensagem de O Diabo (Arcano 15) em uma mudança de trabalho. Interprete sua energia de tentação e materialismo para tomar decisões conscientes."
 category: "mudanca-de-emprego"
 tags: ["o-diabo-tarot", "mudanca-de-emprego", "arcanos-maiores", "tarot-laboral", "arcanos-maiores", "o-diabo", "mudanca-de-trabalho"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-12"
 image: "https://images.freetarot.fun/blog/el-diablo__cambio-trabajo-resultado.webp"
 locale: "pt"
 readingTime: 6

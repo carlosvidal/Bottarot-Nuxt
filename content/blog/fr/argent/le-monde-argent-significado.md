@@ -3,7 +3,7 @@ title: "Le Monde en argent : signification de plénitude et de réussite financi
 description: "Découvrez la signification profonde de la carte Le Monde dans le contexte de l'argent. Une analyse symbolique sur l'aboutissement, l'abondance et le cycle complet des ressources."
 category: "argent"
 tags: ["le-monde-tarot", "tarot-argent", "signification-le-monde", "arcanes-majeurs-argent", "tarot-abondance", "arcanes-majeurs", "le-monde", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-06"
 image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

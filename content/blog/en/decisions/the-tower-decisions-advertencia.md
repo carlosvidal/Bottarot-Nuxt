@@ -3,7 +3,7 @@ title: "The Tower in Important Decisions: The Tarot's Warning"
 description: "Discover the meaning of The Tower in crucial decisions. A guide to recognizing warning signs and avoiding sudden breakdowns on your path."
 category: "decisions"
 tags: ["the-tower-tarot", "important-decisions-tarot", "major-arcana", "tarot-warning", "spiritual-guide-tarot", "major-arcana-cards", "the-tower", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-26"
 image: "https://images.freetarot.fun/blog/la-torre__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 6

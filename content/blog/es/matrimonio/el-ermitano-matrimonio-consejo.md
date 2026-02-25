@@ -3,7 +3,7 @@ title: "El Ermitaño en el Matrimonio: Consejo Interior y Reflexión"
 description: "Descubre el significado de la carta El Ermitaño en el contexto del matrimonio. Encuentra consejos prácticos y orientación espiritual para tu relación."
 category: "matrimonio"
 tags: ["El Ermitaño tarot matrimonio", "El Ermitaño consejo", "significado El Ermitaño en el matrimonio", "tarot matrimonio", "arcanos-mayores", "el-ermitano", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-21"
 image: "https://images.freetarot.fun/blog/el-ermitano__matrimonio-consejo.webp"
 locale: "es"
 readingTime: 5

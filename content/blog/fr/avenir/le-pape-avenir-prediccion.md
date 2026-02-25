@@ -3,7 +3,7 @@ title: "Le Pape en 2026 : Tradition et Nouveaux Codes"
 description: "Découvrez la signification du Pape pour 2026. Un guide sur la tradition, l'éducation et les structures qui façonneront le prochain cycle."
 category: "avenir"
 tags: ["le-pape", "tarot-2026", "prediction-tarot", "arcanes-majeurs", "signification-tarot", "avenir"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-12"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__2026-prediccion.webp"
 locale: "fr"
 readingTime: 6

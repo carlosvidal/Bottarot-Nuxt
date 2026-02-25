@@ -3,7 +3,7 @@ title: "Le Diable en Tarot : Signification sur le retour d'un ex-partenaire"
 description: "Découvrez la signification profonde du Diable au tarot face à la question 'mon ex va-t-il revenir ?'. Interprétation symbolique et réflexions sur les liens et la libération."
 category: "ex-partenaire"
 tags: ["le-diable-tarot", "ex-va-t-il-revenir", "signification-tarot", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "le-diable", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-02"
 image: "https://images.freetarot.fun/blog/el-diablo__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

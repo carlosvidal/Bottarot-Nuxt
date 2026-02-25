@@ -3,7 +3,7 @@ title: "The Hierophant and Your Ex: What Do They Truly Feel for You?"
 description: "Discover the meaning of The Hierophant tarot card in the context of an ex-partner. A deep dive into their feelings, intentions, and the energy they project towards you."
 category: "ex-partner"
 tags: ["the-hierophant-tarot-ex", "the-hierophant-feelings", "the-hierophant-ex-meaning", "tarot-ex-partner", "major-arcana", "tarot-reading", "major-arcana-cards", "the-hierophant", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-26"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__ex-pareja-que-siente.webp"
 locale: "en"
 readingTime: 6

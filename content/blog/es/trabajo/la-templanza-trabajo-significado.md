@@ -3,7 +3,7 @@ title: "La Templanza en el trabajo: significado y guía del tarot"
 description: "Descubre el profundo significado de la carta La Templanza en el contexto laboral. Aprende sobre equilibrio, paciencia y cómo integrar su energía en tu vida profesional."
 category: "trabajo"
 tags: ["La Templanza tarot", "tarot trabajo", "significado tarot", "arcanos mayores", "equilibrio laboral", "arcanos-mayores", "la-templanza", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-22"
 image: "https://images.freetarot.fun/blog/la-templanza__trabajo-significado.webp"
 locale: "es"
 readingTime: 6

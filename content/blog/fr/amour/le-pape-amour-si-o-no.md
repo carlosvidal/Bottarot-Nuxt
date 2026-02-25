@@ -3,7 +3,7 @@ title: "Le Pape en Amour : Un Oui ou un Non ? Signification et Interprétation"
 description: "Découvrez la signification du Pape en amour. Un guide complet sur la tradition, l'engagement et la réponse nuancée à votre question de oui ou non."
 category: "amour"
 tags: ["le-pape-tarot-amour", "le-pape-oui-ou-non", "signification-le-pape-en-amour", "tarot-amour", "arcanes-majeurs", "le-pape", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-27"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 7

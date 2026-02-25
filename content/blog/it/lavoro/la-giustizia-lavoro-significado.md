@@ -3,7 +3,7 @@ title: "La Giustizia nel Lavoro: Equilibrio e Verità Professionale"
 description: "Scopri il significato de La Giustizia dei tarocchi nell'ambito lavorativo. Impara su equità, decisioni etiche e l'equilibrio tra dare e ricevere nella tua carriera."
 category: "lavoro"
 tags: ["la-giustizia-tarocchi", "tarocchi-lavoro", "arcani-maggiori", "equilibrio-lavorativo", "etica-professionale", "arcani-maggiori", "la-giustizia", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-21"
 image: "https://images.freetarot.fun/blog/la-justicia__trabajo-significado.webp"
 locale: "it"
 readingTime: 5

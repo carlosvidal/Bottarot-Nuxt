@@ -3,7 +3,7 @@ title: "La Morte nell'Amore: Significato di Trasformazione e Rinascita"
 description: "Scopri il profondo significato della carta La Morte in amore. Non predice finali, ma trasformazioni necessarie per una rinascita emotiva."
 category: "amore"
 tags: ["la-morte-tarocchi-amore", "significato-la-morte", "tarocchi-amore", "arcani-maggiori", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-09"
 image: "https://images.freetarot.fun/blog/la-muerte__amor-significado.webp"
 locale: "it"
 readingTime: 6

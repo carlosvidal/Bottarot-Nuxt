@@ -3,7 +3,7 @@ title: "La Lune dans le Mariage : Conseils pour l'Ombre et la Lumière"
 description: "Découvrez la signification de La Lune dans le mariage. Des conseils pratiques pour naviguer entre illusions, peurs et approfondir la connexion depuis l'inconscient."
 category: "mariage"
 tags: ["la-lune-tarot", "tarot-mariage", "conseil-tarot", "arcanes-majeurs", "tarot-relations", "arcanes-majeurs", "la-lune", "mariage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-22"
 image: "https://images.freetarot.fun/blog/la-luna__matrimonio-consejo.webp"
 locale: "fr"
 readingTime: 6

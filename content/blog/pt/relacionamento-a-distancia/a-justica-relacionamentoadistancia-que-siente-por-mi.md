@@ -3,7 +3,7 @@ title: "A Justiça no Tarot: O Que Ela Sente em uma Relação a Distância"
 description: "Descubra o significado da carta A Justiça no tarot para relações a distância. Interprete o que ela sente por você e como lidar com o equilíbrio emocional."
 category: "relacionamento-a-distancia"
 tags: ["a-justica-tarot", "relacao-a-distancia", "o-que-sente-por-mim", "tarot-amor", "arcanos-maiores", "arcanos-maiores", "a-justica", "relacao-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-29"
 image: "https://images.freetarot.fun/blog/la-justicia__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

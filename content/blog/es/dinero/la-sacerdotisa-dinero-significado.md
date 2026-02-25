@@ -3,7 +3,7 @@ title: "La Sacerdotisa y el Dinero: Intuición y Sabiduría Financiera"
 description: "Descubre el significado de La Sacerdotisa en el contexto del dinero. Aprende cómo su energía de intuición y misterio guía tus decisiones financieras."
 category: "dinero"
 tags: ["La Sacerdotisa tarot", "tarot dinero", "significado tarot", "arcanos mayores", "intuición financiera", "arcanos-mayores", "la-sacerdotisa", "dinero"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-13"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "es"
 readingTime: 6

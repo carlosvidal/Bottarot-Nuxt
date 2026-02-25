@@ -3,7 +3,7 @@ title: "O Hierofante no Casamento: Advertência e Precaução"
 description: "Descubra a mensagem de advertência de O Hierofante (Arcano 5) no contexto do casamento. Aprenda a reconhecer sinais e proteger sua energia conjugal."
 category: "casados"
 tags: ["o-hierofante", "tarot-casamento", "advertencia-tarot", "arcanos-maiores", "conselho-tarot", "arcanos-maiores", "o-hierofante", "casados"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-27"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "pt"
 readingTime: 5

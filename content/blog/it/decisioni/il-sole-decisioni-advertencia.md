@@ -3,7 +3,7 @@ title: "Il Sole nelle decisioni importanti: avvertimenti e precauzioni"
 description: "Scopri il lato meno conosciuto de Il Sole nei tarocchi. Una guida sugli avvertimenti e gli schemi da evitare quando questa carta appare in decisioni cruciali."
 category: "decisioni"
 tags: ["il-sole-tarocchi", "decisioni-importanti-tarocchi", "arcani-maggiori", "avvertimento-tarocchi", "arcani-maggiori", "il-sole", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-14"
 image: "https://images.freetarot.fun/blog/el-sol__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 5

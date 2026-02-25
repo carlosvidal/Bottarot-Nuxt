@@ -3,7 +3,7 @@ title: "O Eremita em 2026: Guia Interior e Ciclos de Reflexão"
 description: "Descubra o significado de O Eremita para 2026. Um guia sobre busca interior, orientação pessoal e as energias de reflexão coletiva que podem marcar o ano."
 category: "futuro"
 tags: ["o-eremita", "tarot-2026", "previsao-tarot", "arcanos-maiores", "significado-tarot", "arcanos-maiores", "o-eremita", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-02"
 image: "https://images.freetarot.fun/blog/el-ermitano__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6

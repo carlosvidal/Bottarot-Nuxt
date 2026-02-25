@@ -3,7 +3,7 @@ title: "The World Tarot Future: Meaning of Culmination and Fulfillment"
 description: "Discover the profound meaning of The World card in a future context. A guide to its symbolism of achievement, completed cycles, and new wholeness."
 category: "future"
 tags: ["the-world-tarot", "tarot-future", "the-world-meaning", "major-arcana", "tarot-meaning", "major-arcana", "the-world", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-05"
 image: "https://images.freetarot.fun/blog/el-mundo__futuro-significado.webp"
 locale: "en"
 readingTime: 5

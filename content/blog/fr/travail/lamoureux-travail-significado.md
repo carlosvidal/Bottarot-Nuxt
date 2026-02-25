@@ -3,7 +3,7 @@ title: "L'Amoureux au travail : signification et guide du tarot"
 description: "Découvrez la signification profonde de la carte L'Amoureux dans le contexte professionnel. Apprenez-en plus sur l'harmonie, les choix et les relations de travail."
 category: "travail"
 tags: ["l-amoureux-tarot", "tarot-travail", "signification-tarot", "arcanes-majeurs", "harmonie-professionnelle", "arcanes-majeurs", "l-amoureux", "travail"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-03"
 image: "https://images.freetarot.fun/blog/los-enamorados__trabajo-significado.webp"
 locale: "fr"
 readingTime: 6

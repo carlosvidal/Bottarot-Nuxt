@@ -3,7 +3,7 @@ title: "O Diabo no Amor: É um Sim ou um Não? Significado no Tarot"
 description: "Descubra o profundo significado da carta O Diabo no amor. Um guia sobre tentações, apegos e a resposta matizada para sua pergunta de sim ou não."
 category: "amor"
 tags: ["o-diabo-tarot-amor", "o-diabo-sim-ou-nao", "significado-o-diabo-no-amor", "tarot-amor", "arcanos-maiores", "leitura-de-tarot", "arcanos-maiores", "o-diabo", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-21"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-si-o-no.webp"
 locale: "pt"
 readingTime: 7

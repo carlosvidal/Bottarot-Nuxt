@@ -3,7 +3,7 @@ title: "La Luna nel lavoro: significato e risultato probabile"
 description: "Scopri il significato de La Luna nel tarocco per il lavoro. Interpreta la sua energia di illusione e subconscio per comprendere il risultato probabile nella tua carriera."
 category: "lavoro"
 tags: ["la-luna-tarocco-lavoro", "la-luna-risultato-probabile", "significato-la-luna-lavoro", "tarocco-lavoro", "arcani-maggiori", "la-luna", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-11"
 image: "https://images.freetarot.fun/blog/la-luna__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

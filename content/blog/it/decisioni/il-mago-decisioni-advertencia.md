@@ -3,7 +3,7 @@ title: "Il Mago Tarocchi: Avvertimento per Decisioni Importanti"
 description: "Scopri il messaggio di avvertimento de Il Mago nelle decisioni cruciali. Impara a usare il tuo potere personale con saggezza ed evita le trappole dell'ego."
 category: "decisioni"
 tags: ["il-mago-tarocchi", "tarocchi-decisioni-importanti", "arcani-maggiori", "avvertimento-tarocchi", "potere-personale", "arcani-maggiori", "il-mago", "decisioni"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-23"
 image: "https://images.freetarot.fun/blog/el-mago__decisiones-advertencia.webp"
 locale: "it"
 readingTime: 6

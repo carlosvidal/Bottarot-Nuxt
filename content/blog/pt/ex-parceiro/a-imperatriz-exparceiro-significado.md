@@ -3,7 +3,7 @@ title: "A Imperatriz e o Ex: Significado no Tarot sobre Reconciliação"
 description: "Descubra o profundo significado de A Imperatriz no tarot quando surge em leituras sobre 'ex vai voltar'. Uma guia simbólica e reflexiva."
 category: "ex-parceiro"
 tags: ["a-imperatriz", "tarot-ex", "significado-tarot", "arcanos-maiores", "reconciliacao", "arcanos-maiores", "a-imperatriz", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-13"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

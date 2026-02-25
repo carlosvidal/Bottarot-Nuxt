@@ -3,7 +3,7 @@ title: "El Loco y el Ex: Significado en una Posible Reconciliación"
 description: "Descubre el profundo significado de El Loco en el tarot cuando surge la pregunta '¿mi ex volverá?'. Una mirada al simbolismo de nuevos comienzos."
 category: "ex-pareja"
 tags: ["El Loco", "tarot ex pareja", "significado tarot", "arcanos mayores", "reconciliación", "arcanos-mayores", "el-loco", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-21"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 5

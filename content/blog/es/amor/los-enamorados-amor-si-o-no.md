@@ -3,7 +3,7 @@ title: "Los Enamorados en el Amor: ¿Es un Sí o un No?"
 description: "Descubre el profundo significado de la carta Los Enamorados en consultas de amor. Una guía para interpretar su mensaje de armonía, elección y conexión."
 category: "amor"
 tags: ["Los Enamorados tarot amor", "tarot amor", "significado Los Enamorados en el amor", "Los Enamorados si o no", "arcanos-mayores", "los-enamorados", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-02"
 image: "https://images.freetarot.fun/blog/los-enamorados__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7

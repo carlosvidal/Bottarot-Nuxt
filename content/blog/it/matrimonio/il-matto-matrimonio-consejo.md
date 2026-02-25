@@ -3,7 +3,7 @@ title: "Il Matto nel Matrimonio: Consigli per Nuovi Inizi"
 description: "Scopri il significato de Il Matto nel matrimonio. Consigli pratici e riflessioni spirituali per affrontare la vita di coppia con innocenza e coraggio."
 category: "matrimonio"
 tags: ["il-matto-tarocchi", "tarocchi-matrimonio", "arcani-maggiori", "consiglio-tarocchi", "arcani-maggiori", "il-matto", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-11"
 image: "https://images.freetarot.fun/blog/el-loco__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6

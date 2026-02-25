@@ -3,7 +3,7 @@ title: "La Justice dans le Tarot : Signification Argent et Équilibre Financier"
 description: "Découvrez la signification profonde de la carte La Justice dans le contexte de l'argent. Apprenez sur l'équilibre, les décisions financières et les karmas économiques."
 category: "argent"
 tags: ["la-justice-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "finances-tarot", "arcanes-majeurs", "la-justice", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-29"
 image: "https://images.freetarot.fun/blog/la-justicia__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

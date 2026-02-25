@@ -3,7 +3,7 @@ title: "A Estrela no Dinheiro: Significado, Esperança e Abundância"
 description: "Descubra o profundo significado da carta A Estrela no contexto do dinheiro. Um guia sobre esperança, inspiração e a energia da abundância espiritual e material."
 category: "dinheiro"
 tags: ["a-estrela-tarot", "tarot-dinheiro", "significado-a-estrela", "arcanos-maiores", "abundancia", "arcanos-maiores", "a-estrela", "dinheiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-04"
 image: "https://images.freetarot.fun/blog/la-estrella__dinero-significado.webp"
 locale: "pt"
 readingTime: 6

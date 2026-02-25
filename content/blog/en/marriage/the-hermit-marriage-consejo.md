@@ -3,7 +3,7 @@ title: "The Hermit in Marriage: Inner Counsel and Reflection"
 description: "Discover the meaning of The Hermit tarot card in the context of marriage. Find practical advice and spiritual guidance for your relationship."
 category: "marriage"
 tags: ["the-hermit-tarot-marriage", "the-hermit-advice", "the-hermit-meaning-in-marriage", "tarot-marriage", "major-arcana", "the-hermit", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-12"
 image: "https://images.freetarot.fun/blog/el-ermitano__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 5

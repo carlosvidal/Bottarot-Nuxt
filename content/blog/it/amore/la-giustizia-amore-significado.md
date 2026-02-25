@@ -3,7 +3,7 @@ title: "La Giustizia nell'Amore: Equilibrio e Verità nelle Relazioni"
 description: "Scopri il profondo significato de La Giustizia in amore. Impara sull'equilibrio, le decisioni oneste e il karma nelle relazioni di coppia."
 category: "amore"
 tags: ["la-giustizia-tarot-amore", "la-giustizia-significato", "tarot-amore", "arcani-maggiori", "la-giustizia", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-30"
 image: "https://images.freetarot.fun/blog/la-justicia__amor-significado.webp"
 locale: "it"
 readingTime: 6

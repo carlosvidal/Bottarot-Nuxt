@@ -3,7 +3,7 @@ title: "The Wheel of Fortune in Marriage: A Guide to Cycles and Advice"
 description: "Discover the meaning of The Wheel of Fortune in marriage. Practical advice and spiritual reflections for navigating the cycles of love together."
 category: "marriage"
 tags: ["wheel-of-fortune", "marriage-tarot", "tarot-advice", "major-arcana", "love-cycles", "major-arcana", "wheel-of-fortune-tarot", "marriage"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-10"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__matrimonio-consejo.webp"
 locale: "en"
 readingTime: 6

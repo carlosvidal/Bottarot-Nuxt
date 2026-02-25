@@ -3,7 +3,7 @@ title: "L'Imperatrice e il tuo ex: Cosa prova veramente per te?"
 description: "Scopri il messaggio de L'Imperatrice nel contesto di un ex partner. Interpreta i suoi sentimenti, l'energia e il simbolismo di questa carta di abbondanza."
 category: "ex-partner"
 tags: ["l-imperatrice-tarocchi", "tarocchi-ex-partner", "interpretazione-tarocchi", "arcani-maggiori", "cosa-sente-ex", "arcani-maggiori", "l-imperatrice", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-02"
 image: "https://images.freetarot.fun/blog/la-emperatriz__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

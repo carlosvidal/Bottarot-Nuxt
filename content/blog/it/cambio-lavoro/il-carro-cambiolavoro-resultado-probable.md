@@ -3,7 +3,7 @@ title: "Il Carro nel cambio di lavoro: significato e risultato probabile"
 description: "Scopri il messaggio de Il Carro (Arcano 7) in un cambio lavorativo. Interpretazione, consigli pratici e come influenzare il risultato probabile."
 category: "cambio-lavoro"
 tags: ["il-carro-tarot", "cambio-di-lavoro", "arcani-maggiori", "risultato-probabile-tarot", "arcani-maggiori", "il-carro", "cambio-lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-29"
 image: "https://images.freetarot.fun/blog/el-carro__cambio-trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

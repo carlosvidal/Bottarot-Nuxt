@@ -3,7 +3,7 @@ title: "La Tempérance et l'Ex : Signification au Tarot pour les Reconnexions"
 description: "Découvrez la signification profonde de la carte La Tempérance au tarot face à la question 'mon ex va-t-il revenir ?'. Apprenez sur l'équilibre, la patience et la guérison."
 category: "ex-partenaire"
 tags: ["la-temperance-tarot", "ex-reviendra", "signification-tarot", "arcanes-majeurs", "tarot-amour", "arcanes-majeurs", "la-temperance", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-05"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "fr"
 readingTime: 6

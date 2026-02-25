@@ -3,7 +3,7 @@ title: "The Devil in a Long-Distance Relationship: What They Feel for You"
 description: "Discover the meaning of The Devil card in a long-distance relationship. Interpretation of feelings, intentions, and practical advice from the tarot."
 category: "long-distance-relationship"
 tags: ["the-devil-tarot", "long-distance-relationship", "what-they-feel-for-me", "major-arcana", "major-arcana-cards", "the-devil", "long-distance-relationship-tarot"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-03"
 image: "https://images.freetarot.fun/blog/el-diablo__relacion-distancia-siente.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "The Sun in Tarot: Does It Mean My Ex Will Return? Deep Meaning"
 description: "Discover the meaning of The Sun card in the context of 'will my ex come back'. A symbolic guide to clarity, healing, and renewal in love."
 category: "ex-partner"
 tags: ["the-sun-tarot", "will-my-ex-come-back", "tarot-meaning", "major-arcana", "love-tarot", "major-arcana", "the-sun", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-14"
 image: "https://images.freetarot.fun/blog/el-sol__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Diavolo nel Lavoro: Risultato Probabile ed Energie"
 description: "Scopri il significato della carta Il Diavolo nel contesto lavorativo. Interpreta la sua energia per comprendere tendenze e risultati probabili nella tua carriera."
 category: "lavoro"
 tags: ["il-diavolo-tarot-lavoro", "il-diavolo-risultato-probabile", "significato-il-diavolo-lavoro", "tarot-lavoro", "arcani-maggiori", "tarot-professionale", "arcani-maggiori", "il-diavolo", "lavoro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-23"
 image: "https://images.freetarot.fun/blog/el-diablo__trabajo-resultado.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "Il Carro nell'Amore: Significato, Controllo e Vittoria Emotiva"
 description: "Scopri il profondo significato de Il Carro in amore. Impara sul controllo, la volontà e la vittoria nelle tue relazioni dalla prospettiva del tarocco."
 category: "amore"
 tags: ["il-carro-tarocco-amore", "il-carro-significato", "tarocco-amore", "arcani-maggiori", "arcani-maggiori", "il-carro", "amore"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-26"
 image: "https://images.freetarot.fun/blog/el-carro__amor-significado.webp"
 locale: "it"
 readingTime: 5

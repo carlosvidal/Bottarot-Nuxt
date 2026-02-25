@@ -3,7 +3,7 @@ title: "O Louco e o Ex: Significado em uma Possível Reconciliação"
 description: "Descubra o profundo significado de O Louco no tarot quando surge a pergunta 'meu ex vai voltar?'. Um olhar sobre o simbolismo de novos começos."
 category: "ex-parceiro"
 tags: ["o-louco", "tarot-ex", "significado-tarot", "arcanos-maiores", "reconciliacao", "arcanos-maiores", "o-louco", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-08"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Chariot in Money: Meaning of Victory and Financial Control"
 description: "Discover the deep meaning of The Chariot card in the context of money. Learn about control, willpower, and the path to financial victory."
 category: "money"
 tags: ["the-chariot-tarot", "tarot-money", "the-chariot-meaning", "major-arcana-money", "financial-control", "major-arcana", "the-chariot", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-18"
 image: "https://images.freetarot.fun/blog/el-carro__dinero-significado.webp"
 locale: "en"
 readingTime: 5

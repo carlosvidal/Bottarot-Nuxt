@@ -3,7 +3,7 @@ title: "Il Papa nel Si Sono Sposato: Avvertimento e Precauzione"
 description: "Scopri il messaggio di avvertimento de Il Papa (Arcano 5) nel contesto del si sono sposato. Impara a riconoscere i segnali e proteggere la tua energia."
 category: "sposati"
 tags: ["il-papa", "tarot-si-sono-sposato", "avvertimento-tarot", "arcani-maggiori", "consiglio-tarot", "arcani-maggiori", "il-papa", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-29"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__casados-advertencia.webp"
 locale: "it"
 readingTime: 5

@@ -3,7 +3,7 @@ title: "The Hanged Man in Marriage: A Warning and Call to Reflection"
 description: "Discover the warning message of The Hanged Man in the context of marriage. Learn to interpret its signals and protect your energy from stagnation."
 category: "married"
 tags: ["the-hanged-man", "tarot-marriage", "tarot-warning", "major-arcana", "sacrifice-in-relationships", "major-arcana", "the-hanged-man", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-10"
 image: "https://images.freetarot.fun/blog/el-colgado__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

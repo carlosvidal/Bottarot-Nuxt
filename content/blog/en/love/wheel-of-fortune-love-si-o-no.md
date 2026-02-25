@@ -3,7 +3,7 @@ title: "Wheel of Fortune in Love: Is It a Yes or a No?"
 description: "Discover the meaning of the Wheel of Fortune in love. A deep guide on cycles, destiny, and how to interpret a 'yes' or 'no' in your relationships."
 category: "love"
 tags: ["wheel-of-fortune", "love-tarot", "major-arcana", "tarot-yes-or-no", "love-and-destiny", "major-arcana", "wheel-of-fortune-tarot", "love"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-16"
 image: "https://images.freetarot.fun/blog/la-rueda-de-la-fortuna__amor-si-o-no.webp"
 locale: "en"
 readingTime: 7

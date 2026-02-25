@@ -3,7 +3,7 @@ title: "The Fool and Your Ex: Meaning in a Possible Reconciliation"
 description: "Discover the deep meaning of The Fool in tarot when the question 'will my ex come back?' arises. A look at the symbolism of new beginnings."
 category: "ex-partner"
 tags: ["the-fool", "tarot-ex-partner", "tarot-meaning", "major-arcana", "reconciliation", "major-arcana", "the-fool", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-15"
 image: "https://images.freetarot.fun/blog/el-loco__ex-pareja-volvera.webp"
 locale: "en"
 readingTime: 5

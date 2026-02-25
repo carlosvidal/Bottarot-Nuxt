@@ -3,7 +3,7 @@ title: "Temperance in Marriage: Warnings and Balance for the Married"
 description: "Discover the warning message of Temperance (Arcana 14) in your marriage. Learn to identify imbalances and protect your union with wisdom."
 category: "married"
 tags: ["temperance-tarot", "tarot-if-married", "tarot-warning-marriage", "marital-balance", "major-arcana", "major-arcana-cards", "temperance", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-09"
 image: "https://images.freetarot.fun/blog/la-templanza__casados-advertencia.webp"
 locale: "en"
 readingTime: 6

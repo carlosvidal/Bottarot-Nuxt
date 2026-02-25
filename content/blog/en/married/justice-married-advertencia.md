@@ -3,7 +3,7 @@ title: "Justice Tarot: A Warning for Married Couples"
 description: "Discover the warning message of Justice (Arcana 11) in the context of marriage. Learn to recognize imbalances and protect your union."
 category: "married"
 tags: ["justice-tarot", "tarot-if-married", "tarot-warning", "major-arcana", "marriage-tarot", "major-arcana", "justice", "married"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-29"
 image: "https://images.freetarot.fun/blog/la-justicia__casados-advertencia.webp"
 locale: "en"
 readingTime: 5

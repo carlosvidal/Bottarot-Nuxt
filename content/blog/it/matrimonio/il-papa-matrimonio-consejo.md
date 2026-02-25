@@ -3,7 +3,7 @@ title: "Il Papa nel Matrimonio: Guida e Consiglio Spirituale per la Coppia"
 description: "Scopri il profondo significato de Il Papa nel contesto del matrimonio. Impara il suo messaggio di tradizione, consiglio e crescita spirituale per la tua relazione."
 category: "matrimonio"
 tags: ["il-papa", "tarocchi-matrimonio", "consiglio-tarocchi", "arcani-maggiori", "spiritualita-coppia", "arcani-maggiori", "il-papa", "matrimonio"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-21"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__matrimonio-consejo.webp"
 locale: "it"
 readingTime: 6

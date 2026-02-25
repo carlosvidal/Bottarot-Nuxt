@@ -3,7 +3,7 @@ title: "La Morte nel Tarocco: Cosa Prova la Tua Ex Partner per Te"
 description: "Scopri il profondo significato della carta La Morte nel contesto delle ex relazioni. Una guida sulla trasformazione emotiva e sull'energia che viene proiettata."
 category: "ex-partner"
 tags: ["la-morte-tarocco", "ex-partner-tarocco", "arcano-maggiore-13", "trasformazione-emotiva", "arcani-maggiori", "la-morte", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-14"
 image: "https://images.freetarot.fun/blog/la-muerte__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6

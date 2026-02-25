@@ -3,7 +3,7 @@ title: "La Force dans un Changement d'Emploi : Résultat Probable et Énergies"
 description: "Découvrez le message de La Force (Arcane 8) dans un changement professionnel. Interprétation, résultat probable et conseils pratiques pour naviguer cette transition avec courage intérieur."
 category: "changement-emploi"
 tags: ["la-force-tarot", "changement-de-travail-tarot", "arcanes-majeurs", "tarot-professionnel", "resultat-probable-tarot", "arcanes-majeurs", "la-force", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-09-15"
 image: "https://images.freetarot.fun/blog/la-fuerza__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Temperanza nelle relazioni a distanza: cosa prova per te"
 description: "Scopri il messaggio de La Temperanza nelle relazioni a distanza. Interpretazione emotiva, cosa prova l'altra persona e consigli per l'equilibrio."
 category: "relazione-a-distanza"
 tags: ["la-temperanza-tarocchi", "relazione-a-distanza", "tarocchi-emotivo", "arcani-maggiori", "arcani-maggiori", "la-temperanza", "relazione-a-distanza"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-01"
 image: "https://images.freetarot.fun/blog/la-templanza__relacion-distancia-siente.webp"
 locale: "it"
 readingTime: 5

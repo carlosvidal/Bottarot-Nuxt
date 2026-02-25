@@ -3,7 +3,7 @@ title: "Death at Work: The Meaning of Professional Transformation"
 description: "Discover the true meaning of the Death card in a career context. It's not an end, but a powerful invitation to professional transformation and rebirth."
 category: "career"
 tags: ["death-tarot-work", "death-card-meaning", "tarot-career", "major-arcana", "professional-transformation", "major-arcana", "death-card", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-15"
 image: "https://images.freetarot.fun/blog/la-muerte__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

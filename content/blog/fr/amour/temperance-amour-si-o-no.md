@@ -3,7 +3,7 @@ title: "La Tempérance en Amour : Un Oui ou un Non ? Signification Tarot"
 description: "Découvrez le message de La Tempérance en amour. Est-ce un oui ou un non ? Apprenez sa signification, son interprétation et des conseils pratiques pour vos relations."
 category: "amour"
 tags: ["la-temperance-tarot-amour", "la-temperance-oui-ou-non", "signification-la-temperance-en-amour", "tarot-amour", "arcanes-majeurs", "lecture-de-tarot", "arcanes-majeurs", "la-temperance", "amour"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-02"
 image: "https://images.freetarot.fun/blog/la-templanza__amor-si-o-no.webp"
 locale: "fr"
 readingTime: 6

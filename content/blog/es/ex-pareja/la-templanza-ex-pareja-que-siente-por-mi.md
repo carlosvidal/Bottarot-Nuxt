@@ -3,7 +3,7 @@ title: "La Templanza y tu ex pareja: qué siente por ti según el tarot"
 description: "Descubre el mensaje de La Templanza en el contexto de una ex pareja. Interpreta sus sentimientos de equilibrio, paciencia y sanación."
 category: "ex-pareja"
 tags: ["La Templanza tarot", "tarot ex pareja", "qué siente mi ex", "arcanos mayores", "tarot emocional", "arcanos-mayores", "la-templanza", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-26"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-que-siente.webp"
 locale: "es"
 readingTime: 6

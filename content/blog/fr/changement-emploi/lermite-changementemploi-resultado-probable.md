@@ -3,7 +3,7 @@ title: "L'Ermite dans un Changement d'Emploi : Résultat Probable et Guide"
 description: "Découvrez la signification de la carte L'Ermite dans un changement de travail. Interprétation, résultat probable et conseils pratiques pour votre cheminement professionnel."
 category: "changement-emploi"
 tags: ["l-ermite-tarot", "changement-emploi-tarot", "arcanes-majeurs", "tarot-professionnel", "resultat-probable-tarot", "arcanes-majeurs", "l-ermite", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-10-25"
 image: "https://images.freetarot.fun/blog/el-ermitano__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

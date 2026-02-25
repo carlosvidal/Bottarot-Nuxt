@@ -3,7 +3,7 @@ title: "O Mundo no Tarot para Relacionamento à Distância: O Que Ele(a) Sente p
 description: "Descubra o profundo significado da carta O Mundo no tarot para relacionamentos à distância. Interprete suas mensagens de plenitude, realização e conexão espiritual."
 category: "relacionamento-a-distancia"
 tags: ["o-mundo-tarot", "relacionamento-a-distancia-tarot", "o-que-sente-por-mim", "arcanos-maiores", "tarot-emocional", "arcanos-maiores", "o-mundo", "relacionamento-a-distancia"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-18"
 image: "https://images.freetarot.fun/blog/el-mundo__relacion-distancia-siente.webp"
 locale: "pt"
 readingTime: 6

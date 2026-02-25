@@ -3,7 +3,7 @@ title: "El Loco en el trabajo: significado y resultado probable"
 description: "Descubre el significado de El Loco en el contexto laboral. Interpreta su mensaje sobre nuevos comienzos, riesgos y el resultado probable en tu carrera."
 category: "trabajo"
 tags: ["El Loco tarot trabajo", "El Loco resultado probable", "significado El Loco en el trabajo", "tarot trabajo", "arcanos mayores", "tarot carrera", "arcanos-mayores", "el-loco", "trabajo"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-15"
 image: "https://images.freetarot.fun/blog/el-loco__trabajo-resultado.webp"
 locale: "es"
 readingTime: 6

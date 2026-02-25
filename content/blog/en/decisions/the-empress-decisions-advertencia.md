@@ -3,7 +3,7 @@ title: "The Empress in Important Decisions: Warning and Precautions"
 description: "Discover the warning message of The Empress in crucial decisions. Learn to recognize excesses and protect your energy to choose wisely."
 category: "decisions"
 tags: ["the-empress", "tarot-important-decisions", "major-arcana", "tarot-warning", "tarot-symbolism", "major-arcana", "the-empress", "decisions"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-14"
 image: "https://images.freetarot.fun/blog/la-emperatriz__decisiones-advertencia.webp"
 locale: "en"
 readingTime: 5

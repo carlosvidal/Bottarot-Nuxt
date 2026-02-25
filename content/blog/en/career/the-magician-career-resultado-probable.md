@@ -3,7 +3,7 @@ title: "The Magician at Work: Meaning and Probable Outcome"
 description: "Discover the message of The Magician in a career reading. Learn about its manifestation energy and what probable outcome it suggests for your professional life."
 category: "career"
 tags: ["the-magician-tarot", "tarot-career", "major-arcana", "tarot-meaning", "major-arcana", "the-magician", "career"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-19"
 image: "https://images.freetarot.fun/blog/el-mago__trabajo-resultado.webp"
 locale: "en"
 readingTime: 5

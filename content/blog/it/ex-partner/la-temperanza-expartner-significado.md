@@ -3,7 +3,7 @@ title: "La Temperanza e l'Ex: Significato nel Tarocco per Riconnessioni"
 description: "Scopri il profondo significato de La Temperanza nel tarocco quando sorge la domanda 'il mio ex tornerà?'. Impara su equilibrio, pazienza e guarigione."
 category: "ex-partner"
 tags: ["la-temperanza-tarocco", "ex-tornera", "significato-tarocco", "arcani-maggiori", "tarocco-amore", "arcani-maggiori", "la-temperanza", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-08"
 image: "https://images.freetarot.fun/blog/la-templanza__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "L'Étoile et votre ex-partenaire : Que ressent-il vraiment pour vous ?"
 description: "Découvrez le message de L'Étoile (Arcane 17) sur les sentiments de votre ex. Une lecture profonde sur l'espoir, la guérison et la connexion spirituelle."
 category: "ex-partenaire"
 tags: ["l-etoile-tarot", "tarot-ex-partenaire", "arcanes-majeurs", "interpretation-tarot", "guerison-emotionnelle", "arcanes-majeurs", "l-etoile", "ex-partenaire"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-25"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-que-siente.webp"
 locale: "fr"
 readingTime: 6

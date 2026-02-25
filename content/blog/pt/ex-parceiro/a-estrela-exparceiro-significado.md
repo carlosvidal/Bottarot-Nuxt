@@ -3,7 +3,7 @@ title: "A Estrela e o Ex: Significado de Esperança e Renovação"
 description: "Descubra o profundo significado de A Estrela no contexto de um ex-parceiro. Não é uma previsão, mas um guia de esperança e autodescoberta."
 category: "ex-parceiro"
 tags: ["a-estrela-tarot", "ex-parceiro-voltara", "significado-tarot", "arcano-maior", "tarot-amor", "arcanos-maiores", "a-estrela", "ex-parceiro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-29"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "pt"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Stella e l'Ex: Significato di Speranza e Rinnovamento"
 description: "Scopri il profondo significato de La Stella nel contesto di un ex partner. Non è una predizione, ma una guida alla speranza e all'autoscoperta."
 category: "ex-partner"
 tags: ["la-stella-tarot", "ex-tornera", "significato-tarot", "arcani-maggiori", "tarot-amore", "arcani-maggiori", "la-stella", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-16"
 image: "https://images.freetarot.fun/blog/la-estrella__ex-pareja-volvera.webp"
 locale: "it"
 readingTime: 5

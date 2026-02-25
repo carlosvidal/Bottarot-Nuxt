@@ -3,7 +3,7 @@ title: "A Estrela Tarot 2026: Significado e Energia para o Novo Ciclo"
 description: "Descubra a mensagem de A Estrela para 2026: esperança, inspiração e renovação espiritual. Interpretação e conselhos práticos."
 category: "futuro"
 tags: ["a-estrela-tarot", "tarot-2026", "previsao-tarot", "arcanos-maiores", "espiritualidade", "arcanos-maiores", "a-estrela", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-06-09"
 image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "pt"
 readingTime: 6

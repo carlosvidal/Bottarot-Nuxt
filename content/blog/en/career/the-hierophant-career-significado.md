@@ -3,7 +3,7 @@ title: "The Hierophant at Work: Tarot Meaning and Career Guidance"
 description: "Discover the profound meaning of The Hierophant in a work context. Learn about tradition, mentorship, and structure in your career path."
 category: "career"
 tags: ["the-hierophant", "career-tarot", "major-arcana", "tarot-meaning", "professional-tarot", "major-arcana", "the-hierophant", "work"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-07-09"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__trabajo-significado.webp"
 locale: "en"
 readingTime: 5

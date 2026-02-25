@@ -3,7 +3,7 @@ title: "La Stella nel Matrimonio: Avvertimenti e Protezione Energetica"
 description: "Scopri il messaggio di avvertimento de La Stella nel tarocco se sei sposato. Impara a riconoscere i segnali e proteggere la tua unione con saggezza spirituale."
 category: "sposati"
 tags: ["la-stella-tarocchi", "tarocchi-se-sono-sposato", "avvertimento-tarocchi", "arcani-maggiori", "protezione-energetica", "arcani-maggiori", "la-stella", "sposati"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-10"
 image: "https://images.freetarot.fun/blog/la-estrella__casados-advertencia.webp"
 locale: "it"
 readingTime: 6

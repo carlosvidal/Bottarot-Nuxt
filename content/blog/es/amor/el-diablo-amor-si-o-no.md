@@ -3,7 +3,7 @@ title: "El Diablo en el Amor: ¿Es un Sí o un No? Significado Tarot"
 description: "Descubre el profundo significado de la carta El Diablo en el amor. Una guía sobre tentaciones, apegos y la respuesta matizada a tu pregunta de sí o no."
 category: "amor"
 tags: ["El Diablo tarot amor", "El Diablo si o no", "significado El Diablo en el amor", "tarot amor", "arcanos mayores", "lectura de tarot", "arcanos-mayores", "el-diablo", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-16"
 image: "https://images.freetarot.fun/blog/el-diablo__amor-si-o-no.webp"
 locale: "es"
 readingTime: 7

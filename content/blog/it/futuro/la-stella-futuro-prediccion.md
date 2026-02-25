@@ -3,7 +3,7 @@ title: "La Stella Tarocchi 2026: Significato ed Energia per il Nuovo Ciclo"
 description: "Scopri il messaggio de La Stella per il 2026: speranza, ispirazione e rinnovamento spirituale. Interpretazione e consigli pratici per il nuovo ciclo."
 category: "futuro"
 tags: ["la-stella-tarocchi", "tarocchi-2026", "predizione-tarocchi", "arcani-maggiori", "spiritualità", "arcani-maggiori", "la-stella", "futuro"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-08-04"
 image: "https://images.freetarot.fun/blog/la-estrella__2026-prediccion.webp"
 locale: "it"
 readingTime: 6

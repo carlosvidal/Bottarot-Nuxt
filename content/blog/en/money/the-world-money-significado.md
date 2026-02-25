@@ -3,7 +3,7 @@ title: "The World in Money: Meaning of Financial Fulfillment and Achievement"
 description: "Discover the profound meaning of The World card in the context of money. A symbolic analysis on culmination, abundance, and the complete cycle of resources."
 category: "money"
 tags: ["the-world-tarot", "tarot-money", "the-world-meaning", "major-arcana-money", "tarot-abundance", "major-arcana", "the-world", "money"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-27"
 image: "https://images.freetarot.fun/blog/el-mundo__dinero-significado.webp"
 locale: "en"
 readingTime: 6

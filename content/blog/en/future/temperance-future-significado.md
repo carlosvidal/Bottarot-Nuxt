@@ -3,7 +3,7 @@ title: "Temperance in the Future: Meaning and Message of Balance"
 description: "Discover the profound meaning of Temperance (Arcana 14) in future readings. Learn about balance, patience, and the internal alchemy this card symbolizes."
 category: "future"
 tags: ["temperance-tarot", "future-tarot", "major-arcana", "balance-tarot", "tarot-meaning", "major-arcana", "temperance", "future"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-02-11"
 image: "https://images.freetarot.fun/blog/la-templanza__futuro-significado.webp"
 locale: "en"
 readingTime: 5

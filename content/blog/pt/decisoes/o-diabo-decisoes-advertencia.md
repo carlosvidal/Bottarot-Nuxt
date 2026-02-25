@@ -3,7 +3,7 @@ title: "O Diabo no Tarot: Um Alerta para Decisões Importantes"
 description: "Descubra o significado de O Diabo em decisões cruciais. Um guia para reconhecer tentações e amarras que podem turvar seu julgamento."
 category: "decisoes"
 tags: ["o-diabo-tarot", "tarot-decisoes-importantes", "arcanos-maiores", "alerta-tarot", "significado-o-diabo", "arcanos-maiores", "o-diabo", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-03"
 image: "https://images.freetarot.fun/blog/el-diablo__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5

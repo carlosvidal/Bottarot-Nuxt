@@ -3,7 +3,7 @@ title: "El Emperador en Tarot: Significado sobre Ex Pareja y Reconciliación"
 description: "Descubre el profundo significado de El Emperador en el contexto de ex pareja volverá mi ex. Interpretación simbólica, consejos prácticos y reflexión."
 category: "ex-pareja"
 tags: ["El Emperador tarot", "significado tarot ex pareja", "tarot ex pareja volverá mi ex", "Arcano Mayor 4", "arcanos-mayores", "el-emperador", "ex-pareja"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-05-05"
 image: "https://images.freetarot.fun/blog/el-emperador__ex-pareja-volvera.webp"
 locale: "es"
 readingTime: 5

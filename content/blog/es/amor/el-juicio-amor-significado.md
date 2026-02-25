@@ -3,7 +3,7 @@ title: "El Juicio en el Amor: Significado de Renacimiento y Perdón"
 description: "Descubre el profundo significado de la carta El Juicio en el amor. Un llamado al renacimiento, la reflexión honesta y la sanación de vínculos."
 category: "amor"
 tags: ["El Juicio tarot", "tarot amor", "arcanos mayores", "significado tarot", "renacimiento espiritual", "arcanos-mayores", "el-juicio", "amor"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-07"
 image: "https://images.freetarot.fun/blog/el-juicio__amor-significado.webp"
 locale: "es"
 readingTime: 6

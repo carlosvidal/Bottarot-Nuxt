@@ -3,7 +3,7 @@ title: "O Hierofante em decisões importantes: O aviso do tarô"
 description: "Descubra a mensagem de advertência de O Hierofante em decisões cruciais. Aprenda a identificar sinais de alerta e padrões a evitar."
 category: "decisoes"
 tags: ["o-hierofante", "tarot-decisoes-importantes", "arcanos-maiores", "advertencia-tarot", "conselho-espiritual", "arcanos-maiores", "o-hierofante", "decisoes"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-12-04"
 image: "https://images.freetarot.fun/blog/el-sumo-sacerdote__decisiones-advertencia.webp"
 locale: "pt"
 readingTime: 5

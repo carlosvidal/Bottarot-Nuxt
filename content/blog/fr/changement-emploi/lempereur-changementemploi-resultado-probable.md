@@ -3,7 +3,7 @@ title: "L'Empereur dans un Changement d'Emploi : Résultat Probable et Énergie"
 description: "Découvrez la signification de L'Empereur dans un changement professionnel. Interprétation, conseils pratiques et l'énergie de résultat probable que cette carte suggère."
 category: "changement-emploi"
 tags: ["l-empereur-tarot", "changement-d-emploi", "resultat-probable-tarot", "arcanes-majeurs", "tarot-carriere-professionnelle", "arcanes-majeurs", "l-empereur", "changement-d-emploi"]
-publishedAt: "2026-02-22"
+publishedAt: "2025-11-04"
 image: "https://images.freetarot.fun/blog/el-emperador__cambio-trabajo-resultado.webp"
 locale: "fr"
 readingTime: 6

@@ -3,7 +3,7 @@ title: "La Papesse et l'Argent : Intuition et Sagesse Financière"
 description: "Découvrez la signification de La Papesse dans le contexte de l'argent. Apprenez comment son énergie d'intuition et de mystère guide vos décisions financières."
 category: "argent"
 tags: ["la-papesse-tarot", "tarot-argent", "signification-tarot", "arcanes-majeurs", "intuition-financiere", "arcanes-majeurs", "la-papesse", "argent"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-25"
 image: "https://images.freetarot.fun/blog/la-sacerdotisa__dinero-significado.webp"
 locale: "fr"
 readingTime: 6

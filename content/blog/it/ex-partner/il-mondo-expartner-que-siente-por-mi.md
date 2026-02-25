@@ -3,7 +3,7 @@ title: "Il Mondo Tarocchi ed Ex Partner: Cosa Prova per Te"
 description: "Scopri il significato della carta Il Mondo nel contesto di un ex partner. Interpreta cosa prova per te secondo questo Arcano Maggiore di compimento."
 category: "ex-partner"
 tags: ["il-mondo-tarocchi", "tarocchi-ex-partner", "arcani-maggiori", "interpretazione-tarocchi", "cosa-sente-ex-partner", "arcani-maggiori", "il-mondo", "ex-partner"]
-publishedAt: "2026-02-22"
+publishedAt: "2026-01-12"
 image: "https://images.freetarot.fun/blog/el-mundo__ex-pareja-que-siente.webp"
 locale: "it"
 readingTime: 6
