@@ -24,6 +24,9 @@ ENV NUXT_PUBLIC_SUPABASE_ANON_KEY=$NUXT_PUBLIC_SUPABASE_ANON_KEY
 ENV NUXT_PUBLIC_PAYPAL_CLIENT_ID=$NUXT_PUBLIC_PAYPAL_CLIENT_ID
 ENV NUXT_PUBLIC_SITE_URL=$NUXT_PUBLIC_SITE_URL
 
+# 4GB heap needed for prerendering 1,500+ blog articles
+ENV NODE_OPTIONS="--max-old-space-size=4096"
+
 # Build Nuxt (generates .output/)
 RUN npm run build
 
