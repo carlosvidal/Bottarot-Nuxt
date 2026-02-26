@@ -41,7 +41,7 @@ const { data: posts } = await useAsyncData(`blog-category-${locale.value}-${cate
     .where('category', '=', category)
     .order('publishedAt', 'DESC')
     .all()
-, { watch: [locale] })
+)
 
 function formatCategory(cat) {
   return cat.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())

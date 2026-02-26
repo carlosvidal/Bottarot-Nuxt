@@ -24,7 +24,7 @@
           <NuxtLink
             v-for="tag in post.tags"
             :key="tag"
-            :to="`/blog/tag/${tag}`"
+            :to="localePath(`/blog/tag/${tag}`)"
             class="tag"
           >
             #{{ tag }}

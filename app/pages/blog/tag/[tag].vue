@@ -41,7 +41,7 @@ const { data: posts } = await useAsyncData(`blog-tag-${locale.value}-${tag}`, ()
     .where('tags', 'LIKE', `%${tag}%`)
     .order('publishedAt', 'DESC')
     .all()
-, { watch: [locale] })
+)
 </script>
 
 <style scoped>
