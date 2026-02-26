@@ -21,6 +21,7 @@
 </template>
 
 <script setup>
+const route = useRoute()
 const { locale, setLocale } = useI18n()
 
 const currentLocale = computed(() => locale.value)
@@ -33,8 +34,19 @@ const availableLangs = [
   { code: 'fr', label: 'FR' },
 ]
 
-const switchLang = (code) => {
-  setLocale(code)
+const isBlogArticlePage = computed(() => {
+  return route.name?.toString().startsWith('blog-slug') || route.path.match(/^(\/[a-z]{2})?\/blog\/.+/)
+})
+
+const switchLang = async (code) => {
+  if (isBlogArticlePage.value) {
+    // Blog articles have different slugs per language — redirect to blog index
+    const blogPath = code === 'en' ? '/blog' : `/${code}/blog`
+    await setLocale(code)
+    await navigateTo(blogPath)
+  } else {
+    setLocale(code)
+  }
 }
 </script>
 

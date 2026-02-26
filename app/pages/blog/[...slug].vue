@@ -81,7 +81,7 @@ const { data: post } = await useAsyncData(`blog-${contentPath}`, () =>
   queryBlogCollection(locale.value)
     .where('path', '=', contentPath)
     .first()
-, { watch: [locale] })
+)
 
 // SEO meta
 const canonicalUrl = computed(() => post.value?.path ? `${siteUrl}${post.value.path}` : '')
@@ -137,7 +137,7 @@ const { data: relatedPosts } = await useAsyncData(`related-${contentPath}`, () =
     .where('path', '<>', contentPath)
     .limit(3)
     .all()
-}, { watch: [locale] })
+})
 
 const formatCategory = (cat) => {
   return cat.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
