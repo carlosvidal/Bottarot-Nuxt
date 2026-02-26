@@ -22,6 +22,9 @@ logs
 # Blog generated images
 public/img/blog/
 
+# Blog generated videos
+public/video/blog/
+
 # Local env files
 .env
 .env.*

@@ -8,6 +8,10 @@
   </div>
 </template>
 
+<script setup>
+useBackendWakeUp()
+</script>
+
 <style scoped>
 .app-layout {
   display: flex;
