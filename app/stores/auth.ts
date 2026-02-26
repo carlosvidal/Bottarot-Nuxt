@@ -8,6 +8,7 @@ export const useAuthStore = defineStore('auth', () => {
   const userSubscription = ref<any>(null)
   const isInitialized = ref(false)
   const warmupMessage = ref('')
+  const profileLanguage = ref<string | null>(null)
 
   // Reading permissions state
   const readingPermissions = ref<any>(null)
@@ -180,6 +181,15 @@ export const useAuthStore = defineStore('auth', () => {
           loadReadingPermissions(),
         ]).then(() => {
           console.log('✅ Profile check complete. needsRegistration:', needsRegistration.value)
+          // Sync profile language to i18n after sign-in
+          if (profileLanguage.value) {
+            try {
+              const i18n = useNuxtApp().$i18n as any
+              if (i18n && i18n.locale.value !== profileLanguage.value) {
+                i18n.setLocale(profileLanguage.value)
+              }
+            } catch {}
+          }
         }).catch((error) => {
           console.error('⚠️ Profile loading failed:', error)
           needsRegistration.value = false
@@ -211,6 +221,9 @@ export const useAuthStore = defineStore('auth', () => {
       }
 
       needsRegistration.value = !profile
+      if (profile?.language) {
+        profileLanguage.value = profile.language
+      }
     } catch (error) {
       console.error('❌ Exception checking user profile:', error)
       needsRegistration.value = false
@@ -601,6 +614,8 @@ export const useAuthStore = defineStore('auth', () => {
     loadReadingPermissions,
     recordReading,
     getAnonymousSessionId,
+    // Language
+    profileLanguage,
     // Warmup
     performWarmup,
     showWarmupMessage,
