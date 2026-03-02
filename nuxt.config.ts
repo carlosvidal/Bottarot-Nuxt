@@ -7,7 +7,6 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@nuxtjs/i18n',
-    '@nuxtjs/sitemap',
     '@nuxtjs/robots',
     'nuxt-og-image',
     'nuxt-schema-org',
@@ -134,24 +133,9 @@ export default defineNuxtConfig({
     },
   },
 
-  // Sitemap
-  sitemap: {
-    sources: [
-      '/api/__sitemap__/blog-images',
-    ],
-    exclude: [
-      '/chat/**',
-      '/chat',
-      '/profile',
-      '/checkout',
-      '/checkout-success',
-      '/debug',
-      '/admin',
-    ],
-  },
-
-  // Robots
+  // Robots — sitemap is generated statically by scripts/generate-sitemap.mjs
   robots: {
+    sitemap: `${process.env.NUXT_PUBLIC_SITE_URL || 'https://freetarot.fun'}/sitemap.xml`,
     disallow: [
       '/chat/',
       '/profile',

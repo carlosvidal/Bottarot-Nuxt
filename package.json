@@ -3,6 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/generate-sitemap.mjs",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
@@ -16,7 +17,6 @@
     "@nuxt/content": "^3.11.2",
     "@nuxtjs/i18n": "^10.2.3",
     "@nuxtjs/robots": "^5.7.0",
-    "@nuxtjs/sitemap": "^7.6.0",
     "@paypal/paypal-js": "^9.3.0",
     "@pinia/nuxt": "^0.11.3",
     "@supabase/supabase-js": "^2.95.3",

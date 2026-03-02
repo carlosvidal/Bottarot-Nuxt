@@ -19,6 +19,10 @@ logs
 .fleet
 .idea
 
+# Sitemaps (generated at build time by scripts/generate-sitemap.mjs)
+public/sitemap.xml
+public/sitemap-*.xml
+
 # Blog generated images
 public/img/blog/
 
