@@ -56,7 +56,7 @@ function fileToUrl(filePath, locale) {
     .replace(/\.md$/, '')
     .split(sep)
     .join('/')
-  return `${LOCALES[locale]}/blog${rel}/`
+  return `${LOCALES[locale]}/blog${rel}`
 }
 
 function esc(s) {
@@ -100,21 +100,21 @@ function buildPagesSitemap() {
   const pages = [
     // Homepages (all locales)
     { url: '/', p: '1.0', c: 'weekly' },
-    { url: '/es/', p: '1.0', c: 'weekly' },
-    { url: '/it/', p: '1.0', c: 'weekly' },
-    { url: '/pt/', p: '1.0', c: 'weekly' },
-    { url: '/fr/', p: '1.0', c: 'weekly' },
+    { url: '/es', p: '1.0', c: 'weekly' },
+    { url: '/it', p: '1.0', c: 'weekly' },
+    { url: '/pt', p: '1.0', c: 'weekly' },
+    { url: '/fr', p: '1.0', c: 'weekly' },
     // Blog indexes
-    { url: '/blog/', p: '0.9', c: 'daily' },
-    { url: '/es/blog/', p: '0.9', c: 'daily' },
-    { url: '/it/blog/', p: '0.9', c: 'daily' },
-    { url: '/pt/blog/', p: '0.9', c: 'daily' },
-    { url: '/fr/blog/', p: '0.9', c: 'daily' },
+    { url: '/blog', p: '0.9', c: 'daily' },
+    { url: '/es/blog', p: '0.9', c: 'daily' },
+    { url: '/it/blog', p: '0.9', c: 'daily' },
+    { url: '/pt/blog', p: '0.9', c: 'daily' },
+    { url: '/fr/blog', p: '0.9', c: 'daily' },
     // Legal pages (all locales)
     ...['', '/es', '/it', '/pt', '/fr'].flatMap((pfx) => [
-      { url: `${pfx}/terms/`, p: '0.3', c: 'yearly' },
-      { url: `${pfx}/privacy/`, p: '0.3', c: 'yearly' },
-      { url: `${pfx}/cookies/`, p: '0.3', c: 'yearly' },
+      { url: `${pfx}/terms`, p: '0.3', c: 'yearly' },
+      { url: `${pfx}/privacy`, p: '0.3', c: 'yearly' },
+      { url: `${pfx}/cookies`, p: '0.3', c: 'yearly' },
     ]),
   ]
 

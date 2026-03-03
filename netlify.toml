@@ -8,3 +8,43 @@
   NITRO_PRESET = "netlify"
   # 4GB heap needed for prerendering 1,500+ blog articles
   NODE_OPTIONS = "--max-old-space-size=4096"
+
+# Disable Netlify's automatic trailing slash behavior for prerendered pages.
+# Nuxt generates content at paths without trailing slash; Netlify's pretty-URL
+# redirect adds a slash and breaks hydration (→ "Article not found" / Soft 404).
+[build.processing]
+  skip_processing = false
+
+[build.processing.html]
+  pretty_urls = false
+
+# Force-redirect any trailing-slash URL to the canonical (no trailing slash)
+[[redirects]]
+  from = "/blog/*/"
+  to = "/blog/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/es/blog/*/"
+  to = "/es/blog/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/it/blog/*/"
+  to = "/it/blog/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pt/blog/*/"
+  to = "/pt/blog/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fr/blog/*/"
+  to = "/fr/blog/:splat"
+  status = 301
+  force = true
