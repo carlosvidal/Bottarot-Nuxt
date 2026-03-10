@@ -78,13 +78,13 @@ useHead({
             <div v-else-if="error" class="error-message">
                 <h2>{{ t('share.notFound') || 'Reading Not Found' }}</h2>
                 <p>{{ t('share.notFoundMessage') || 'This shared reading could not be found or may have expired.' }}</p>
-                <NuxtLink to="/chat" class="home-link">{{ t('share.createOwn') || 'Create Your Own Reading' }}</NuxtLink>
+                <NuxtLink :to="$localePath('/chat')" class="home-link">{{ t('share.createOwn') || 'Create Your Own Reading' }}</NuxtLink>
             </div>
 
             <div v-else-if="sharedReadings.length === 0" class="empty-message">
                 <h2>{{ t('share.emptyChat') || 'Empty Reading' }}</h2>
                 <p>{{ t('share.emptyChatMessage') || 'This reading does not contain any messages.' }}</p>
-                <NuxtLink to="/chat" class="home-link">{{ t('share.createOwn') || 'Create Your Own Reading' }}</NuxtLink>
+                <NuxtLink :to="$localePath('/chat')" class="home-link">{{ t('share.createOwn') || 'Create Your Own Reading' }}</NuxtLink>
             </div>
 
             <div v-else class="readings-container">
@@ -99,7 +99,7 @@ useHead({
 
                 <div class="shared-footer">
                     <p>{{ t('share.sharedAnonymously') || 'This reading has been shared anonymously' }}</p>
-                    <NuxtLink to="/chat" class="cta-button">{{ t('share.createOwn') || 'Create Your Own Reading' }}</NuxtLink>
+                    <NuxtLink :to="$localePath('/chat')" class="cta-button">{{ t('share.createOwn') || 'Create Your Own Reading' }}</NuxtLink>
                 </div>
             </div>
         </main>

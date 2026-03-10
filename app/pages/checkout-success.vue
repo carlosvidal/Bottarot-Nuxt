@@ -12,8 +12,8 @@
             <div class="plan-badge" v-if="planName">
                 <span>{{ planName }}</span>
             </div>
-            <NuxtLink to="/chat" class="start-btn">{{ t('checkout.startReading') || 'Start Reading' }}</NuxtLink>
-            <NuxtLink to="/profile" class="profile-link">{{ t('checkout.viewProfile') || 'View Profile' }}</NuxtLink>
+            <NuxtLink :to="$localePath('/chat')" class="start-btn">{{ t('checkout.startReading') || 'Start Reading' }}</NuxtLink>
+            <NuxtLink :to="$localePath('/profile')" class="profile-link">{{ t('checkout.viewProfile') || 'View Profile' }}</NuxtLink>
         </div>
     </div>
 </template>

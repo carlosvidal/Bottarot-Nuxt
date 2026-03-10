@@ -1,11 +1,11 @@
 <template>
   <footer class="app-footer">
     <div class="footer-links">
-      <NuxtLink to="/terms">{{ $t('landing.footer.terms') }}</NuxtLink>
+      <NuxtLink :to="$localePath('/terms')">{{ $t('landing.footer.terms') }}</NuxtLink>
       <span class="separator">|</span>
-      <NuxtLink to="/privacy">{{ $t('landing.footer.privacy') }}</NuxtLink>
+      <NuxtLink :to="$localePath('/privacy')">{{ $t('landing.footer.privacy') }}</NuxtLink>
       <span class="separator">|</span>
-      <NuxtLink to="/cookies">{{ $t('landing.footer.cookies') }}</NuxtLink>
+      <NuxtLink :to="$localePath('/cookies')">{{ $t('landing.footer.cookies') }}</NuxtLink>
     </div>
     <div class="lang-switcher">
       <button

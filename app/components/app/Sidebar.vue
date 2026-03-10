@@ -183,7 +183,7 @@ watch(() => route.fullPath, (newPath, oldPath) => {
                 <!-- Premium upsell for hidden chats -->
                 <div v-if="hiddenChatsCount > 0" class="premium-upsell">
                     <p>{{ t('sidebar.hiddenChats', { count: hiddenChatsCount }) }}</p>
-                    <NuxtLink to="/checkout" class="unlock-link">
+                    <NuxtLink :to="$localePath('/checkout')" class="unlock-link">
                         {{ t('sidebar.unlockFullHistory') }}
                     </NuxtLink>
                 </div>
@@ -193,14 +193,14 @@ watch(() => route.fullPath, (newPath, oldPath) => {
         <!-- Actions -->
         <div class="sidebar-actions">
             <!-- Upgrade button for non-premium users (logged in or anonymous) -->
-            <NuxtLink v-if="!auth.isPremiumUser" to="/checkout" class="action-button upgrade-btn">
+            <NuxtLink v-if="!auth.isPremiumUser" :to="$localePath('/checkout')" class="action-button upgrade-btn">
                 <Crown :size="18" />
                 <span>{{ t('nav.upgradeToPremium') }}</span>
             </NuxtLink>
 
             <template v-if="auth.isLoggedIn">
                 <!-- Profile info at bottom -->
-                <NuxtLink to="/profile" class="profile-bottom" @click="emit('close-sidebar')">
+                <NuxtLink :to="$localePath('/profile')" class="profile-bottom" @click="emit('close-sidebar')">
                     <div class="avatar">{{ userAvatar }}</div>
                     <div class="profile-info">
                         <span class="username">{{ userName }}</span>

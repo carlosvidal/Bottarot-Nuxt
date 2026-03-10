@@ -336,9 +336,9 @@ onMounted(() => {
             <AppReferralDashboard v-if="!loading && !editing" />
 
             <div class="actions">
-                <NuxtLink to="/chat" class="back-button">{{ t('profile.backToChat') }}</NuxtLink>
+                <NuxtLink :to="$localePath('/chat')" class="back-button">{{ t('profile.backToChat') }}</NuxtLink>
                 <button v-if="!editing" @click="startEditing" class="edit-button">{{ t('profile.editProfile') }}</button>
-                <NuxtLink v-if="!auth.isPremiumUser" to="/checkout" class="upgrade-button">{{ t('nav.upgradeToPremium') }}</NuxtLink>
+                <NuxtLink v-if="!auth.isPremiumUser" :to="$localePath('/checkout')" class="upgrade-button">{{ t('nav.upgradeToPremium') }}</NuxtLink>
                 <div v-else class="premium-status">
                     <span class="premium-badge">{{ t('profile.premiumUser') }}</span>
                     <p class="renewal-info">{{ t('profile.renewal') }}: {{ formatDate(auth.userSubscription?.subscription_end_date) }}</p>

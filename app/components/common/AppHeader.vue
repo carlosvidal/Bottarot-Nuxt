@@ -1,21 +1,21 @@
 <template>
   <header class="app-header">
-    <NuxtLink to="/" class="logo-link">
+    <NuxtLink :to="$localePath('/')" class="logo-link">
       <img src="~/assets/images/Free-Tarot-Fun-logo-darkmode.svg" alt="Free Tarot Fun" class="logo logo-dark" />
       <img src="~/assets/images/Free-Tarot-Fun-logo-lightmode.svg" alt="Free Tarot Fun" class="logo logo-light" />
     </NuxtLink>
     <nav class="header-nav">
-      <NuxtLink to="/blog" class="nav-link">{{ $t('nav.blog') }}</NuxtLink>
+      <NuxtLink :to="$localePath('/blog')" class="nav-link">{{ $t('nav.blog') }}</NuxtLink>
       <ClientOnly>
         <template v-if="auth.isLoggedIn">
-          <NuxtLink to="/profile" class="nav-link">{{ $t('nav.profile') || 'Profile' }}</NuxtLink>
-          <NuxtLink to="/chat" class="nav-link nav-cta">{{ $t('nav.freeReading') }}</NuxtLink>
+          <NuxtLink :to="$localePath('/profile')" class="nav-link">{{ $t('nav.profile') || 'Profile' }}</NuxtLink>
+          <NuxtLink :to="$localePath('/chat')" class="nav-link nav-cta">{{ $t('nav.freeReading') }}</NuxtLink>
         </template>
         <template v-else>
-          <NuxtLink to="/chat" class="nav-link nav-cta">{{ $t('nav.freeReading') }}</NuxtLink>
+          <NuxtLink :to="$localePath('/chat')" class="nav-link nav-cta">{{ $t('nav.freeReading') }}</NuxtLink>
         </template>
         <template #fallback>
-          <NuxtLink to="/chat" class="nav-link nav-cta">{{ $t('nav.freeReading') }}</NuxtLink>
+          <NuxtLink :to="$localePath('/chat')" class="nav-link nav-cta">{{ $t('nav.freeReading') }}</NuxtLink>
         </template>
       </ClientOnly>
     </nav>

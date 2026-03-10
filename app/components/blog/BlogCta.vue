@@ -3,7 +3,7 @@
     <div class="blog-cta-icon">&#x1F52E;</div>
     <h3 class="blog-cta-title">{{ title || 'Get Your Free Tarot Reading' }}</h3>
     <p class="blog-cta-text">{{ text || 'Discover what the cards have in store for you. Our AI-powered tarot reader provides personalized insights about your past, present, and future.' }}</p>
-    <NuxtLink to="/chat" class="blog-cta-button">
+    <NuxtLink :to="$localePath('/chat')" class="blog-cta-button">
       {{ buttonText || 'Start Free Reading' }}
     </NuxtLink>
   </div>

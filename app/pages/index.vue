@@ -119,7 +119,7 @@ const { data: latestPosts } = await useAsyncData('latest-posts', () =>
         <div class="hero">
           <h1 class="hero-headline">{{ t('landing.title') }}<br><span class="hero-headline-sub">{{ t('landing.titleLine2') }}</span></h1>
           <p class="hero-subtitle">{{ t('landing.subtitle') }}</p>
-          <NuxtLink to="/chat" class="try-button">
+          <NuxtLink :to="$localePath('/chat')" class="try-button">
             {{ t('landing.tryFreeReading') }}
           </NuxtLink>
           <p class="hero-microcopy">{{ t('landing.tryNote') }}</p>
@@ -172,7 +172,7 @@ const { data: latestPosts } = await useAsyncData('latest-posts', () =>
                 <li>{{ t('landing.offers.seekerFeature3') }}</li>
               </ul>
             </div>
-            <NuxtLink to="/checkout" class="offer-card-link">
+            <NuxtLink :to="$localePath('/checkout')" class="offer-card-link">
               <div class="offer-card premium">
                 <div class="offer-badge">{{ t('landing.offers.specialOffer') }}</div>
                 <div class="offer-icon">&#x1F52E;</div>
@@ -185,7 +185,7 @@ const { data: latestPosts } = await useAsyncData('latest-posts', () =>
                 </ul>
               </div>
             </NuxtLink>
-            <NuxtLink to="/checkout" class="offer-card-link">
+            <NuxtLink :to="$localePath('/checkout')" class="offer-card-link">
               <div class="offer-card">
                 <div class="offer-icon">&#x2B50;</div>
                 <h3>{{ t('landing.offers.monthly') }}</h3>
@@ -221,7 +221,7 @@ const { data: latestPosts } = await useAsyncData('latest-posts', () =>
             />
           </div>
           <div class="blog-preview-link">
-            <NuxtLink to="/blog">View all articles &rarr;</NuxtLink>
+            <NuxtLink :to="$localePath('/blog')">View all articles &rarr;</NuxtLink>
           </div>
         </section>
       </section>
@@ -252,7 +252,7 @@ const { data: latestPosts } = await useAsyncData('latest-posts', () =>
           </div>
           <div class="form-group terms">
             <input type="checkbox" id="terms" v-model="acceptedTerms">
-            <label for="terms">{{ t('landing.signup.acceptTerms') }} <NuxtLink to="/terms" target="_blank">{{ t('landing.signup.termsLink') }}</NuxtLink>.</label>
+            <label for="terms">{{ t('landing.signup.acceptTerms') }} <NuxtLink :to="$localePath('/terms')" target="_blank">{{ t('landing.signup.termsLink') }}</NuxtLink>.</label>
           </div>
           <button type="submit" class="main-cta-button" :disabled="!acceptedTerms">{{ t('landing.signup.finishRegistration') }}</button>
         </form>
