@@ -1,5 +1,7 @@
 import { defineStore } from 'pinia'
-import { smartWarmup, updateServerActivity } from '~/utils/serverWarmup'
+import { smartWarmup } from '~/utils/serverWarmup'
+
+type AuthClient = ReturnType<typeof import('better-auth/vue')['createAuthClient']>
 
 export const useAuthStore = defineStore('auth', () => {
   const user = ref<any>(null)
@@ -10,34 +12,20 @@ export const useAuthStore = defineStore('auth', () => {
   const warmupMessage = ref('')
   const profileLanguage = ref<string | null>(null)
 
-  // Reading permissions state
   const readingPermissions = ref<any>(null)
   const anonymousSessionId = ref<string | null>(null)
 
-  // Referral system
   const pendingReferralCode = ref<string | null>(
-    import.meta.client ? localStorage.getItem('pendingReferralCode') : null
+    import.meta.client ? localStorage.getItem('pendingReferralCode') : null,
   )
 
-  // Computed properties
   const isLoggedIn = computed(() => !!user.value)
   const isFullyRegistered = computed(() => isLoggedIn.value && !needsRegistration.value)
-
-  const canReadToday = computed(() => {
-    if (!readingPermissions.value) return true
-    return readingPermissions.value.can_read_today
-  })
-
-  const canSeeFuture = computed(() => {
-    if (!readingPermissions.value) return false
-    return readingPermissions.value.can_see_future || readingPermissions.value.is_premium
-  })
-
-  const freeFuturesRemaining = computed(() => {
-    if (!readingPermissions.value) return 0
-    return readingPermissions.value.free_futures_remaining || 0
-  })
-
+  const canReadToday = computed(() => readingPermissions.value?.can_read_today ?? true)
+  const canSeeFuture = computed(
+    () => readingPermissions.value?.can_see_future || readingPermissions.value?.is_premium || false,
+  )
+  const freeFuturesRemaining = computed(() => readingPermissions.value?.free_futures_remaining || 0)
   const isAnonymousUser = computed(() => !user.value)
 
   const isSubscriptionActive = computed(() => {
@@ -46,109 +34,66 @@ export const useAuthStore = defineStore('auth', () => {
     const endDate = new Date(userSubscription.value.subscription_end_date)
     return userSubscription.value.has_active_subscription && endDate > now
   })
-
   const isPremiumUser = computed(() => isSubscriptionActive.value)
+  const canAskQuestion = computed(() => userSubscription.value?.can_ask_question || false)
+  const questionsRemaining = computed(() => userSubscription.value?.questions_remaining || 0)
+  const currentPlan = computed(() => userSubscription.value?.plan_name || 'Gratuito')
 
-  const canAskQuestion = computed(() => {
-    return userSubscription.value?.can_ask_question || false
-  })
-
-  const questionsRemaining = computed(() => {
-    return userSubscription.value?.questions_remaining || 0
-  })
-
-  const currentPlan = computed(() => {
-    return userSubscription.value?.plan_name || 'Gratuito'
-  })
-
-  // Helper to get Supabase client (client-only)
-  const getSupabase = () => {
+  const getAuthClient = (): AuthClient | null => {
     if (!import.meta.client) return null
-    const { $supabase } = useNuxtApp()
-    return $supabase as any
+    const { $auth } = useNuxtApp()
+    return $auth as AuthClient
   }
 
-  // Helper to get API URL
-  const getApiUrl = () => {
-    const config = useRuntimeConfig()
-    return config.public.apiUrl as string
-  }
+  const getApiUrl = () => useRuntimeConfig().public.apiUrl as string
 
-  // Clear Supabase auth keys from localStorage
-  const clearSupabaseAuthData = () => {
-    if (!import.meta.client) return
-    const keysToRemove: string[] = []
-    for (let i = 0; i < localStorage.length; i++) {
-      const key = localStorage.key(i)
-      if (key && key.startsWith('supabase.auth')) {
-        keysToRemove.push(key)
-      }
+  /** Refresh user state from the current Better Auth session. */
+  const refreshSession = async () => {
+    const client = getAuthClient()
+    if (!client) return null
+    try {
+      const { data } = await client.getSession()
+      user.value = data?.user ?? null
+      return data?.session ?? null
+    } catch (err) {
+      console.error('Error refreshing session:', err)
+      user.value = null
+      return null
     }
-    keysToRemove.forEach(key => localStorage.removeItem(key))
   }
 
-  // Initialize auth state
   const initAuth = async () => {
     if (!import.meta.client) return
     if (isInitialized.value) return
 
     captureReferralCode()
-
     loading.value = true
     try {
-      const supabase = getSupabase()
-      if (!supabase) return
-
-      const { data: { session }, error } = await supabase.auth.getSession()
-
-      if (error) {
-        console.error('❌ Error getting session:', error)
-        const isNetworkError = error.message?.includes('fetch') ||
-          error.message?.includes('network') ||
-          error.message?.includes('Failed to fetch') ||
-          error.status === 0
-
-        if (isNetworkError) {
-          clearSupabaseAuthData()
-        } else {
-          try { await supabase.auth.signOut() } catch {}
-        }
-      }
-
-      user.value = session?.user || null
-
-      if (session?.user) {
-        await checkUserProfile(session.user)
+      const session = await refreshSession()
+      if (session && user.value) {
+        await checkUserProfile(user.value)
         await loadUserSubscription()
-        await loadReadingPermissions()
-      } else {
-        await loadReadingPermissions()
       }
-
-      isInitialized.value = true
-    } catch (error: any) {
+      await loadReadingPermissions()
+    } catch (error) {
       console.error('❌ Error during auth initialization:', error)
-      if (error.message?.includes('fetch') || error.message?.includes('Failed to fetch')) {
-        clearSupabaseAuthData()
-      }
-      isInitialized.value = true
     } finally {
+      isInitialized.value = true
       loading.value = false
     }
   }
 
-  // Show warmup messages
   const showWarmupMessage = (message: string) => {
     warmupMessage.value = message
     setTimeout(() => { warmupMessage.value = '' }, 3000)
   }
 
-  // Perform server warmup
   const performWarmup = async () => {
     if (!import.meta.client) return
     try {
       const result = await smartWarmup(getApiUrl(), showWarmupMessage)
-      if (result.success && !result.skipped) {
+      const skipped = 'skipped' in result && result.skipped
+      if (result.success && !skipped) {
         console.log(`🔥 Servidor despierto (${result.latency}ms)`)
       }
     } catch (error) {
@@ -156,92 +101,52 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Listen for auth changes
+  /**
+   * Better Auth does not expose an OAuth-style event stream; we just poll the
+   * session reactively when the user returns from an OAuth callback. The
+   * easiest hook is the OAuth `?callbackURL` redirect: we re-init.
+   */
   const setupAuthListener = () => {
     if (!import.meta.client) return
-
-    const supabase = getSupabase()
-    if (!supabase) return
-
-    supabase.auth.onAuthStateChange(async (event: string, session: any) => {
-      console.log('🔔 Auth state change:', event, !!session?.user)
-      user.value = session?.user || null
-
-      if (event === 'TOKEN_REFRESHED' && !session) {
-        clearSupabaseAuthData()
-        return
-      }
-
-      if (event === 'SIGNED_IN' && session?.user) {
-        registerReferral(session.user.id)
-
-        Promise.all([
-          checkUserProfile(session.user),
-          loadUserSubscription(),
-          loadReadingPermissions(),
-        ]).then(() => {
-          console.log('✅ Profile check complete. needsRegistration:', needsRegistration.value)
-          // Sync profile language to i18n after sign-in
-          if (profileLanguage.value) {
-            try {
-              const i18n = useNuxtApp().$i18n as any
-              if (i18n && i18n.locale.value !== profileLanguage.value) {
-                i18n.setLocale(profileLanguage.value)
-              }
-            } catch {}
-          }
-        }).catch((error) => {
-          console.error('⚠️ Profile loading failed:', error)
-          needsRegistration.value = false
-        })
-      }
-
-      if (!isInitialized.value) {
-        isInitialized.value = true
-      }
-    })
+    // After OAuth, the browser returns to the configured callbackURL with
+    // the session cookie set. Re-init to pick it up.
+    window.addEventListener('focus', () => { refreshSession() })
   }
 
-  // Check if user needs to complete profile
+  /** Fetch the user profile from the backend and decide whether registration is incomplete. */
   const checkUserProfile = async (userObj: any) => {
-    const supabase = getSupabase()
-    if (!supabase) return
-
+    if (!userObj) return
     try {
-      const { data: profile, error } = await supabase
-        .from('profiles')
-        .select('*')
-        .eq('id', userObj.id)
-        .maybeSingle()
-
-      if (error) {
-        console.error('❌ Error checking user profile:', error)
+      const response = await fetch(`${getApiUrl()}/api/user/profile`, { credentials: 'include' })
+      if (response.status === 404) {
+        needsRegistration.value = true
+        return
+      }
+      if (!response.ok) {
         needsRegistration.value = false
         return
       }
-
+      const profile = await response.json()
       needsRegistration.value = !profile
-      if (profile?.language) {
-        profileLanguage.value = profile.language
-      }
+      if (profile?.language) profileLanguage.value = profile.language
     } catch (error) {
       console.error('❌ Exception checking user profile:', error)
       needsRegistration.value = false
     }
   }
 
-  // Login with Google
+  const oauthRedirect = (customRedirectTo: string | null) =>
+    customRedirectTo || (import.meta.client ? window.location.origin : '/')
+
   const loginWithGoogle = async (customRedirectTo: string | null = null) => {
     if (!import.meta.client) return { data: null, error: new Error('SSR') }
-
-    const supabase = getSupabase()
-    if (!supabase) return { data: null, error: new Error('Supabase not available') }
-
+    const client = getAuthClient()
+    if (!client) return { data: null, error: new Error('Auth client not available') }
     loading.value = true
     try {
-      const { data, error } = await supabase.auth.signInWithOAuth({
+      const { data, error } = await client.signIn.social({
         provider: 'google',
-        options: { redirectTo: customRedirectTo || window.location.origin },
+        callbackURL: oauthRedirect(customRedirectTo),
       })
       if (error) throw error
       return { data, error: null }
@@ -253,18 +158,15 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Login with Facebook
   const loginWithFacebook = async (customRedirectTo: string | null = null) => {
     if (!import.meta.client) return { data: null, error: new Error('SSR') }
-
-    const supabase = getSupabase()
-    if (!supabase) return { data: null, error: new Error('Supabase not available') }
-
+    const client = getAuthClient()
+    if (!client) return { data: null, error: new Error('Auth client not available') }
     loading.value = true
     try {
-      const { data, error } = await supabase.auth.signInWithOAuth({
+      const { data, error } = await client.signIn.social({
         provider: 'facebook',
-        options: { redirectTo: customRedirectTo || window.location.origin },
+        callbackURL: oauthRedirect(customRedirectTo),
       })
       if (error) throw error
       return { data, error: null }
@@ -276,15 +178,22 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Login with email/password
   const loginWithEmail = async (email: string, password: string) => {
-    const supabase = getSupabase()
-    if (!supabase) return { data: null, error: new Error('Supabase not available') }
-
+    const client = getAuthClient()
+    if (!client) return { data: null, error: new Error('Auth client not available') }
     loading.value = true
     try {
-      const { data, error } = await supabase.auth.signInWithPassword({ email, password })
+      const { data, error } = await client.signIn.email({ email, password })
       if (error) throw error
+      await refreshSession()
+      if (user.value) {
+        await Promise.all([
+          registerReferral(user.value.id),
+          checkUserProfile(user.value),
+          loadUserSubscription(),
+          loadReadingPermissions(),
+        ])
+      }
       return { data, error: null }
     } catch (error) {
       console.error('Error logging in with email:', error)
@@ -294,15 +203,21 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Sign up with email/password
-  const signUpWithEmail = async (email: string, password: string) => {
-    const supabase = getSupabase()
-    if (!supabase) return { data: null, error: new Error('Supabase not available') }
-
+  const signUpWithEmail = async (email: string, password: string, name?: string) => {
+    const client = getAuthClient()
+    if (!client) return { data: null, error: new Error('Auth client not available') }
     loading.value = true
     try {
-      const { data, error } = await supabase.auth.signUp({ email, password })
+      const { data, error } = await client.signUp.email({
+        email,
+        password,
+        name: name || email.split('@')[0] || email,
+      })
       if (error) throw error
+      await refreshSession()
+      if (user.value) {
+        await registerReferral(user.value.id)
+      }
       return { data, error: null }
     } catch (error) {
       console.error('Error signing up with email:', error)
@@ -312,7 +227,6 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Complete user registration
   const completeRegistration = async (profileData: {
     name: string
     gender: string
@@ -320,26 +234,25 @@ export const useAuthStore = defineStore('auth', () => {
     timezone?: string
     language?: string
   }) => {
-    const supabase = getSupabase()
-    if (!supabase || !user.value) return { data: null, error: new Error('Not available') }
-
+    if (!user.value) return { data: null, error: new Error('Not authenticated') }
     loading.value = true
     try {
-      const { data, error } = await supabase
-        .from('profiles')
-        .insert([{
-          id: user.value.id,
-          email: user.value.email,
+      const response = await fetch(`${getApiUrl()}/api/user/profile`, {
+        method: 'POST',
+        credentials: 'include',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
           name: profileData.name,
           gender: profileData.gender,
           date_of_birth: profileData.dateOfBirth,
           timezone: profileData.timezone || 'America/Mexico_City',
           language: profileData.language || 'es',
-          created_at: new Date().toISOString(),
-        }])
-
-      if (error) throw error
+        }),
+      })
+      if (!response.ok) throw new Error(await response.text())
+      const data = await response.json()
       needsRegistration.value = false
+      profileLanguage.value = profileData.language || 'es'
       return { data, error: null }
     } catch (error) {
       console.error('Error completing registration:', error)
@@ -349,7 +262,6 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Update user profile
   const updateProfile = async (profileData: {
     name?: string
     gender?: string
@@ -357,23 +269,24 @@ export const useAuthStore = defineStore('auth', () => {
     timezone?: string
     language?: string
   }) => {
-    const supabase = getSupabase()
-    if (!supabase || !user.value) return { data: null, error: new Error('Not available') }
-
+    if (!user.value) return { data: null, error: new Error('Not authenticated') }
     loading.value = true
     try {
-      const { data, error } = await supabase
-        .from('profiles')
-        .update({
+      const response = await fetch(`${getApiUrl()}/api/user/profile`, {
+        method: 'PATCH',
+        credentials: 'include',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
           name: profileData.name,
           gender: profileData.gender,
           date_of_birth: profileData.dateOfBirth,
           timezone: profileData.timezone,
           language: profileData.language,
-        })
-        .eq('id', user.value.id)
-
-      if (error) throw error
+        }),
+      })
+      if (!response.ok) throw new Error(await response.text())
+      const data = await response.json()
+      if (profileData.language) profileLanguage.value = profileData.language
       return { data, error: null }
     } catch (error) {
       console.error('Error updating profile:', error)
@@ -383,11 +296,9 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Generate or retrieve anonymous session ID
   const getAnonymousSessionId = () => {
     if (!import.meta.client) return 'anon_ssr'
     if (anonymousSessionId.value) return anonymousSessionId.value
-
     let sessionId = localStorage.getItem('bottarot_anonymous_session')
     if (!sessionId) {
       sessionId = 'anon_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9)
@@ -397,10 +308,8 @@ export const useAuthStore = defineStore('auth', () => {
     return sessionId
   }
 
-  // Capture referral code from URL (?ref=CODE)
   const captureReferralCode = () => {
     if (!import.meta.client) return
-
     const urlParams = new URLSearchParams(window.location.search)
     const refCode = urlParams.get('ref')
     if (refCode) {
@@ -412,23 +321,17 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Register referral with backend
   const registerReferral = async (userId: string) => {
     if (!pendingReferralCode.value || !userId) return
-
-    const apiUrl = getApiUrl()
     try {
-      const response = await fetch(`${apiUrl}/api/referral/register`, {
+      const response = await fetch(`${getApiUrl()}/api/referral/register`, {
         method: 'POST',
+        credentials: 'include',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ userId, referralCode: pendingReferralCode.value }),
       })
-
       const data = await response.json()
-      if (data.success) {
-        console.log('✅ Referral registered successfully')
-      }
-
+      if (data.success) console.log('✅ Referral registered')
       pendingReferralCode.value = null
       if (import.meta.client) localStorage.removeItem('pendingReferralCode')
     } catch (error) {
@@ -436,21 +339,16 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Load user reading permissions
   const loadReadingPermissions = async () => {
-    const apiUrl = getApiUrl()
     const userId = user.value?.id || 'anonymous'
-
     try {
       const controller = new AbortController()
       const timeoutId = setTimeout(() => controller.abort(), 5000)
-
-      const response = await fetch(`${apiUrl}/api/user/reading-permissions/${userId}`, {
+      const response = await fetch(`${getApiUrl()}/api/user/reading-permissions/${userId}`, {
         signal: controller.signal,
+        credentials: 'include',
       })
-
       clearTimeout(timeoutId)
-
       if (response.ok) {
         readingPermissions.value = await response.json()
       } else {
@@ -464,7 +362,7 @@ export const useAuthStore = defineStore('auth', () => {
           plan_name: user.value ? 'Gratuito' : 'Anónimo',
         }
       }
-    } catch (error: any) {
+    } catch {
       readingPermissions.value = {
         is_premium: false,
         can_read_today: true,
@@ -477,57 +375,47 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Record a reading
   const recordReading = async (revealedFuture = false) => {
     if (!user.value?.id) return
-
-    const apiUrl = getApiUrl()
     try {
-      const response = await fetch(`${apiUrl}/api/user/record-reading`, {
+      const response = await fetch(`${getApiUrl()}/api/user/record-reading`, {
         method: 'POST',
+        credentials: 'include',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ userId: user.value.id, revealedFuture }),
       })
-
-      if (response.ok) {
-        await loadReadingPermissions()
-      }
+      if (response.ok) await loadReadingPermissions()
     } catch (error) {
       console.error('❌ Error recording reading:', error)
     }
   }
 
-  // Load user subscription
   const loadUserSubscription = async () => {
     if (!user.value?.id) return
-
-    const apiUrl = getApiUrl()
     try {
       const controller = new AbortController()
       const timeoutId = setTimeout(() => controller.abort(), 5000)
-
-      const response = await fetch(`${apiUrl}/api/user/subscription/${user.value.id}`, {
+      const response = await fetch(`${getApiUrl()}/api/user/subscription/${user.value.id}`, {
         signal: controller.signal,
+        credentials: 'include',
       })
-
       clearTimeout(timeoutId)
-
       if (response.ok) {
         userSubscription.value = await response.json()
       } else {
         userSubscription.value = { plan_name: 'Gratuito', has_active_subscription: false }
       }
-    } catch (error: any) {
+    } catch {
       userSubscription.value = { plan_name: 'Gratuito', has_active_subscription: false }
     }
   }
 
-  // Check if user can ask a question
   const checkCanAskQuestion = async () => {
     if (!user.value?.id) return false
-    const apiUrl = getApiUrl()
     try {
-      const response = await fetch(`${apiUrl}/api/user/can-ask/${user.value.id}`)
+      const response = await fetch(`${getApiUrl()}/api/user/can-ask/${user.value.id}`, {
+        credentials: 'include',
+      })
       if (response.ok) {
         const data = await response.json()
         return data.canAsk
@@ -538,13 +426,17 @@ export const useAuthStore = defineStore('auth', () => {
     return false
   }
 
-  // Record a user question
-  const recordQuestion = async (question: string, response: string, cards: any[] = [], isPremium = false) => {
+  const recordQuestion = async (
+    question: string,
+    response: string,
+    cards: any[] = [],
+    isPremium = false,
+  ) => {
     if (!user.value?.id) return
-    const apiUrl = getApiUrl()
     try {
-      await fetch(`${apiUrl}/api/user/question`, {
+      await fetch(`${getApiUrl()}/api/user/question`, {
         method: 'POST',
+        credentials: 'include',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ userId: user.value.id, question, response, cards, isPremium }),
       })
@@ -554,15 +446,12 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  // Logout
   const logout = async () => {
-    const supabase = getSupabase()
-    if (!supabase) return
-
+    const client = getAuthClient()
+    if (!client) return
     loading.value = true
     try {
-      const { error } = await supabase.auth.signOut()
-      if (error) throw error
+      await client.signOut()
       user.value = null
       needsRegistration.value = false
       userSubscription.value = null
@@ -582,21 +471,18 @@ export const useAuthStore = defineStore('auth', () => {
     loading,
     isInitialized,
     warmupMessage,
-    // Subscription
     userSubscription,
     isSubscriptionActive,
     isPremiumUser,
     canAskQuestion,
     questionsRemaining,
     currentPlan,
-    // Reading permissions
     readingPermissions,
     canReadToday,
     canSeeFuture,
     freeFuturesRemaining,
     isAnonymousUser,
     anonymousSessionId,
-    // Auth functions
     initAuth,
     setupAuthListener,
     loginWithGoogle,
@@ -606,20 +492,15 @@ export const useAuthStore = defineStore('auth', () => {
     completeRegistration,
     updateProfile,
     logout,
-    // Subscription functions
     loadUserSubscription,
     checkCanAskQuestion,
     recordQuestion,
-    // Reading permissions functions
     loadReadingPermissions,
     recordReading,
     getAnonymousSessionId,
-    // Language
     profileLanguage,
-    // Warmup
     performWarmup,
     showWarmupMessage,
-    // Referral
     captureReferralCode,
     registerReferral,
     pendingReferralCode,

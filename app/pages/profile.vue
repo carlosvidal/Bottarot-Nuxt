@@ -97,16 +97,14 @@ const loadUserProfile = async () => {
     }
 
     console.log('Profile: Loading user profile for:', auth.user.id)
-    const { $supabase } = useNuxtApp()
+    const config = useRuntimeConfig()
     try {
-        const { data: profile, error } = await $supabase
-            .from('profiles')
-            .select('*')
-            .eq('id', auth.user.id)
-            .maybeSingle()
-
-        if (error) {
-            console.error('Error fetching profile:', error)
+        const res = await fetch(`${config.public.apiUrl}/api/user/profile`, {
+            credentials: 'include',
+        })
+        const profile = res.ok ? await res.json() : null
+        if (!res.ok && res.status !== 404) {
+            console.error('Error fetching profile:', res.status)
         }
 
         if (profile) {

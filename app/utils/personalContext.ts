@@ -1,36 +1,23 @@
 /**
- * Genera contexto personalizado para las interpretaciones de IA
- * Incluye información demográfica, temporal y fechas especiales
- *
- * Migrated from Vue 3 SPA to Nuxt 3:
- * - useAuthStore is auto-imported
- * - Supabase accessed via useNuxtApp().$supabase
- * - useAnalytics() is auto-imported
- * - All browser APIs guarded with import.meta.client for SSR safety
+ * Genera contexto personalizado para las interpretaciones de IA.
+ * Lee el perfil vía la API del backend (Better Auth session cookie).
  */
 
-// Obtener perfil del usuario
 const getUserProfile = async () => {
   const auth = useAuthStore()
-
-  if (!auth.user?.id) {
-    return null
-  }
+  if (!auth.user?.id) return null
 
   try {
-    const { $supabase } = useNuxtApp()
-    const { data: profile, error } = await ($supabase as any)
-      .from('profiles')
-      .select('*')
-      .eq('id', auth.user.id)
-      .maybeSingle()
-
-    if (error || !profile) {
-      console.warn('No se pudo obtener el perfil del usuario:', error)
+    const config = useRuntimeConfig()
+    const res = await fetch(`${config.public.apiUrl}/api/user/profile`, {
+      credentials: 'include',
+    })
+    if (res.status === 404) return null
+    if (!res.ok) {
+      console.warn('No se pudo obtener el perfil del usuario:', res.status)
       return null
     }
-
-    return profile
+    return await res.json()
   } catch (error) {
     console.error('Error obteniendo perfil:', error)
     return null

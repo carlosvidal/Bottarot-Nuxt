@@ -146,11 +146,10 @@ const loadChatHistory = async (chatId, options = {}) => {
     isLoadingHistory.value = true
     readings.value = []
 
-    const { $supabase } = useNuxtApp()
-
     try {
-        const { data, error } = await $supabase.rpc('get_chat_history', { p_chat_id: chatId })
-        if (error) throw error
+        const histRes = await fetch(`${API_URL}/api/chats/${chatId}/messages`, { credentials: 'include' })
+        if (!histRes.ok && histRes.status !== 404) throw new Error(`history fetch failed: ${histRes.status}`)
+        const data = histRes.ok ? (await histRes.json()).messages : []
 
         // Si no hay datos, el chat no existe o no pertenece al usuario
         // Verificar si hay un share publico para este chat
@@ -437,39 +436,42 @@ const handleCloseChat = async () => {
     }
 }
 
-const ensureChatExistsInDb = async (chatId, userId, initialQuestion) => {
-    const { $supabase } = useNuxtApp()
+const ensureChatExistsInDb = async (chatId, _userId, initialQuestion) => {
     try {
-        const { count, error: countError } = await $supabase.from('chats').select('id', { count: 'exact', head: true }).eq('id', chatId)
-        if (countError) {
-            console.error('DB Error checking chat exists:', countError)
-            return
-        }
-        if (count === 0) {
-            const { error: insertError } = await $supabase.from('chats').insert({ id: chatId, user_id: userId, title: initialQuestion.substring(0, 50) })
-            if (insertError) {
-                console.error('DB Error creating chat:', insertError)
-            } else {
-                console.log('Chat created in DB:', chatId)
-            }
+        const res = await fetch(`${API_URL}/api/chats`, {
+            method: 'POST',
+            credentials: 'include',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ chatId, title: initialQuestion.substring(0, 50) }),
+        })
+        if (!res.ok) {
+            const text = await res.text()
+            console.error('API Error creating chat:', res.status, text)
+        } else {
+            console.log('Chat ensured in DB:', chatId)
         }
     } catch (dbError) {
-        console.error('DB Error ensuring chat exists:', dbError)
+        console.error('API Error ensuring chat exists:', dbError)
         throw dbError
     }
 }
 
-const saveMessageToDb = async ({ chatId, userId, role, content, cards = null }) => {
-    const { $supabase } = useNuxtApp()
+const saveMessageToDb = async ({ chatId, userId: _userId, role, content, cards = null }) => {
     try {
-        const { error } = await $supabase.rpc('save_message', { p_chat_id: chatId, p_user_id: userId, p_role: role, p_content: content, p_cards: cards })
-        if (error) {
-            console.error('DB Error saving message:', error.message, error.details, error.hint)
+        const res = await fetch(`${API_URL}/api/chats/${chatId}/messages`, {
+            method: 'POST',
+            credentials: 'include',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ role, content, cards }),
+        })
+        if (!res.ok) {
+            const text = await res.text()
+            console.error('API Error saving message:', res.status, text)
         } else {
             console.log('Message saved:', role, chatId)
         }
     } catch (dbError) {
-        console.error('DB Error saving message (exception):', dbError)
+        console.error('API Error saving message (exception):', dbError)
     }
 }
 

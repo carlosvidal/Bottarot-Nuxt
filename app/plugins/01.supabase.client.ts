@@ -1,42 +1,27 @@
 /**
- * Supabase client-only plugin
+ * Better Auth client-only plugin.
  *
- * We intentionally DO NOT use @nuxtjs/supabase to preserve
- * the existing PKCE auth flow with localStorage.
- * This plugin runs only on the client.
+ * Replaces the previous Supabase client. Exposes the auth client at
+ * `useNuxtApp().$auth` so the auth store can call sign-in / sign-out
+ * / getSession against the backend Better Auth handler.
+ *
+ * The file is still named 01.supabase.client.ts for diff continuity;
+ * the export is just `$auth` now.
  */
-import { createClient } from '@supabase/supabase-js'
+import { createAuthClient } from 'better-auth/vue'
 
 export default defineNuxtPlugin(() => {
   const config = useRuntimeConfig()
+  const baseURL = (config.public.apiUrl as string) || 'http://localhost:3000'
 
-  const supabaseUrl = config.public.supabaseUrl as string
-  const supabaseAnonKey = config.public.supabaseAnonKey as string
-
-  if (!supabaseUrl || !supabaseAnonKey) {
-    console.warn('⚠️ Supabase configuration is missing. Check NUXT_PUBLIC_SUPABASE_URL and NUXT_PUBLIC_SUPABASE_ANON_KEY.')
-    // Provide null so the app doesn't crash on pages that don't need auth
-    return { provide: { supabase: null } }
-  }
-
-  const supabase = createClient(supabaseUrl, supabaseAnonKey, {
-    auth: {
-      storage: localStorage,
-      autoRefreshToken: true,
-      persistSession: true,
-      detectSessionInUrl: true,
-      flowType: 'pkce',
-    },
-    global: {
-      headers: {
-        'X-Client-Info': 'bottarot-nuxt',
-      },
-    },
+  const authClient = createAuthClient({
+    baseURL,
+    fetchOptions: { credentials: 'include' },
   })
 
   return {
     provide: {
-      supabase,
+      auth: authClient,
     },
   }
 })

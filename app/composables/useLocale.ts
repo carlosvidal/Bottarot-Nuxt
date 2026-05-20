@@ -1,38 +1,34 @@
 /**
- * useLocale composable for Nuxt
+ * useLocale composable for Nuxt.
  *
- * In Nuxt with @nuxtjs/i18n, most locale functionality is handled by the module:
- * - Browser language detection via `detectBrowserLanguage` config
- * - Locale persistence via cookie (`i18n_locale`)
- * - URL prefix management via `strategy: 'prefix_except_default'`
- *
- * This composable adds Supabase profile language sync on top.
+ * Persists the locale via @nuxtjs/i18n and (if signed in) pushes the change
+ * to the backend profile so it survives across devices.
  */
 
 const VALID_LANGS = ['es', 'en', 'it', 'pt', 'fr'] as const
 
 export function useLocale() {
   const { locale, setLocale } = useI18n()
+  const config = useRuntimeConfig()
 
   const changeLocale = async (newLocale: string) => {
     if (!VALID_LANGS.includes(newLocale as any)) return
 
-    await setLocale(newLocale)
+    await setLocale(newLocale as any)
 
-    // Sync with Supabase profile if user is logged in
     if (import.meta.client) {
       try {
         const auth = useAuthStore()
         if (auth.user) {
-          const { $supabase } = useNuxtApp()
-          const supabase = $supabase as any
-          await supabase
-            .from('profiles')
-            .update({ language: newLocale })
-            .eq('id', auth.user.id)
+          await fetch(`${config.public.apiUrl}/api/user/profile`, {
+            method: 'PATCH',
+            credentials: 'include',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ language: newLocale }),
+          })
         }
       } catch {
-        // Silently fail - language is still changed locally
+        // Silently fail — locale is already changed locally.
       }
     }
   }
